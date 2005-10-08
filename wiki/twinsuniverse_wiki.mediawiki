@@ -8,7 +8,7 @@ Welcome!
 This is the new edition of the Encyclopedia Twinsunica ([http://www.cs.vu.nl/~bkarel/lba/ old version]), this time powered by [http://www.mediawiki.org MediaWiki] for tremendous flexibility. It's better on nearly all points than my own script.
 
 
-There's a lot of work to be done, mainly copy/pasting existing current articles into this new engine for now. But feel free to fine-tune existing articles as well! The powerful MediaWiki engine allows for a lot of people to work simultaneously, you can do whatever you want whenever you want, without the help of administrators.
+There's a lot of work to be done, mainly copy/pasting existing current articles into this new engine for now. But feel free to fine-tune existing articles as well! The powerful MediaWiki engine allows for a lot of people to work simultaneously, you can do whatever you want whenever you want, without the help of administrators. First of all, it's convenient if you'd sign up / log in: [[Special:Userlogin]]
 
 
 Please consult the [[Index]] to check out what's still to be written.<br>
