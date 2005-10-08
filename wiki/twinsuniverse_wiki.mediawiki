@@ -2,6 +2,12 @@
 title: Twinsuniverse Wiki
 ---
 
+Welcome! Please consult the [[Index]].
+
+
+
+
+
 Wiki software successfully installed.
 
 Please see [http://meta.wikipedia.org/wiki/MediaWiki_i18n documentation on customizing the interface]
