@@ -2,13 +2,26 @@
 title: Twinsuniverse Wiki
 ---
 
-Welcome! Please consult the [[Index]].
+Welcome!
 
 
+This is the new edition of the Encyclopedia Twinsunica ([http://www.cs.vu.nl/~bkarel/lba/ old version]), this time powered by [http://www.mediawiki.org MediaWiki] for tremendous flexibility. It's better on nearly all points than my own script.
 
 
+There's a lot of work to be done, mainly copy/pasting existing current articles into this new engine for now. But feel free to fine-tune existing articles as well! The powerful MediaWiki engine allows for a lot of people to work simultaneously, you can do whatever you want whenever you want, without the help of administrators.
 
-Wiki software successfully installed.
 
-Please see [http://meta.wikipedia.org/wiki/MediaWiki_i18n documentation on customizing the interface]
-and the [http://meta.wikipedia.org/wiki/MediaWiki_User%27s_Guide User's Guide] for usage and configuration help.
+Please consult the [[Index]] to check out what's still to be written.<br>
+And check out the [[Special:Imagelist]] for a list of images you can insert into articles.
+
+
+The layout is still the default one. I will make a custom one to accomodate the LBA/Twinsunica feeling more ;-)
+
+
+Read the [http://meta.wikimedia.org/wiki/Help:Contents MediaWiki Users Guide] for help about this system. It's fairly easy, but you should get accustomed to using the layout tags in the editing field. You can always take a sneak peak in any [http://www.wikipedia.org Wikipedia] page to see how they did certain things.
+
+
+Try to work clean!
+
+
+''~wacko''
