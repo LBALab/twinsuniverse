@@ -1,0 +1,41 @@
+---
+title: Miss Bloop
+---
+
+{{Character|
+Name=Miss Bloop|
+Image=GBBLOOP.jpg|
+Race=[[Grobo]]|
+Gender=Female|
+Size=Medium|
+Age=Adult}}
+
+==Quotes==
+{{Quote|
+Quote=Excuse him, he is a nice Grobo. You know, he only gives himself airs.|
+Character=Miss Bloop}}
+{{Quote|
+Quote=You showed up at the right time. The door at the top of the stairs is jammed. We need to find a way to go upstairs to release it and free the bell which protects your tunic.|
+Character=Miss Bloop}}
+{{Quote|
+Quote=What? The lighthouse keeper? Ah, no! No, no I didn't see him!|
+Character=Miss Bloop}}
+{{Quote|
+Quote=Thank you for releasing the door, Twinsen. Use your tunic with wisdom.|
+Character=Miss Bloop}}
+{{Quote|
+Quote=By the way, don't forget that the trajectory of your magic ball changes with your behavior!|
+Character=Miss Bloop}}
+
+==Description==
+As a gratitude to the hero of the planet, Bloop (usually referred to as Miss Bloop) opened a [[Miss Bloop's Private Museum|museum]] dedicated to [[Twinsen]]. There, one can find items realted to Twinsen's first adventure.
+It seems like this nice grobo dedicates herself to the museum, spending a great deal of time there.
+
+==Role in Twinsen's adventure==
+Miss Bloop got Twinsen's [[Ancestral tunic]] and [[Sendell's medallion]], after he defeated [[FunFrock]], for her museum. Twinsen later gets them back from her after he helped her open the doors to a chamber in the museum.
+
+[[Category:Grobos]]
+[[Category:Female characters]]
+[[Category:Medium characters]]
+[[Category:Adult characters]]
+[[Category:Citadel Island inhabitants]]
