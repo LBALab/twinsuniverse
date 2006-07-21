@@ -1,0 +1,34 @@
+---
+title: Carlo (Port-Ludo)
+---
+
+{{Character|
+Name=Carlo|
+Image=Bowler.gif|
+Race=[[Quetch]]|
+Gender=Male|
+Size=Medium|
+Age=Adult}}
+
+==Quotes==
+{{Quote|
+Quote=Everybody talks about these guys from outer space, they say they landed on several islands. But that should not interrupt our game.|
+Character=Carlo}}
+{{Quote|
+Quote=I've noticed I keep losing since you helped my little friend over there. Nice move Sherlock!|
+Character=Carlo}}
+{{Quote|
+Quote=I don't know. But it has been a while back since I last saw Ker'aooc the healer.|
+Character=Carlo}}
+
+==Description==
+Carlo is an old Quetch who likes to play bowling along with his friend, [[Anatole]]. He lives on [[Desert Island]].
+
+==Role in Twinsen's adventure==
+Carlo did not help [[Twinsen]] with anything, but it was nice for the [[quetch]] to bother him by walking on their playground or by healing Anatole.
+
+[[Category:Quetches]]
+[[Category:Male characters]]
+[[Category:Medium characters]]
+[[Category:Adult characters]]
+[[Category:Desert Island inhabitants]]
