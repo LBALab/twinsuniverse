@@ -1,0 +1,34 @@
+---
+title: Adelaïde
+---
+
+{{Character|
+Name=Adelaïde|
+Image=DVADELAI.JPG|
+Race=Unknown|
+Gender=Male|
+Size=Small|
+Age=Adult}}
+
+==Quotes==
+{{Quote|
+Quote=This is a well organized planet: soldiers everywhere, law and order, discipline, clean treets.|
+Character=Adelaïde}}
+{{Quote|
+Quote=I shouldn't never have watched that commercial for Zeelich, it's so fake. The changing of the guard was lousy, we never even got to see the emperor, and that casino, it's a tourist clip-joint..."Have trust in our friendship..." Hah! Who are they trying to kidding!|
+Character=Adelaïde}}
+{{Quote|
+Quote=I hope my shuttle will be here soon, I can't wait to get back home.|
+Character=Adelaïde}}
+
+==Description==
+
+Adelaïde is a tourist on [[Zeelich]] from an unknown planet. He looks a little like an ant.
+
+==Role in Twinsen's Adventure==
+Adelaïde just walked around for his vacation on Zeelich. Also he realized very soon that the Zeelichians are worth less than they say, and therefore could warn [[Twinsen]] about the [[casino]].
+
+[[Category:Character of unknown race|Unknown]]
+[[Category:Male characters]]
+[[Category:Small characters]]
+[[Category:Adult characters]]
