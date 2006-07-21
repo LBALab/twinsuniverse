@@ -1,0 +1,31 @@
+---
+title: Bruce
+---
+
+{{Character|
+Name=Bruce|
+Image=BBBRUCE.jpg|
+Race=[[Sphero]]|
+Gender=Male|
+Size=Small|
+Age=Adult}}
+
+==Quotes==
+{{Quote|
+Quote=I enjoy wandering in the desert. Once, in the Temple of Bù, I found lots of little treasures.|
+Character=Bruce}}
+
+==Description==
+Bruce resides in a tent near the shore in an uninhabited area of the [[White Leaf Desert]]. He seems to like nothing but playing his guitar the whole day.
+
+==Role in Twinsen's adventure==
+Like most characters, Bruce had no role in [[Twinsen]]'s adventure, except absent mindedly giving clues. In this case, he told Twinsen that there are still some treasures buried in the [[Temple of Bù]].
+
+==Trivia==
+Once the [[Esmers]] invaded the planet, Bruce has disappeared, and was never seen neither heard from again.
+
+[[Category:Spheroes]]
+[[Category:Male characters]]
+[[Category:Small characters]]
+[[Category:Adult characters]]
+[[Category:Desert Island inhabitants]]
