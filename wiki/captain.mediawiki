@@ -25,7 +25,7 @@ Quote=If you want, mate, you can climb aboard my Leontine and I'll take you to s
 Character=Captain}}
 {{Quote|
 Quote=Hmmm...Nobody wants to go there these days, it's way to risky. They say monsters have come out of the gas over there. Try the Captain, he's the old nut at the very end of the pier. He's the only one who'd take you!|
-Character=[[Wannie]] in [[Rick's Café]]
+Character=[[Wannie]] in [[Rick's Café]]}}
 
 ==Description==
 The Captain is a nameless Franco whose job is to bring people to different islands for the price of 10 [[Zlitos]]. He calls his "boat" Leontine.
