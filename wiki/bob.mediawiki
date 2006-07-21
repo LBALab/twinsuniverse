@@ -1,0 +1,40 @@
+---
+title: Bob
+---
+
+<small>This article is about the grobo. For the astronomer sphero, see [[Bob Vortix]]</small>
+
+{{Character|
+Name=Bob|
+Image=Bob.gif|
+Race=[[Grobo]]|
+Gender=Male|
+Size=Medium|
+Age=Adult}}
+
+==Quotes==
+{{Quote|
+Quote=Nice to see you, Twinsen! this storm really chaps my hide. I just can't calm down...And you, don't forget that you can change your behavior.|
+Character=Bob}}
+{{Quote|
+Quote=Ah, he's disappeared?! Oh, well, I never really liked him! May the Tralü take him away!!|
+Character=Bob}}
+{{Quote|
+Quote=So Twinsen, this li'l monster, coming soon?|
+Character=Bob}}
+{{Quote|
+Quote=What's up with these Esmers? Couldn't they have stayed home?|
+Character=Bob}}
+
+==Description==
+Bob is one of the most unfriendly grobos living in [[Citadel Island]]. He likes patrolling the western part of [[Lupin-Burg]], usually for no visible reason.
+Bob has a little brother, studying at the [[school]] of Citadel Island.
+
+==Role in Twinsen's adventure==
+Like most characters, Bob's only role in [[Twinsen]]'s adventure was to give hints. In his case, it was a hint about what happend to [[Raph]], the [[lighthouse]] keeper.
+
+[[Category:Grobos]]
+[[Category:Male characters]]
+[[Category:Medium characters]]
+[[Category:Adult characters]]
+[[Category:Citadel Island inhabitants]]
