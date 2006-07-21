@@ -1,0 +1,37 @@
+---
+title: Aristide
+---
+
+{{Character|
+Name=Aristide|
+Image=GBARISTI.jpg|
+Race=[[Grobo]]|
+Gender=Male|
+Size=Medium|
+Age=Adult}}
+
+==Quotes==
+{{Quote|
+Quote=It has been two months since I enrolled in this blasted school, and I have not been able to pass a single test!!!|
+Character=Aristide}}
+{{Quote|
+Quote=I can't, I just can't!!! I heard some alien dudes landed on Twinsun, and I didn't even see them! I tried for days to do that blowgun test!|
+Character=Aristide}}
+{{Quote|
+Quote=Ah no!! If I had seen any, I'd have asked him to help me pass at least one test!!!|
+Character=Aristide}}
+{{Quote|
+Quote=I've had it with these studies. I should do something else...I think I am going to try studying extra-zeelichian populations!!!|
+Character=Aristide}}
+
+==Description==
+Aristide is a [[grobo]] studying at the [[School of Magic]]. He is a rather bad pupil, unable to complete any of the tests.
+
+==Role in Twinsen's Adventure==
+Aristide had no role in Twinsen's adventure. At the most to laugh at, because he wasn't able to do the things [[Twinsen]] and the other wizards were able to.
+
+[[Category:Grobos]]
+[[Category:Male characters]]
+[[Category:Medium characters]]
+[[Category:Adult characters]]
+[[Category:Desert Island inhabitants]]
