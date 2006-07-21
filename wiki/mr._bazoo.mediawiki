@@ -5,7 +5,7 @@ title: Mr. Bazoo
 {{Character|
 Name=Mr. Bazoo|
 Image=Bazoo.jpg|
-Race=Grobo|
+Race=[[Grobo]]|
 Gender=Male|
 Size=Medium|
 Age=Adult}}
