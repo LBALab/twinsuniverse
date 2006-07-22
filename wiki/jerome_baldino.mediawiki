@@ -1,0 +1,100 @@
+---
+title: Jerome Baldino
+---
+
+{{Character|
+Name=Jerome Baldino|
+Image=GR_BALDI.jpg|
+Race=[[Grobo]]|
+Gender=Male|
+Size=Medium|
+Age=Adult}}
+
+==Quotes==
+{{Quote|
+Quote=I've been working on a Jet-Pack prototype for days now. It's a small reactor that harnesses onto your back and allows you to fly about. My problem is that my last test flight wreaked a bit of havoc on the garden wall. It is rather difficult to fine tune the motor's power. I need a rheostat like the one you find in a hair dryer. Do you think you can find one of those for me?|
+Character=Jerome Baldino}}
+{{Quote|
+Quote=Well it's not a Jet-Pack yet, it's still just a Proto-Pack. I would appreciate it if you could test it out to see how it works. You should be able to fly over the water if you approach it from a gently sloping beach. But don't jump! Will you test it for 10 Kashes?|
+Character=Jerome Baldino}}
+{{Quote|
+Quote=I've been working on a Jet-Pack prototype for days now. It's a small reactor that is harnessed on the back and allows its user to fly about. My problem is that my latest flight test wreaked havoc on my Southern wall. So I'd like to borrow the rheostat in your hair dryer to fine tune the power of the motors (from looking at your hairdo, I don't think you really need the dryer, anyway). And if that works, I will have a job offer for you|
+Character=Jerome Baldino}}
+{{Quote|
+Quote=So you found a hair dryer? Great! I'll be with you in a minute, just let me install the rheostat.|
+Character=Jerome Baldino}}
+{{Quote|
+Quote=Here! Here's the part that Zoé needs for your car.|
+Character=Jerome Baldino}}
+{{Quote|
+Quote=Here, this is that portable radio I forgot to give you. Sorry about the mixup, but I think you'll agree it was worth waiting for!|
+Character=Jerome Baldino}}
+{{Quote|
+Quote=I could've called it an "integrated super dynamo circuitry mechanism" but I decided to go with "portable radio". A little catchier, huh? Incidentally, I'll let you know when the Proto-Pack is ready, it'll let you fly around in complete safety.|
+Character=Jerome Baldino}}
+{{Quote|
+Quote=In spite of my powerful telescope, I saw only a couple of flying saucers pass behind the Moon. The Esmers must live on the hidden side.|
+Character=Jerome Baldino}}
+{{Quote|
+Quote=Good day, Master, but... is that you Twinsen? You look terrific as a wizard, congratulations.|
+Character=Jerome Baldino}}
+{{Quote|
+Quote=I never realized there was an actual School of Magic! I guess I should get out of my shop more often.|
+Character=Jerome Baldino}}
+{{Quote|
+Quote=|
+Character=Jerome Baldino}}
+{{Quote|
+Quote=Hello! Twinsen? Baldino here! How are you? Looks like this transmitter works! If you swing by, I have a portable radio to give you. Also, I will have the proto-pack finished soon. It will allow you to fly in complete safety. Over.|
+Character=Jerome Baldino}}
+{{Quote|
+Quote=winsen, I am on Emerald Moon. I have uncovered a diabolical plot organized by the Esmers!! The kidnapping of the wizards and the children was only a small part of their plan. They are about to destroy our planet!!! Listen Twinsen, you must meet me!!|
+Character=Jerome Baldino}}
+{{Quote|
+Quote=The Esmers have set up a base somewhere on Desert Island. Find it and steal a shuttle!! You are the only one who can save Twinsun!!!|
+Character=Jerome Baldino}}
+{{Quote|
+Quote=Twinsen!! You are here at last! It's horrible!! The Esmers have built some reactors on Emerald Moon in order to propel it toward Twinsun and explode our planet!! They obey their God who was miraculously reincarnated, and they want to fulfill an ancient prophecy which is supposed to return their planet to its ancient heavenly look.|
+Character=Jerome Baldino}}
+{{Quote|
+Quote=Hey, Twinsen, take this translator, and you will conveniently understand the language of Zeelich!!|
+Character=Jerome Baldino}}
+{{Quote|
+Quote=Twinsen! I left my vessel near the outside of the crater. We'll be able to escape through the yard!|
+Character=Jerome Baldino}}
+{{Quote|
+Quote=The door's jammed. We have to find some way to open it.|
+Character=Jerome Baldino}}
+{{Quote|
+Quote=Twinsen, I damaged the vessel during landing. I need some time for repairs. The Zeelichian fuel is called gazogem, it's very powerful. You should go get some.|
+Character=Jerome Baldino}}
+{{Quote|
+Quote=Of course, but I will need this gazogem sooner or later. Besides, it will allow me to transform your protopack and increase its performance.|
+Character=Jerome Baldino}}
+{{Quote|
+Quote=You must go get me some gazogem, so that I can finish to repair our vessel and make your protopack more powerful!!|
+Character=Jerome Baldino}}
+{{Quote|
+Quote=Thanks, Twinsen. Now I can finish up on the ship. I'll buzz you on the radio as soon as I do the protopack.|
+Character=Jerome Baldino}}
+{{Quote|
+Quote=Hey there, don't forget my gazogem. I really need it to repair the vessel. And I think you'll really appreciate what it does to your protopack.|
+Character=Jerome Baldino}}
+{{Quote|
+Quote=Thank you, Twinsen. Now I can make us a ship that can race the comets! Anyway, here's something to turn your protopack into a superjetpack. and from now on, you can fly higher!|
+Character=Jerome Baldino}}
+{{Quote|
+Quote=It's going to take me quite a while longer to finish up on the vessel here.|
+Character=Jerome Baldino}}
+{{Quote|
+Quote=Come in! Twinsen? It's me, Baldino! I've improved your protopack, you can come pick it up now!|
+Character=Jerome Baldino}}
+
+{{Stub}}
+
+[[Category:Grobos]]
+[[Category:Male characters]]
+[[Category:Medium characters]]
+[[Category:Adult characters]]
+[[Category:Proxima Island inhabitants]]
+[[Category:Desert Island inhabitants]]
