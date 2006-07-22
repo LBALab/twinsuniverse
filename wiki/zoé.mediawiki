@@ -1,0 +1,19 @@
+---
+title: Zoé
+---
+
+{{Character|
+Name=Zoé|
+Image=QT_ZOE.jpg|
+Race=[[Quetch]]|
+Gender=Female|
+Size=Medium|
+Age=Adult}}
+
+{{Stub}}
+
+[[Category:Quetches]]
+[[Category:Female characters]]
+[[Category:Medium characters]]
+[[Category:Adult characters]]
+[[Category:Citadel Island inhabitants]]
