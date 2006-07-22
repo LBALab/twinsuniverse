@@ -1,0 +1,28 @@
+---
+title: Roger de la Fontaine
+---
+
+{{Character|
+Name=Roger de la Fontaine|
+Image=DIVERS.gif|
+Race=[[Franco]]|
+Gender=Male|
+Size=Medium|
+Age=Dead}}
+
+Roger de la Fontaine was the Burgmaster of the [[Island of the Francos]], who was in charge of looking after the [[Francos Key Fragment]]. He often buried the fragment to keep it safe, so that nobody could find it and steal it. One of his favourite passtimes was to spend time near the Gas, and that is where he met his death - eaten by a gas monster. Because nobody knew where he hid the fragment, the entire Island was whipped up into a frenzy, and everybody started looking for the fragment.
+
+==Role in Twinsen's adventure==
+Roger de la Fontaine was the one who hid the Franco's Key Fragment, making it hard for [[Twinsen]] to find.
+
+==Quotes==
+{{Quote|
+Quote=Roger de la Fontaine, he was my brother. He was the local burgermaster you know, who was responsible for our fragment. Roger, he kept hiding the fragment somewhere without telling anyone, untill the accident...Pity he was eaten by a monster from the gas.|
+Character=[[Roger de la Fontaine's brother]]}}
+
+[[Category:Francos]]
+[[Category:Male characters]]
+[[Category:Medium characters]]
+[[Category:Dead characters]]
+[[Category:Francos Island inhabitants]]
+[[Category:Articles without an image]]
