@@ -5,7 +5,7 @@ title: Franckie
 {{Character|
 Name=Franckie|
 Image=DIVERS.gif|
-Race=[[Francos]]|
+Race=[[Franco]]|
 Gender=Male|
 Size=Medium|
 Age=Adult}}
