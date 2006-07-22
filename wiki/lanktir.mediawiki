@@ -1,0 +1,28 @@
+---
+title: Lanktir
+---
+
+{{Character|
+Name=Lanktir|
+Image=DIVERS.gif|
+Race=[[Grobo]]|
+Gender=Male|
+Size=Medium|
+Age=Adult}}
+
+==Quotes==
+{{Quote|
+Quote=Well, well. It seems that you too have found an authentic secret map of Captain LeBorgne! Do me a favor would you? Give Lanktir, who lives next to the bazaar, back his coffee pot. I'm so ashamed, I should have given it back long ago.|
+Character=A [[sphero]]}}
+{{Quote|
+Quote=If you give me back my coffee maker, I'll give you a list of certain places where you can find a rare plant and some boxes. And don't ask me where I found this list!|
+Character=Lanktir}}
+
+{{Stub}}
+
+[[Category:Grobos]]
+[[Category:Male characters]]
+[[Category:Medium characters]]
+[[Category:Adult characters]]
+[[Category:Proxima Island inhabitants]]
+[[Category:Articles without an image]]
