@@ -10,7 +10,6 @@ Gender=Male|
 Size=Small|
 Age=Adult}}
 
-Description==
 Bob Vortix is an astronomer on [[Principal Island]] who was placed under house arrest because he knew too much about [[FunFrock]]'s tyranny. Due to his knowledge, he has gained respect from the citizens living on Principal Island.
 During his house arrest, [[Bob Vortix's house|Bob's house]] was heavily guarded by several [[grobo clones]], who were probably afraid of people trying to reach him, thus gaining some of his knowledge.
 
