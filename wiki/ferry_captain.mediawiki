@@ -1,0 +1,33 @@
+---
+title: Ferry captain
+---
+
+{{Character|
+Name=Ferry captain|
+Image=DIVERS.gif|
+Race=[[Rabbibunny]]|
+Gender=Male|
+Size=Medium|
+Age=Adult}}
+
+The ferry captain is a nameless rabbibunny working for the Inter-Island Ferry services as a captain. Every time a ferry is ready to take off, it is his job to sail the ferry to its desired destination, as well as conducting the passenger's [[Ferry ticket|tickets]]. He seems to be pretty friendly towards his passengers, perhaps due to the fact that hard times resulted in very few inter-island travellers.
+
+==Role in Twinsen's adventure==
+While in the [[Southern Hemisphere]], [[Twinsen]] travelled several times from [[Citadel Island]] to [[Principal Island]] in a ferry. Upon reaching the ferry, he was encountered by the captain, who made sure he had a proper ticket (a job he apparently failed to fullfill, as Twinsen's ticket was actually counterfeit sometimes), and then sail the ferry to the desired destination.
+Once buying his catamaran, Twinsen found no further use of the ferry services, resulting in not meeting the captain any more.
+
+==Trivia==
+By the time of Twinsen's second adventure, the captain was nowhere around any more, and his job was taken by a [[grobo]] named [[Mr. Paul]]. It is unknown where the rabbibunny has disappeared.
+
+==Quotes==
+{{Quote|
+Quote=Welcome aboard! You have picked a wonderful day for travelling, the weather is beautiful!|
+Character=The Captain}}
+
+[[Category:Rabbibunnies]]
+[[Category:Male characters]]
+[[Category:Medium characters]]
+[[Category:Adult characters]]
+[[Category:Citadel Island inhabitants]]
+[[Category:Principal Island inhabitants]]
+[[Category:Articles without an image]]
