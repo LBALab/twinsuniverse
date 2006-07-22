@@ -1,0 +1,18 @@
+---
+title: Terrain Soldier
+---
+
+{{Enemy|
+Name=Terrain soldiers|
+Image=DIVERS.gif|
+Strength=Yellow|
+Reaction=Doesn't move|
+Recovery=0.3 seconds|
+Rate=1 second|
+Damage=11%|
+Range=30 paces|
+Speed=14.4kph average; 18kph maximum}}
+
+{{Stub}}
+
+[[Category:Forces]]
