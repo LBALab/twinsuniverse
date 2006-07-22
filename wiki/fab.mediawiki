@@ -1,0 +1,39 @@
+---
+title: Fab
+---
+
+{{Character|
+Name=Fab|
+Image=BB_FAB.jpg|
+Race=[[Sphero]]|
+Gender=Male|
+Size=Small|
+Age=Adult}}
+
+Fab is a musician and the best friends with [[Pat]] and [[Raph]]. Just like them, he likes hanging out in [[Chez Luc]].
+
+==Role in Twinsen's adventure==
+Apart from the hint where Raph is, Fab had no role.
+
+==Quotes==
+{{Quote|
+Quote=He said he wanted to practice a new piece on his guitar. He usually hides out on the cliffs for piece and quiet. But not this long usually.|
+Character=Fab}}
+{{Quote|
+Quote=Thanks for having freed my buddy Raph, kiddo. Without you, his goose was cooked for sure.|
+Character=Fab}}
+{{Quote|
+Quote=These "Esmers" look quite nice, they ask lots of questions though. Everything interests them.|
+Character=Fab}}
+{{Quote|
+Quote=Raph? With him and Fab, we put together a killer combo to play some funky rock'n rave!|
+Character=Pat}}
+{{Quote|
+Quote=Raph? Ah yeah, he has set up a super combo with his buddies Pat and Fab! But I don't know where he is.|
+Character=[[Umbrella thief]]}}
+
+[[Category:Spheroes]]
+[[Category:Male characters]]
+[[Category:Small characters]]
+[[Category:Adult characters]]
+[[Category:Citadel Island inhabitants]]
