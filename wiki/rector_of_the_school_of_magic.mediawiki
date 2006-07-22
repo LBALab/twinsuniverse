@@ -1,0 +1,54 @@
+---
+title: Rector of the School of Magic
+---
+
+{{Character|
+Name=Mentor of the School of Magic|
+Image=DIVERS.gif|
+Race=[[Rabbibunny]]|
+Gender=Male|
+Size=Medium|
+Age=Adult}}
+
+The mentor of the school of magic is a nameless rabbibunny who is in charge of the [[School of Magic]]. He guides the new pupils of the school throughout their tests, and gives them their rewards in case they complete one. He is also one of the most respected wizards with his own charming [[Bunny|assistant]].
+
+==Role in Twinsen's adventure==
+[[Twinsen]], knowing he had to cure the [[Dino-Fly]], enrolled in the School of Magic, and was guided by the Mentor through his tests. The Mentor gave Twinsen his rewards after completing each of the tests.
+
+Later on, when the [[Esmers]] invaded the planet, the mentor of the school was also the one who sent Twinsen to look for the missing wizards, and adviced him about certain things.
+
+==Quotes==
+{{Quote|
+Quote=Welcome, Twinsen. I'd be honored to have you study with us. But even, though you once saved our world, you'll still have to pass the same tests as the other students.|
+Character=Mentor of the School of Magic}}
+{{Quote|
+Quote=You'll obtain the power to heal by passing one of the tests of wizardry. But first you have to enroll. Upon graduation, you get an additional level of magic!|
+Character=Mentor of the School of Magic}}
+{{Quote|
+Quote=To practice for your Blowgun Test, simply go through this door at the back of this room. You'll then have a limited time to shoot all the targets. For the Test of the Balsam, you'll have to fetch me a balsam! It's a rare plant which grows in the desert. For the Test of the Slate, you must go to the island called the Dome of the Slate, a stone's throw away from Citadel Island.|
+Character=Mentor of the School of Magic}}
+{{Quote|
+Quote=Bravo Twinsen. You now bear the title of wizard. I don't have any spare wizard's parade tunics left. But there is a peddler on the island. I'll contact him and ask him to give you one. Go find him. Also, let your beard grow.|
+Character=Mentor of the School of Magic}}
+{{Quote|
+Quote=Listen to me, I must inform you of some very concerning news. Almost all the wizards of Twinsun have disappeared, and no one knows where they are. They must be found and you are the only one who can accomplish this noble task. The school is counting on you, Twinsen!|
+Character=Mentor of the School of Magic}}
+{{Quote|
+Quote=No. Twinsen, only you can save them. But before you confront the Esmers you will have to reinforce your powers. And only the Ball of Sendell can accomplish this.|
+Character=Mentor of the School of Magic}}
+{{Quote|
+Quote=Shortly after FunFrock's disappearance, it was hidden on Citadel Island by the Weather Wizard. He placed it in a cage of ice which he then bound with a powerful spell. According to him, only the power of lightning is capable of freeing the ball.|
+Character=Mentor of the School of Magic}}
+{{Quote|
+Quote=You must go your way, Twinsen. The Esmers begin to be less numerous. It looks like they are gathering by the temple of Bù, you should go take a look.|
+Character=Mentor of the School of Magic}}
+{{Quote|
+Quote=Ohhh...I am definetely getting too old for these acrobatics!|
+Character=Mentor of the School of Magic}}
+
+[[Category:Rabbibunnies]]
+[[Category:Male characters]]
+[[Category:Medium characters]]
+[[Category:Adult characters]]
+[[Category:Desert Island inhabitants]]
+[[Category:Articles without an image]]
