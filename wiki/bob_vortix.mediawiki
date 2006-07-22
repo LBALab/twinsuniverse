@@ -10,6 +10,18 @@ Gender=Male|
 Size=Small|
 Age=Adult}}
 
+Description==
+Bob Vortix is an astronomer on [[Principal Island]] who was placed under house arrest because he knew too much about [[FunFrock]]'s tyranny. Due to his knowledge, he has gained respect from the citizens living on Principal Island.
+During his house arrest, [[Bob Vortix's house|Bob's house]] was heavily guarded by several [[grobo clones]], who were probably afraid of people trying to reach him, thus gaining some of his knowledge.
+
+==Role in Twinsen's adventure==
+In his search for any information possible about the mysterious [[Sendell's legend|legend]], [[Twinsen]] reached the [[Old Burg]], where he heard from many citizens about the mass information the astronomer is able to give him. After speaking with a few people, Twinsen eventually received a key from the locksmith, and was then able to reach the upper part of the town. Howver, reaching Bob turned out to be rather difficult, since the way was blocked by a deadly [[supergro]]. Fortunately enough, a kind, good-looking [[rabbibnny]] offered her help to the [[quetch]]. By seducing the supergro, the rabbibunny made him walk away from the place, leaving the way free for Twinsen. Once there, the quetch only had to climb the stairs to the roof of the house, since the entrance was blocked, and descend into the house using the grate on top of the roof.
+Once inside the house, Twinsen heard from Bob Vortix that the legend could be a key in FunFrock's weakness. Additionally, he suggested Twinsen to go to [[Port-Belooga]], and tell the fisherman that he (Bob) sent him. Once the fisherman heard that, he has agreed to take Twinsen somewheres, for a charge.
+When searching for information about [[LeBorgne]], Twinsen came back to visit the shpero. Bob then suggested him to go look in the [[Principal Island bazaar|bazaar]] for some information about the pirate.
+
+==Trivia==
+For some reason, Twinsen was not able to search through the box at Bob's house for some [[life candies]], [[magic flasks]] or [[Kashes|money]]. However, when Bob realized that Twinsen was not able to do so, he searched there for him, giving the quetch a pretty high sum of kashes.
+
 ==Quotes==
 {{Quote|
 Quote=I am Bob Vortix, astronomer under house arrest. What are you doing in town, apart from beating up clones?|
@@ -29,18 +41,6 @@ Character=[[Beatrice]]}}
 {{Quote|
 Quote=I have not seen this young lady. But go to the astronomers house. Even though he is not allowed to leave his own house, he knows everything. He lives in the last house on the hill, overlooking the city.|
 Character=Shopkeeper in [[Old Burg]]}}
-
-==Description==
-Bob Vortix is an astronomer on [[Principal Island]] who was placed under house arrest because he knew too much about [[FunFrock]]'s tyranny. Due to his knowledge, he has gained respect from the citizens living on Principal Island.
-During his house arrest, [[Bob Vortix's house|Bob's house]] was heavily guarded by several [[grobo clones]], who were probably afraid of people trying to reach him, thus gaining some of his knowledge.
-
-==Role in Twinsen's adventure==
-In his search for any information possible about the mysterious [[Sendell's legend|legend]], [[Twinsen]] reached the [[Old Burg]], where he heard from many citizens about the mass information the astronomer is able to give him. After speaking with a few people, Twinsen eventually received a key from the locksmith, and was then able to reach the upper part of the town. Howver, reaching Bob turned out to be rather difficult, since the way was blocked by a deadly [[supergro]]. Fortunately enough, a kind, good-looking [[rabbibnny]] offered her help to the [[quetch]]. By seducing the supergro, the rabbibunny made him walk away from the place, leaving the way free for Twinsen. Once there, the quetch only had to climb the stairs to the roof of the house, since the entrance was blocked, and descend into the house using the grate on top of the roof.
-Once inside the house, Twinsen heard from Bob Vortix that the legend could be a key in FunFrock's weakness. Additionally, he suggested Twinsen to go to [[Port-Belooga]], and tell the fisherman that he (Bob) sent him. Once the fisherman heard that, he has agreed to take Twinsen somewheres, for a charge.
-When searching for information about [[LeBorgne]], Twinsen came back to visit the shpero. Bob then suggested him to go look in the [[Principal Island bazaar|bazaar]] for some information about the pirate.
-
-==Trivia==
-For some reason, Twinsen was not able to search through the box at Bob's house for some [[life candies]], [[magic flasks]] or [[Kashes|money]]. However, when Bob realized that Twinsen was not able to do so, he searched there for him, giving the quetch a pretty high sum of kashes.
 
 [[Category:Spheroes]]
 [[Category:Male characters]]
