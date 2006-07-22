@@ -1,0 +1,17 @@
+---
+title: Sendell
+---
+
+{{Character|
+Name=Sendell|
+Image=DVSENDEL.jpg|
+Race=Goddess|
+Gender=Female|
+Size=Large|
+Age=Adult}}
+
+{{Stub}}
+
+[[Category:Female characters]]
+[[Category:Large characters]]
+[[Category:Adult characters]]
