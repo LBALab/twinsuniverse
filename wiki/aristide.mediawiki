@@ -10,6 +10,11 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
+Aristide is a [[grobo]] studying at the [[School of Magic]]. He is a rather bad pupil, unable to complete any of the tests.
+
+==Role in Twinsen's Adventure==
+Aristide had no role in Twinsen's adventure. At the most to laugh at, because he wasn't able to do the things [[Twinsen]] and the other wizards were able to.
+
 ==Quotes==
 {{Quote|
 Quote=It has been two months since I enrolled in this blasted school, and I have not been able to pass a single test!!!|
@@ -23,12 +28,6 @@ Character=Aristide}}
 {{Quote|
 Quote=I've had it with these studies. I should do something else...I think I am going to try studying extra-zeelichian populations!!!|
 Character=Aristide}}
-
-==Description==
-Aristide is a [[grobo]] studying at the [[School of Magic]]. He is a rather bad pupil, unable to complete any of the tests.
-
-==Role in Twinsen's Adventure==
-Aristide had no role in Twinsen's adventure. At the most to laugh at, because he wasn't able to do the things [[Twinsen]] and the other wizards were able to.
 
 [[Category:Grobos]]
 [[Category:Male characters]]
