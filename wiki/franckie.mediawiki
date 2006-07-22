@@ -1,0 +1,25 @@
+---
+title: Franckie
+---
+
+{{Character|
+Name=Franckie|
+Image=DIVERS.gif|
+Race=[[Francos]]|
+Gender=Male|
+Size=Medium|
+Age=Adult}}
+
+Franckie is the owner of the [[Franckie's|bar]] on the [[Island of the Francos]]. Like most of the island's inhabitants, he too is searching for the hidden [[Francos fragment|fragment]].
+
+==Quotes==
+{{Quote|
+Quote=You have to be crazy to believe all these stories of fragment hunting. Me, I think Roger lost it at home before getting eaten by a monster. What are you gonna do?, at least its good for business.|
+Character=Franckie}}
+
+[[Category:Francos]]
+[[Category:Male characters]]
+[[Category:Medium characters]]
+[[Category:Adult characters]]
+[[Category:Francos Island inhabitants]]
+[[Category:Articles without an image]]
