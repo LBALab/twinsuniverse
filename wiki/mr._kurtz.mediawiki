@@ -1,0 +1,31 @@
+---
+title: Mr. Kurtz
+---
+
+{{Character|
+Name=Kurtz|
+Image=KnartaAnim.gif|
+Race=[[Franco]]|
+Gender=Male|
+Size=Medium|
+Age=Adult}}
+
+Kurtz lives on the [[Village of the Francos]], in a house where he made sure no sunlight could come in. His flowers are the proof.
+Like most of the island's inhabitants, Kurtz is also in a treasure hunt after the lost [[Francos fragment|fragment]].
+
+==Role in Twinsen's adventure==
+Like most villagers at the [[Francos Island]], Kurtz had no specific role in [[Twinsen]]'s adventure. He was just there, searching for the fragment, like almost all other inhabitants of the place.
+
+==Quotes==
+{{Quote|
+Quote=Taking the size of the island, its geological structure and wind direction into account. I have concocted a potion which should allow me to precisely determine the location of the fragment! Unfortunately...I uh, lost the vial.|
+Character=Kurtz}}
+{{Quote|
+Quote=Mr. Kurtz - Retired Colonel - Specializing in non-scientific sciences|
+Character=Sign outside Kurtz's house}}
+
+[[Category:Francos]]
+[[Category:Male characters]]
+[[Category:Medium characters]]
+[[Category:Adult characters]]
+[[Category:Francos Island inhabitants]]
