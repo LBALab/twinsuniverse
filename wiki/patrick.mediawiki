@@ -17,7 +17,7 @@ When [[Twinsen]] entered the Super Jackpot chamber at the casino, Patrick instru
 
 ==Quotes==
 {{Quote|
-Qutoe=Welcome, my dear sir! Welcome, welcome to our wheel of fortune! So you're the one fate has chosen today to try for our Super Jackpot! Excellent, excellent. Now, just stand behind the wheel on the small podium, give it a whirl, and maybe, maybe I say, you will hit it big!!!|
+Quote=Welcome, my dear sir! Welcome, welcome to our wheel of fortune! So you're the one fate has chosen today to try for our Super Jackpot! Excellent, excellent. Now, just stand behind the wheel on the small podium, give it a whirl, and maybe, maybe I say, you will hit it big!!!|
 Character=Patrick}}
 
 [[Category:Gloums]]
