@@ -1,0 +1,49 @@
+---
+title: Joe the Elf
+---
+
+{{Character|
+Name=Joe the Elf|
+Image=DVJOE.jpg|
+Race=[[Elf]]|
+Gender=Male|
+Size=Small|
+Age=Kid}}
+
+==Quotes==
+{{Quote|
+Quote=Thanks for opening the grotto. My name is Joe the Elf. I was locked up here because I wasn't meant to be in the story, there might have been some bugs in the game!|
+Character=Joe the Elf}}
+{{Quote|
+Quote=You're too aggressive! Come back later when you've calmed down.|
+Character=Joe the Elf}}
+{{Quote|
+Quote=Ow, you crazy or what? You don't deserve to be an elf, give me your membership card!|
+Character=Joe the Elf}}
+{{Quote|
+Quote=No thanks, seems to be OK now...|
+Character=Joe the Elf}}
+{{Quote|
+Quote=Hey Twinsen! It's me, Joe!! I don't feel too good. Couldn't you do something for me?|
+Character=Joe the Elf}}
+{{Quote|
+Quote=But... it's... Twinsen! Yo, Twinsen! It's me, Joe the Elf! Your old friend! Good to see you again!!!|
+Character=Joe the Elf}}
+{{Quote|
+Quote=Hey, Twinsen, great bumping into you! Say, you don't seem all that buddy-buddy with the locals! Soon as they heard your name, they jumped you, knocked you out, and stole your wizard's costume. And now, we're in jail.|
+Character=Joe the Elf}}
+{{Quote|
+Quote=Actually I was with the wizards when the Esmers invited them to this planet. Now, they're being held captive by the emperor and claim the Esmers want to kidnap the children of Twinsun. I got scared, so I left, and found you there.|
+Character=Joe the Elf}}
+{{Quote|
+Quote=They say the Esmers left for our planet to kidnap Twinsun's children! They say nothing can be done, but I still have hope. I'm sure you will succeed in reaching the astroport to steal a shuttle and go save those children!!!|
+Character=Joe the Elf}}
+
+{{Stub}}
+
+[[Category:Elves]]
+[[Category:Male characters]]
+[[Category:Small characters]]
+[[Category:Kids]]
+[[Category:Desert Island inhabitants]]
+[[Category:Citadel Island inhabitants]]
