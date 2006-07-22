@@ -7,14 +7,14 @@ Name=Ker'aooc|
 Image=DIVERS.gif|
 Race=[[Sphero]]|
 Gender=Male|
-Size=Medium|
+Size=Small|
 Age=Adult}}
 
 {{Stub}}
 
 [[Category:Spheroes]]
 [[Category:Male characters]]
-[[Category:Medium characters]]
+[[Category:Small characters]]
 [[Category:Adult characters]]
 [[Category:Desert Island inhabitants]]
 [[Category:Articles without an image]]
