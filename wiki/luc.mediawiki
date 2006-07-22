@@ -1,0 +1,26 @@
+---
+title: Luc
+---
+
+{{Character|
+Name=Luc|
+Image=GBLUC.jpg|
+Race=[[Grobo]]|
+Gender=Male|
+Size=Medium|
+Age=Adult}}
+
+Luc is a grobo living in [[Citadel Island]]. He has a large, successful bar at the middle of the island, called [[Chez Luc]].
+
+==Quotes==
+{{Quote|
+Quote=If you'd care to purchase something, you just have to stand in front of it and do "ACTION".|
+Character=Luc}}
+
+{{Stub}}
+
+[[Category:Grobos]]
+[[Category:Male characters]]
+[[Category:Medium characters]]
+[[Category:Adult characters]]
+[[Category:Citadel Island inhabitants]]
