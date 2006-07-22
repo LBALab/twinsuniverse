@@ -1,0 +1,20 @@
+---
+title: Pharmacist (Rabbibunny)
+---
+
+{{Character|
+Name=The Pharmacist|
+Image=DIVERS.gif|
+Race=[[Rabbibunny]]|
+Gender=Female|
+Size=Medium|
+Age=Adult}}
+
+{{Stub}}
+
+[[Category:Rabbibunnies]]
+[[Category:Female characters]]
+[[Category:Medium characters]]
+[[Category:Adult characters]]
+[[Category:Citadel Island inhabitants]]
+[[Category:Articles without an image]]
