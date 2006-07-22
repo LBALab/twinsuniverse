@@ -1,0 +1,20 @@
+---
+title: Mies van der Rooh's Father
+---
+
+{{Character|
+Name=Mies van der Rooh's father|
+Image=DIVERS.gif|
+Race=[[Rabbibunny]]|
+Gender=Male|
+Size=Medium|
+Age=Adult}}
+
+{{Stub}}
+
+[[Category:Rabbibunnies]]
+[[Category:Medium characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Citadel Island inhabitants]]
+[[Category:Articles without an image]]
