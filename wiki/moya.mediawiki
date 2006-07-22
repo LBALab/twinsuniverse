@@ -4,7 +4,7 @@ title: Moya
 
 {{Character|
 Name=Moya|
-Image=DIVERS.GIF|
+Image=DIVERS.gif|
 Race=Turtle|
 Gender=Female|
 Size=Small|
