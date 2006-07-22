@@ -1,0 +1,26 @@
+---
+title: Mr. Paul
+---
+
+{{Character|
+Name=Mr. Paul|
+Image=Paul.gif|
+Race=[[Grobo]]|
+Gender=Male|
+Size=Medium|
+Age=Adult}}
+
+Mr. Paul is a sailor grobo living in the [[Citadel Island harbour|harbour]] of [[Citadel Island]]. He is responsible for the ferry and its passengers.
+
+==Role in Twinsen's adventure==
+When [[Twinsen]] needed to go from Citadel to [[Desert Island]], Paul steered it. He also checked if Twinsen had a [[Ferry ticket|ticket]] or not.
+
+{{Quote|
+Quote=The foul weather prevents the boats from leaving the harbor.There's nothing to do, all maritime activity is paralyzed. Let me tell you, Mr. Twinsen, only the Weather Wizard could set things straight!!|
+Character=Mr. Paul}}
+
+[[Category:Grobos]]
+[[Category:Male characters]]
+[[Category:Medium characters]]
+[[Category:Adult characters]]
+[[Category:Citadel Island inhabitants]]
