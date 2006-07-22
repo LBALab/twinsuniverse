@@ -5,7 +5,7 @@ title: Yellow Rabbibunny Clone
 {{Enemy|
 Name=Yellow rabbibunny clones|
 Image=DIVERS.gif|
-Range=Yellow|
+Strength=Yellow|
 Reaction=Falls backwards|
 Recovery=5 seconds|
 Rate=1 second|
