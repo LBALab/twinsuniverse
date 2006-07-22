@@ -4,7 +4,7 @@ title: Teacher
 
 {{Character|
 Name=Teacher|
-Image=DIVERS.jpg|
+Image=DIVERS.gif|
 Race=[[Rabbibunny]]|
 Gender=Female|
 Size=Medium|
