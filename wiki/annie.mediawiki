@@ -10,6 +10,12 @@ Gender=Female|
 Size=Large|
 Age=Adult}}
 
+Annie is the Priest's housemaid. She lives with her only son at a small house in the [[Village of the Wannies]].
+
+==Role in Twinsen's adventure==
+Twinsen had to go to other islands in the [[under-gas]]. He knew he could travel with the help of the [[ferryman]], but not how to get in contact with him. The Priest of the Wannies told Twinsen to ask his housemaid about it. Twinsen then went to Annie, who taught him the [[Ferryman's Song]], the song required to call the ferryman.
+It was also better for Twinsen not to hurt her, as she also could give some painful hits with her broom.
+
 ==Quotes==
 {{Quote|
 Quote=Of course, it's fairly simple. You have to pay him in gems if you want him to take you. But first you have to call him. To do that, you have to stand at the end of the ferryman's pier and call him with this song. Listen to me and don't forget.|
@@ -26,13 +32,6 @@ Character=[[Dark Monk's priest]]}}
 {{Quote|
 Quote=My mommy, she's helping Mr. Monk make Dark Monk come back. And then, when he's here, heads are gonna roll!! It'll be so awesome!! My mommy's strong!!|
 Character=[[Annie's son]]}}
-
-==Description==
-Annie is the Priest's housemaid. She lives with her only son at a small house in the [[Village of the Wannies]].
-
-==Role in Twinsen's adventure==
-Twinsen had to go to other islands in the [[under-gas]]. He knew he could travel with the help of the [[ferryman]], but not how to get in contact with him. The Priest of the Wannies told Twinsen to ask his housemaid about it. Twinsen then went to Annie, who taught him the [[Ferryman's Song]], the song required to call the ferryman.
-It was also better for Twinsen not to hurt her, as she also could give some painful hits with her broom.
 
 [[Category:Wannies]]
 [[Category:Female characters]]
