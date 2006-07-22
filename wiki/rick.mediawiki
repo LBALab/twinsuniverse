@@ -1,0 +1,19 @@
+---
+title: Rick
+---
+
+{{Character|
+Name=Rick|
+Image=RICK.jpg|
+Race=[[Sup]]|
+Gender=Male|
+Size=Large|
+Age=Adult}}
+
+{{Stub}}
+
+[[Category:Sups]]
+[[Category:Male characters]]
+[[Category:Large characters]]
+[[Category:Adult characters]]
+[[Category:Otringal inhabitants]]
