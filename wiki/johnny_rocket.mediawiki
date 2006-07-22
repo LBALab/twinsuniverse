@@ -1,0 +1,46 @@
+---
+title: Johnny Rocket
+---
+
+{{Character|
+Name=Johnny Rocket|
+Image=SJOHNNYR.jpg|
+Race=[[Sup]]|
+Gender=Male|
+Size=Medium|
+Age=Adult}}
+
+Johnny Rocket is the first ever [[Esmer]] to set foot on [[Twinsun]]. Although he helped the [[Emperor]] and [[FunFrock]] this way, he is completely against their acts and ideas and therefore helps the dissidents rebelling against them.
+Johnny lives on the [[Imperial Hotel]], at the upper town of [[Otringal]]. He also seems to be the only Esmer who can speak the Twinsunian language or has a [[translator]].
+
+==Role in Twinsen's adventure==
+Johnny Rocket is the first Esmer [[Twinsen]] met. At this time, though, Johnny had no role yet. Once on [[Zeelich]], Twinsen paid Johnny Rocket a visit on [[Rick]]'s advice. Johnny then gave Twinsen the [[ring of the dissidents]], the dissidents' identification sign, and sent him to meet the dissidents at the [[Twinsunian souvenir shop]].
+
+==Quotes==
+{{Quote|
+Quote=People from the planet Twinsun, we come to you in a spirit of peace. Thank you for dipersing this storm which prevented us from landing. We have observed your planet for many cycles now and have decided to come and study your culture on the spot. We have traveled through Space solely with the goal of discovering your civilization.|
+Character=Johnny Rocket}}
+{{Quote|
+Quote=Greetings, Twinsunian. We are your friends. We come in peace to your planet. We wish only to share our knowledge with you. Have trust in our friendship.|
+Character=Johnny Rocket}}
+{{Quote|
+Quote=Greetings, Master. You should go to Desert Island. Towards the hacienda, near the Bald Mountain, we are organizing a little gathering for the wizards. You will probably find it interesting.|
+Character=Johnny Rocket}}
+{{Quote|
+Quote=Shut up! Are you nuts? Never mention the rebels in public! Meet me in my room, we can talk without danger.|
+Character=Johnny Rocket}}
+{{Quote|
+Quote=I know you. You're Twinsen, the hero of your planet. The Emperor and Dark Monk fear you - - that's why you're a wanted man. The dissidents will help you. Here, take this ring, go to the Twinsunian souvenir shop, and show it to the salesman. He'll take you to them.|
+Character=Johnny Rocket}}
+{{Quote|
+Quote=...Johnny Rocket at the Imperial! Zeelich's brightest star, the first explorer to set foot on Twinsun, now lives on Otringal...|
+Character=[[The Zeelichian Gazette]]}}
+{{Quote|
+Quote=He's our greatest hero. The first one to set foot on mysterious Twinsun! Thanks to him, we'll get much needed help from the Twinsunian wizards. He's over there, in the armchair with his manicurist.|
+Character=A sup woman in the hotel}}
+
+[[Category:Sups]]
+[[Category:Male characters]]
+[[Category:Medium characters]]
+[[Category:Adult characters]]
+[[Category:Otringal inhabitants]]
