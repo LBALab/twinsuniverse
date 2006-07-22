@@ -1,0 +1,34 @@
+---
+title: Raph's Fiancée
+---
+
+{{Character|
+Name=Raph's fiancé|
+Image=DIVERS.gif|
+Race=[[Rabbibunny]]|
+Gender=Female|
+Size=Medium|
+Age=Adult}}
+
+Raph's fiancé is a nameless rabbibunny, engaged to [[Raph]], the [[lighthouse]] keeper.
+
+==Role in Twinsen's adventure==
+The fiancé gave [[Twinsen]] hints as to where he could find Raph and what to do if he is trapped. After Twinsen freed Raph, she could be found standing on the top floor of the lighthouse alongside of him.
+
+==Quotes==
+{{Quote|
+Quote=I don't understand why the lighthouse is closed and turned off. What could my fiancé Raph, be doing? By the way, Mr. Twinsen, did you know you can jump over the rocks if you are trapped?|
+Character=Raph's fiancé}}
+{{Quote|
+Quote=Unfortunately, he's disappeared, Mr. Twinsen! I hope he hasn't gone on another of his strolls on the cliffs! One of these days it might be nasty, with all these rumors about the tralü...|
+Character=Raph's fiancé}}
+{{Quote|
+Quote=My pretty bunny has come back, thanks to you!! Oh thank you, Mr. Twinsen!!|
+Character=Raph's fiancé}}
+
+[[Category:Rabbibunnies]]
+[[Category:Female characters]]
+[[Category:Medium characters]]
+[[Category:Adult characters]]
+[[Category:Citadel Island inhabitants]]
+[[Category:Articles without an image]]
