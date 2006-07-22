@@ -1,0 +1,40 @@
+---
+title: Dr. FunFrock
+---
+
+{{Character|
+Name=FunFrock|
+Image=FunFrock.gif|
+Race=[[Quetch]]|
+Gender=Male|
+Size=Large|
+Age=Adult}}
+
+==Quotes==
+{{Quote|
+Quote=I have you at last! I see that you appreciated the clone that I made of your friend, the original is safe. I suppose that you have come here to find the 3rd Runic Stone. I already found it a long time ago, but it took some time to decipher it. And as soon as I knew the location of the Well of Sendell, I began the foraging work.|
+Character=FunFrock}}
+{{Quote|
+Quote=Not being able to destroy the stone, I built my fortress around it to dissimulate it. That reminds me, you supposedly destroyed two of my factories, but that is of little importance! I will soon possess such fantastic powers, that I will need but an instant to clone or teleport the totality of the inhabitants of the planet. I also can make you relive the worst moments of your existence indefinitely... Good bye, you will never realize the prophecy because I will be the one who encounters Sendell and I will inherit her powers.|
+Character=FunFrock}}
+{{Quote|
+Quote=At last we meet again, Twinsen! But this time, you are too late!! With the emperor's help, I succeeded in deceiving the Esmers. Ironic, isn't it? They mistook me for the reincarnation of Dark Monk and granted me divine powers that even I didn't possess. Thanks to those Esmers, these powers will be mine as soon as the moon collides with Twinsun!!|
+Character=FunFrock}}
+{{Quote|
+Quote=I needed the wizards to operate the machine I built in the statue. It'll attract the Sendells' energy from Twinsun's core, and release it in the explosion! The children were only a ploy to coerce the wizards' obedience!!|
+Character=FunFrock}}
+{{Quote|
+Quote=Even you a part of my plan, fool of a Quetch!! The statue is in fact an antenna! And I needed the four fragments to place it in its ceremonial position! Now, you will witness the destruction of your planet and my consecration as well! As soon as I activate the machine and the cosmic shock takes place, I will seize the Sendells' energy. It will make me a God in flesh as well as in name!!!|
+Character=FunFrock}}
+{{Quote|
+Quote=So you followed me, you miserable maggot!!! You didn't get the picture, did you? Now it's too late. In a few minutes, your planet will be destroyed, and its energy will make me the equivalent of a God!!! For annoying me with the sight of you yet again, I'm going to sacrifice these children you love so dearly right in front of your eyes!!!|
+Character=FunFrock}}
+
+{{Stub}}
+
+[[Category:Quetches]]
+[[Category:Male characters]]
+[[Category:Large characters]]
+[[Category:Adult characters]]
+[[Category:Sendell's Well inhabitants]]
+[[Category:Celebration Island inhabitants]]
