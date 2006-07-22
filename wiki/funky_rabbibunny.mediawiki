@@ -1,0 +1,39 @@
+---
+title: Funky Rabbibunny
+---
+
+{{Character|
+Name=Funky rabbibunny|
+Image=Funky Rabbibunny.gif|
+Race=[[Rabbibunny]]|
+Gender=Male|
+Size=Medium|
+Age=Adult}}
+
+Down in the streets of [[Funky-Town]], where a small population of dissidents is rebelling against [[FunFrock]], patrols a nameless rabbibunny. The city probably received its name from people of his type, funky and cool.
+Although not being too appreciated by his town mates, this nameless rabbibunny is perhaps the smartest and most knowledgable person of the entire [[Tippett Island|island]]. For a decent price, he is willing to sell whoever's interested information regarding FunFrock's evil plans.
+Further than that, very few is known about his personality. He seems to be a loner, who doesn't chat too much.
+
+==Role in Twinsen's adventure==
+If we consider the fact that most of the characters [[Twinsen]] met during his adventure were of no importance except for giving some hints, then we can notice that this funky rabbibunny was very useful in the [[quetch]]'s quests. For the total price of 30 [[kashes]] (10 kashes for each factory), the rabbibunny was able to tell Twinsen anything he ever wanted to know about FunFrock's three factories- the [[Cloning Center]], the [[Teleportation Center]] and the [[Mutant Factory]].
+After speaking with the rabbibunny, Twinsen realized he needed the plans of the Teleportation Centre, and thus started asking anyone he saw about their whereabouts.
+
+==Quotes==
+{{Quote|
+Quote=FunFrock cleared out the populations from this hemisphere but there are still a few people that resist like here in Funky-Town. He produces mutant insects in his factory at the foot of the Hamalayi mountains to exterminate us. The factory was supposedly sabotaged, but there are still monsters in the sewers: they were produced before the sabotage. In fact, you can jump on the giant crabs!|
+Character=Funky rabbibunny}}
+{{Quote|
+Quote=It is located on Brundle island, from there FunFrock's cohorts control all the planet's teleportations! The entrance is guarded but they will let you in if you act like one of them.|
+Character=Funky rabbibunny}}
+{{Quote|
+Quote=The center where all the planet's clones are produced is inside FunFrock's Fortress. It's his headquarters when he is in this hemisphere. Be careful because I heard that he is working on some VERY special clones, it's on Fortress island.|
+Character=Funky rabbibunny}}
+{{Quote|
+Quote=Ask the rabbibunny with the sunglasses, he's an informer.|
+Character=a [[sphero]]}}
+
+[[Category:Rabbibunnies]]
+[[Category:Male characters]]
+[[Category:Medium characters]]
+[[Category:Adult characters]]
+[[Category:Tippett Island inhabitants]]
