@@ -3,7 +3,7 @@ title: The Ferryman
 ---
 
 {{Character|
-Name=Ferryman|
+Name=The Ferryman|
 Image=PASS.jpg|
 Race=[[Wannie]]|
 Gender=Male|
