@@ -1,0 +1,18 @@
+---
+title: Leopold
+---
+
+{{Character|
+Name=Leopold|
+Image=DVLEOPOL.jpg|
+Race=Camel|
+Gender=Male|
+Size=Medium|
+Age=Adult}}
+
+{{Stub}}
+
+[[Category:Male characters]]
+[[Category:Medium characters]]
+[[Category:Adult characters]]
+[[Category:Desert Island inhabitants]]
