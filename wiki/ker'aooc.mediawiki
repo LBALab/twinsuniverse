@@ -1,0 +1,19 @@
+---
+title: Ker'aooc
+---
+
+{{Character|
+Name=Ker'aooc|
+Image=DIVERS.gif|
+Race=[[Sphero]]|
+Gender=Male|
+Size=Medium|
+Age=Adult}}
+
+{{Stub}}
+
+[[Category:Spheroes]]
+[[Category:Male characters]]
+[[Category:Medium characters]]
+[[Category:Adult characters]]
+[[Category:Desert Island inhabitants]]
