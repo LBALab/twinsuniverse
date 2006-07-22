@@ -1,0 +1,48 @@
+---
+title: Leone
+---
+
+{{Character|
+Name=Leone|
+Image=BBLEONE.jpg |
+Race=[[Sphero]]|
+Gender=Female|
+Size=Small|
+Age=Adult}}
+
+Leone is a young sphero working for the healing wizard, [[Ker'aooc]], as his housemaid.
+
+==Role in Twinsen's adventure==
+[[Twinsen]] first met Leone in the [[pharmacy]] on [[Citadel Island]]. Just when she was going to tell Twinsen how he can treat [[Dino-Fly]], her [[umbrella]] was stolen by a [[Umbrella thief|thief]] [[rabbibunny]]. Giving her back the umbrella, Twinsen learned from Leoen that he could go visit the healing wizard for assistance. When coming to [[Desert Island]] to look for the wizard, Twinsen found Leone in his house, where she told him that the wizard is gone for a while. She also gave him a [[Flask of gallic acid]] for free.
+
+==Quotes==
+{{Quote|
+Quote=Here's the deal. I will tell you how to treat your Dino-Fly, if you would bring back my umbrella. Use your smarts but remember that, in life, haste makes waste...|
+Character=Leone}}
+{{Quote|
+Quote=Ah you are so kind. Go see Ker'aooc the healer on my behalf on Desert Island. I work for him and, believe me, he knows tricks that would cure anything, even a Dino-Fly...|
+Character=Leone}}
+{{Quote|
+Quote=I'm sorry that the healer Ker'aooc is away. When he'll be back is anyone's guess. If it's an emergency, try the School of Magic.|
+Character=Leone}}
+{{Quote|
+Quote=Only the wizards and the initiated know her whereabouts. All I know is that she went into hiding somewhere on the island.|
+Character=Leone}}
+{{Quote|
+Quote=You can borrow this vial, I don't think Master Ker'aooc has much use for it.|
+Character=Leone}}
+{{Quote|
+Quote=I am a little worried, you know. Since he left, Wizard Ker'aooc has not sent any sign of life. I don't like what's going on, this is not his habit.|
+Character=Leone}}
+{{Quote|
+Quote=All I know is that the wizard Ker'aooc has gone on a trip with some of his colleagues. It's the Esmers who invited him!!|
+Character=Leone}}
+{{Quote|
+Quote=|
+Character=Leone}}
+
+[[Category:Spheroes]]
+[[Category:Female characters]]
+[[Category:Small characters]]
+[[Category:Adult characters]]
+[[Category:Desert Island inhabitants]]
