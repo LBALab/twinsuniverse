@@ -4,7 +4,7 @@ title: Rummaging Rabbibunny
 
 {{Character|
 Name=Rummaging rabbibinny|
-Image=Divers.gif|
+Image=DIVERS.gif|
 Race=[[Rabbibunny]]|
 Gender=Male|
 Size=Medium|
