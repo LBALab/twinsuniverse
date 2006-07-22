@@ -5,7 +5,7 @@ title: Dino-Fly
 {{Character|
 Name=Dino-Fly|
 Image=DVDINO.jpg|
-Race=Other|
+Race=Dino-Fly|
 Gender=Male|
 Size=Large|
 Age=Adult}}
