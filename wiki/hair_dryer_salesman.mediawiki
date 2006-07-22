@@ -1,0 +1,35 @@
+---
+title: Hair Dryer Salesman
+---
+
+{{Character|
+Name=Hairdryer salesman|
+Image=Salesman.jpg|
+Race=[[Quetch]]|
+Gender=Male|
+Size=Medium|
+Age=Adult}}
+
+The hairdryer salesman is a pretty lazy quetch, apparently without a name. As the descriptive title may suggest, his job is to sell [[hairdryer|hairdryers]] to the people at various islands on [[Twinsun]]'s [[southern hemisphere]]. The price of the hairdryer may vary, and it would usually depend on how successfull his selling day was.
+Very few is known about this quetch, although it seems that he isn't exactly a chatty person.
+
+==Role in Twinsen's adventure==
+Following [[Baldino]]'s request, [[Twinsen]] went out to search for a hairdryer so that the [[proto-pack]] could be completed. Twinsen met the hairdryer salesman, who sold him a hairdryer for a pretty high price- 30 [[kashes]]. Twinsen was then able to give the hairdryer to Baldino, who in no time at all completed his work on the proto-pack.
+
+==Quotes==
+{{Quote|
+Quote=Can't seem to sell a single hair dryer here. One of my colleagues is already out there trying his best. If this keeps up, I'll have to move on to another island.|
+Character=Hairdryer salesman}}
+{{Quote|
+Quote=30 Kashes for a hair dryer, how about that? I normally sell them door to door, but customers are sparse, and you seem nice enough.|
+Character=Hairdryer salesman}}
+{{Quote|
+Quote=Aah, I see that you too have come to Proxima island. You remember me, I sell hair dryers. Look, I'll sell you one for only 30 Kashes, but only because it's been a slow day.|
+Character=Hairdryer salesman}}
+
+[[Category:Quetches]]
+[[Category:Male characters]]
+[[Category:Medium characters]]
+[[Category:Adult characters]]
+[[Category:Principal Island inhabitants]]
+[[Category:Proxima Island inhabitants]]
