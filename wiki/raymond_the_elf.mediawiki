@@ -1,0 +1,20 @@
+---
+title: Raymond the Elf
+---
+
+{{Character|
+Name=Raymond the Elf|
+Image=DIVERS.gif|
+Race=[[Elf]]|
+Gender=Male|
+Size=Small|
+Age=Kid}}
+
+{{Stub}}
+
+[[Category:Elves]]
+[[Category:Male characters]]
+[[Category:Small characters]]
+[[Category:Kids]]
+[[Category:Hamalayi Mountains inhabitants]]
+[[Category:Articles without an image]]
