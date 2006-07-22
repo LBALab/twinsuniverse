@@ -10,6 +10,12 @@ Gender=Female|
 Size=Medium|
 Age=Adult}}
 
+==Description==
+In a decent, small house at [[Peg Leg Street]], lives Beatrice, a nice female rabbibunny who apparently has no job. Very few is known about Beatrice, except that she has a sister living in the [[Old Burg]], named Julia.
+
+==Role in Twinsen's adventure==
+Perhaps due to her not being wise enough, Beatrice was not able to tell [[Twinsen]] anything about [[Legend of Sendell|the legend]], [[Zoé]]'s whereabouts, or [[LeBorgne]] the pirate. However, she was able to tell Twinsen about the [[clover leaf]] on the island across her house, and about him needing to fly in order to reach it.
+
 ==Quotes==
 {{Quote|
 Quote=My poor friend! I really don't know what you are talking about.|
@@ -23,12 +29,6 @@ Character=[[Julia]]}}
 {{Quote|
 Quote=Go see Beatrice and tell her that Julia sent you. She'll explain all that better than I can. She lives on the outskirts of the Old Burg, in a house next to the sea, on Peg Leg Street.|
 Character=[[Julia]]}}
-
-==Description==
-In a decent, small house at [[Peg Leg Street]], lives Beatrice, a nice female rabbibunny who apparently has no job. Very few is known about Beatrice, except that she has a sister living in the [[Old Burg]], named Julia.
-
-==Role in Twinsen's adventure==
-Perhaps due to her not being wise enough, Beatrice was not able to tell [[Twinsen]] anything about [[Legend of Sendell|the legend]], [[Zoé]]'s whereabouts, or [[LeBorgne]] the pirate. However, she was able to tell Twinsen about the [[clover leaf]] on the island across her house, and about him needing to fly in order to reach it.
 
 [[Category:Rabbibunnies]]
 [[Category:Female characters]]
