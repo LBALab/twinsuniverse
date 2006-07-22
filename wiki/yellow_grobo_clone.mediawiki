@@ -5,7 +5,7 @@ title: Yellow Grobo Clone
 {{Enemy|
 Name=Yellow grobo clones|
 Image=DIVERS.gif|
-Range=Yellow|
+Strength=Yellow|
 Reaction=Move sideways|
 Recovery=0.7 seconds|
 Rate=2 seconds|
