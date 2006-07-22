@@ -10,6 +10,11 @@ Gender=Female|
 Size=Medium|
 Age=Adult}}
 
+Brune is a Rabbibunny who works at the [[Ticket shop (Citadel Island)|Ticket shop]]. She has two kids: the rabbibunny pupil and the [[Umbrella thief|thief]] of the [[umbrella]].
+
+==Role in Twinsen's adventure==
+Like most characters, Brune's only role was to give [[Twinsen]] some hints. In her case, it was about finding [[Raph]] the [[lighthouse]] keeper.
+
 ==Quotes==
 {{Quote|
 Quote=This rain, will it ever end! Between my kids who were supposed to go on a field trip and my oldest son who keeps forgetting his umbrella...I hope that they're not outside in this weather.|
@@ -20,12 +25,6 @@ Character=Brune}}
 {{Quote|
 Quote=The weather is improving. Now the kids can go on their class outing.|
 Character=Brune}}
-
-==Description==
-Brune is a Rabbibunny who works at the [[Ticket shop (Citadel Island)|Ticket shop]]. She has two kids: the rabbibunny pupil and the [[Umbrella thief|thief]] of the [[umbrella]].
-
-==Role in Twinsen's adventure==
-Like most characters, Brune's only role was to give [[Twinsen]] some hints. In her case, it was about finding [[Raph]] the [[lighthouse]] keeper.
 
 [[Category:Rabbibunnies]]
 [[Category:Female characters]]
