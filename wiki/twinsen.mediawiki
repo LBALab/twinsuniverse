@@ -1,0 +1,19 @@
+---
+title: Twinsen
+---
+
+{{Character|
+Name=Twinsen|
+Image=TWINSEN.jpg|
+Race=[[Quetch]]|
+Gender=Male|
+Size=Medium|
+Age=Adult}}
+
+{{Stub}}
+
+[[Category:Quetches]]
+[[Category:Male characters]]
+[[Category:Medium characters]]
+[[Category:Adult characters]]
+[[Category:Citadel Island inhabitants]]
