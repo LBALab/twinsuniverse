@@ -1,0 +1,20 @@
+---
+title: Rummaging Rabbibunny
+---
+
+{{Character|
+Name=Rummaging rabbibinny|
+Image=Divers.gif|
+Race=[[Rabbibunny]]|
+Gender=Male|
+Size=Medium|
+Age=Adult}}
+
+{{Stub}}
+
+[[Category:Rabbibunnies]]
+[[Category:Male characters]]
+[[Category:Medium characters]]
+[[Category:Adult characters]]
+[[Category:Citadel Island inhabitants]]
+[[Category:Articles without an image]]
