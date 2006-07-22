@@ -1,0 +1,16 @@
+---
+title: The Tralü
+---
+
+{{Character|
+Name=Tralü|
+Image=DVTRALU.jpg|
+Race=Tralü|
+Gender=Unknown|
+Size=Large|
+Age=Unknown}}
+
+{{Stub}}
+
+[[Category:Large characters]]
+[[Category:Citadel Island inhabitants]]
