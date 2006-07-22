@@ -1,0 +1,19 @@
+---
+title: Dino-Fly
+---
+
+{{Character|
+Name=Dino-Fly|
+Image=DVDINO.jpg|
+Race=Other|
+Gender=Male|
+Size=Large|
+Age=Adult}}
+
+{{Stub}}
+
+[[Category:Male characters]]
+[[Category:Large characters]]
+[[Category:Adult characters]]
+[[Category:Citadel Island inhabitants]]
+[[Category:Tippett Island inhabitants]]
