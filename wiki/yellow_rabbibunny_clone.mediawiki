@@ -1,0 +1,20 @@
+---
+title: Yellow Rabbibunny Clone
+---
+
+{{Enemy|
+Name=Yellow rabbibunny clones|
+Image=DIVERS.gif|
+Range=Yellow|
+Reaction=Falls backwards|
+Recovery=5 seconds|
+Rate=1 second|
+Damage=4%|
+Range=32 paces|
+Speed=10.8kph maximum}}
+
+{{Stub}}
+
+[[Category:Rabbibunny clones]]
+[[Category:Yellow enemies]]
+[[Category:Articles without an image]]
