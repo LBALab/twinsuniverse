@@ -7,7 +7,7 @@ Quote=Lucky Clover Leaf: using this clover leaf will use up one of your chances 
 Character=Inventory description}}
 
 ==Description==
-'''The clover leaves'', as the inventory description may suggest, enable one to have another opportunity of a life. Each clover leaf represent one life of the person. Once running out of these precious leaves, the person passes away and dies. Each clover is stored in its own boxes, and therefore, one cannot own more leaves than boxes. By retrieving additional clover boxes, it is possible to own more leaves, thus having more opportunities to live.
+'''The clover leaves''', as the inventory description may suggest, enable one to have another opportunity of a life. Each clover leaf represent one life of the person. Once running out of these precious leaves, the person passes away and dies. Each clover is stored in its own boxes, and therefore, one cannot own more leaves than boxes. By retrieving additional clover boxes, it is possible to own more leaves, thus having more opportunities to live.
 
 ==Role in Twinsen's adventures==
 Nobody's perfect, not even [[Twinsen]]. Our hero was not able to complete his adventure without receiving some strikes and hits from his rivals. To compensate for the damage lost by these hits, [[life candies]] were not enough, and the brave [[quetch]] had to use clover leaves as well. By using them, it ensured him a a safe journey in his quests. Without them, it is doubtful Twinsen would have made it in defeating the evil [[FunFrock]] in his two adventures.
