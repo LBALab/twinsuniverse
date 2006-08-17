@@ -9,7 +9,7 @@ Character=A selling machine}}
 ==Description==
 Usually found in local bazaars and plants or garbage cans, the '''magic flasks''' enable a person replenishing some of his magic level. Depending on how much powder the flask found contains, the magic level will increase upon retrieving such a flask. These bottles can be found almost anywhere around [[Twinsun]] or [[Zeelich]], either by searching through garbage can and plants, or by buying them from local bazaars.
 
-==Role in Twinsen's adventure==
+==Role in Twinsen's adventures==
 Using the [[magic ball]], the [[protection spell]] or the [[ring of lightning]], consumed a certain amount of magic. So that he could replenish his magic supply, [[Twinsen]] had to retrieve the flasks containing magic powder. Once completely running out of magic powder, Twinsen was not able to bounce his magic ball, or use the protection spell. For the ring of lightning, the [[quetch]] was required to have a full magic capacity.
 
 The amount of magic Twinsen could store increased among with his level of magic.
