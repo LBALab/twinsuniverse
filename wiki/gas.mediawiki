@@ -1,0 +1,18 @@
+---
+title: Gas
+---
+
+<small>This article is about the gas used for travels. For the Zeelichian layers, see [[Surface]] and [[Under-gas]]</small>
+
+{{Quote|
+Quote=Gas, extract of molasses. You cannot use vehicles when your gas gauge is at zero.|
+Character=Gas description}}
+
+==Description==
+These cans of '''gas''', found often around the planet, are made of molasses, a thick and dark syrup produced during the refining of sugar. In case a person wishes to travel from one location to another with the aid of a buggy, a gas can is required for the trip. Without gas, it is impossible to travel. The gas cans can be bought in most bazaars, and can even be found, although rather rarely, for free in several places.
+
+==Role in Twinsen's adventure==
+Wishing to travel from one location to another, especially on large islands such as [[Principal Island|Principal]] or [[Rebellion Island|Rebellion Island]], Twinsen was required to use these cans of gas. He could buy them from the local bazaars of the islands, or also find them for free in some points, such as the [[water tower]] or the [[rebel camp]]. He also used for inter-island trips at some points around the [[northern hemisphere]], before finding [[Dino-Fly]].
+
+[[Category:Objects]]
+[[Category:Articles without an image]]
