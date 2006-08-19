@@ -1,0 +1,27 @@
+---
+title: Magic Flute
+---
+
+[[Image:Screenshot-lba1-movies-09-white_leaf_desert_flute-02.jpg|right|200px]]
+
+{{Quote|
+Quote=Magic Flute. The enchanted melodies produced by this instrument can melt frozen Clear Water and make flowers grow in the desert.|
+Character=Official description}}
+
+==Description==
+'''The Magic Flute''', as may be understood from its name, is a flute with magic powers. Its magic is expressed in two ways: melting frozen water, and growing flowers in the desert.
+
+==Role in Twinsen's adventure==
+[[Twinsen]] found the flute under one of the [[Runic Stones]] in [[Proxima Island]]. However, he did not find any use for it until later on in his quests, when reaching [[Clear Water Lake]] in the [[Himalayi Mountains]]. There, he had to melt the frozen water in order to obtain a [[flask of clear water]], one of the four elements of [[Legend of Sendell|prophecy]]. With the aid of the flute, Twinsen melted the frozen water.
+
+Later on, Twinsen had to bring a [[space guitar]] to a band playing in the [[Twinsun Café]]. Finding no further use for the flute, Twinsen traded it with the old [[rabbibunny]] in the [[White Leaf Desert|desert]] for his guitar. With the flute, the old rabbibunny was able to fulfill an old dream of his- grow flowers in the desert.
+
+==Additional quotes==
+{{Quote|
+Quote=If you play the flute there, you will find an important element of the prophecy.|
+Character=[[Raymond the Elf]], talking about the Clear Water Lake}}
+{{Quote|
+Quote=I'll give you my guitar in exchange for the flute that you possess Twinsen, beforehand, though, you will have play it next to the Clear Water Lake in order to obtain the 4th magical symbol.|
+Character=Wise rabbibunny}}
+
+[[Category:Magical items]]
