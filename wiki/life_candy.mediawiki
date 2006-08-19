@@ -1,0 +1,24 @@
+---
+title: Life Candy
+---
+
+[[Image:Tridna.jpg|right|200px]]
+
+{{Quote|
+Quote=10 Life points! Cool!|
+Character=[[Twinsen]]}}
+
+==Description==
+Made to look like hearts, these '''life candies''' contain a special genetic stimulant that triggers a re-growth of any damaged part of the body. Because the stimulant gets used up as it works, each capsule only allows a slight recovery of health. As such, they are used to heal minor injuries, and generally increase a person's stamina.
+
+Because of the cheap, widely available nature of the medicine, there is little sickness or disability on [[Twinsun]].
+
+==Role in Twinsen's adventures==
+The life candies were used by Twinsen whenever he needed to recover health. They are one of the 3 main collectable items on Twinsun.
+
+==Additional quotes==
+{{Quote|
+Quote=Life candy: do you want 10 hearts for 10 Kashes?|
+Character=A random vending machine}}
+
+[[Category:Consumables]]
