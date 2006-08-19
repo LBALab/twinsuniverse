@@ -1,0 +1,19 @@
+---
+title: Zlito
+---
+
+[[Image:Zlito.gif|right]]
+
+{{Quote|
+Qutoe=It is the exchange currency of planet Zeelich. With it, you can buy the articles you are interested in on planet Zeelich.|
+Character=Official description}}
+
+==Description==
+'''Zlitos''' are the [[currency]] of [[Zeelich]], planet of the [[esmers]]. The esmers use them to buy anything they're interested in.
+
+However, unlike the [[kashes]] in [[Twinsun]], it is much less likely to find Zlitos by searching rubbish bins and plants.
+
+==Role in Twinsen's adventure==
+With the Zlitos, [[Twinsen]] bought anything he was interested in on Zeelich.
+
+[[Category:Currencies]]
