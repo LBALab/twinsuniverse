@@ -1,0 +1,34 @@
+---
+title: Gem
+---
+
+[[Image:Gem.gif|right]]
+
+{{Quote|
+Quote=The gems are commonly used by the Francos to produce gazogem. But you can use it to pay for the ferryman's services.|
+Character=Official description}}
+
+==Description==
+'''Gems''' can be found in the [[Gems Mine]] in the [[Wannies Island]]. The [[Wannies]] mine them, and the [[Francos]] extract them into the [[Zeelich|Zeelichian]] fuel, called [[gazogem]].
+
+==Role in Twinsen's adventure==
+In order to reach [[Island CX]], Twinsen first had to go to the [[Island of the Mosquibees]]. His only way to do this was by calling the [[ferryman]], who is the only link between the islands of the [[under-gas]]. The ferryman charged Twinsen four gems every time he took him somewhere.
+
+==Additional quotes==
+{{Quote|
+Quote=Wannie representative. The race of the Wannies lives in the under-gas. They are the workers of the gem mine, from which gazogem is made. The mine is being run by the Building Company, under imperial supervision.|
+Character=Plaque at [[Dark Monk's temple]]}}
+{{Quote|
+Quote=Franco representative. The Francos live on the island of the Francos, (what a surprise!), which is enshrouded by the gas swarming with monsters. The Francos refine the gems extracted in the under-gas, and turn them into gazogem, usable by all the vehicles of Zeelich.|
+Character=Plaque at Dark Monk's temple}}
+{{Quote|
+Quote=Ferryman if you please,<br>take me across the raging seas,<br>for a few gems, I take your boat,<br>I cannot swim, I cannot float!!|
+Character=The [[Ferryman's Song]]}}
+{{Quote|
+Quote=I don't have enough gems.|
+Character=Twinsen}}
+{{Quote|
+Quote=Whoever wants to cross the ocean of fire must pay the price. Four gems is the fare. Where do you want to go?|
+Character=[[The ferryman]]}}
+
+[[Category:Currencies]]
