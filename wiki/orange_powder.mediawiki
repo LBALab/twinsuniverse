@@ -1,0 +1,16 @@
+---
+title: Orange Powder
+---
+
+{{Quote|
+Quote=Now that you are a wizard, I can sell you some orange powder. It costs 10 Kashes, and will recharge you in Magic and Life Points.|
+Character=[[Chedil Amiradoo]]}}
+
+==Description==
+The '''orange Powder''' is a special powder that allows recharging [[magic points|magic]] and [[life points]] to full capacity. Only fully qualified wizards are able to buy this powder, and it is sold by Chedil Amiradoo, who also sells various wizards' accessories.
+
+==Role in Twinsen's adventures==
+[[Twinsen]] didn't have to buy the powder, but it was quite useful when his life and magic points were going low. Also, the price is rather cheap.
+
+[[Category:Consumables]]
+[[Category:Articles without an image]]
