@@ -29,7 +29,10 @@ Character=Chedil Amiradoo}}
 {{Quote|
 Quote=Ah, you must be Twinsen. Congratulations for passing your examination. If you want a magician's tunic it'll only cost you 50 kashes. We'll throw in a false beard to make you look like an old magician. Interested?|
 Character=Chedil Amiradoo}}
-{{QuoteNow that you are a wizard, I can sell you some orange powder. It costs 10 Kashes, and will recharge you in Magic and Life Points.|
+{{Quote|
+Quote=Now that you are a wizard, I can sell you some orange powder. It costs 10 Kashes, and will recharge you in Magic and Life Points.|
+Character=Chedil Amiradoo}}
+{{Quote|
 Quote=I know where it is, but I don't have the right to tell you.|
 Character=Chedil Amiradoo}}
 {{Quote|
