@@ -1,0 +1,26 @@
+---
+title: Ring of Lightning
+---
+
+[[Image:Lightning.gif|right]]
+
+{{Quote|
+Quote=Be careful, the devastating power of this ring consumes a great deal of Magic.|
+Character=Official description}}
+
+==Description==
+When the appropriate level of magic is mastered, the '''Ring of Lightning''' possesses the ability to kill all enemies visible in sight. Even though one may have only the lowest level of magic when first retrieving this ring, this ring can later upgrade to red and fire level as the level of magic grows.
+This ring requires full [[magic points]], and consumes all when used. Therefore, it cannot be applied too often.
+
+==Role in Twinsen's adventure==
+[[Twinsen]] had to meet [[Jerome Baldino]] on [[Emerald Moon]], but in order to do that, he needed a new level of magic if he wanted to be able to defeat the [[esmers]]. The way to obtain the new level of magic was by releasing the [[Ball of Sendell]] from its locked cage. Twinsen needed a Lightning Spell in order to retrieve it, but to get such a spell, he was first required to drop a [[Pearl of Incandescence]] into the [[Weather Wizard]]'s cauldron, a pearl which he obtained from [[Cave of the Pearl of Incandescence|a cave on Desert Island]]. Once dropping the pearl in the cauldron, he received the Ring of Lightning and thus could then travel to the chamber where Sendell's Ball was placed, and break the cage that locked it.
+
+==Additional quotes==
+{{Quote|
+Quote=You just found the Ring of Lightning! Use it to find Sendell's Ball.|
+Character=A voice Twinsen heard when finding the spell}}
+{{Quote|
+Quote=By dipping this pearl in the Weather Wizard's cauldron, you will be able to create a ring of lightning.|
+Character=Official description of the Pearl of Incandescence}}
+
+[[Category:Magical items]]
