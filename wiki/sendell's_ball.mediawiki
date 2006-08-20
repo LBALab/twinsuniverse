@@ -25,4 +25,4 @@ Character=A voice Twinsen heard when finding the ball}}
 Quote=Twinsen...Oh Twinsen, it's me, Sendell!!! Twinsen, a cosmic cataclysm is on its way!!! The moon has started to move! Soon, it is going to hurl itself against Twinsun, destroying our planet!!! You must stop Dark Monk and prevent him from using that infernal machine he built inside the statue. With it, he could attract and steal the energy that we could use to stop the moon!!! You must get the four key fragments, which are used in the ceremony and are protected by the Esmer races. With these fragments the statue of Dark Monk will emerge from the crater!! Once you stop Dark Monk, you will have to come back to Twinsun and, in the Well of the Sendells, I will help you stop the moon!!|
 Character=Sendell, talking to Twinsen through the ball}}
 
-[[Category:Magicl items]]
+[[Category:Magical items]]
