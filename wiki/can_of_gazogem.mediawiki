@@ -1,0 +1,40 @@
+---
+title: Can of Gazogem
+---
+
+[[Image:Can of gazogem.gif|right]]
+
+{{Quote|
+Quote=After you give it to Jerome, this can of gazogem will allow your friend to turn your proto-pack into a super-jetpack.|
+Character=Official description}}
+
+==Description==
+'''Gazogem''' is refined by the [[Francos]] at the [[Gazogem Refinery]], using [[gems]] mined by the [[Wannies]]. It is produced using the gems mined by the Wannies in the [[Undergas]]. The fuel is sold in the [[Otringal]] [[gas station]], and delivered to the other Zeelichian islands by tankers.
+
+==Role in Twinsen's adventure==
+After leaving [[Emerald Moon]], [[Baldino]] and [[Twinsen]] crashed on a small isle of Otringal. Jerome needed Gazogem to fix the spaceship, as well as to improve Twinsen's [[proto-pack]]. Twinsen thus had to go up to the Otringal gas station where he was told by a nearby salesman that no more of this fuel was available at the station, and that a tanker would later arrive from the [[Island of the Francos]] to refill the bunker, but would not do so for a while. For these reasons, Twinsen had to go to the Island of the Francos, and retrieve a gazogem can from the refinery. After bringing the can of gazogem to Jerome, the grobo was able to fix his space shuttle, and power up Twinsen's proto-pack to a [[super jet-pack]].
+
+==Trivia==
+It's called gazogem because it is made of gems. The French translation would be "gaz au gemmes," hence the name.
+
+==Additional quotes==
+{{Quote|
+Quote=You just found a can of Gazogem. This fuel will allow you to get your new super jet-pack.|
+Character=When Twinsen found the can}}
+{{Quote|
+Quote=The gems are commonly used by the Francos to produce gazogem. But you can use it to pay for the ferryman's services.|
+Character=Official description of the gems}}
+{{Quote|
+Quote=I'd like to buy some gazogem.|
+Character=Twinsen}}
+{{Quote|
+Quote=Twinsen, I damaged the vessel during landing. I need some time for repairs. The Zeelichian fuel is called gazogem, it's very powerful. You should go get some.|
+Character=Jerome Baldino}}
+{{Quote|
+Quote=Of course, but I will need this gazogem sooner or later. Besides, it will allow me to transform your protopack and increase its performance.|
+Character=Jerome Baldino}}
+{{Quote|
+Quote=Out of order, no gazogem|
+Character=A sign at the gas station}}
+
+[[Category:Objects]]
