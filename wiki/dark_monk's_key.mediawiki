@@ -1,0 +1,29 @@
+---
+title: Dark Monk's Key
+---
+
+[[Image:Darkkey.gif|right]]
+
+{{Quote|
+Quote=Once the four fragments are reunited, you will have the key to Dark Monk's temple. According to the prophecy, it will allow you to make the statue come out of the volcano's crater, and to open the doors of the temple built in it.|
+Character=Official description}}
+
+==Description==
+'''Dark Monk's key''' is made of the union of the four fragments of the [[Esmer]] races. Once placing it upon the sacred alter of [[Dark Monk's temple]], [[Dark Monk's statue|the idol's statue]] will appear, accompanied by lightning and fancy lava ignitions, which will eventually complete the ceremony.
+
+==Role in Twinsen's adventure==
+After [[Twinsen]] retrieved all four key fragments, he reunited them to obtain Dark Monk's key. Upon completing this quest, he also received the last level of magic, giving him the ability to cast [[Magic ball|fire balls]]. Following [[Dark Monk's prophecy|the prophecy]] and other rumors that he heard of, Twinsen travelled to the [[Island of the Celebration]]. Once there, he entered the Temple of Dark Monk and placed the key on an alter that is surrounded by the four statues of the Esmer races. The giant statue of the worshipped god teared through the ground, bringing the idol of Dark Monk with him. Twinsen steped out of the temple, and was then forced to engage the god in a gruesome conflict.
+
+==Additional quotes==
+{{Quote|
+Quote=You now own the key to Dark Monk's temple. Plus you just reached your last level of magic: Fire Ball.|
+Character=When Twinsen has completed the key}}
+{{Quote|
+Qutoe=Once, long ago, our god, Dark Monk, condemned us, the people of Zeelich, to live forever on our planet which he then turned into hell to make it seem more of a real condemnation. Each of the four races received a fragment of a key. These must be reunited during a great ceremony. And when our people have atoned for their sins, Dark Monk will rid us of the curse and give Zeelich back its original appearance. Today, he's returned and we all await the next and lat ceremony. Twinsen, do not dare interfere with the religious practice of our people.|
+Character=[[Dark Monk's priest]]}}
+{{Quote|
+Quote=You must get the four key fragments, which are protected by the Esmer races. With these fragments the statue of Dark Monk will emerge from the crater!!|
+Character=[[Sendell]]}}
+
+[[Category:Objects]]
+[[Category:Dark Monk's key|*]]
