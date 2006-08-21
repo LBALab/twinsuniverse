@@ -19,7 +19,7 @@ After [[Twinsen]] retrieved all four key fragments, he reunited them to obtain D
 Quote=You now own the key to Dark Monk's temple. Plus you just reached your last level of magic: Fire Ball.|
 Character=When Twinsen has completed the key}}
 {{Quote|
-Qutoe=Once, long ago, our god, Dark Monk, condemned us, the people of Zeelich, to live forever on our planet which he then turned into hell to make it seem more of a real condemnation. Each of the four races received a fragment of a key. These must be reunited during a great ceremony. And when our people have atoned for their sins, Dark Monk will rid us of the curse and give Zeelich back its original appearance. Today, he's returned and we all await the next and lat ceremony. Twinsen, do not dare interfere with the religious practice of our people.|
+Quote=Once, long ago, our god, Dark Monk, condemned us, the people of Zeelich, to live forever on our planet which he then turned into hell to make it seem more of a real condemnation. Each of the four races received a fragment of a key. These must be reunited during a great ceremony. And when our people have atoned for their sins, Dark Monk will rid us of the curse and give Zeelich back its original appearance. Today, he's returned and we all await the next and lat ceremony. Twinsen, do not dare interfere with the religious practice of our people.|
 Character=[[Dark Monk's priest]]}}
 {{Quote|
 Quote=You must get the four key fragments, which are protected by the Esmer races. With these fragments the statue of Dark Monk will emerge from the crater!!|
