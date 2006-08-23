@@ -3,7 +3,7 @@ title: Francos Fragment
 ---
 
 {{Quote|
-Quote=This fragment of the Franco`s key is one of the elements which will permit you to piece together the key to Dark Monk`s temple.|
+Quote=This fragment of the Franco's key is one of the elements which will permit you to piece together the key to Dark Monk's temple.|
 Character=Official description}}
 
 ==Description==
