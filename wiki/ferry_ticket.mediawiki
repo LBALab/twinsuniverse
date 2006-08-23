@@ -1,0 +1,31 @@
+---
+title: Ferry Ticket
+---
+
+[[Image:Ticket.gif|right]]
+
+{{Quote|
+Quote=This ticket allows you to travel aboard the ferry which links Citadel Island and White Leaf Desert Island.|
+Character=Official description}}
+
+==Description==
+The '''ferry ticket''' is used for travelling from one island to another around [[Twinsun]]'s [[Southern Hemisphere]]. It can be bought in shops near the islands' harbours, and once shown to the [[ferry captain]], one may board and travel to another island.
+
+The ticket is coloured red and yellow, with the letter IIF on it, standing for Inter-Island Ferries.
+
+==Role in Twinsen's adventures==
+During his two adventures, [[Twinsen]] had to travel from island to island a lot. Until buying the catamaran, or finding/healing [[Dino-Fly]], his way to travel was by ferry. The cost of the ticket varied, depending on where Twinsen bought it.
+
+At the beginning of his first adventure, Twinsen escaped the [[citadel]], and therefore when he spoke to the ticket seller, the latter called a [[grobo clone]] that shot Twinsen, sending him back to the Citadel. Twinsen's way of achieving a ticket then was to complete a sokoban-like puzzle for a sailor [[grobo]], who in return gave Twinsen a counterfeit ticket.
+
+In case Twinsen happened to have a ticket with him when arriving on [[Zeelich]], he could sell it at the [[Twinsunian Souvenir Shop]].
+
+==Additional quotes==
+{{Quote|
+Quote=You need a ticket to board the ferry, Mr. Twinsen.|
+Character=[[Mr. Paul]]}}
+{{Quote|
+Quote=Your ticket is in order, Mr. Twinsen, you may board. Have a nice trip!|
+Character=Mr. Paul]]}}
+
+[[Category:Objects]]
