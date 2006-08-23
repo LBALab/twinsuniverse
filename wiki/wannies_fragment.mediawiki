@@ -17,7 +17,7 @@ After picking up the Wannies Fragment, Twinsen heard a voice speaking to him. It
 
 ==Additional quotes==
 {{Quote|
-Qutoe=But it's you who took our fragment. You don't realize what you have done. Listen carefully.|
+Quote=But it's you who took our fragment. You don't realize what you have done. Listen carefully.|
 Character=[[Dark Monk's priest]]}}
 {{Quote|
 Quote=The time of the ceremony is near. Now that you have taken our fragment, Dark Monk will not chase the monsters of the gas or the cloud which blankets Zeelich!|
