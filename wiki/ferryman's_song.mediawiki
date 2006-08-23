@@ -24,7 +24,7 @@ Later on, Twinsen used the song again in order to call the ferryman when on the 
 Quote=If you sing it at the end of the ferryman's wharf, you will see him emerge from the mist and come to offer to take you to another island.|
 Character=Official description}}
 {{Quote|
-Qutoe=Of course, it's fairly simple. You have to pay him in gems if you want him to take you. But first you have to call him. To do that, you have to stand at the end of the ferryman's pier and call him with this song. Listen to me and don't forget.|
+Quote=Of course, it's fairly simple. You have to pay him in gems if you want him to take you. But first you have to call him. To do that, you have to stand at the end of the ferryman's pier and call him with this song. Listen to me and don't forget.|
 Character=Annie}}
 
 [[Category:Objects]]
