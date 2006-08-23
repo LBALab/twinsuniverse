@@ -1,0 +1,30 @@
+---
+title: Ferryman's Song
+---
+
+[[Image:Song.gif|right]]
+
+{{Quote|
+Quote=Ferryman if you please,<br>
+Take me across the raging seas,<br>
+For a few gems, I take your boat,<br>
+I cannot swim, I cannot float!!|
+Character=The Ferryman's Song}}
+
+==Description==
+'''The Ferryman's Song''' is a song used in order to call [[The Ferryman]] in [[Zeelich]]'s [[undergas]]. The ferryman is the only way of inter-island transportation around the Undergas.
+
+==Role in Twinsen's adventure==
+In order to destroy the lunar reactors that controlled the [[Emerald Moon]], [[Twinsen]] had to get to [[Island CX]] before [[Twinsun]] exploded. However, since the only possible way to get to Island CX was through the [[Mosquibees Island]], Twinsen had to find a way of reaching the [[Queen Astrid]] and asking her to open up the door that lead to Island CX. So, Twinsen went to the [[Island of the Wannies]], where he asked [[Annie]], the housemaid of [[Dark Monk's priest]] how to get to the [[Mosquibees]]. The housemaid told Twinsen that he has to call the ferryman, and taught him the Ferryman's Song. Twinsen then went to the [[Ferryman's Lane]], and sang the song to call the Ferryman.
+
+Later on, Twinsen used the song again in order to call the ferryman when on the Mosquibees Island or at the [[Island Below Celebration]].
+
+==Additional quotes==
+{{Quote|
+Quote=If you sing it at the end of the ferryman's wharf, you will see him emerge from the mist and come to offer to take you to another island.|
+Character=Official description}}
+{{Quote|
+Qutoe=Of course, it's fairly simple. You have to pay him in gems if you want him to take you. But first you have to call him. To do that, you have to stand at the end of the ferryman's pier and call him with this song. Listen to me and don't forget.|
+Character=Annie}}
+
+[[Category:Objects]]
