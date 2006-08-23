@@ -31,7 +31,7 @@ Character=A treasure hunter}}
 Quote=This Roger de la Fontaine, he used to go pretty close to the gas. Could well be where he hid it, our fragment!!|
 Character=[[Valentine]]}}
 {{Quote|
-Qutoe=Taking the size of the island, its geological structure and wind direction into account. I have concocted a potion which should allow me to precisely determine the location of the fragment! Unfortunately...I uh, lost the vial.|
+Quote=Taking the size of the island, its geological structure and wind direction into account. I have concocted a potion which should allow me to precisely determine the location of the fragment! Unfortunately...I uh, lost the vial.|
 Character=[[Kurtz]]}}
 {{Quote|
 Quote=Because of this lost fragment nonsense, everyone is looking for it. So they leave their little rug rats with me all day long. They just don`t stop bawling...I`m going to look for another job soon.|
@@ -43,6 +43,6 @@ Character=A drunk franco}}
 Quote=You have to be crazy to believe all these stories of fragment hunting. me, I think Roger lost it at home before getting eaten by a monster. What are you gonna do?, at least its good for business.|
 Character=[[Franckie]]}}
 
-[[Category:Objecs]]
+[[Category:Objects]]
 [[Category:Dark Monk's key]]
 [[Category:Articles without an image]]
