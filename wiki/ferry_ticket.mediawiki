@@ -23,7 +23,7 @@ In case Twinsen happened to have a ticket with him when arriving on [[Zeelich]],
 ==Additional quotes==
 {{Quote|
 Quote=You need a ticket to board the ferry, Mr. Twinsen.|
-Character=[[Mr. Paul]]}}
+Character=[[Mr. Paul}}
 {{Quote|
 Quote=Your ticket is in order, Mr. Twinsen, you may board. Have a nice trip!|
 Character=Mr. Paul]]}}
