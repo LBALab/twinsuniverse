@@ -1,0 +1,35 @@
+---
+title: Holomap
+---
+
+[[Image:Holomap.gif|right]]
+
+{{Quote|
+Quote=Holomap (H) key. The Holomap shows your position on the planet. The arrows represent important places that were pointed out to you during your quest. They will disappear once you have completed your task in each of the corresponding places. The Holomap rotates by pressing simultaneously (CTRL) and the arrow keys. By pressing only the arrow keys, you can scroll through text corresponding to the arrows visible on the Holomap.|
+Character=Official description}}
+
+==Description==
+The '''Holomap''' is a 3-Dimensional map that shows the exact position of the person using it. It can show the whole planet, or just the island the person is on while viewing it. This object also provides arrows pointing to places where the owner needs to go to.
+
+==Role in Twinsen's adventures==
+The Holomap was not a necessary object in both of [[Twinsen]]'s adventures, but he did find it extremely useful. Any time Twinsen got lost, or had a new target location, he could just look at the Holomap, and see where exactly he had to go.
+
+==Unconfirmed Theories==
+In Twinsen's second adventure, the map could show a zoom on islands, as well as showing the whole planet, unlike the Holomap at his first adventure, that could show only the whole planet. That's weird, because nobody has improved the Holomap since Twinsen's first adventure.
+
+Also, in his first adventure, the characters seem to know about the Holomap. Many characters Twinsen met told him that a new location is shown on his map. In his second adventure, howerver, no one has ever mentioned the Holomap.
+
+==Additional quotes==
+{{Quote|
+Quote=You've just rediscovered your Holomap! You can use it by going through your inventory with the (SHIFT) key or access it directly with the (H) key.|
+Character=When Twinsen found the holomap in the [[Citadel]]}}
+
+{{Quote|
+Quote=You just found your Holomap! To use it, look at the inventory by pressing <Shift> or simply press <Tab>.|
+Character=When Twinsen found the holomap in [[Twinsen's house|his house]]}}
+
+{{Quote|
+Quote=The Holomap is a 3-D map system. You may use several zoom factors to determine your position on the planet. There are also arrows which can point to the location of tasks to be accomplished, after some characters have given you certain information.|
+Character=Official description}}
+
+[[Category:Objects]]
