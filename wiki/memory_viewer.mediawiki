@@ -1,0 +1,22 @@
+---
+title: Memory Viewer
+---
+
+[[Image:Viewer.gif|right]]
+
+{{Quote|
+Quote=The memory viewer allows you to review the sequences which have punctuated your adventure.|
+Character=Official description}}
+
+==Description==
+The memory viewer enables viewing certain experiences in the owner's life. This is a small red binoculars device.
+
+==Role in Twinsen's adventure==
+The memory viewer did not play a vital role in [[Twinsen]]'s adventure, but it could come in handy at some points. With it, Twinsen could view movies he experienced earlier in his adventure. Twinsen could find this viewer in [[Baldino's house]] after the [[Esmers]] invaded the planet, or at the [[Twinsunian Souvenir Shop]] on [[Otringal]], available for 30 zlitos.
+
+==Additional quotes==
+{{Quote|
+Quote=A memory viewer costs 30 Zlitos.|
+Character=Seller at the shop}}
+
+[[Category:Objects]]
