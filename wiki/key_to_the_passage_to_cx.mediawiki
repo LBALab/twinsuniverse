@@ -27,5 +27,5 @@ Character=When Twinsen received the key}}
 Quote=You are now welcome in the village of the Mosquibees and we will help you reach the island CX. I not only own the key to the passage which leads there, I will also open the doors for you as soon as we arrive!!|
 Character=Queen Astrid}}
 
-[[Category:Obejcts]]
+[[Category:Objects]]
 [[Category:Articles without an image]]
