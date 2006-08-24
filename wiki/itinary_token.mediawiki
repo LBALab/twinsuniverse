@@ -1,0 +1,29 @@
+---
+title: Itinary Token
+---
+
+{{Quote|
+Quote=The travel token allows to program the destination of an Esmer shuttle. Without it, the spacecraft cannot take off.|
+Character=Official description}}
+
+==Description==
+The '''itinary tokens''' are used for [[Esemers]] shuttles. Without these tokens, the shuttles can't take off. These disc-shaped tokens have to be placed inside a device placed on any common Esmers shuttle in order to launch those.
+
+==Role in Twinsen's adventure==
+The first time [[Twinsen]] found the need of an Itinary Token was when leaving [[Zeelich]] for the first time. After escaping two [[Franco guards]], he entered [[Otringal]]'s [[Astroport]], where he had to climb to the top of the tower. Once there, he had to defeat all technicians working at the tower, as well as a franco guard. After obtaining the desired token, Twinsen made his way back to a shuttle that stood at the port, and placed the travel token inside the device mentioned previously. Once doing that, he could safely make his way back to his home planet, landing at the [[Ridge of the Flowers Circle]].
+
+The second time Twinsen needed such a token was when leaving [[Island CX]] and going back to [[Otringal]]. He obtained this token from a tower very similar to the Astroport at Otringal. Once doing that, the quetch had to make his way through the dangerous island, until reaching the Emsers shuttle that stood in the corner. He could then make his way back to Otringal, landing just next to the [[Emperor's Palace]].
+
+==Unconfirmed theories==
+Twinsen obtained two Itinary Tokens during his second adventure. In both places, there was only one token. It is unknown where all other travelers got their token from, although it can be assumed that the Esmers provided them with these tokens.
+
+==Additional quotes==
+{{Quote|
+Quote=You have found a itinary token. You can now use an Esmer shuttle.|
+Character=When Twinsen found a token}}
+{{Quote|
+Quote=There's a piece missing here, something disc-shaped. I guess it allows the shuttle to take off.|
+Character=Twinsen}}
+
+[[Category:Objects]]
+[[Category:Articles without an image]]
