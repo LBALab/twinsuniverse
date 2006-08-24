@@ -1,0 +1,18 @@
+---
+title: Hair Dryer
+---
+
+{{Quote|
+Quote=I've been working on a Jet-Pack prototype for days now. It's a small reactor that harnesses onto your back and allows you to fly about. My problem is that my last test flight wreaked a bit of havoc on the garden wall. It is rather difficult to fine tune the motor's power. I need a rheostat like the one you find in a hair dryer. Do you think you can find one of those for me?|
+Character=[[Jerome Baldino]]}}
+
+==Description==
+This '''hair dryer''' is just a rather common hair dryer, used to dry one's hair. By blowing hot air, this device ensures a dry, smooth hair. They are quite unpopular around [[Twinsun]], making the life of the poor [[hair dryer salesman]] rather difficult. If anyone is interested in buying one though, then it is quite likely to meet the salesman at your local island.
+
+==Role in Twinsen's adventure==
+In a search for a way to walk around the [[Maritime Museum]] in complete safety, [[Twinsen]] came across [[Jerome Baldino's residence]], where he heard about the [[grobo]]'s plans of building a [[proto-pack]]. Understanding that this would ensure him flying around the museum without touching the floor, Twinsen was ready to fullfill any of Baldino's requests in order to complete the proto-pack. Since Baldino told Twinsen that he would need a rehostat like the one found in hair dryers, the [[quetch]] went out on his way searching for one.
+
+In no time at all, Twinsen came back to Baldino's, possessing a hair dryer he was able to buy for 30 [[kashes]] from the hair dryer salesman. Twinsen handed Baldino the hair dryer, and the latter completed in a short time his work on the proto-pack. Being a bit confused maybe, the grobo suggested Twinsen 10 kashes in order to test the proto-pack. Twinsen, of course, agreed to the deal, and was thus the proud owner of a proto-pack. The quetch was then able to fly around the museum in complete safety, without being caught by the [[clones]].
+
+[[Category:Objects]]
+[[Category:Articles without an image]]
