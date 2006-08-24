@@ -18,3 +18,4 @@ Quote=If you give me back my coffee maker, I'll give you a list of certain place
 Character=Lanktir}}
 
 [[Category:Objects]]
+[[Category:Articles without an image]]
