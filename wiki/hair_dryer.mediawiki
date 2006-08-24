@@ -14,5 +14,16 @@ In a search for a way to walk around the [[Maritime Museum]] in complete safety,
 
 In no time at all, Twinsen came back to Baldino's, possessing a hair dryer he was able to buy for 30 [[kashes]] from the hair dryer salesman. Twinsen handed Baldino the hair dryer, and the latter completed in a short time his work on the proto-pack. Being a bit confused maybe, the grobo suggested Twinsen 10 kashes in order to test the proto-pack. Twinsen, of course, agreed to the deal, and was thus the proud owner of a proto-pack. The quetch was then able to fly around the museum in complete safety, without being caught by the [[clones]].
 
+==Additional quotes==
+{{Quote|
+Quote=Can't seem to sell a single hair dryer here. One of my colleagues is already out there trying his best. If this keeps up, I'll have to move on to another island.|
+Character=Hairdryer salesman}}
+{{Quote|
+Quote=30 Kashes for a hair dryer, how about that? I normally sell them door to door, but customers are sparse, and you seem nice enough.|
+Character=Hairdryer salesman}}
+{{Quote|
+Quote=So you found a hair dryer? Great! I'll be with you in a minute, just let me install the rheostat.|
+Character=Jerome Baldino}}
+
 [[Category:Objects]]
 [[Category:Articles without an image]]
