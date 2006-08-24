@@ -1,0 +1,20 @@
+---
+title: Bonuses List
+---
+
+{{Quote|
+Quote=Locations of several clover leaves and boxes: There is a box for clover leaves in the sewers of Citadel island, and another in the basement of the tavern; one clover leaf is guarded by a soldier who is located behind sandbags. Another is guarded by a clone in the middle of the ruins on Principal island. Another one is on the roof of the Maritime Museum. Another is guarded by a groboclone to the right of the Teleportation Center's entrance. Another is guarded by a soldier in front of FunFrock's fortress.|
+Character=The list.}}
+
+==Description==
+This list is actually a small note, listing some of the places where one could find a [[clover box]] around [[Twinsun]]. This list was owned by [[Lanktir]], a [[grobo]] residing near the [[Proxima Island bazaar|bazaar]] in [[Proxim-City]]. The note looks quite old, and perhaps passed from hand to hand several times.
+
+==Role in Twinsen's adventure==
+By returning Lanktir the [[coffee pot]] on behalf of the [[sphero]] he met near the [[Maritime Museum]], Twinsen received this list as a reward. With it, Twinsen was able to know the locations of some clover boxes around the planet, thus being able to find them much more easily. Twinsen did not find any use for the list after finding all clover boxes.
+
+==Additional quotes==
+{{Quote|
+Quote=If you give me back my coffee maker, I'll give you a list of certain places where you can find a rare plant and some boxes. And don't ask me where I found this list!|
+Character=Lanktir}}
+
+[[Category:Objects]]
