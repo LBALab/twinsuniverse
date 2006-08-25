@@ -5,10 +5,13 @@ title: Magic Ball
 {{Weapon|
 Name=Magic Ball|
 Image=Yellowbal.gif|
-Enemy=Yellow~All enemies, depending on magic level|
+Enemy=Yellow~All enemies,<br>
+depending on magic level|
 Rate=Slow|
-Damage=Little~A lot, depending on magic level|
-Range=Short~Medium, depending on [[magic points]]}}
+Damage=Little~A lot,<br>
+depending on magic level|
+Range=Short~Medium,<br>
+depending on [[magic points]]}}
 
 {{Quote|
 Quote=Magic Ball. Each time you reach a higher level of magic, the Magic Ball's striking power will increase. Its trajectories will also become more effective with each new level, as long as you have enough magic in stock! The Ball will use up magic each time it is thrown.|
