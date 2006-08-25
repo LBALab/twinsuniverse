@@ -1,0 +1,33 @@
+---
+title: Translator
+---
+
+[[Image:Translat.gif|right]]
+
+{{Quote|
+Quote=This translator allows you to understand everything said by the visitors from Space. In discreet mode, you can even spy on conversations.|
+Character=Official description}}
+
+==Description==
+With the aid of this small, silver, dome-shaped '''translator''', [[Twinsun|Twinsunians]] are able to understand and speak the [[Esmers]]' language.
+
+==Role in Twinsen's adventure==
+Not being able to undertand the Esmers' language, [[Twinsen]] needed at a translator to be able to understand the [[Zeelich|Zeelichians]]. Possible locations where he got the translator from are a space shuttle, the [[prison]] on [[Otringal]], or from [[Baldino]] himself.
+
+Not having one before boarding to the [[Emerald Moon]], Twinsen was unable to understand what the Moon Base question, and therefore, did not answer. The guards outside, understanding Twinsen did not know the right password tried to kill him then.
+
+==Unconfirmed theories==
+The translator obviously translates the Esmers' language to the Twinsunian one. However, it is unknown whether inhabitants of other planets may also use this device to understand the Zeelichian language, or even any other language.
+
+==Additional quotes==
+{{Quote|
+Quote=You have found a translator. Now you'll be able to understand the Esmer language.|
+Character=When Twinsen received the translator}}
+{{Quote|
+Quote=What's he saying??|
+Character=Twinsen}}
+{{Quote|
+Quote=Hey, Twinsen, take this translator, and you will conveniently understand the language of Zeelich!!|
+Character=Jerome Baldino}}
+
+[[Category:Objects]]
