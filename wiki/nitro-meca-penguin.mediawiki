@@ -1,0 +1,35 @@
+---
+title: Nitro-Meca-Penguin
+---
+
+{{Weapon|
+Name=Nitro-Meca-Penguin|
+Image=Meca.gif|
+Enemy=All enemies|
+Rate=Slow|
+Damage=Medium|
+Range=Short}}
+
+{{Quote|
+Quote=Meca-Penguin. Red clones just hate this stupid toy.|
+Character=Official description, Twinsen's first adventure}}
+
+==Description==
+Although looking quite innocent, these clockwork "toys" are much more dangerous than one may think. Launching a '''nitro-meca-penguin''' will result in the penguin exploding, a few seconds later. People like collecting them as weapons, or sometimes just as toys, apparently unaware of the dangers they may cause. Additionally, some of the [[rabbibunnies]] rebelling against [[FunFrock]] used them sometimes for practicing, shooting them as fake targets.
+
+During FunFrock's reign, the evil tyrant created a technology capable of cloning the different species. For unknown reasons, the [[red grobo clones]] seemed to be very fanatic about these "toys", playing around with them at any opportunity they got.
+
+==Role in Twinsen's adventure==
+During his two quests for defeating FunFrock, [[Twinsen]] was sometimes required to use not only the basic weapons, such as the [[magic ball]] or the [[sabre]], but also some special weapons. For that, the nitro-meca-penguins came in handy. Although they weren't too much of a use, Twinsen was able to make some use of them at some points of the game. During his first adventure, they especially came in handy against the red grobo clones, as they disturbed these, enabling Twinsen to go past them or defeat them more easily.
+
+To retrieve such penguins, Twinsen usually had to buy them, although he was able to find some for free around the planet.
+
+==Additional quotes==
+{{Quote|
+Quote=You can use the Nitro-Meca-Penguins by placing them in a level and unencumbered area.|
+Character=Official description, Twinsen's second adventure}}
+{{Quote|
+Quote=You just acquired a superb Nitro-Meca-Penguin. Select it in the inventory and it'll explode a few seconds later.|
+Character=When Twinsen found a new penguin}}
+
+[[Category:Weapons]]
