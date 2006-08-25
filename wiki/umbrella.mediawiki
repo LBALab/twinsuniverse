@@ -1,0 +1,33 @@
+---
+title: Umbrella
+---
+
+{{Quote|
+Quote=This umbrella belongs to a pharmacy customer.|
+Character=Official description}}
+
+==Description==
+This is just a common '''umbrella''', coloured beige. It belongs to [[Leone]], the cleaner of the Healing Wizard, [[Ker'aooc]].
+
+==Role in Twinsen's adventure==
+Looking for a way to treat his [[Dino-Fly]], [[Twinsen]] went to the [[pharmacy]], where he witnessed the stealing of this umbrella. Leone, the rightful owner of the umbrella, was willing to help Twinsen find a cure for Dino-Fly, if the [[quetch]] would bring her the umbrella back. To retrieve the umbrella, Twinsen had to sneak to the rabbibunny thief, thus being able to scare him and get the umbrella from him. Once returning the umbrella to Leone, the sphero adviced Twinsen to go meet the Healing Wizard at [[Desert Island]].
+
+==Trivia==
+Twinsen was able to sell the umbrella at the [[Twinsunian Souvenir Shop]], for the decent price of 20 [[zlitos]].
+
+==Additional quotes==
+{{Quote|
+Quoet=Here's the deal. I will tell you how to treat your Dino-Fly, if you would bring back my umbrella. Use your smarts but remember that, in life, haste makes waste...|
+Character=Leone}}
+{{Quote|
+Quote=The umbrella please.|
+Character=Twinsen}}
+{{Quote|
+Quote=But that's my umb...Oh!!! excuse me...I thought it was mine. Boohooo, I'm so embarrassed...I keep making mistakes.|
+Character=The umbrela thief}}
+{{Quote|
+Quote=You just found the customer's umbrella.|
+Character=When Twinsen received the umbrella}}
+
+[[Category:Objects]]
+[[Category:Articles without an image]]
