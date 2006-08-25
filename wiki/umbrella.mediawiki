@@ -17,7 +17,7 @@ Twinsen was able to sell the umbrella at the [[Twinsunian Souvenir Shop]], for t
 
 ==Additional quotes==
 {{Quote|
-Quoet=Here's the deal. I will tell you how to treat your Dino-Fly, if you would bring back my umbrella. Use your smarts but remember that, in life, haste makes waste...|
+Quote=Here's the deal. I will tell you how to treat your Dino-Fly, if you would bring back my umbrella. Use your smarts but remember that, in life, haste makes waste...|
 Character=Leone}}
 {{Quote|
 Quote=The umbrella please.|
