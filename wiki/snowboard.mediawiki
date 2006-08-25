@@ -1,0 +1,22 @@
+---
+title: Snowboard
+---
+
+[[Image:06_snowboard.gif|right|200px]]
+
+{{Quote|
+Quote=Snowboard. Can only be used in the Hamalayi, near the ski lift. Place yourself in between any two flags before using.|
+Character=Official description}}
+
+==Description==
+The snowboard can be used in the [[Hamalayi Mountains]] to slide down from snowy mountains. An excellent place for this is the [[ski summit]], which also has a ski lift and marked routes for convenience.
+
+==Role in Twinsen's adventure==
+Exhausting in the high ranges of the Hamalayi Mountains, [[Twinsen]] received a snowboard from the [[Kamis]]. He could then slide down from the hills, especially around the ski summit of the mountains. To do so, he had to stand between one of the four pairs of flags. The snowaboard did not serve any further purpose in Twinsen's adventure.
+
+==Additional quotes==
+{{Quote|
+Quote=The Kamis have given you a Snowboard.|
+Character=When Twinsen received the snowboard}}
+
+[[Category:Objects]]
