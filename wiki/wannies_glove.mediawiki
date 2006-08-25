@@ -1,0 +1,38 @@
+---
+title: Wannies Glove
+---
+
+{{Weapon|
+Name=Blowgun|
+Image=Glove.gif|
+Enemy=Fire balls|
+Rate=Fast|
+Damage=None|
+Range=Melee}}
+
+{{Quote|
+Quote=With this Wannie's glove, you can now touch the fire. This will allow you to throw back the fireballs that the monsters from the gas hurl at you.|
+Character=Official description}}
+
+==Description==
+The '''wannie's glove''' isn't actually meant to be a weapon. It gives the person who wears it protection against fire or lava. It is commonly used by the [[wannies]] inside the [[mines]] at the [[Island of the Wannies]], to be able to pick up [[gems]] from the lava.
+
+==Role in Twinsen's adventure==
+[[Twinsen]] could only use the Wannies Glove against enemies throwing fire balls. Therefore, this glove wasn't effective against much enemies. With it, Twinsen could throw the fire balls back at his enemies.
+
+This glove was found by the young [[quetch]] in the Wannies Island. However, it is still unknown whether it was at the mine where he found it, or at the house of a wannies family at the [[Village of the Wannies]].
+
+The glove itself had a role only once in Twinsen's adventure. For receiving the [[mosquibee fragment]], the quetch had to defeat a monster from the gas, who was the keeper of the [[key]] to the chest where the Mosquibees Fragment was stored. This walrus-like monster from the gas could only be defeated with the wannie's glove. After a few trials at the arena, Twinsen was able to develop the right tactics against the monster, thus defeating it and retrieving the key.
+
+==Additional quotes==
+{{Quote|
+Quote=You just found a Wannie's Glove. Use it to repell the fireballs your ennemies throw at you.|
+Character=When Twinsen found the glove}}
+{{Quote|
+Quote=Hmmf! Lost my glove somewhere in the mine. Now I can't reach into the lava to grab up the gems.|
+Character=A miner}}
+{{Quote|
+Quote=I'm in a bind, I've lost my glove somewhere in the mine. With it, I can catch the pieces of lava and the balls of fire, I can even pitch them back. Everybody has one, to extract gems.|
+Character=A miner}}
+
+[[Category:Weapons]]
