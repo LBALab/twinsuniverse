@@ -1,0 +1,43 @@
+---
+title: Portable Radio
+---
+
+[[Image:Radio.gif|right]]
+
+{{Quote|
+Quote=This portable radio allows you to dialogue with Baldino and Zoé when they are listening and if they are not out of range.|
+Character=Official description}}
+
+==Description==
+The '''portable radio''', created by [[Jerome Baldino]], enables contact between two people if they are not out of range. This is a rather small, easy to use radio.
+
+==Role in Twinsen's adventure==
+[[Twinsen]] received the Portable Radio as a small gift from his friend [[Baldino]]. A short time after he got it, Twinsen received the very first call- from [[Zoé]], telling him that their car is now in [[Desert Island]], waiting for him.
+
+The next time Twinsen received a call in the radio, was just after he retrieved [[Sendell's Ball]]. This time, it was Baldino contacting him from [[Emerald Moon]], telling Twinsen about the [[Esmers]]' diabolical plans. Baldino also instructed Twinsen about how to reach Emerald Moon.
+
+Later on, when arriving on [[Otringal]], Baldino contatced Twinsen several times, reminding him to get the [[can of gazogem]] required for both the ship and the [[super jet-pack]].
+
+==Trivia==
+The fact that Baldino was able to contact Twinsen from the Emerald Moon all the way down to the [[Citadel Island sewers|sewers]] may suggest that the radio could be used over really long ranges.
+
+==Unconfirmed theories==
+For an unknown reason, Twinsen is able to receive calls in the radio, but was never able to contact others.
+
+Additionally, until Twinsen received the radio, Zoé didn't bring the car to Desert Island. But as soon as Jerome gave Twinsen the transmitter, Zoé contacted him. This can be explainable by the fact that Zoé was there, but just couldn't contact Twinsen, since he didn't have the radio until that point.
+
+==Additional quotes==
+{{Quote|
+Quote=You now own a portable radio. You can now receive calls from your friends.|
+Character=When Twinsen received the radio}}
+{{Quote|
+Quote=Oh, Baldino called recently -- he says he forgot to give you a portable radio and he wants you to come by to pick it up.|
+Character=Zoé}}
+{{Quote|
+Quote=Here, this is that portable radio I forgot to give you. Sorry about the mixup, but I think you'll agree it was worth waiting for!|
+Character=Jerome Baldino}}
+{{Quote|
+Quote=I could've called it an "integrated super dynamo circuitry mechanism" but I decided to go with "portable radio". A little catchier, huh?|
+Character=Jerome Baldino}}
+
+[[Category:Objects]]
