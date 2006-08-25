@@ -25,4 +25,18 @@ Once reaching the [[Mosquibees Village]], Twinsen had to pass the [[Test of Trut
 ==Trivia==
 After fully graduating from the School of Magic, Twinsen was able to come back to the room at which he passed the Magic Ball test. With his blowgun in his possession, the quetch found the test much easier, being able to reverse the magical symbols more conventiently thanks to the fast shot provided by the blowgun. In return for completing the test again, the quetch received a [[clover leaf]].
 
+==Additional quotes==
+{{Quote|
+Quote=You now have a blowgun. It fires darts fast and accurately.|
+Character=When Twinsen received the blowgun}}
+{{Quote|
+Quote=Bravo Twinsen, you have earned this blowgun. It provides accurate and rapid shots.|
+Character=[[Mentor of the School of Magic]]}}
+{{Quote|
+Quote=To practice for your Blowgun Test, simply go through this door at the back of this room. You'll then have a limited time to shoot all the targets.|
+Character=Mentor of the School of Magic}}
+{{Quote|
+Quote=I can't, I just can't!!! I heard some alien dudes landed on Twinsun, and I didn't even see them! I tried for days to do that blowgun test!|
+Character=[[Aristide]]}}
+
 [[Category:Weapons]]
