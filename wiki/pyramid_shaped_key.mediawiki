@@ -1,0 +1,32 @@
+---
+title: Pyramid Shaped Key
+---
+
+[[Image:Pyramid.gif|right]]
+
+{{Quote|
+Quote=This Pyramid is a key. If you put it in the right place, it will activate a mechanism giving you access to a secret place.|
+Character=Official description}}
+
+==Description==
+This '''key''', shaped, as its name may suggest, pyramid-like, allows one to reach the secret room in the [[Citadel Island sewers|sewers of Citadel Island]], at which [[Sendell's Ball]] was surrounded by cage of ice.
+
+The key was key was kept by [[Mies van Der Rooh's father]], the old [[rabbibunny]] who lives just next to [[Twinsen]] on [[Bug Street]].
+
+==Role in Twinsen's adventure==
+In return for giving the him the [[Flask of Gallic Acid]], Twinsen's neighbour awarded him with the Pyramid Shaped Key. Once possessing it, He had to go to [[Green Corulla Street]] at the middle of the sewers, and use it on the same-coloured shaped key hole on the ground. This made the door to the secret room with Sendell's Ball open.
+
+Twinsen did not not find any use for they key after that, and was unfortunate not to be able to sell it at the [[Twinsunian Souvenir Shop]] in [[Otringal]].
+
+==Additional quotes==
+{{Quote|
+Quote=Your neighbour just gave you a Pyramid Shaped Key.|
+Character=When Twinsen received the key}}
+{{Quote|
+Quote=The gallic acid has revealed a text previously invisible. It mentions a small pyramid that was in my possession. Here! It's yours!|
+Character=Mies van der Rooh's father}}
+{{Quote|
+Quote=In the secret room, in the center of the sewers, there is an enchanted globe. The Weather Wizard put it there. According to him, it has to do with the prophecy of Sendell. I preferred to lock this room: it can be opened only with the small pyramid.|
+Character=A caption in the map of the sewers}}
+
+[[Category:Objects]]
