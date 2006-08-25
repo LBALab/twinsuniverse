@@ -1,0 +1,38 @@
+---
+title: Wizard's Diploma
+---
+
+[[Image:Diploma.gif|right]]
+
+{{Quote|
+Quote=Your diploma in magic has allowed you to reach the green ball level of magic.|
+Character=Official description}}
+
+==Description==
+The '''Wizard's Diploma''' is the official proof that the owner is a fully licensed wizard. This diplioma is given to anyone who graduates from the [[School of Magic]] by the [[Mentor of the School of Magic|Mentor of the school]].
+
+==Role in Twinsen's adventure==
+In order to heal his [[Dino-fly]], [[Twinsen]] had to become a fully licensed wizard. For this, he had to pass three tests: the [[magic ball]] test, the [[garden balsam flower]] test, and the [[Dome of the Slate]] test.
+
+Upon completion of all three tests, Twinsen became a wizard, and received the desired diploma, making his magic level rise to Green Ball. He was then able to buy a [[wizard's parade tunic]], which made him look like a wizard. He was then able to go to [[Zeelich]], thus finding out more details about the disappearance of the wizards.
+
+When arriving on Zeelich for the second time, Twinsen found no more use for the diploma, and, needing the money, sold it to the [[Twinsunian Souvenir Shop]].
+
+==Additional quotes==
+{{Quote|
+Quote=You can bring me the result of each test at your leisure, but I will give you your wizard's diploma and your new level of magic only after you succeed in all 3 tests.|
+Character=Mentor of the School of Magic}}
+{{Quote|
+Quote=Bravo Twinsen. You now bear the title of wizard.|
+Character=Mentor of the School of Magic}}
+{{Quote|
+Quote=You just received your wizard's diploma. Plus you just earned a new level of magic: green Ball.|
+Character=When Twinsen received his diploma}}
+{{Quote|
+Quote=My dear sir, my goods are only available for fully licensed wizards.|
+Character=[[Chedil Amiradoo]]}}
+{{Quote|
+Quote=I hold a wizard's diploma|
+Character=Twinsen}}
+
+[[Category:Objects]]
