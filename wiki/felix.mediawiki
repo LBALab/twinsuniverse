@@ -10,6 +10,11 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
+{{Quote|
+Quote=Say Twinsen, did you ever see that Tralü? They say it's a monster that lives in the cliffs above Lupin-Bourg. If you take a walk up there, don't forget to carry a weapon. I mean your magic ball!|
+Character=Felix}}
+
+==Description==
 Felix is a nice old rabbibunny, usually spotted around the [[Citadel Island) Harbour|harbour]] of [[Citadel Island]]. His main hobby seems to be fishing, although usually without much luck. Also, the old fisherman seems to be quite interested in the mystery stories regarding the [[Tralü]] and its cave on the [[cliffs]].
 
 ==Role in Twinsen's adventure==
@@ -22,10 +27,7 @@ There are two main unconfirmed theories about Felix. The first one is where the 
 ==Trivia==
 Feeling a bit agressive, Twinsen released some frustration on the poor rabbibunny. Felix, being quite a chicken perhaps, got really scared, and ran away, diving into the water. Felix did come back later, however.
 
-==Quotes==
-{{Quote|
-Quote=Say Twinsen, did you ever see that Tralü? They say it's a monster that lives in the cliffs above Lupin-Bourg. If you take a walk up there, don't forget to carry a weapon. I mean your magic ball!|
-Character=Felix}}
+==Additional quotes==
 {{Quote|
 Quote=I don't know him very well, but try asking around at "Chez Luc," that's his big hangout.|
 Character=Felix}}
