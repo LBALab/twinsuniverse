@@ -10,16 +10,17 @@ Gender=Female|
 Size=Medium|
 Age=Adult}}
 
+{{Quote|
+Quote=My poor friend! I really don't know what you are talking about.|
+Character=Beatrice}}
+
 ==Description==
 In a decent, small house at [[Peg Leg Street]], lives Beatrice, a nice female rabbibunny who apparently has no job. Very few is known about Beatrice, except that she has a sister living in the [[Old Burg]], named Julia.
 
 ==Role in Twinsen's adventure==
 Perhaps due to her not being wise enough, Beatrice was not able to tell [[Twinsen]] anything about [[Legend of Sendell|the legend]], [[Zoé]]'s whereabouts, or [[LeBorgne]] the pirate. However, she was able to tell Twinsen about the [[clover leaf]] on the island across her house, and about him needing to fly in order to reach it.
 
-==Quotes==
-{{Quote|
-Quote=My poor friend! I really don't know what you are talking about.|
-Character=Beatrice}}
+==Additional quotes==
 {{Quote|
 Quote=You know Julia? She is a nice girl. She watches a bit too much TV, but there is some truth in her story: someone left a box for clover leaves on the islet in front of my house. It is too shallow for a boat to get there by water, and since the bridge leading to the islet has collapsed, the only way to get there is to fly.|
 Character=Beatrice}}
