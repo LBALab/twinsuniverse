@@ -10,6 +10,7 @@ Gender=Male|
 Size=Large|
 Age=Adult}}
 
+==Description==
 Alfred is a rather heavy [[wannie]], working as a miner in the [[mines]] of the [[Wannies Island]]. Like most of the workers at the place, he seems to be concerned with nothing but mining all day. However, one person dares touching their precious [[Wannies Fragment|fragment]], and he has a deal with him.
 
 ==Role in Twinsen's Adventure==
