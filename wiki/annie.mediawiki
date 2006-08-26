@@ -10,6 +10,11 @@ Gender=Female|
 Size=Large|
 Age=Adult}}
 
+{{Quote|
+Quote=I went shopping. Be back soon. Signed: your housemaid.|
+Character=Annie}}
+
+==Description==
 Annie is the Priest's housemaid. She lives with her only son at a small house in the [[Village of the Wannies]].
 
 ==Role in Twinsen's adventure==
@@ -22,9 +27,6 @@ Quote=Of course, it's fairly simple. You have to pay him in gems if you want him
 Character=Annie}}
 {{Quote|
 Quote=The Monk impatiently awaits the ceremony of the celebration. It's a major event for our entire population. It represents the end of the curse which lies heavily upon Zeelich. We shall at last resume the course of our lives on a hospitable planet, not in this forlorn place.|
-Character=Annie}}
-{{Quote|
-Quote=I went shopping. Be back soon. Signed: your housemaid.|
 Character=Annie}}
 {{Quote|
 Quote=For that, you'll have to call on the ferryman's services. He provides the only communication between the islands and the under-gas. Go see my housemaid. She shall tell you how to proceed.|
