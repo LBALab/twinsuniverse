@@ -10,6 +10,11 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
+{{Quote|
+Quote=Welcome aboard! You have picked a wonderful day for travelling, the weather is beautiful!|
+Character=The Captain}}
+
+==Description==
 The ferry captain is a nameless rabbibunny working for the Inter-Island Ferry services as a captain. Every time a ferry is ready to take off, it is his job to sail the ferry to its desired destination, as well as conducting the passenger's [[Ferry ticket|tickets]]. He seems to be pretty friendly towards his passengers, perhaps due to the fact that hard times resulted in very few inter-island travellers.
 
 ==Role in Twinsen's adventure==
@@ -18,11 +23,6 @@ Once buying his catamaran, Twinsen found no further use of the ferry services, r
 
 ==Trivia==
 By the time of Twinsen's second adventure, the captain was nowhere around any more, and his job was taken by a [[grobo]] named [[Mr. Paul]]. It is unknown where the rabbibunny has disappeared.
-
-==Quotes==
-{{Quote|
-Quote=Welcome aboard! You have picked a wonderful day for travelling, the weather is beautiful!|
-Character=The Captain}}
 
 [[Category:Rabbibunnies]]
 [[Category:Male characters]]
