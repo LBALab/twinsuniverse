@@ -10,6 +10,11 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
+{{Quote|
+Quote=My dear sir, my goods are only available to fully licensed wizards.|
+Character=Chedil Amiradoo}}
+
+==Description==
 As the poster in the [[School of Magic]] may suggest, Chedil Amiradoo is an old rabbibunny, who makes living from selling various magic accessories to fully licensed wizards. This wise rabbibunny is usually noticed circling around the [[White Leaf Desert]] on his magical flying carpet. Those people who may wish to buy goods from him, will be required to show Chedil their [[wizard's diploma]], as a proof of them being fully licensed. Others will find less interest in his merchandise.
 
 ==Role in Twinsen's adventure==
@@ -22,10 +27,7 @@ Another uncomfirmed theory is the rabbibunny's relations with the School of Magi
 ==Trivia==
 It is to be noted that the only place where Twinsen found a mention of Chedil's actual name was on the poster at the School of Magic. Otherwise, he was simply referred to as "the peddler".
 
-==Quotes==
-{{Quote|
-Quote=My dear sir, my goods are only available to fully licensed wizards.|
-Character=Chedil Amiradoo}}
+==Additional quotes==
 {{Quote|
 Quote=Ah, you must be Twinsen. Congratulations for passing your examination. If you want a magician's tunic it'll only cost you 50 kashes. We'll throw in a false beard to make you look like an old magician. Interested?|
 Character=Chedil Amiradoo}}
