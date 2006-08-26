@@ -10,6 +10,11 @@ Gender=Male|
 Size=Small|
 Age=Adult}}
 
+{{Quote|
+Quote=I am Bob Vortix, astronomer under house arrest. What are you doing in town, apart from beating up clones?|
+Character=Bob Vortix}}
+
+==Description==
 Bob Vortix is an astronomer on [[Principal Island]] who was placed under house arrest because he knew too much about [[FunFrock]]'s tyranny. Due to his knowledge, he has gained respect from the citizens living on Principal Island.
 During his house arrest, [[Bob Vortix's house|Bob's house]] was heavily guarded by several [[grobo clones]], who were probably afraid of people trying to reach him, thus gaining some of his knowledge.
 
@@ -21,10 +26,7 @@ When searching for information about [[LeBorgne]], Twinsen came back to visit th
 ==Trivia==
 For some reason, Twinsen was not able to search through the box at Bob's house for some [[life candies]], [[magic flasks]] or [[Kashes|money]]. However, when Bob realized that Twinsen was not able to do so, he searched there for him, giving the quetch a pretty high sum of kashes.
 
-==Quotes==
-{{Quote|
-Quote=I am Bob Vortix, astronomer under house arrest. What are you doing in town, apart from beating up clones?|
-Character=Bob Vortix}}
+==Additional quotes==
 {{Quote|
 Quote=This young girl must be someone important if that tyrant FunFrock is holding her outside of Citadel Island. Something funny is going on with this forbidding of any talk about the Legend: this must be some kind of weakness in his power! Find out what is behind the Legend, it's your only hope of seeing your friend again. If you need to leave the island, I know a friend who can help you at Port-Belooga. Tell him that I sent you. And be discreet in your quest.|
 Character=Bob Vortix}}
