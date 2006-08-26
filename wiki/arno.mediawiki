@@ -10,17 +10,17 @@ Gender=Male|
 Size=Small|
 Age=Kid}}
 
+{{Quote|
+Quote=He bothering me!!|
+Character=Arno}}
+
+==Description==
 Down in the [[Village of the Wannies]], a small family consisting of a two nice wannies and their son inhabits. While the names of the parents are unknown, the son is referred to by the name of Arno.
 Arno is a rather mischievous wannie, who usually likes to play with his toys in his spare time. He seems to have quite a lot of games, apparently bought to him by his loving parents. Additionally, he does not like people messing around with his toys, bothering him playing. 
 
 ==Role in Twinsen's adventure==
 Arno did not play any vital role in [[Twinsen]]'s adventure. He was also unable to give Twinsen any useful hints regarding his quests, perhaps due to his young age. However, he did help taking care of Twinsen when the [[quetch]] was sick, after eating the piece of [[firefly tart]].
 
-
-==Quotes==
-{{Quote|
-Quote=He bothering me!!|
-Character=Arno}}
 
 [[Category:Wannies]]
 [[Category:Male characters]]
