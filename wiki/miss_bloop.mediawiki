@@ -10,13 +10,18 @@ Gender=Female|
 Size=Medium|
 Age=Adult}}
 
+{{Quote|
+Quote=Hello miss Bloop.|
+Character=Twinsen}}
+
+==Description==
 As a gratitude to the hero of the planet, Bloop (usually referred to as Miss Bloop) opened a [[Miss Bloop's Private Museum|museum]] dedicated to [[Twinsen]]. There, one can find items realted to Twinsen's first adventure.
 It seems like this nice grobo dedicates herself to the museum, spending a great deal of time there.
 
 ==Role in Twinsen's adventure==
 Miss Bloop got Twinsen's [[Ancestral tunic]] and [[Sendell's medallion]], after he defeated [[FunFrock]], for her museum. Twinsen later gets them back from her after he helped her open the doors to a chamber in the museum.
 
-==Quotes==
+==Additional quotes==
 {{Quote|
 Quote=Excuse him, he is a nice Grobo. You know, he only gives himself airs.|
 Character=Miss Bloop}}
