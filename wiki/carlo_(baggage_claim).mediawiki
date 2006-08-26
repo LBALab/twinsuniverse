@@ -10,6 +10,11 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
+{{Quote|
+Quote=Hey mister! If you want, I can carry your crate up to the exit for 102 little Kashes!|
+Character=Carlo}}
+
+==Description==
 Carlo is a lazy-looking [[Quetch]] working at the [[Baggage Claim]] of [[Citadel Island]]. He is willing to do hard work once in a while, but only for a lot of money.
 
 ==Role in Twinsen's adventure==
@@ -18,10 +23,7 @@ When [[Twinsen]] had to get the crate which contained the [[proto-pack]] to the 
 ==Trivia==
 Searching further in the building, Twinsen was able to find a secret room, at which he found exactly the money he needed to pay Carlo.
 
-==Quote==
-{{Quote|
-Quote=Hey mister! If you want, I can carry your crate up to the exit for 102 little Kashes!|
-Character=Carlo}}
+==Additional quote==
 {{Quote|
 Quote=Go back upstairs. You'll get your crate, I'm sending it directly to the reception!|
 Character=Carlo}}
