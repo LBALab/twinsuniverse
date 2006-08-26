@@ -12,16 +12,18 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
+{{Quote|
+Quote=Nice to see you, Twinsen! this storm really chaps my hide. I just can't calm down...And you, don't forget that you can change your behavior.|
+Character=Bob}}
+
+==Description==
 Bob is one of the most unfriendly grobos living in [[Citadel Island]]. He likes patrolling the western part of [[Lupin-Burg]], usually for no visible reason.
 Bob has a little brother, studying at the [[school]] of Citadel Island.
 
 ==Role in Twinsen's adventure==
 Like most characters, Bob's only role in [[Twinsen]]'s adventure was to give hints. In his case, it was a hint about what happend to [[Raph]], the [[lighthouse]] keeper.
 
-==Quotes==
-{{Quote|
-Quote=Nice to see you, Twinsen! this storm really chaps my hide. I just can't calm down...And you, don't forget that you can change your behavior.|
-Character=Bob}}
+==Additional quotes==
 {{Quote|
 Quote=Ah, he's disappeared?! Oh, well, I never really liked him! May the Tralü take him away!!|
 Character=Bob}}
