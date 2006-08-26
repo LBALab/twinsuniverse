@@ -10,6 +10,11 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
+{{Quote|
+Quote=If you'd care to purchase something, you just have to stand in front of it and do "ACTION".|
+Character=Mr. Bazoo}}
+
+==Description==
 Mr. Bazoo has a [[Mr. Bazoo's Shop|bazaar]] on [[Citadel Island]]. He sells there all the usual stuff found at any other shop, but at lower prices than elsewhere.
 
 ==Role in Twinsen's adventure==
@@ -18,10 +23,7 @@ Whenever [[Twinsen]] needed [[Nitro-Meca Penguins]], [[Darts]] or [[life points|
 ==Trivia==
 Messing around with the Nitro-Meca Penguin he bought, Twinsen caused it to explode, what made Mr. Bazoo run away. Seeing that the shop was left empty, Twinsen then robbed the shop of all the penguins he wanted.
 
-==Quotes==
-{{Quote|
-Quote=If you'd care to purchase something, you just have to stand in front of it and do "ACTION".|
-Character=Mr. Bazoo}}
+==Additional quotes==
 {{Quote|
 Quote=Don't do that, you fool, it's going to blow up!|
 Character=Mr. Bazoo}}
