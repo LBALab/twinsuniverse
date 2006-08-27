@@ -36,4 +36,4 @@ Quote=Captain LeBorgne's treasure. This chest contains the fruits of a lifetime 
 Character=A sign in the maritime museum}}
 
 [[Category:Objects]]
-[[Category:Articles withuot an image]]
+[[Category:Articles without an image]]
