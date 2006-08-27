@@ -10,6 +10,11 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
+{{Quote|
+Quote=I was put in charge of verifying this building because it was built over ruins that are marked with a strange symbol. It seems that a mad man is attacking different sites also marked with the same symbol. All this extra work has really ruined my weekend! We're really worried about the Teleportation Centre: it's weak point is situated on the left, right after the first guard post.|
+Character=Mies van der Rooh}}
+
+==Description==
 Mies van der Rooh was [[Twinsen]]'s neighbour during [[FunFrock]]'s reign. He lived with his [[Mies van der Rooh's father|father]] in a rather large house in [[Bug Street]]. Mies was an architect, and worked on maintaining some of FunFrock's buildings, including the [[Teleportation Centre]]. He was very loyal to FunFrock, and couldn't see the tyranny that FunFrock caused, because he was one of the citizens who were 'better off' during FunFrock's reign. After FunFrock was overthrown, what happened to him is a mystery. He may even be dead.
 
 ==Role in Twinsen's adventure==
@@ -18,10 +23,7 @@ Mies van der Rooh inadvertently helped Twinsen overthrow FunFrock, by allowing h
 ==Trivia==
 Mies van der Rooh was probably named after [http://en.wikipedia.org/wiki/Mies_van_der_rohe Ludwig Mies van der Rohe], a famous architect himself.
 
-==Quotes==
-{{Quote|
-Quote=I was put in charge of verifying this building because it was built over ruins that are marked with a strange symbol. It seems that a mad man is attacking different sites also marked with the same symbol. All this extra work has really ruined my weekend! We're really worried about the Teleportation Centre: it's weak point is situated on the left, right after the first guard post.|
-Character=Mies van der Rooh}}
+==Additional quotes==
 {{Quote|
 Quote=You will need my card to get into the centre. It is on the drawing table. If you do succeed in catching this vandal with his weird Horn, I would appreciate it if you would kick his rear end for me.|
 Character=Mies van der Rooh}}
