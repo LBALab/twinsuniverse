@@ -1,0 +1,42 @@
+---
+title: Red Magnetic Card
+---
+
+{{Quote|
+Quote=Red Magnetic Card. It will allow you to open the doors with a red lock.|
+Character=Official description}}
+
+==Description==
+The '''red card''' is a magnetic card created by a nameless [[rabbibunny]] living on [[Proxima Island]], whose speciality is faking such cards. Due to the phony red card traffic, this rabbibunny was arrested, and his brother, who stayed alone in their house, will give such a card to whoever says a special secret word to him.
+
+The card itself is quite small, and is very similar to the [[Elves Club Blue Card]]. It enables opening gates on numerous places around the planet, as well as operating the lift at the [[ski summit]] at the [[Hamalayi Mountains]].
+
+==Role in Twinsen's adventure==
+Wandering around [[Principal Island]], [[Twinsen]] has reached the outside of [[FunFrock's Headquarters]], where he met the rabbibunny imprisoned for the phony red card traffic. The rabbibunny told him about his brother, and ordered to tell the word "Amos" to him.
+
+When Twinsen has reached [[Proxima Island]], he paid a visit to the prisoner's brother, which costed him in a few [[life points]], as he first had to defeat the [[clone]] guarding the house. Once inside, Twinsen said the secret word to the rabbibunny, and the latter gave the [[quetch]] the desired red card.
+
+The first place where Twinsen used the card was the [[Maritime Museum]], where he entered through the side door, since the place was heavily guarded. The quetch later used the card on various places around the planet for opening many kinds of gates, or even for operating the lift at the ski summit.
+
+==Additional quotes==
+{{Quote|
+Quote=Use your red card to use the skilift.|
+Character=A rabbibunny}}
+{{Quote|
+Quote=I can't help you. Except perhaps... considering the risks you've taken, I guess I can trust you. I was arrested on this island, but earlier on I gave a fake red card to my brother who was living on Proxima island. He will give it to you if you say "Amos" to him (the location of the house is now indicated on your Holomap).|
+Character=Imprisoned rabbibunny}}
+{{Quote|
+Quote=I just discovered a secret passage by using the ACTION command, incredible! Do you like my red card otherwise?|
+Character=Imprisoned rabbibunny}}
+{{Quote|
+Quote=Ah, it's impossible to open it without a red card.|
+Character=Twinsen}}
+{{Quote|
+Quote=My brother was arrested and the house is under surveillance: phony red card traffic. Wait a minute, how did you get in here? And who are you?|
+Character=The froger}}
+{{Quote|
+Quote=No more fake red cards, too dangerous, I quit. From now on, I am only going to make fake Captain LeBorgne secret maps.|
+Character=The froger}}
+
+[[Category:Objects]]
+[[Category:Articles without an image]]
