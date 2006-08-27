@@ -10,15 +10,17 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
+{{Quote|
+Quote=Twinsen! What are you doing here? I heard you were arrested only yesterday!|
+Character=The pharmacist}}
+
+==Description==
 The pharmacist ran the [[Citadel Island]] [[pharmacy]] for a period during the reign of [[Funfrock]]. He was probably the "informant" the nurse was talking about, and thus was maybe responsible for [[Twinsen]]'s arrest. He obviously feared Twinsen, as he was very scared when he saw that Twinsen had managed to escape. He was eventually killed by Twinsen.
 
 ==Role in Twinsen's adventure==
 The pharmacist had no paticular role, but is the main reason why Twinsen was in the [[Citadel]]. He Also tried to stop Twinsen from getting a bottle of [[cherry syrup]], within the pharmacy.
 
-==Quotes==
-{{Quote|
-Quote=Twinsen! What are you doing here? I heard you were arrested only yesterday!|
-Character=The pharmacist}}
+==Additional quotes==
 {{Quote|
 Quote=Impossible! Nobody gets out of the Citadel alive!|
 Character=The pharmacist}}
