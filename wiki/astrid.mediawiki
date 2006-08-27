@@ -10,15 +10,17 @@ Gender=Female|
 Size=Large|
 Age=Adult}}
 
+{{Quote|
+Quote=My dissident friend confirmed that you are in fact a Twinsunian. While on a mission to your planet he saw the actions of the Emperor's soldiers. We know that Dark Monk and the Emperor have lied to us, as well as kidnapping your wizards and children. But you, what are you doing here?|
+Character=Astrid}}
+
+==Description==
 The Mosquibees, not accepting the [[emperor]], have their own queen- Astrid. She is much larger than the common Mosquibee, and is very wise. Ruling her colony fairly and wisely, Astrid is very respected among her fellow mosquibees.
 
 ==Role in Twinsen's adventure==
 [[Twinsen]] had to find Queen Astrid in order to gain access to [[Island CX]], as he heard she had the [[Key to the passage which leads to Island CX|key]] and guarded the passage which leads there. However, Astrid couldn't just trust anyone who comes in and asks for help. Twinsen first had to show the [[Ring of Dissidents]] and then had to get a new weapon in the [[Challenge room]]. After completing the mosquibees challenge, Twinsen was able to prove his trustworthiness. Then, finally when the mosquibees trusted him and Astrid wanted to help him reach island CX, the emperor's soldiers attacked the [[Village of the Mosquibees|village]]. Twinsen got away, but had to find Astrid, who was taken by the emperor's soldiers, in order to get to Island CX. After asking some survivors of the attack for assistance, Twinsen eventually managed to find her locked in the [[Building Company]]. Knowing she had to face the emperor sooner or later, Astrid gave Twinsen the key to the passage and some advice. She later seemed to amuse herself at the victory-party on [[Twinsun]].
 
-==Quotes==
-{{Quote|
-Quote=My dissident friend confirmed that you are in fact a Twinsunian. While on a mission to your planet he saw the actions of the Emperor's soldiers. We know that Dark Monk and the Emperor have lied to us, as well as kidnapping your wizards and children. But you, what are you doing here?|
-Character=Astrid}}
+==Additional quotes==
 {{Quote|
 Quote=But he is not a Mosquibee. You will have to prove your courage and pass the test of truth before you can become one of us...Only then will we help you.|
 Character=Astrid}}
