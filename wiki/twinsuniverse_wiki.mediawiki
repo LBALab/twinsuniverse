@@ -25,6 +25,3 @@ Try to work clean!
 
 
 ''~wacko''
-
-
-test
