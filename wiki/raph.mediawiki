@@ -10,21 +10,23 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
+{{Quote|
+Quote=Do you know where I can find Raph the lighthouse keeper?|
+Character=Twinsen}}
+
+==Description==
 Raph is the [[lighthouse]] keeper, but he would rather do other things aside from his work. He plays a guitar in the band that he, [[Pat]] and [[Fab]], his friends, together form. Raph also loves to hang out at "[[Chez Luc]]". The [[pharmacist (rabbibunny)|pharmacist]] on [[Lupin-Burg]] is his older sister.
 
 ==Role in Twinsen's adventure==
 Raph was missing, and since he was needed to chase away the storm, [[Twinsen]] went to seek him out. Putting all the hints that he received during the course of his mission together, he discovered a [[Tralü's cave|cave]] in which Raph was found imprisoned. Raph told Twinsen the [[Tralü]], a cave monster, kidnapped him, and that in order for him to escape, the quetch has to free him. Twinsen, being the hero and all, saved him from the wrath of Tralü, which gave [[Bersimon]], a local weather wizard, access to the lighthouse where he was able to disintegrate the storm.
 
-==Quotes==
+==Additional quotes==
 {{Quote|
 Quote=Mr. Twinsen! Free me, quick!! I am Raph! You know, the lighthouse keeper!! I've been caught by the Tralü, he wants to turn me into a Rabbibunny-melba. Please, Mr.Twinsen, go get your fetching little costume and your magic ball. Be our hero again! Come back to save me from the Tralü. I'm scared he's gonna eat me!!|
 Character=Raph}}
 {{Quote|
 Quote=Thank you, Mr. Twinsen! I was rehearsing a new tune when this filthy Tralü chewed up my guitar. Besides, it looks like he got others before me!! Well, back to the lighthouse, otherwise I'll get in hot water.|
 Character=Raph}}
-{{Quote|
-Quote=Do you know where I can find Raph the lighthouse keeper?|
-Character=Twinsen}}
 
 [[Category:Rabbibunnies]]
 [[Category:Male characters]]
