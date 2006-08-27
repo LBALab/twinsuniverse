@@ -10,6 +10,7 @@ Gender=Female|
 Size=Medium|
 Age=Adult}}
 
+==Description==
 Tabata is a quetch wizard, and is one of the wizards kidnapped by the [[esmers]].
 
 ==Role in Twinsen's adventure==
