@@ -10,6 +10,11 @@ Gender=Male|
 Size=Large|
 Age=Adult}}
 
+{{Quote|
+Quote=I, my lad, am an assassin that Dark Monk's paid to eliminate you. But, looking at you, it seems I must have the wrong fellow. The lad I hunt is a warrior so fierce, that Dark Monk himself fears him!|
+Character=Money-Monkey}}
+
+==Description==
 Money-Monkey is an assassin of an unknown race with four arms. He was sent by [[FunFrock]] to kill [[Twinsen]].
 
 ==Role in Twinsen's adventure==
@@ -18,9 +23,6 @@ When Twinsen has arrived on the [[Elevator to the Undergas|elevator]] platform, 
 ==Quotes==
 {{Quote|
 Quote=Ah, here you are at last! I was beginning to wonder if I would see you today.|
-Character=Money-Monkey}}
-{{Quote|
-Quote=I, my lad, am an assassin that Dark Monk's paid to eliminate you. But, looking at you, it seems I must have the wrong fellow. The lad I hunt is a warrior so fierce, that Dark Monk himself fears him!|
 Character=Money-Monkey}}
 {{Quote|
 Quote=Laddie, you are as savvy as a monster from the gas. When you established contact with Johnny Rocket, my spies were there. We have followed you since. I knew that you wanted to go down to the under-gas. Thus I waited here to strike. But enough said. Now, lad, prepare yourself to die!!|
