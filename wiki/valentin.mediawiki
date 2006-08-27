@@ -10,15 +10,15 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
+{{Quote|
+Quote=This Roger de la Fontaine, he used to get pretty close to the gas. Could well be where he hid it, our fragment.|
+Character=Valentin}}
+
+==Description==
 Valentin is just one of the many inhabitants on the [[Island of the Francos]], who is searching for the lost [[Franco Key Fragment]]. Unlike many of the others who are searching for the fragment, Valentin uses common sense, knowledge and a metal detector to try and find it.
 
 ==Role in Twinsen's adventure==
 Valentin gave [[Twinsen]] a clue, that the fragment might be buried near the gas.
-
-==Quotes==
-{{Quote|
-Quote=This Roger de la Fontaine, he used to get pretty close to the gas. Could well be where he hid it, our fragment.|
-Character=Valentin}}
 
 [[Category:Francos]]
 [[Category:Male characters]]
