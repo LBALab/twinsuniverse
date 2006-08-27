@@ -10,6 +10,7 @@ Gender=Male|
 Size=Large|
 Age=Adult}}
 
+==Description==
 Ghazkhul le Grand is an Orc, a Mercenary sent by [[Dark Monk]] (alias Dr. [[FunFrock]]) to kill [[Twinsen]] before he could get to [[Island CX]]. He guarded the [[Queen of the Mosquibees]] throne, which is the entrance to [[Island CX]].
 
 ==Role in Twinsen's adventure==
