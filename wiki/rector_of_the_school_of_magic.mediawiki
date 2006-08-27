@@ -10,6 +10,11 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
+{{Quote|
+Quote=Welcome, Twinsen. I'd be honored to have you study with us. But even, though you once saved our world, you'll still have to pass the same tests as the other students.|
+Character=Mentor of the School of Magic}}
+
+==Description==
 The mentor of the school of magic is a nameless rabbibunny who is in charge of the [[School of Magic]]. He guides the new pupils of the school throughout their tests, and gives them their rewards in case they complete one. He is also one of the most respected wizards with his own charming [[Bunny|assistant]].
 
 ==Role in Twinsen's adventure==
@@ -17,10 +22,7 @@ The mentor of the school of magic is a nameless rabbibunny who is in charge of t
 
 Later on, when the [[Esmers]] invaded the planet, the mentor of the school was also the one who sent Twinsen to look for the missing wizards, and adviced him about certain things.
 
-==Quotes==
-{{Quote|
-Quote=Welcome, Twinsen. I'd be honored to have you study with us. But even, though you once saved our world, you'll still have to pass the same tests as the other students.|
-Character=Mentor of the School of Magic}}
+==Additional quotes==
 {{Quote|
 Quote=You'll obtain the power to heal by passing one of the tests of wizardry. But first you have to enroll. Upon graduation, you get an additional level of magic!|
 Character=Mentor of the School of Magic}}
