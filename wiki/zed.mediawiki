@@ -10,15 +10,17 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
+{{Quote|
+Quote=Ah Twinsen, with this rain, I found plenty of mushrooms!|
+Character=Zed}}
+
+==Description==
 Zed is a grobo living on [[Citadel Island]]. His only hoby seems to be collecting mushrooms, something he likes doing in most of his spare time.
 
 ==Role in Twinsen's adventure==
 Zed had no real role in [[Twinsen]]'s adventures. He only gave Twinsen some hints, like most characters. In his case: Twinsen can drown, where to seek [[Raph]] and that mushrooms could come in handy.
 
-==Quotes==
-{{Quote|
-Quote=Ah Twinsen, with this rain, I found plenty of mushrooms!|
-Character=Zed}}
+==Additional quotes==
 {{Quote|
 Quote=Last time I heard him play his guitar, he was probably on the Cliffs. I was looking for mushrooms at that time.|
 Character=Zed}}
