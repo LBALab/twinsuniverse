@@ -10,15 +10,15 @@ Gender=Male|
 Size=Large|
 Age=Adult}}
 
+{{Quote|
+Quote=Welcome, my dear sir! Welcome, welcome to our wheel of fortune! So you're the one fate has chosen today to try for our Super Jackpot! Excellent, excellent. Now, just stand behind the wheel on the small podium, give it a whirl, and maybe, maybe I say, you will hit it big!!!|
+Character=Patrick}}
+
+==Description==
 Patrick is the Gloum who welcomes the winners of the key to the Super Jackpot chamber in the [[Otringal]] [[Casino]]. He acts nice, but is actually the same as all other Gloums- an agressive fraud.
 
 ==Role in Twinsen's adventure==
 When [[Twinsen]] entered the Super Jackpot chamber at the casino, Patrick instructed him about spinning the wheel. Once Twinsen gave the wheel a spin, another Gloum came from above, and with Patrick, they started hitting Twinsen and rob him from all his money. Killing Patrick and the other Gloum paid well- 50 [[Zlitos]] for each of them, plus the [[key]] to the door to the outside.
-
-==Quotes==
-{{Quote|
-Quote=Welcome, my dear sir! Welcome, welcome to our wheel of fortune! So you're the one fate has chosen today to try for our Super Jackpot! Excellent, excellent. Now, just stand behind the wheel on the small podium, give it a whirl, and maybe, maybe I say, you will hit it big!!!|
-Character=Patrick}}
 
 [[Category:Gloums]]
 [[Category:Male characters]]
