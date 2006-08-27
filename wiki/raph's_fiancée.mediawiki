@@ -10,15 +10,17 @@ Gender=Female|
 Size=Medium|
 Age=Adult}}
 
+{{Quote|
+Quote=I don't understand why the lighthouse is closed and turned off. What could my fiancé Raph, be doing? By the way, Mr. Twinsen, did you know you can jump over the rocks if you are trapped?|
+Character=Raph's fiancé}}
+
+==Description==
 Raph's fiancé is a nameless rabbibunny, engaged to [[Raph]], the [[lighthouse]] keeper.
 
 ==Role in Twinsen's adventure==
 The fiancé gave [[Twinsen]] hints as to where he could find Raph and what to do if he is trapped. After Twinsen freed Raph, she could be found standing on the top floor of the lighthouse alongside of him.
 
-==Quotes==
-{{Quote|
-Quote=I don't understand why the lighthouse is closed and turned off. What could my fiancé Raph, be doing? By the way, Mr. Twinsen, did you know you can jump over the rocks if you are trapped?|
-Character=Raph's fiancé}}
+==Additional quotes==
 {{Quote|
 Quote=Unfortunately, he's disappeared, Mr. Twinsen! I hope he hasn't gone on another of his strolls on the cliffs! One of these days it might be nasty, with all these rumors about the tralü...|
 Character=Raph's fiancé}}
