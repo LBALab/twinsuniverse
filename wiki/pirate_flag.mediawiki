@@ -25,3 +25,4 @@ Quote=Skull flag. Pirate emblem belonging to the famous pirate Captain LeBorgne.
 Character=A description in the Maritime Museum}}
 
 [[Category:Objects]]
+[[Category:Articles without an image]]
