@@ -10,6 +10,11 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
+{{Quote|
+Quote=I know this hemisphere very well, for 10 Kashes I'll tell you what FunFrock is concocting here.|
+Character=Funky rabbibunny}}
+
+==Description==
 Down in the streets of [[Funky-Town]], where a small population of dissidents is rebelling against [[FunFrock]], patrols a nameless rabbibunny. The city probably received its name from people of his type, funky and cool.
 Although not being too appreciated by his town mates, this nameless rabbibunny is perhaps the smartest and most knowledgable person of the entire [[Tippett Island|island]]. For a decent price, he is willing to sell whoever's interested information regarding FunFrock's evil plans.
 Further than that, very few is known about his personality. He seems to be a loner, who doesn't chat too much.
