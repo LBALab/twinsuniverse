@@ -10,6 +10,11 @@ Gender=Male|
 Size=Small|
 Age=Adult}}
 
+{{Quote|
+Quote=Thank you for having freed me. I am a dissident of the government. The emperor and Dark Monk, our reincarnated God, manipulate the people of Zeelich. They lie continually.|
+Character=Joan Loumin}}
+
+==Description==
 Rejecting the [[Emperor of Zeelich]] and his actions, a small group of dissidents have set up a resistance group, spreading propaganda against the Emperor. The most active member of this group, and apparently their "leader", seems to be Joan Loumin, a brave yet reckless mosquibee. Perhaps due to not being careful enough, Joan was captured by the emperor at least once. However, he seems to be the most active dissident, having spreading the propaganda on several islands. He also seems to be in a pretty close contact with [[Astrid]], the Mosquibees queen.
 
 ==Role in Twinsen's adventure==
@@ -19,10 +24,7 @@ When Twinsen reached the [[Mosquibees Island]], Joan Loumin was standing there, 
 Going after the queen so that he could reach Island CX, Twinsen met Joan Loumin once again at the cell of the [[Building Company]] at [[Wannies Island]]. There, Joan adviced the quetch to go to Island CX as soon as possible.
 Later on, after Twinsen's adventure was finished, one could spot Joan Loumin at the party in [[Citadel Island]].
 
-==Quotes==
-{{Quote|
-Quote=Thank you for having freed me. I am a dissident of the government. The emperor and Dark Monk, our reincarnated God, manipulate the people of Zeelich. They lie continually.|
-Character=Joan Loumin}}
+==Additional quotes==
 {{Quote|
 Quote=But let's not waste any time. If you want to get out of here, don't take the main entrance, it is being watched by soldiers.|
 Character=Joan Loumin}}
