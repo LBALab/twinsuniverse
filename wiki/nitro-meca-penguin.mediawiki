@@ -32,4 +32,8 @@ Character=Official description, Twinsen's second adventure}}
 Quote=You just acquired a superb Nitro-Meca-Penguin. Select it in the inventory and it'll explode a few seconds later.|
 Character=When Twinsen found a new penguin}}
 
+==Related threads==
+===General===
+* {{thread|id=11096|title=The Desert Island Bowlers}}
+
 [[Category:Weapons]]
