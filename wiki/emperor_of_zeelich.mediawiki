@@ -10,10 +10,21 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
-==Quotes==
 {{Quote|
 Quote=Here you are at last! I was waiting for you Twinsunian, Dark Monk told me a lot about you!!|
 Character=Emperor of Zeelich}}
+
+==Description==
+Dr. [[Funfrock]] tried another plan to destroy [[Twinsun]], by imposting as [[Dark Monk]]. '''The Emperor''' was actually his right hand, and spreaded the propaganda that Dark Monk was reincarnated.
+Because the Priests of [[Zeelich]] believed that, they suspected [[Twinsen]] of stealing [[Dark Monk's key|fragments]] while he actually stole them to avoid unaccepteble use of the Emperor and Funfrock. The Emperor wanted actually to be the master of Zeelich. The Emperor had overwhelming armies in comparison with the dissidents and army of [[Queen Astrid]]. He sent those armies as a way to avoid a failure of his plan.
+
+==Role in Twinsen's adventure==
+He helped Dr. Funfrock to impost Dark Monk and to destroy Twinsun. In fact he is a righthand of FunFrock.
+
+==Unconfirmed theories==
+He could picked up Funfrock when falling from the [[Well of Sendell]] and sended a clone to finish Twinsen.
+
+==Additional Quotes==
 {{Quote|
 Quote=It's over Twinsen, you lost. To make your defeat even more bitter, I am going to tell you the truth. With all these beliefs, I was not master of my own planet, people had only ears for Dark Monk's priests!! One day, a stranger landed on Zeelich and offered to pass himself off as Dark Monk. Together, we spread the belief that he was to fulfill the great prophecy. Of course, this is far from the truth. I don't know why, but Dark Monk wants to appropriate the magical energy contained in your planet. And, since I want to become the master of Zeelich, we made a deal!!!|
 Character=Emperor of Zeelich}}
