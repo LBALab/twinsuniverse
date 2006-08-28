@@ -10,6 +10,10 @@ Gender=Female|
 Size=Medium|
 Age=Adult}}
 
+==Related threads==
+===General===
+* {{thread|id=10898|title=Does Twinsen REALLY love Zoe`?}}
+
 {{Stub}}
 
 [[Category:Quetches]]
