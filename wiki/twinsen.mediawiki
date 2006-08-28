@@ -10,6 +10,10 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
+==Related threads==
+===General===
+* {{thread|id=10988|title=Twinsen`s tattoo}}
+
 {{Stub}}
 
 [[Category:Quetches]]
