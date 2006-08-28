@@ -57,4 +57,8 @@ Character=Official description, Twinsen's second adventure}}
 Quote=By the way, don't forget that the trajectory of your magic ball changes with your behavior!|
 Character=[[Miss Bloop]]}}
 
+==Related threads==
+===General===
+* {{thread|id=11114|title=Your impression of the magic ball}}
+
 [[Category:Weapons]]
