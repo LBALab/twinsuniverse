@@ -35,5 +35,6 @@ Character=When Twinsen found a new penguin}}
 ==Related threads==
 ===General===
 * {{thread|id=11096|title=The Desert Island Bowlers}}
+* {{thread|id=11024|title=some fun stuff and tips}}
 
 [[Category:Weapons]]
