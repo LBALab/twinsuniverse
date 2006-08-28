@@ -30,6 +30,10 @@ Character=FunFrock}}
 Quote=So you followed me, you miserable maggot!!! You didn't get the picture, did you? Now it's too late. In a few minutes, your planet will be destroyed, and its energy will make me the equivalent of a God!!! For annoying me with the sight of you yet again, I'm going to sacrifice these children you love so dearly right in front of your eyes!!!|
 Character=FunFrock}}
 
+==Related threads==
+===General===
+* {{thread|id=11057|title=A weird resemblance}}
+
 {{Stub}}
 
 [[Category:Quetches]]
