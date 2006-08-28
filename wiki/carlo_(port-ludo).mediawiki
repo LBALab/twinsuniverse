@@ -28,6 +28,10 @@ Character=Carlo}}
 Quote=I don't know. But it has been a while back since I last saw Ker'aooc the healer.|
 Character=Carlo}}
 
+==Related threads==
+===General===
+* {{thread|id=11096|title=The Desert Island Bowlers}}
+
 [[Category:Quetches]]
 [[Category:Male characters]]
 [[Category:Medium characters]]
