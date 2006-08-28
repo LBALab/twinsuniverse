@@ -28,4 +28,8 @@ Character=[[Mr. Paul]]}}
 Quote=Your ticket is in order, Mr. Twinsen, you may board. Have a nice trip!|
 Character=Mr. Paul}}
 
+==Related threads==
+===General===
+* {{thread|id=11024|title=some fun stuff and tips}}
+
 [[Category:Objects]]
