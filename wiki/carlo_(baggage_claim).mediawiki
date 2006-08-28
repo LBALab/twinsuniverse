@@ -31,6 +31,10 @@ Character=Carlo}}
 Quote=Just follow the arrows, bring it back here and I'll open it. If you need help, ask my colleagues downstairs.|
 Character=Baggage claim [[Grobo]]}}
 
+==Related threads==
+===General===
+* {{thread|id=11086|title=Is it possible to get the box out without paying the guy?}}
+
 [[Category:Quetches]]
 [[Category:Male characters]]
 [[Category:Medium characters]]
