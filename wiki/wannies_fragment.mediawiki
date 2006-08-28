@@ -26,6 +26,10 @@ Character=Dark Monk's priest}}
 Quote=Easy, Twinsen, be careful. It's not the time to break this precious fragment!!|
 Character=A voice}}
 
+==Related threads==
+===General===
+* {{thread|id=10899|title=Has anyone emailed our good ol' Fred about...}}
+
 [[Category:Objects]]
 [[Category:Dark Monk's key]]
 [[Category:Articles without an image]]
