@@ -64,4 +64,8 @@ Character=[[Zoe]]}}
 Quote=After you give it to Jerome, this can of gazogem will allow your friend to turn your proto-pack into a super-jetpack.|
 Character=Gazogem description}}
 
+==Related threads==
+===General===
+* {{thread|id=10867|title=That dam...darned protopack!}}
+
 [[Category:Objects]]
