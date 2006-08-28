@@ -37,6 +37,10 @@ Character=Anatole}}
 Quote=The wizards? Ah yes, I saw some pass by quite a while back. They were talking about the Hacienda, in the desert.|
 Character=Anatole}}
 
+==Related threads==
+===General===
+* {{thread|id=11096|title=The Desert Island Bowlers}}
+
 [[Category:Spheroes]]
 [[Category:Male characters]]
 [[Category:Small characters]]
