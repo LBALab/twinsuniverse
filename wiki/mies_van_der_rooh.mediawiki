@@ -34,6 +34,10 @@ Character=The note in FunFrock's safe}}
 Quote=I am updating the works of my defunct son. Certain plans here date back from the time when he rebuilt the island's network of sewers.|
 Character=Mies van der Rooh's father}}
 
+==Related threads==
+===General===
+* {{thread|id=10195|title=Interesting LBA facts [Discuss]}}
+
 [[Category:Rabbibunnies]]
 [[Category:Medium characters]]
 [[Category:Male characters]]
