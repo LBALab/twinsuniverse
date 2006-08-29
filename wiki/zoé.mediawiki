@@ -16,7 +16,7 @@ Age=Adult}}
 * {{thread|id=10677|title=after 10 years I'm clueless}}
 * {{thread|id=10684|title=Zoe's voice}}
 * {{thread|id=10497|title=has anyone noticed this?}}
-* {{thread|id=about Zoe|title=3408}}
+* {{thread|id=3408|title=about Zoe}}
 
 {{Stub}}
 
