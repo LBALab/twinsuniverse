@@ -18,6 +18,7 @@ Age=Adult}}
 * {{thread|id=10423|title=Shocking Images! (E! True Hollywood story)}}
 * {{thread|id=9040|title=Toss Up FINAL MATCH!}}
 * {{thread|id=10042|title=LBA comic}}
+* {{thread|id=9859|title=just finished LBA2, again}}
 
 {{Stub}}
 
