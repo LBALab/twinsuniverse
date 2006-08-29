@@ -43,6 +43,10 @@ Character=[[Beatrice]]}}
 Quote=I have not seen this young lady. But go to the astronomers house. Even though he is not allowed to leave his own house, he knows everything. He lives in the last house on the hill, overlooking the city.|
 Character=Shopkeeper in [[Old Burg]]}}
 
+==Related threads==
+===General===
+* {{thread|id=10195|title=Interesting LBA facts [Discuss]}}
+
 [[Category:Spheroes]]
 [[Category:Male characters]]
 [[Category:Small characters]]
