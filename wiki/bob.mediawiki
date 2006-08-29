@@ -34,6 +34,10 @@ Character=Bob}}
 Quote=What's up with these Esmers? Couldn't they have stayed home?|
 Character=Bob}}
 
+==Related threads==
+===General===
+* {{thread|id=10820|title=What Is Bob Doing There?}}
+
 [[Category:Grobos]]
 [[Category:Male characters]]
 [[Category:Medium characters]]
