@@ -33,5 +33,9 @@ The saber, as Twinsen thought, came in very handy indeed. With its aid, Twinsen 
 Quote=You've just stolen Dr. FunFrock's saber!|
 Character=After Twinsen took the sabert}}
 
+==Related threads==
+===General===
+* {{thread|id=9869|title=Get the Sword at start of game}}
+
 [[Category:Weapons]]
 [[Category:Articles without an image]]
