@@ -26,5 +26,9 @@ Character=Joe the Elf}}
 Quote=And if you have a membership card you can show me, I've something else for you.|
 Character=Raymond the Elf}}
 
+==Related threads==
+===General===
+* {{thread|id=10848|title=Third member of the elves club...}}
+
 [[Category:Objects]]
 [[Category:Articles without an image]]
