@@ -25,5 +25,9 @@ Character=[[Dark Monk's priest]]}}
 Quote=You must get the four key fragments, which are protected by the Esmer races. With these fragments the statue of Dark Monk will emerge from the crater!!|
 Character=[[Sendell]]}}
 
+==Related threads==
+===General===
+* {{thread|id=9859|title=just finished LBA2, again}}
+
 [[Category:Objects]]
 [[Category:Dark Monk's key|*]]
