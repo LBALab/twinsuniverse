@@ -18,6 +18,10 @@ Character=Julia}}
 Quote=Go see Beatrice and tell her that Julia sent you. She'll explain all that better than I can. She lives on the outskirts of the Old Burg, in a house next to the sea, on Peg Leg Street.|
 Character=Julia}}
 
+==Related threads==
+===General===
+* {{thread|id=9467|title="You get all that?"}}
+
 {{Stub}}
 
 [[Category:Rabbibunnies]]
