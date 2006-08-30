@@ -67,5 +67,6 @@ Character=Gazogem description}}
 ==Related threads==
 ===General===
 * {{thread|id=10867|title=That dam...darned protopack!}}
+* {{thread|id=9496|title=Does any1 no about protopack}}
 
 [[Category:Objects]]
