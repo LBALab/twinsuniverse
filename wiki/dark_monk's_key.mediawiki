@@ -28,6 +28,7 @@ Character=[[Sendell]]}}
 ==Related threads==
 ===General===
 * {{thread|id=9859|title=just finished LBA2, again}}
+* {{thread|id=9436|title=The 4 fragments}}
 
 [[Category:Objects]]
 [[Category:Dark Monk's key|*]]
