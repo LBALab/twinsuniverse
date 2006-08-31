@@ -32,4 +32,8 @@ Twinsen could immediately test the sword, as the [[hussars guard]] came down the
 Quote=You just seized the emperor's sword. Now you can face the hussars guarding the Emperor's palace.|
 Character=When Twinsen took the sword}}
 
+==Related threads==
+===General===
+* {{thread|id=9366|title=Sword on twinsun in LBA2}}
+
 [[Category:Weapons]]
