@@ -90,6 +90,10 @@ Character=Jerome Baldino}}
 Quote=Come in! Twinsen? It's me, Baldino! I've improved your protopack, you can come pick it up now!|
 Character=Jerome Baldino}}
 
+==Related threads==
+===General===
+* {{thread|id=9154|title=Am I the only one seeing this?!}}
+
 {{Stub}}
 
 [[Category:Grobos]]
