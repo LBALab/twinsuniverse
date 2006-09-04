@@ -13,6 +13,7 @@ Age=Adult}}
 ==Related threads==
 ===General===
 * {{thread|id=11024|title=some fun stuff and tips}}
+* {{thread|id=9111|title=Just a little weird poll...}}
 
 {{Stub}}
 
