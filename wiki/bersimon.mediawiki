@@ -56,6 +56,7 @@ Character=[[Mentor of the Scool of Magic]]}}
 ==Relaetd threads==
 ===General===
 * {{thread|id=8965|title=Toss Up Compensate Match}}
+* {{thread|id=8895|title=Second Semi of the Toss Up!}}
 
 [[Category:Rabbibunnies]]
 [[Category:Male characters]]
