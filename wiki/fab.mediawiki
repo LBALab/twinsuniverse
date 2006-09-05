@@ -34,6 +34,10 @@ Character=Fab}}
 Quote=Raph? Ah yeah, he has set up a super combo with his buddies Pat and Fab! But I don't know where he is.|
 Character=[[Umbrella thief]]}}
 
+==Related threads==
+===General===
+* {{thread|id=8829|title=When We Was Fab}}
+
 [[Category:Spheroes]]
 [[Category:Male characters]]
 [[Category:Small characters]]
