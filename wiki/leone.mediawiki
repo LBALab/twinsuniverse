@@ -40,6 +40,10 @@ Character=Leone}}
 Quote=All I know is that the wizard Ker'aooc has gone on a trip with some of his colleagues. It's the Esmers who invited him!!|
 Character=Leone}}
 
+==Related threads==
+===General===
+* {{thread|id=8431|title=Grandma}}
+
 [[Category:Spheroes]]
 [[Category:Female characters]]
 [[Category:Small characters]]
