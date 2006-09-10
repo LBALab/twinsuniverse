@@ -25,4 +25,8 @@ The darts did not have a specific role in [[Twinsen]]'s second adventure. It was
 Quote=Would you like 3 darts and try some duck shooting? The price is 4 kashes.|
 Character=Temple Park vendor}}
 
+==Related threads==
+===General===
+* {{thread|id=8282|title=Darts}}
+
 [[Category:Weapons]]
