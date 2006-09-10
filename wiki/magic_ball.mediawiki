@@ -60,5 +60,6 @@ Character=[[Miss Bloop]]}}
 ==Related threads==
 ===General===
 * {{thread|id=11114|title=Your impression of the magic ball}}
+* {{thread|id=8339|title=I find it funny...}}
 
 [[Category:Weapons]]
