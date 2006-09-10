@@ -35,5 +35,6 @@ Character=When Twinsen took the sword}}
 ==Related threads==
 ===General===
 * {{thread|id=9366|title=Sword on twinsun in LBA2}}
+* {{thread|id=8398|title=Sword fighting}}
 
 [[Category:Weapons]]
