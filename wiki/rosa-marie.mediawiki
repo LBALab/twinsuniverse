@@ -15,6 +15,7 @@ Age=Adult}}
 * {{thread|id=11024|title=some fun stuff and tips}}
 * {{thread|id=9111|title=Just a little weird poll...}}
 * {{thread|id=8086|title=Twinsen's gift :p}}
+* {{thread|id=8374|title=Rosa the Cow}}
 
 {{Stub}}
 
