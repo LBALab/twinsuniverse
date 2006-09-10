@@ -47,4 +47,8 @@ Character=The old rabbibunny}}
 Quote=Book of Bù. It allows me to speak with the animals of Twinsun.|
 Character=Twinsen}}
 
+==Related threads==
+===General===
+* {{thread|id=8325|title=Book of Bu}}
+
 [[Category:Magical items]]
