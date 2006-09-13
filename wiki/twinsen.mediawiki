@@ -28,6 +28,7 @@ Age=Adult}}
 * {{thread|id=8339|title=I find it funny...}}
 * {{thread|id=8262|title=It's a girl!}}
 * {{thread|id=7871|title=Twinsen's birthday}}
+* {{thread|id=7967|title=Twinsen's parents ?}}
 
 ===Fan art===
 * {{thread|id=11118|title=Twinsen in clay}}
