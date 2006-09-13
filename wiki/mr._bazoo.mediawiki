@@ -34,6 +34,10 @@ Character=Mr. Bazoo}}
 Quote=You've seen the visitors. They are Esmers. Supposedly, they're peaceloving and just want to trade us their technology for some of the wisdom of our wizards.|
 Character=Mr. Bazoo}}
 
+==Related threads==
+===General===
+* {{thread|id=7972|title=Families}}
+
 [[Category:Grobos]]
 [[Category:Male characters]]
 [[Category:Medium characters]]
