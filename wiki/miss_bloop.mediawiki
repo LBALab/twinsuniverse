@@ -38,6 +38,10 @@ Character=Miss Bloop}}
 Quote=By the way, don't forget that the trajectory of your magic ball changes with your behavior!|
 Character=Miss Bloop}}
 
+==Related threads==
+===General===
+* {{thread|id=7972|title=Families}}
+
 [[Category:Grobos]]
 [[Category:Female characters]]
 [[Category:Medium characters]]
