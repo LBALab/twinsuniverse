@@ -29,6 +29,7 @@ Age=Adult}}
 * {{thread|id=8262|title=It's a girl!}}
 * {{thread|id=7871|title=Twinsen's birthday}}
 * {{thread|id=7967|title=Twinsen's parents ?}}
+* {{thread|id=7924|title=Jobs for Twinsen & Zoe}}
 
 ===Fan art===
 * {{thread|id=11118|title=Twinsen in clay}}
