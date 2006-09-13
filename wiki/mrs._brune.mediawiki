@@ -28,6 +28,10 @@ Character=Brune}}
 Quote=The weather is improving. Now the kids can go on their class outing.|
 Character=Brune}}
 
+==Related threads==
+===General===
+* {{thread|id=7972|title=Families}}
+
 [[Category:Rabbibunnies]]
 [[Category:Female characters]]
 [[Category:Medium characters]]
