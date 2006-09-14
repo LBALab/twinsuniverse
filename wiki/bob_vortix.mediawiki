@@ -47,6 +47,7 @@ Character=Shopkeeper in [[Old Burg]]}}
 ===General===
 * {{thread|id=10195|title=Interesting LBA facts [Discuss]}}
 * {{thread|id=7543|title=Astronomer?}}
+* {{thread|id=6811|title=LBA makes no sense}}
 
 [[Category:Spheroes]]
 [[Category:Male characters]]
