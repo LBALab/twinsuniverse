@@ -50,5 +50,6 @@ Character=Twinsen}}
 ==Related threads==
 ===General===
 * {{thread|id=8325|title=Book of Bu}}
+* {{thread|id=7201|title=Eh...}}
 
 [[Category:Magical items]]
