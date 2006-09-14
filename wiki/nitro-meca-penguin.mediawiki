@@ -36,5 +36,6 @@ Character=When Twinsen found a new penguin}}
 ===General===
 * {{thread|id=11096|title=The Desert Island Bowlers}}
 * {{thread|id=11024|title=some fun stuff and tips}}
+* {{thread|id=7141|title=Adeline can't spell?}}
 
 [[Category:Weapons]]
