@@ -42,6 +42,7 @@ Character=Joe the Elf}}
 ==Related threads==
 ===General===
 * {{thread|id=8802|title=Mysterious quote}}
+* {{thread|id=7689|title="the Elf"}}
 
 {{Stub}}
 
