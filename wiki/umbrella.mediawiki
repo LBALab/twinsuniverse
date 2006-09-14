@@ -29,5 +29,9 @@ Character=The umbrela thief}}
 Quote=You just found the customer's umbrella.|
 Character=When Twinsen received the umbrella}}
 
+==Related threads==
+===General===
+* {{thread|id=7656|title=An umbrella??}}
+
 [[Category:Objects]]
 [[Category:Articles without an image]]
