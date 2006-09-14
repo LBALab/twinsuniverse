@@ -30,6 +30,7 @@ Age=Adult}}
 * {{thread|id=7871|title=Twinsen's birthday}}
 * {{thread|id=7967|title=Twinsen's parents ?}}
 * {{thread|id=7924|title=Jobs for Twinsen & Zoe}}
+* {{thread|id=7470|title=Twinsen Surname? Or Forename?}}
 
 ===Fan art===
 * {{thread|id=11118|title=Twinsen in clay}}
