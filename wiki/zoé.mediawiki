@@ -23,6 +23,7 @@ Age=Adult}}
 * {{thread|id=8432|title=Are Twinsen and Zoe married?}}
 * {{thread|id=8262|title=It's a girl!}}
 * {{thread|id=7924|title=Jobs for Twinsen & Zoe}}
+* {{thread|id=7402|title=Quote}}
 
 {{Stub}}
 
