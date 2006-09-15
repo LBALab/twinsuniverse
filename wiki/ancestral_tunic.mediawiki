@@ -56,5 +56,6 @@ Character=Official description of the [[Lightning spell]]}}
 ==Related threads==
 ===General===
 * {{thread|id=9859|title=just finished LBA2, again}}
+* {{thread|id=6949|title=Why?}}
 
 [[Category:Magical items]]
