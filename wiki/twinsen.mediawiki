@@ -33,6 +33,7 @@ Age=Adult}}
 * {{thread|id=7470|title=Twinsen Surname? Or Forename?}}
 * {{thread|id=6981|title=Twinsen's voice}}
 * {{thread|id=6949|title=Why?}}
+* {{thread|id=6700|title=A theory over Twinsens swimming skill}}
 
 ===Fan art===
 * {{thread|id=11118|title=Twinsen in clay}}
