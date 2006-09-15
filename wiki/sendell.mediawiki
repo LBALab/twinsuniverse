@@ -14,6 +14,7 @@ Age=Adult}}
 ===General===
 * {{thread|id=9558|title=Sendellism}}
 * {{thread|id=7653|title=Is Sendell a Girl?}}
+* {{thread|id=6949|title=Why?}}
 
 {{Stub}}
 
