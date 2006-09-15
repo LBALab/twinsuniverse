@@ -28,5 +28,6 @@ Character=Sendell, talking to Twinsen through the ball}}
 ==Related threads==
 ===General===
 * {{thread|id=7742|title=Anyone have notice this???}}
+* {{thread|id=7075|title=Just wondered...}}
 
 [[Category:Magical items]]
