@@ -10,6 +10,10 @@ Gender=Male|
 Size=Large|
 Age=Adult}}
 
+==Related threads==
+===General===
+* {{thread|id=7112|title=The Godfather}}
+
 {{Stub}}
 
 [[Category:Sups]]
