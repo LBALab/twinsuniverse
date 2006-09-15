@@ -34,6 +34,7 @@ Age=Adult}}
 * {{thread|id=6981|title=Twinsen's voice}}
 * {{thread|id=6949|title=Why?}}
 * {{thread|id=6700|title=A theory over Twinsens swimming skill}}
+* {{thread|id=6847|title=It looks like Twinsen!}}
 
 ===Fan art===
 * {{thread|id=11118|title=Twinsen in clay}}
