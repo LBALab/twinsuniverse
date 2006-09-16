@@ -35,6 +35,7 @@ Age=Adult}}
 * {{thread|id=6949|title=Why?}}
 * {{thread|id=6700|title=A theory over Twinsens swimming skill}}
 * {{thread|id=6847|title=It looks like Twinsen!}}
+* {{thread|id=6724|title=Twinsen the peace-keeper}}
 
 ===Fan art===
 * {{thread|id=11118|title=Twinsen in clay}}
