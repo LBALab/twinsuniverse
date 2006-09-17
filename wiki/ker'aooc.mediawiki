@@ -10,6 +10,10 @@ Gender=Male|
 Size=Small|
 Age=Adult}}
 
+==Related threads==
+===General===
+* {{thread|id=6468|title=Ker'Aooc...}}
+
 {{Stub}}
 
 [[Category:Spheroes]]
