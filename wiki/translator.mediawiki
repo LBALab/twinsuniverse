@@ -33,5 +33,6 @@ Character=Jerome Baldino}}
 ==Related threads==
 ===General===
 * {{thread|id=5305|title=The communicator in LBA2}}
+* {{thread|id=6467|title=Spying on Conversations}}
 
 [[Category:Objects]]
