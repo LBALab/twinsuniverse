@@ -57,6 +57,7 @@ Character=[[Mentor of the Scool of Magic]]}}
 ===General===
 * {{thread|id=8965|title=Toss Up Compensate Match}}
 * {{thread|id=8895|title=Second Semi of the Toss Up!}}
+* {{thread|id=6441|title=Bersimon's note}}
 
 [[Category:Rabbibunnies]]
 [[Category:Male characters]]
