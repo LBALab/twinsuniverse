@@ -24,6 +24,7 @@ Age=Adult}}
 * {{thread|id=8262|title=It's a girl!}}
 * {{thread|id=7924|title=Jobs for Twinsen & Zoe}}
 * {{thread|id=7402|title=Quote}}
+* {{thread|id=6423|title=Zoe Character Still Doing Voice Acting?}}
 
 {{Stub}}
 
