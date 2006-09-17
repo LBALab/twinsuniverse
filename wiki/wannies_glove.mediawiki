@@ -35,4 +35,8 @@ Character=A miner}}
 Quote=I'm in a bind, I've lost my glove somewhere in the mine. With it, I can catch the pieces of lava and the balls of fire, I can even pitch them back. Everybody has one, to extract gems.|
 Character=A miner}}
 
+==Related threads==
+===General===
+* {{thread|id=6481|title=Wannie Glove...}}
+
 [[Category:Weapons]]
