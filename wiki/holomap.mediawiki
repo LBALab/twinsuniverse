@@ -32,4 +32,8 @@ Character=When Twinsen found the holomap in [[Twinsen's house|his house]]}}
 Quote=The Holomap is a 3-D map system. You may use several zoom factors to determine your position on the planet. There are also arrows which can point to the location of tasks to be accomplished, after some characters have given you certain information.|
 Character=Official description}}
 
+==Related threads==
+===General===
+* {{thread|id=6437|title=LBA Holomap}}
+
 [[Category:Objects]]
