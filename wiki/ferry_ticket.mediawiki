@@ -33,5 +33,6 @@ Character=Mr. Paul}}
 * {{thread|id=11024|title=some fun stuff and tips}}
 * {{thread|id=95|title= Rain on Desert Island in LBA 2}}
 * {{thread|id=8267|title=Bug Thingy...}}
+* {{thread|id=6443|title=Raining on desert island glitch.}}
 
 [[Category:Objects]]
