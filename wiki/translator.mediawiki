@@ -30,4 +30,8 @@ Character=Twinsen}}
 Quote=Hey, Twinsen, take this translator, and you will conveniently understand the language of Zeelich!!|
 Character=Jerome Baldino}}
 
+==Related threads==
+===General===
+* {{thread|id=5305|title=The communicator in LBA2}}
+
 [[Category:Objects]]
