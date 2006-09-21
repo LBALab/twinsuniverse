@@ -35,5 +35,6 @@ Character=Official description}}
 ==Related threads==
 ===General===
 * {{thread|id=6437|title=LBA Holomap}}
+* {{thread|id=11464|title=Another random thing}}
 
 [[Category:Objects]]
