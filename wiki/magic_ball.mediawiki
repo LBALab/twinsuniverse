@@ -63,5 +63,6 @@ Character=[[Miss Bloop]]}}
 * {{thread|id=8339|title=I find it funny...}}
 * {{thread|id=7915|title=The magic ball... (LBA2 at least)}}
 * {{thread|id=6354|title=What is a magic ball???}}
+* {{thread|id=6010|title=Magicball soundeffect cameo}}
 
 [[Category:Weapons]]
