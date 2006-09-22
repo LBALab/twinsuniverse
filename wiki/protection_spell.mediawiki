@@ -22,5 +22,6 @@ Character=An unknown character}}
 ==Related threads==
 ===General===
 * {{thread|id=9302|title=LBA2 is over}}
+* {{thread|id=6254|title=Very weird quote}}
 
 [[Category:Magical items]]
