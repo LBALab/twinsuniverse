@@ -23,5 +23,9 @@ Character=Lanktir}}
 Quote=Well, well. It seems that you too have found an authentic secret map of Captain LeBorgne! Do me a favor would you? Give Lanktir, who lives next to the bazaar, back his coffee pot. I'm so ashamed, I should have given it back long ago.|
 Character=A sphero}}
 
+==Related threads==
+===General===
+* {{thread|id=6076|title=Have you ever: coffee can}}
+
 [[Category:Objects]]
 [[Category:Articles without an image]]
