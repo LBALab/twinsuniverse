@@ -10,6 +10,10 @@ Gender=Male|
 Size=Large|
 Age=Adult}}
 
+==Related threads==
+===Fan art===
+* {{thread|id=6222|title=For those interested to see what a cell-shaded LBA would look like}}
+
 {{Stub}}
 
 [[Category:Male characters]]
