@@ -39,4 +39,8 @@ Character=Mentor of the School of Magic}}
 Quote=I can't, I just can't!!! I heard some alien dudes landed on Twinsun, and I didn't even see them! I tried for days to do that blowgun test!|
 Character=[[Aristide]]}}
 
+==Related threads==
+===General===
+* {{thread|id=6054|title=Blowgun}}
+
 [[Category:Weapons]]
