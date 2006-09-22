@@ -41,6 +41,7 @@ Character=A sign at Twinsen's house}}
 ==Related threads==
 ===General===
 * {{thread|id=6382|title=LBA loophole thread}}
+* {{thread|id=6363|title=Sendell's Medallion}}
 
 [[Category:Magical items]]
 [[Category:Articles without an image]]
