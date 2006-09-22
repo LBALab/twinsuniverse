@@ -35,6 +35,10 @@ Character=Felix}}
 Quote=Hey, did you really destroy the Tralü? This monster really existed? Hail to you, may you be prosperous and may the Sendells protect your descendants!|
 Character=Felix}}
 
+==Related threads==
+===General===
+* {{thread|id=5981|title=Felix}}
+
 [[Category:Rabbibunnies]]
 [[Category:Male characters]]
 [[Category:Medium characters]]
