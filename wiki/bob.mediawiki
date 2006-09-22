@@ -38,6 +38,7 @@ Character=Bob}}
 ===General===
 * {{thread|id=10820|title=What Is Bob Doing There?}}
 * {{thread|id=7972|title=Families}}
+* {{thread|id=6384|title=guess what?... A strange quote!!!}}
 
 [[Category:Grobos]]
 [[Category:Male characters]]
