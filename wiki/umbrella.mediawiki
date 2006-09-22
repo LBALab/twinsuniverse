@@ -32,6 +32,7 @@ Character=When Twinsen received the umbrella}}
 ==Related threads==
 ===General===
 * {{thread|id=7656|title=An umbrella??}}
+* {{thread|id=5906|title=Another strange quote}}
 
 [[Category:Objects]]
 [[Category:Articles without an image]]
