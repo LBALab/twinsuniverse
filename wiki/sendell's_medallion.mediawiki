@@ -38,5 +38,9 @@ Character=A [[rabbibunny]] at [[Fortress Island]]}}
 Quote=To my future descendants: I have lent to Miss Bloop's private museum, the Medallion and the Ancestral Tunic which rightfully belong to you. Signed: Twinsen.|
 Character=A sign at Twinsen's house}}
 
+==Related threads==
+===General===
+* {{thread|id=6382|title=LBA loophole thread}}
+
 [[Category:Magical items]]
 [[Category:Articles without an image]]
