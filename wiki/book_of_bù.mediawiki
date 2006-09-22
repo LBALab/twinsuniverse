@@ -52,5 +52,6 @@ Character=Twinsen}}
 * {{thread|id=8325|title=Book of Bu}}
 * {{thread|id=7201|title=Eh...}}
 * {{thread|id=6382|title=LBA loophole thread}}
+* {{thread|id=6013|title=Future species?}}
 
 [[Category:Magical items]]
