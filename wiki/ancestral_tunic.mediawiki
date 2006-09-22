@@ -57,5 +57,6 @@ Character=Official description of the [[Lightning spell]]}}
 ===General===
 * {{thread|id=9859|title=just finished LBA2, again}}
 * {{thread|id=6949|title=Why?}}
+* {{thread|id=6284|title=Twinsens Tunic}}
 
 [[Category:Magical items]]
