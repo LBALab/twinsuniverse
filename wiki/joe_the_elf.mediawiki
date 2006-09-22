@@ -43,6 +43,7 @@ Character=Joe the Elf}}
 ===General===
 * {{thread|id=8802|title=Mysterious quote}}
 * {{thread|id=7689|title="the Elf"}}
+* {{thread|id=6418|title=Elves and magic powers}}
 
 {{Stub}}
 
