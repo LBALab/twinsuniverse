@@ -19,5 +19,9 @@ Even though behind most seals he found only [[clover leaves]], some seals were n
 Quote=You've just found Gawley's Horn, an object left for you by your ancestors.|
 Character=What Twinsen heard when finding the horn}}
 
+==Related threads==
+===General===
+* {{thread|id=6289|title=Favourite Horn}}
+
 [[Category:Magical items]]
 [[Category:Articles without an image]]
