@@ -19,5 +19,6 @@ Twinsen used Kashes in order to buy anything he was interested in. Once arriving
 ==Related threads==
 ===General===
 * {{thread|id=8493|title=stupid thread}}
+* {{thread|id=6333|title=Senorita}}
 
 [[Category:Currencies]]
