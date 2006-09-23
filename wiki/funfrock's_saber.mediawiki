@@ -36,6 +36,7 @@ Character=After Twinsen took the sabert}}
 ==Related threads==
 ===General===
 * {{thread|id=9869|title=Get the Sword at start of game}}
+* {{thread|id=5932|title=LBA2 Mysteries}}
 
 [[Category:Weapons]]
 [[Category:Articles without an image]]
