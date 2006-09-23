@@ -11,6 +11,9 @@ Size=Large|
 Age=Adult}}
 
 ==Related threads==
+===General===
+* {{thread|id=5932|title=LBA2 Mysteries}}
+
 ===Fan art===
 * {{thread|id=6222|title=For those interested to see what a cell-shaded LBA would look like}}
 
