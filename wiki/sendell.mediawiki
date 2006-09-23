@@ -15,6 +15,7 @@ Age=Adult}}
 * {{thread|id=9558|title=Sendellism}}
 * {{thread|id=7653|title=Is Sendell a Girl?}}
 * {{thread|id=6949|title=Why?}}
+* {{thread|id=5932|title=LBA2 Mysteries}}
 
 {{Stub}}
 
