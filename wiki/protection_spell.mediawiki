@@ -23,5 +23,6 @@ Character=An unknown character}}
 ===General===
 * {{thread|id=9302|title=LBA2 is over}}
 * {{thread|id=6254|title=Very weird quote}}
+* {{thread|id=5823|title=Protection Spell}}
 
 [[Category:Magical items]]
