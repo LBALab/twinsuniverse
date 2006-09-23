@@ -31,6 +31,9 @@ Character=Aristide}}
 Quote=I've had it with these studies. I should do something else...I think I am going to try studying extra-zeelichian populations!!!|
 Character=Aristide}}
 
+==Related threads==
+* {{thread|id=5918|title=Stupid Aristide...}}
+
 [[Category:Grobos]]
 [[Category:Male characters]]
 [[Category:Medium characters]]
