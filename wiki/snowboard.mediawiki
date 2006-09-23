@@ -19,4 +19,8 @@ Exhausting in the high ranges of the Hamalayi Mountains, [[Twinsen]] received a 
 Quote=The Kamis have given you a Snowboard.|
 Character=When Twinsen received the snowboard}}
 
+==Related threads==
+===General===
+* {{thread|id=5793|title=Snowboard}}
+
 [[Category:Objects]]
