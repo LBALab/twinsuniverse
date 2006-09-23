@@ -29,6 +29,7 @@ Character=Raymond the Elf}}
 ==Related threads==
 ===General===
 * {{thread|id=10848|title=Third member of the elves club...}}
+* {{thread|id=5900|title=Blue card mystery}}
 
 [[Category:Objects]]
 [[Category:Articles without an image]]
