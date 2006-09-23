@@ -30,6 +30,7 @@ Character=A voice}}
 ===General===
 * {{thread|id=10899|title=Has anyone emailed our good ol' Fred about...}}
 * {{thread|id=5086|title=The mine on the Wannies island}}
+* {{thread|id=5777|title=Dark Monk}}
 
 [[Category:Objects]]
 [[Category:Dark Monk's key]]
