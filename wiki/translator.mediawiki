@@ -35,5 +35,6 @@ Character=Jerome Baldino}}
 * {{thread|id=5305|title=The communicator in LBA2}}
 * {{thread|id=6467|title=Spying on Conversations}}
 * {{thread|id=5927|title=Translator first time playing}}
+* {{thread|id=2398|title=Omg}}
 
 [[Category:Objects]]
