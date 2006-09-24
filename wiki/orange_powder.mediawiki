@@ -12,5 +12,9 @@ The '''orange Powder''' is a special powder that allows recharging [[magic point
 ==Role in Twinsen's adventures==
 [[Twinsen]] didn't have to buy the powder, but it was quite useful when his life and magic points were going low. Also, the price is rather cheap.
 
+==Related threads==
+===General===
+* {{thread|id=5663|title=Orange Powder}}
+
 [[Category:Consumables]]
 [[Category:Articles without an image]]
