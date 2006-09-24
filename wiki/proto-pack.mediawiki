@@ -69,5 +69,6 @@ Character=Gazogem description}}
 * {{thread|id=10867|title=That dam...darned protopack!}}
 * {{thread|id=9496|title=Does any1 no about protopack}}
 * {{thread|id=8380|title=Proto-pack in LBA 1}}
+* {{thread|id=5647|title=Relentless protopack?}}
 
 [[Category:Objects]]
