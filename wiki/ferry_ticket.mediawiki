@@ -34,5 +34,6 @@ Character=Mr. Paul}}
 * {{thread|id=95|title= Rain on Desert Island in LBA 2}}
 * {{thread|id=8267|title=Bug Thingy...}}
 * {{thread|id=6443|title=Raining on desert island glitch.}}
+* {{thread|id=5140|title=Zoe and Twinsen}}
 
 [[Category:Objects]]
