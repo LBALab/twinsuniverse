@@ -39,6 +39,7 @@ Age=Adult}}
 * {{thread|id=6248|title=Twinsen's expression}}
 * {{thread|id=6125|title=A question}}
 * {{thread|id=5217|title=What's the BEST/FUNNIEST death you've given our dear Twinsen!}}
+* {{thread|id=5184|title=Twinsen & Zoe again}}
 
 ===Fan art===
 * {{thread|id=11118|title=Twinsen in clay}}
