@@ -28,6 +28,7 @@ Age=Adult}}
 * {{thread|id=6433|title=Mistake in Zoé's diary}}
 * {{thread|id=6361|title=How will Zoè look like?}}
 * {{thread|id=6195|title=have you ever noticed?}}
+* {{thread|id=1364|title=Zoe's last words.}}
 
 {{Stub}}
 
