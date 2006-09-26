@@ -35,4 +35,8 @@ Character=[[Joan Loumin]]}}
 Quote=You just found the Ring of the Dissidents. It's their identification sign, and it will allow you to be identified by all the dissidents that you meet.|
 Character=When Twinsen received the ring}}
 
+==Related threads==
+===General===
+* {{thread|id=4632|title=The dissidents ring}}
+
 [[Category:Objects]]
