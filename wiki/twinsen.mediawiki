@@ -40,6 +40,7 @@ Age=Adult}}
 * {{thread|id=6125|title=A question}}
 * {{thread|id=5217|title=What's the BEST/FUNNIEST death you've given our dear Twinsen!}}
 * {{thread|id=5184|title=Twinsen & Zoe again}}
+* {{thread|id=4790|title=What Does Twinsen Eat?}}
 
 ===Fan art===
 * {{thread|id=11118|title=Twinsen in clay}}
