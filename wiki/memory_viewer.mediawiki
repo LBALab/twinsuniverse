@@ -19,4 +19,8 @@ The memory viewer did not play a vital role in [[Twinsen]]'s adventure, but it c
 Quote=A memory viewer costs 30 Zlitos.|
 Character=Seller at the shop}}
 
+==Related threads==
+===General===
+* {{thread|id=3820|title=I finished LBA2 yesterday}}
+
 [[Category:Objects]]
