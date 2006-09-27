@@ -42,6 +42,7 @@ Age=Adult}}
 * {{thread|id=5184|title=Twinsen & Zoe again}}
 * {{thread|id=4790|title=What Does Twinsen Eat?}}
 * {{thread|id=4229|title=Twinsen & Funfrock in LBA 1 & 2}}
+* {{thread|id=3884|title=Twinsen, a jumper?}}
 
 ===Fan art===
 * {{thread|id=11118|title=Twinsen in clay}}
