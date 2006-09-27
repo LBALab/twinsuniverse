@@ -38,5 +38,6 @@ Character=When Twinsen found a new penguin}}
 * {{thread|id=11024|title=some fun stuff and tips}}
 * {{thread|id=7141|title=Adeline can't spell?}}
 * {{thread|id=6347|title=Nitro-Meca-Penguins}}
+* {{thread|id=4358|title=Meca Penguins - how meny times?}}
 
 [[Category:Weapons]]
