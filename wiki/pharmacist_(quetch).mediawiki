@@ -25,6 +25,10 @@ The pharmacist had no paticular role, but is the main reason why Twinsen was in 
 Quote=Impossible! Nobody gets out of the Citadel alive!|
 Character=The pharmacist}}
 
+==Related threads==
+===General===
+* {{thread|id=4111|title=Pharmacist's relation in the telling of the dream.}}
+
 [[Category:Quetches]]
 [[Category:Male characters]]
 [[Category:Medium characters]]
