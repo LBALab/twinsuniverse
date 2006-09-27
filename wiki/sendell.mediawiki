@@ -17,6 +17,7 @@ Age=Adult}}
 * {{thread|id=6949|title=Why?}}
 * {{thread|id=5932|title=LBA2 Mysteries}}
 * {{thread|id=4010|title=Sendel vs. FunFrock}}
+* {{thread|id=4007|title=Your preferred "version" of Sendell}}
 
 {{Stub}}
 
