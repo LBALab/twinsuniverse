@@ -10,6 +10,10 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
+==Related threads==
+===General===
+* {{thread|id=4091|title=Quote #340, from Little Big Adventure 2\Twinsen's Odyssey}}
+
 {{Stub}}
 
 [[Category:Rabbibunnies]]
