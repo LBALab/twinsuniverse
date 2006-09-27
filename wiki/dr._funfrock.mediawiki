@@ -47,6 +47,7 @@ Character=FunFrock}}
 * {{thread|id=5470|title=Fuhrer FunFrock (F.F.F)}}
 * {{thread|id=4936|title=How 'bout good ol' doctor F?}}
 * {{thread|id=4010|title=Sendel vs. FunFrock}}
+* {{thread|id=4373|title=FunFrock teleporting?}}
 
 ===Fan art===
 * {{thread|id=7125|title=Funfrock 3d}}
