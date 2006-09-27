@@ -28,6 +28,10 @@ Character=Zed}}
 Quote=The Esmers should come here. It feels so good to look for mushrooms. By the way, I wouldn't try to go swimming, it gets deep very rapidly.|
 Character=Zed}}
 
+==Related threads==
+===General===
+* {{thread|id=4097|title=The Zed cult.}}
+
 [[Category:Grobos]]
 [[Category:Male characters]]
 [[Category:Medium characters]]
