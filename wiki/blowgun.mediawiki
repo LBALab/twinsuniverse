@@ -42,5 +42,6 @@ Character=[[Aristide]]}}
 ==Related threads==
 ===General===
 * {{thread|id=6054|title=Blowgun}}
+* {{thread|id=2770|title=Seen this little thingamijing b4? (LBA2)}}
 
 [[Category:Weapons]]
