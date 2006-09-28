@@ -23,4 +23,8 @@ Character=A voice Twinsen heard when finding the spell}}
 Quote=By dipping this pearl in the Weather Wizard's cauldron, you will be able to create a ring of lightning.|
 Character=Official description of the Pearl of Incandescence}}
 
+==Related threads==
+===General===
+* {{thread|id=3399|title=the trick I used}}
+
 [[Category:Magical items]]
