@@ -46,6 +46,7 @@ Age=Adult}}
 * {{thread|id=3672|title=Twinsen's grandpa}}
 * {{thread|id=3745|title=Whos got the best voice?}}
 * {{thread|id=3297|title=Twinsen and d&d}}
+* {{thread|id=2916|title=About our hero}}
 
 ===Fan art===
 * {{thread|id=11118|title=Twinsen in clay}}
