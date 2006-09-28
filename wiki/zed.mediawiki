@@ -33,6 +33,7 @@ Character=Zed}}
 * {{thread|id=4097|title=The Zed cult.}}
 * {{thread|id=3894|title=Zed & the mushromms!}}
 * {{thread|id=3447|title=Zed is a stalker !!!}}
+* {{thread|id=3464|title=Zed Campaign}}
 
 [[Category:Grobos]]
 [[Category:Male characters]]
