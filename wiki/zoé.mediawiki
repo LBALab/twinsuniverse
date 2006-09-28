@@ -31,6 +31,7 @@ Age=Adult}}
 * {{thread|id=1364|title=Zoe's last words.}}
 * {{thread|id=5184|title=Twinsen & Zoe again}}
 * {{thread|id=3811|title=Zoe and me}}
+* {{thread|id=3647|title=try this in LBA 2}}
 
 {{Stub}}
 
