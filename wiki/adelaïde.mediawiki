@@ -28,6 +28,10 @@ Character=Adelaïde}}
 Quote=I hope my shuttle will be here soon, I can't wait to get back home.|
 Character=Adelaïde}}
 
+==Related threads==
+===General===
+* {{thread|id=2803|title=Red planet?}}
+
 [[Category:Characters of unknown race]]
 [[Category:Male characters]]
 [[Category:Small characters]]
