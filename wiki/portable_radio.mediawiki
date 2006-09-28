@@ -40,4 +40,8 @@ Character=Jerome Baldino}}
 Quote=I could've called it an "integrated super dynamo circuitry mechanism" but I decided to go with "portable radio". A little catchier, huh?|
 Character=Jerome Baldino}}
 
+==Related threads==
+===General===
+* {{thread|id=3367|title=I could've called it an "integrated super dynamo circuitry mechanism" but I decided t}}
+
 [[Category:Objects]]
