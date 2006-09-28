@@ -13,6 +13,7 @@ Age=Adult}}
 ==Related threads==
 ===General===
 * {{thread|id=5932|title=LBA2 Mysteries}}
+* {{thread|id=2865|title=Dino Fly}}
 
 ===Fan art===
 * {{thread|id=6222|title=For those interested to see what a cell-shaded LBA would look like}}
