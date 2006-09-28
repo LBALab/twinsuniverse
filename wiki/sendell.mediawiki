@@ -19,6 +19,7 @@ Age=Adult}}
 * {{thread|id=4010|title=Sendel vs. FunFrock}}
 * {{thread|id=4007|title=Your preferred "version" of Sendell}}
 * {{thread|id=3867|title=File that Didier sent me....}}
+* {{thread|id=3536|title=Sendel, my pc god!}}
 
 {{Stub}}
 
