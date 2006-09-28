@@ -58,6 +58,7 @@ Character=[[Mentor of the Scool of Magic]]}}
 * {{thread|id=8965|title=Toss Up Compensate Match}}
 * {{thread|id=8895|title=Second Semi of the Toss Up!}}
 * {{thread|id=6441|title=Bersimon's note}}
+* {{thread|id=3078|title=The Weather Wizard~}}
 
 [[Category:Rabbibunnies]]
 [[Category:Male characters]]
