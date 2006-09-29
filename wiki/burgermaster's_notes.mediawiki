@@ -28,4 +28,8 @@ Character=Official description}}
 Quote=You just found the Francos Burgermaster's notes. They'll help you find the Francos fragment.|
 Character=What Twinsen heard when finding it}}
 
+==Related threads==
+===General===
+* {{thread|id=2350|title=Burgmaster's note}}
+
 [[Category:Objects]]
