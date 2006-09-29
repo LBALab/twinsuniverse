@@ -32,6 +32,7 @@ Age=Adult}}
 * {{thread|id=5184|title=Twinsen & Zoe again}}
 * {{thread|id=3811|title=Zoe and me}}
 * {{thread|id=3647|title=try this in LBA 2}}
+* {{thread|id=2325|title=Zoé's Diary}}
 
 {{Stub}}
 
