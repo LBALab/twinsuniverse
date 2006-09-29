@@ -21,6 +21,7 @@ Age=Adult}}
 * {{thread|id=3867|title=File that Didier sent me....}}
 * {{thread|id=3536|title=Sendel, my pc god!}}
 * {{thread|id=3466|title=Sendell}}
+* {{thread|id=2442|title=Yet another odd quote}}
 
 {{Stub}}
 
