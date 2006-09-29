@@ -31,6 +31,7 @@ Character=Raymond the Elf}}
 * {{thread|id=10848|title=Third member of the elves club...}}
 * {{thread|id=5900|title=Blue card mystery}}
 * {{thread|id=2821|title=Three general questions and a "Have you done this yet. . . "}}
+* {{thread|id=445|title=about the funny things...}}
 
 [[Category:Objects]]
 [[Category:Articles without an image]]
