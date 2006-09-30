@@ -52,6 +52,7 @@ Age=Adult}}
 * {{thread|id=1696|title=LBA 3 Ideas - Teaching Twinsen Kung Fu}}
 * {{thread|id=1279|title=The A4 poster}}
 * {{thread|id=1357|title=Last Name}}
+* {{thread|id=1368|title=Twinsen's parents}}
 
 ===Fan art===
 * {{thread|id=11118|title=Twinsen in clay}}
