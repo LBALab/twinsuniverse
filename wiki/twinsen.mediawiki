@@ -51,6 +51,7 @@ Age=Adult}}
 * {{thread|id=155|title=Twinsun - a happy jolly place? I THINK NOT}}
 * {{thread|id=1696|title=LBA 3 Ideas - Teaching Twinsen Kung Fu}}
 * {{thread|id=1279|title=The A4 poster}}
+* {{thread|id=1357|title=Last Name}}
 
 ===Fan art===
 * {{thread|id=11118|title=Twinsen in clay}}
