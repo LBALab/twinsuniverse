@@ -39,5 +39,6 @@ Character=Mr. Paul}}
 * {{thread|id=2132|title=LBA 2 - Citadel Island}}
 * {{thread|id=1693|title=My, my...}}
 * {{thread|id=1756|title=bugs}}
+* {{thread|id=1281|title=Bugs:)}}
 
 [[Category:Objects]]
