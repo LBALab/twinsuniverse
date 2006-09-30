@@ -33,6 +33,7 @@ Character=When Twinsen received the umbrella}}
 ===General===
 * {{thread|id=7656|title=An umbrella??}}
 * {{thread|id=5906|title=Another strange quote}}
+* {{thread|id=155|title=Twinsun - a happy jolly place? I THINK NOT}}
 
 [[Category:Objects]]
 [[Category:Articles without an image]]
