@@ -59,6 +59,7 @@ Character=FunFrock}}
 * {{thread|id=2323|title="To the Glory of Doctor FunFrock"}}
 * {{thread|id=1867|title=Do you remember when... [spolier]}}
 * {{thread|id=155|title=Twinsun - a happy jolly place? I THINK NOT}}
+* {{thread|id=1267|title=Funfrock's plan}}
 
 ===Fan art===
 * {{thread|id=7125|title=Funfrock 3d}}
