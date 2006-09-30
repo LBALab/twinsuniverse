@@ -46,6 +46,7 @@ Character=Joe the Elf}}
 * {{thread|id=6418|title=Elves and magic powers}}
 * {{thread|id=6295|title=another weird quote}}
 * {{thread|id=3531|title=Joe on Twinsun after attack??}}
+* {{thread|id=1686|title=Naughty elf!}}
 
 {{Stub}}
 
