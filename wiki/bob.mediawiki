@@ -40,6 +40,7 @@ Character=Bob}}
 * {{thread|id=7972|title=Families}}
 * {{thread|id=6384|title=guess what?... A strange quote!!!}}
 * {{thread|id=1928|title=Ever noticed?}}
+* {{thread|id=155|title=Twinsun - a happy jolly place? I THINK NOT}}
 
 [[Category:Grobos]]
 [[Category:Male characters]]
