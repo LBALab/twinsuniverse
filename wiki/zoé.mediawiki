@@ -37,6 +37,7 @@ Age=Adult}}
 * {{thread|id=1965|title=thebaby (lba2)}}
 * {{thread|id=155|title=Twinsun - a happy jolly place? I THINK NOT}}
 * {{thread|id=1756|title=bugs}}
+* {{thread|id=1279|title=The A4 poster}}
 
 {{Stub}}
 
