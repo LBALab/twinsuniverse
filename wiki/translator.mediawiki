@@ -36,5 +36,6 @@ Character=Jerome Baldino}}
 * {{thread|id=6467|title=Spying on Conversations}}
 * {{thread|id=5927|title=Translator first time playing}}
 * {{thread|id=2398|title=Omg}}
+* {{thread|id=1981|title=translator}}
 
 [[Category:Objects]]
