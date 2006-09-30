@@ -27,5 +27,6 @@ Character=Official description of the Pearl of Incandescence}}
 ===General===
 * {{thread|id=3399|title=the trick I used}}
 * {{thread|id=3407|title=How did you get the lighting spell?}}
+* {{thread|id=2189|title=Lol!}}
 
 [[Category:Magical items]]
