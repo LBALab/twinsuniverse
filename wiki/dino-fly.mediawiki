@@ -15,6 +15,7 @@ Age=Adult}}
 * {{thread|id=5932|title=LBA2 Mysteries}}
 * {{thread|id=2865|title=Dino Fly}}
 * {{thread|id=1860|title=LBA1 Vs LBA2}}
+* {{thread|id=1352|title=Another weird savegame}}
 
 ===Fan art===
 * {{thread|id=6222|title=For those interested to see what a cell-shaded LBA would look like}}
