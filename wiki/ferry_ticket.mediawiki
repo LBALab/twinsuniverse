@@ -38,5 +38,6 @@ Character=Mr. Paul}}
 * {{thread|id=4666|title=Cheating Bugs! There everywhere!}}
 * {{thread|id=2132|title=LBA 2 - Citadel Island}}
 * {{thread|id=1693|title=My, my...}}
+* {{thread|id=1756|title=bugs}}
 
 [[Category:Objects]]
