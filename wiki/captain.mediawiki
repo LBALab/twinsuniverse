@@ -34,6 +34,10 @@ Character=Captain}}
 Quote=Hmmm...Nobody wants to go there these days, it's way to risky. They say monsters have come out of the gas over there. Try the Captain, he's the old nut at the very end of the pier. He's the only one who'd take you!|
 Character=[[Wannie]] in [[Rick's Café]]}}
 
+==Related threads==
+===General===
+* {{thread|id=674|title=Another quote..}}
+
 [[Category:Francos]]
 [[Category:Male characters]]
 [[Category:Medium characters]]
