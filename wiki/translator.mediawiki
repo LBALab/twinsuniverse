@@ -38,5 +38,6 @@ Character=Jerome Baldino}}
 * {{thread|id=2398|title=Omg}}
 * {{thread|id=1981|title=translator}}
 * {{thread|id=741|title=another unknown quote}}
+* {{thread|id=547|title=spying}}
 
 [[Category:Objects]]
