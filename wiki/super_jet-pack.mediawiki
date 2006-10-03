@@ -31,4 +31,8 @@ Character=Jerome Baldino}}
 Quote=Thank you, Twinsen. Now I can make a ship that can race the comets! Anyway, here's something to turn your protopack into a super jetpack. And from now on, you can fly higher.|
 Character=Jerome Baldino}}
 
+==Related threads==
+===General===
+* {{thread|id=540|title=I just played LBA2 again.... (C)}}
+
 [[Category:Objects]]
