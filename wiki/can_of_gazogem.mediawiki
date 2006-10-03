@@ -37,4 +37,8 @@ Character=Jerome Baldino}}
 Quote=Out of order, no gazogem|
 Character=A sign at the gas station}}
 
+==Related threads==
+===General===
+* {{thread|id=540|title=I just played LBA2 again.... (C)}}
+
 [[Category:Objects]]
