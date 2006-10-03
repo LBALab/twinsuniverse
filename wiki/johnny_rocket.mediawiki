@@ -41,6 +41,10 @@ Character=[[The Zeelichian Gazette]]}}
 Quote=He's our greatest hero. The first one to set foot on mysterious Twinsun! Thanks to him, we'll get much needed help from the Twinsunian wizards. He's over there, in the armchair with his manicurist.|
 Character=A sup woman in the hotel}}
 
+==Related threads==
+===General===
+* {{thread|id=540|title=I just played LBA2 again.... (C)}}
+
 [[Category:Sups]]
 [[Category:Male characters]]
 [[Category:Medium characters]]
