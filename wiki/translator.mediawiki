@@ -37,5 +37,6 @@ Character=Jerome Baldino}}
 * {{thread|id=5927|title=Translator first time playing}}
 * {{thread|id=2398|title=Omg}}
 * {{thread|id=1981|title=translator}}
+* {{thread|id=741|title=another unknown quote}}
 
 [[Category:Objects]]
