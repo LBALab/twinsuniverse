@@ -38,5 +38,6 @@ Character=Official description}}
 * {{thread|id=11464|title=Another random thing}}
 * {{thread|id=11495|title=holomap on lba 1}}
 * {{thread|id=1073|title=A little strange thingy...}}
+* {{thread|id=441|title=Super Holomap ?!}}
 
 [[Category:Objects]]
