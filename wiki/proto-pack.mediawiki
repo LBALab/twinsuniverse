@@ -71,5 +71,6 @@ Character=Gazogem description}}
 * {{thread|id=8380|title=Proto-pack in LBA 1}}
 * {{thread|id=5647|title=Relentless protopack?}}
 * {{thread|id=2131|title=LBA 2 Otringal}}
+* {{thread|id=540|title=I just played LBA2 again.... (C)}}
 
 [[Category:Objects]]
