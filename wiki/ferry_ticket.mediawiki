@@ -42,5 +42,6 @@ Character=Mr. Paul}}
 * {{thread|id=1281|title=Bugs:)}}
 * {{thread|id=677|title=Another Quote}}
 * {{thread|id=418|title=hehe...}}
+* {{thread|id=368|title=Little Big Adventure 2}}
 
 [[Category:Objects]]
