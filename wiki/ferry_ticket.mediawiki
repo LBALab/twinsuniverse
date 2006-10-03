@@ -41,5 +41,6 @@ Character=Mr. Paul}}
 * {{thread|id=1756|title=bugs}}
 * {{thread|id=1281|title=Bugs:)}}
 * {{thread|id=677|title=Another Quote}}
+* {{thread|id=418|title=hehe...}}
 
 [[Category:Objects]]
