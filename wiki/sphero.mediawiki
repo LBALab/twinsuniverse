@@ -12,6 +12,7 @@ This race of cute bio-androids has been living for years on the planet as an end
 * {{thread|id=7547|title=Sphero where no sphero should be}}
 * {{thread|id=3806|title=Sphero in LBA 1}}
 * {{thread|id=2353|title=Spheroes/Bouboules}}
+* {{thread|id=132|title=What the hell is that?}}
 
 {{Stub}}
 
