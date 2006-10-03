@@ -26,6 +26,7 @@ Character=A sphero}}
 ==Related threads==
 ===General===
 * {{thread|id=6076|title=Have you ever: coffee can}}
+* {{thread|id=666|title=WOW! An LBA 1 related tread!}}
 
 [[Category:Objects]]
 [[Category:Articles without an image]]
