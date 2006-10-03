@@ -57,6 +57,7 @@ Age=Adult}}
 * {{thread|id=540|title=I just played LBA2 again.... (C)}}
 * {{thread|id=548|title=I was thinking of something..}}
 * {{thread|id=459|title=here we go again...}}
+* {{thread|id=361|title=Twinsen's Voice}}
 
 ===Fan art===
 * {{thread|id=11118|title=Twinsen in clay}}
