@@ -55,7 +55,7 @@ Age=Adult}}
 * {{thread|id=1368|title=Twinsen's parents}}
 * {{thread|id=1092|title=twinsen to the bone}}
 * {{thread|id=540|title=I just played LBA2 again.... (C)}}
-* {{thread|id=|title=}}
+* {{thread|id=548|title=I was thinking of something..}}
 
 ===Fan art===
 * {{thread|id=11118|title=Twinsen in clay}}
