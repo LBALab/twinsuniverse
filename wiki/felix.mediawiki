@@ -39,6 +39,7 @@ Character=Felix}}
 ===General===
 * {{thread|id=5981|title=Felix}}
 * {{thread|id=1957|title=Felix suicide}}
+* {{thread|id=328|title=Secrets}}
 
 [[Category:Rabbibunnies]]
 [[Category:Male characters]]
