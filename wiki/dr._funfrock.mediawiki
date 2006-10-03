@@ -60,6 +60,7 @@ Character=FunFrock}}
 * {{thread|id=1867|title=Do you remember when... [spolier]}}
 * {{thread|id=155|title=Twinsun - a happy jolly place? I THINK NOT}}
 * {{thread|id=1267|title=Funfrock's plan}}
+* {{thread|id=776|title=I just finished LBA2}}
 
 ===Fan art===
 * {{thread|id=7125|title=Funfrock 3d}}
