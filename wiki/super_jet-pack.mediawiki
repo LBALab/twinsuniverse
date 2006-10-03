@@ -34,5 +34,6 @@ Character=Jerome Baldino}}
 ==Related threads==
 ===General===
 * {{thread|id=540|title=I just played LBA2 again.... (C)}}
+* {{thread|id=82|title=Almost completing LBA2 without a jetpack}}
 
 [[Category:Objects]]
