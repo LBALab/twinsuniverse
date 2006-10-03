@@ -39,6 +39,7 @@ Age=Adult}}
 * {{thread|id=1756|title=bugs}}
 * {{thread|id=1279|title=The A4 poster}}
 * {{thread|id=530|title=I just played LBA2 again....}}
+* {{thread|id=288|title=The Emancipation of Zoé}}
 
 {{Stub}}
 
