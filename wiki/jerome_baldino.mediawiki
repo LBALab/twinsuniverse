@@ -100,6 +100,7 @@ Character=Jerome Baldino}}
 * {{thread|id=3065|title=Why Baldino?}}
 * {{thread|id=540|title=I just played LBA2 again.... (C)}}
 * {{thread|id=741|title=another unknown quote}}
+* {{thread|id=530|title=I just played LBA2 again....}}
 
 {{Stub}}
 
