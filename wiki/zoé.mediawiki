@@ -38,6 +38,7 @@ Age=Adult}}
 * {{thread|id=155|title=Twinsun - a happy jolly place? I THINK NOT}}
 * {{thread|id=1756|title=bugs}}
 * {{thread|id=1279|title=The A4 poster}}
+* {{thread|id=530|title=I just played LBA2 again....}}
 
 {{Stub}}
 
