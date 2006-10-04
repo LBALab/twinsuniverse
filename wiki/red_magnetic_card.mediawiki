@@ -38,5 +38,9 @@ Character=The froger}}
 Quote=No more fake red cards, too dangerous, I quit. From now on, I am only going to make fake Captain LeBorgne secret maps.|
 Character=The froger}}
 
+==Related threads==
+===Hints\Spoilers===
+* {{thread|id=11467|title=red card}}
+
 [[Category:Objects]]
 [[Category:Articles without an image]]
