@@ -42,6 +42,9 @@ Character=Bob}}
 * {{thread|id=1928|title=Ever noticed?}}
 * {{thread|id=155|title=Twinsun - a happy jolly place? I THINK NOT}}
 
+===Hints\Spoilers===
+* {{thread|id=10415|title=LBA 2 Goofs}}
+
 [[Category:Grobos]]
 [[Category:Male characters]]
 [[Category:Medium characters]]
