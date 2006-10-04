@@ -40,4 +40,7 @@ Character=Official description}}
 * {{thread|id=1073|title=A little strange thingy...}}
 * {{thread|id=441|title=Super Holomap ?!}}
 
+===Hints\Spoilers===
+* {{thread|id=10415|title=LBA 2 Goofs}}
+
 [[Category:Objects]]
