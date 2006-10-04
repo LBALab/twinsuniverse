@@ -14,6 +14,9 @@ These insectoids belong to the family of short-winged wasps. This race doesn't l
 ===General===
 * {{thread|id=4677|title=Sups vs. Mosquibee's!}}
 
+===Hints\Spoilers===
+* {{thread|id=10415|title=LBA 2 Goofs}}
+
 {{Stub}}
 
 [[Category:Races]]
