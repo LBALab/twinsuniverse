@@ -28,5 +28,8 @@ Character=A sphero}}
 * {{thread|id=6076|title=Have you ever: coffee can}}
 * {{thread|id=666|title=WOW! An LBA 1 related tread!}}
 
+===Hints\Spoilers===
+* {{thread|id=9775|title=Kettle?}}
+
 [[Category:Objects]]
 [[Category:Articles without an image]]
