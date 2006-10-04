@@ -62,6 +62,9 @@ Character=FunFrock}}
 * {{thread|id=1267|title=Funfrock's plan}}
 * {{thread|id=776|title=I just finished LBA2}}
 
+===Hints\Spoilers===
+* {{thread|id=10385|title=every point of interest i could find (lba2) that isnt on this site, that needs to be!}}
+
 ===Fan art===
 * {{thread|id=7125|title=Funfrock 3d}}
 * {{thread|id=6222|title=For those interested to see what a cell-shaded LBA would look like}}
