@@ -28,6 +28,10 @@ Character=Money-Monkey}}
 Quote=Laddie, you are as savvy as a monster from the gas. When you established contact with Johnny Rocket, my spies were there. We have followed you since. I knew that you wanted to go down to the under-gas. Thus I waited here to strike. But enough said. Now, lad, prepare yourself to die!!|
 Character=Money-Monkey}}
 
+==Related threads==
+===General===
+* {{thread|id=10446|title=i cant get to the monkey!}}
+
 [[Category:Characters of unknown race]]
 [[Category:Male characters]]
 [[Category:Large characters]]
