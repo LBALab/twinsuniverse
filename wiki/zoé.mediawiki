@@ -41,6 +41,9 @@ Age=Adult}}
 * {{thread|id=530|title=I just played LBA2 again....}}
 * {{thread|id=288|title=The Emancipation of Zoé}}
 
+===Hints\Spoilers===
+* {{thread|id=9694|title=Holy Shit I Killed Zoe!}}
+
 {{Stub}}
 
 [[Category:Quetches]]
