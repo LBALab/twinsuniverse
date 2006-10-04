@@ -28,6 +28,7 @@ Character=Twinsen}}
 ==Related threads==
 ===Hints\Spoilers===
 * {{thread|id=11110|title=LBA2 Bug - Itinerary Token}}
+* {{thread|id=11011|title=Disc in Zeelich}}
 
 [[Category:Objects]]
 [[Category:Articles without an image]]
