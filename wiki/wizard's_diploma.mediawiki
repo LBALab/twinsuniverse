@@ -35,4 +35,8 @@ Character=[[Chedil Amiradoo]]}}
 Quote=I hold a wizard's diploma|
 Character=Twinsen}}
 
+==Related threads==
+===Hints\Spoilers===
+* {{thread|id=10415|title=LBA 2 Goofs}}
+
 [[Category:Objects]]
