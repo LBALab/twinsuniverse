@@ -48,6 +48,9 @@ Character=Joe the Elf}}
 * {{thread|id=3531|title=Joe on Twinsun after attack??}}
 * {{thread|id=1686|title=Naughty elf!}}
 
+===Hints\Spoilers===
+* {{thread|id=10415|title=LBA 2 Goofs}}
+
 {{Stub}}
 
 [[Category:Elves]]
