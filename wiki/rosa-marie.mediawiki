@@ -22,6 +22,7 @@ Age=Adult}}
 * {{thread|id=5705|title=The Rosa trick}}
 * {{thread|id=1695|title=The pervert cheat...}}
 * {{thread|id=250|title=The funny and rude bits in LBA...}}
+* {{thread|id=11117|title=The cow}}
 
 ===Hints\Spoiler===
 * {{thread|id=11475|title=Make love the the cow in LBA2}}
