@@ -25,5 +25,9 @@ Character=When Twinsen found a token}}
 Quote=There's a piece missing here, something disc-shaped. I guess it allows the shuttle to take off.|
 Character=Twinsen}}
 
+==Related threads==
+===Hints\Spoilers===
+* {{thread|id=11110|title=LBA2 Bug - Itinerary Token}}
+
 [[Category:Objects]]
 [[Category:Articles without an image]]
