@@ -31,5 +31,6 @@ Character=A dissident}}
 ==Related threads==
 ===Hints\Spoiers===
 * {{thread|id=10088|title=rapid blaster}}
+* {{thread|id=10125|title=Controband laser gun?}}
 
 [[Category:Weapons]]
