@@ -31,4 +31,8 @@ Character=Twinsen}}
 Quote=Whoever wants to cross the ocean of fire must pay the price. Four gems is the fare. Where do you want to go?|
 Character=[[The ferryman]]}}
 
+==Related threads==
+===Hints\Spoilers===
+* {{thread|id=11469|title=help}}
+
 [[Category:Currencies]]
