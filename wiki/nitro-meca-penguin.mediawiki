@@ -41,4 +41,7 @@ Character=When Twinsen found a new penguin}}
 * {{thread|id=4358|title=Meca Penguins - how meny times?}}
 * {{thread|id=2549|title=Unlimited Nitro-Meca-Penguins}}
 
+===Hints\Spoilers===
+* {{thread|id=8574|title=Meca Penguin for beginners}}
+
 [[Category:Weapons]]
