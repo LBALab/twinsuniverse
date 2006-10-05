@@ -73,4 +73,7 @@ Character=Gazogem description}}
 * {{thread|id=2131|title=LBA 2 Otringal}}
 * {{thread|id=540|title=I just played LBA2 again.... (C)}}
 
+===Hints\Spoilers===
+* {{thread|id=9100|title=Proto-pack help, lba1}}
+
 [[Category:Objects]]
