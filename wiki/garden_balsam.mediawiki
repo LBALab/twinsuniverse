@@ -35,4 +35,8 @@ Character=Mentor of the School of Magic}}
 Quote=Well, this climate promotes the growth of this coniferous yellow flower. It's in high demand among the wizards and it only grows in rocky, hard to reach areas.|
 Character=A grobo in the desert}}
 
+==Related threads==
+===Hints\Spoilers===
+* {{thread|id=8993|title=Secend Test !}}
+
 [[Category:Objects]]
