@@ -36,6 +36,9 @@ Character=Raph}}
 * {{thread|id=776|title=I just finished LBA2}}
 * {{thread|id=779|title=how much time....}}
 
+===Hints\Spoilers===
+* {{thread|id=8724|title=How do I free Raph?}}
+
 [[Category:Rabbibunnies]]
 [[Category:Male characters]]
 [[Category:Medium characters]]
