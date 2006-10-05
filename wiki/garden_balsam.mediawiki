@@ -38,5 +38,6 @@ Character=A grobo in the desert}}
 ==Related threads==
 ===Hints\Spoilers===
 * {{thread|id=8993|title=Secend Test !}}
+* {{thread|id=8892|title=How do I get the balsam plant?}}
 
 [[Category:Objects]]
