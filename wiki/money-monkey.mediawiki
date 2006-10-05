@@ -32,6 +32,9 @@ Character=Money-Monkey}}
 ===General===
 * {{thread|id=10446|title=i cant get to the monkey!}}
 
+===Hints\Spoilers===
+* {{thread|id=9495|title=Problem!}}
+
 [[Category:Characters of unknown race]]
 [[Category:Male characters]]
 [[Category:Large characters]]
