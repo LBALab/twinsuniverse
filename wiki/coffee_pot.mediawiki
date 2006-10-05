@@ -30,6 +30,7 @@ Character=A sphero}}
 
 ===Hints\Spoilers===
 * {{thread|id=9775|title=Kettle?}}
+* {{thread|id=9186|title=Coffee pot in LBA 1...}}
 
 [[Category:Objects]]
 [[Category:Articles without an image]]
