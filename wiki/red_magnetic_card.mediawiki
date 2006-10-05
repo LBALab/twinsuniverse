@@ -42,6 +42,7 @@ Character=The froger}}
 ===Hints\Spoilers===
 * {{thread|id=11467|title=red card}}
 * {{thread|id=10005|title=Red Card!}}
+* {{thread|id=8523|title=LBA1: red card}}
 
 [[Category:Objects]]
 [[Category:Articles without an image]]
