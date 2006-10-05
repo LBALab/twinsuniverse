@@ -44,4 +44,7 @@ Character=Mr. Paul}}
 * {{thread|id=418|title=hehe...}}
 * {{thread|id=368|title=Little Big Adventure 2}}
 
+===Hints\Spoilers===
+* {{thread|id=8708|title=A Tralu thingie}}
+
 [[Category:Objects]]
