@@ -39,4 +39,7 @@ Character=A miner}}
 ===General===
 * {{thread|id=6481|title=Wannie Glove...}}
 
+===Hints\Spoilers===
+* {{thread|id=9292|title=Wannie's glove}}
+
 [[Category:Weapons]]
