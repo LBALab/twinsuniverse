@@ -46,5 +46,6 @@ Character=Mr. Paul}}
 
 ===Hints\Spoilers===
 * {{thread|id=8708|title=A Tralu thingie}}
+* {{thread|id=7717|title=Cheat poll}}
 
 [[Category:Objects]]
