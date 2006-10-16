@@ -42,5 +42,6 @@ Character=Official description}}
 
 ===Hints\Spoilers===
 * {{thread|id=10415|title=LBA 2 Goofs}}
+* {{thread|id=7106|title=How do I use the HOLOMAP in LBA1?}}
 
 [[Category:Objects]]
