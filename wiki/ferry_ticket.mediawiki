@@ -47,5 +47,6 @@ Character=Mr. Paul}}
 ===Hints\Spoilers===
 * {{thread|id=8708|title=A Tralu thingie}}
 * {{thread|id=7717|title=Cheat poll}}
+* {{thread|id=7360|title=Found a way to make your Dino-Fly fly with the rain}}
 
 [[Category:Objects]]
