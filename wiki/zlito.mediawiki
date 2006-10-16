@@ -22,4 +22,7 @@ With the Zlitos, [[Twinsen]] bought anything he was interested in on Zeelich.
 * {{thread|id=3013|title=Zlito + Zloty = ?}}
 * {{thread|id=933|title=unknown quote}}
 
+===Hints\Spoilers===
+* {{thread|id=7721|title=Found a way to modify the GOLD cheat to give more money...}}
+
 [[Category:Currencies]]
