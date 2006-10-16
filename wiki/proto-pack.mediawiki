@@ -75,5 +75,6 @@ Character=Gazogem description}}
 
 ===Hints\Spoilers===
 * {{thread|id=9100|title=Proto-pack help, lba1}}
+* {{thread|id=7431|title=Found a way to make your protopack faster in LBA1}}
 
 [[Category:Objects]]
