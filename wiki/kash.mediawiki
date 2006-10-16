@@ -21,4 +21,7 @@ Twinsen used Kashes in order to buy anything he was interested in. Once arriving
 * {{thread|id=8493|title=stupid thread}}
 * {{thread|id=6333|title=Senorita}}
 
+===Hints\Spoilers===
+* {{thread|id=7721|title=Found a way to modify the GOLD cheat to give more money...}}
+
 [[Category:Currencies]]
