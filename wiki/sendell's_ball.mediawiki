@@ -30,4 +30,7 @@ Character=Sendell, talking to Twinsen through the ball}}
 * {{thread|id=7742|title=Anyone have notice this???}}
 * {{thread|id=7075|title=Just wondered...}}
 
+===Hints\Spoilers===
+* {{thread|id=7443|title=What happens if...}}
+
 [[Category:Magical items]]
