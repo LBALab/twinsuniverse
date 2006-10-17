@@ -34,5 +34,6 @@ Character=[[The ferryman]]}}
 ==Related threads==
 ===Hints\Spoilers===
 * {{thread|id=11469|title=help}}
+* {{thread|id=7446|title=Not enough gems to go back to the Island of the Mosquibees after speaking to queen}}
 
 [[Category:Currencies]]
