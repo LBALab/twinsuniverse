@@ -43,5 +43,6 @@ Character=When Twinsen found a new penguin}}
 
 ===Hints\Spoilers===
 * {{thread|id=8574|title=Meca Penguin for beginners}}
+* {{thread|id=7228|title=Speech glitch & the penguin on the reef}}
 
 [[Category:Weapons]]
