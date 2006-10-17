@@ -36,9 +36,12 @@ Character=Mies van der Rooh's father}}
 
 ==Related threads==
 ===General===
-* {{thread|id=10195|title=Interesting LBA facts [Discuss]}}
+* {{thread|id=10195|title=Interesting LBA facts <nowiki>[Discuss]</nowiki>}}
 * {{thread|id=2886|title=Dad! Do you have a key with you?}}
 * {{thread|id=2481|title=Another odd quote}}
+
+===Hints\Spoilers===
+* {{thread|id=7260|title=Bit of Help, please??}}
 
 [[Category:Rabbibunnies]]
 [[Category:Medium characters]]
