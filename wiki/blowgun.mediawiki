@@ -44,4 +44,7 @@ Character=[[Aristide]]}}
 * {{thread|id=6054|title=Blowgun}}
 * {{thread|id=2770|title=Seen this little thingamijing b4? (LBA2)}}
 
+===Hints\Spoilers===
+* {{thread|id=6848|title=Invisable Blowgun}}
+
 [[Category:Weapons]]
