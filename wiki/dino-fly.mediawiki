@@ -18,9 +18,12 @@ Age=Adult}}
 * {{thread|id=1352|title=Another weird savegame}}
 * {{thread|id=125|title=Dinofly}}
 
+===Hints\Spoilers===
+* {{thread|id=7360|title=Found a way to make your Dino-Fly fly with the rain}}
+* {{thread|id=6159|title=fly}}
+
 ===Fan art===
 * {{thread|id=6222|title=For those interested to see what a cell-shaded LBA would look like}}
-* {{thread|id=7360|title=Found a way to make your Dino-Fly fly with the rain}}
 
 {{Stub}}
 
