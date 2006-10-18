@@ -21,4 +21,8 @@ However, the Laser Pistol can not operate until it is loaded with rock crystal. 
 Quote=You now own a laser-pistol in working condition. It gives you enough firepower to reach distant targets that your magical ball cannot reach.|
 Character=When Twinsen picked the crystal}}
 
+==Related threads==
+===Hints\Spoilers===
+* {{thread|id=7105|title=LBA2, Questions}}
+
 [[Category:Objects]]
