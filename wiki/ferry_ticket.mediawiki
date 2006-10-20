@@ -49,5 +49,6 @@ Character=Mr. Paul}}
 * {{thread|id=7717|title=Cheat poll}}
 * {{thread|id=7360|title=Found a way to make your Dino-Fly fly with the rain}}
 * {{thread|id=6978|title=LBA2 Bug makes it easier.}}
+* {{thread|id=6414|title=It is a bug?}}
 
 [[Category:Objects]]
