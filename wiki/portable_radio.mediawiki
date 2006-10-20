@@ -44,4 +44,7 @@ Character=Jerome Baldino}}
 ===General===
 * {{thread|id=3367|title=I could've called it an "integrated super dynamo circuitry mechanism" but I decided t}}
 
+===Hints\Spoilers===
+* {{thread|id=6772|title=No need of Walkie-talkie}}
+
 [[Category:Objects]]
