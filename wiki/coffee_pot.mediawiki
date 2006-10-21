@@ -32,6 +32,7 @@ Character=A sphero}}
 * {{thread|id=9775|title=Kettle?}}
 * {{thread|id=9186|title=Coffee pot in LBA 1...}}
 * {{thread|id=85|title=The cofee can}}
+* {{thread|id=4463|title=coffeecan or something}}
 
 [[Category:Objects]]
 [[Category:Articles without an image]]
