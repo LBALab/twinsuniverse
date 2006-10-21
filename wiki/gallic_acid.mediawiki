@@ -34,4 +34,7 @@ Character=Mies van der Rooh's father}}
 Quote=You succeeded. Maybe I should go see the healing wizard. He told me that, if I poured a little gallic acid in my engine, I could go faster!!|
 Character=The racer at [[Von Kournil Tour]]}}
 
+===Hints\Spoilers===
+* {{thread|id=5279|title=Free Galic Acid}}
+
 [[Category:Objects]]
