@@ -44,6 +44,7 @@ Character=The froger}}
 * {{thread|id=10005|title=Red Card!}}
 * {{thread|id=8523|title=LBA1: red card}}
 * {{thread|id=7169|title=Red card in LBA1}}
+* {{thread|id=4968|title=haha Red Card Problem this time...}}
 
 [[Category:Objects]]
 [[Category:Articles without an image]]
