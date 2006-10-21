@@ -17,6 +17,9 @@ Age=Adult}}
 * {{thread|id=3121|title=Another quotes from LBA...}}
 * {{thread|id=155|title=Twinsun - a happy jolly place? I THINK NOT}}
 
+===Hints\Spoilers===
+* {{thread|id=3937|title=LBA2: quetch and Pharmacist}}
+
 {{Stub}}
 
 [[Category:Rabbibunnies]]
