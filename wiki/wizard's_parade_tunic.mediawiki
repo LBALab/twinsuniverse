@@ -35,4 +35,8 @@ Character=Chedil Amiradoo}}
 Quote=You just found a parade outfit for the wizards. It'll make you look like an old wizard.|
 Character=When Twinsen received the tunic}}
 
+==Related threads==
+===Hints\Spoilers===
+* {{thread|id=3969|title=Hidden, and special videos in LBA2}}
+
 [[Category:Objects]]
