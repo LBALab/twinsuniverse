@@ -33,6 +33,7 @@ Character=Raymond the Elf}}
 * {{thread|id=2821|title=Three general questions and a "Have you done this yet. . . "}}
 * {{thread|id=445|title=about the funny things...}}
 * {{thread|id=11515|title=No blue card on LBA HELP!!!!}}
+* {{thread|id=4946|title=Problem with blue card in LBA....}}
 
 [[Category:Objects]]
 [[Category:Articles without an image]]
