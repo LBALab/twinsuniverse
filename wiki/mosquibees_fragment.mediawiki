@@ -19,6 +19,10 @@ As a part of his quest of unting the four key fragments, [[Twinsen]] reached the
 Quote=Ah, Twinsen!! With the arrival of these paratroopers, I am afraid to see our fragment might fall into the hands of the emperor. By the way, if you know how to throw back the balls of fire with your hands, try to grab some.|
 Character=Old [[mosquibee]]}}
 
+==Related threads==
+===Hints\Spoilers===
+* {{thread|id=3846|title= where this the fragment of the purlones}}
+
 [[Category:Objects]]
 [[Category:Dark Monk's key]]
 [[Category:Articles without an image]]
