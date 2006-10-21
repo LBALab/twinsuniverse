@@ -21,4 +21,8 @@ The Slate came in handy especially for storing maps. After making record of a ma
 Quote=You now own a Magic Slate, which allows you to keep a copy of all kinds of images.|
 Character=When Twinsen received the slate}}
 
+==Related threads==
+===Hints\Spoilers===
+* {{thread|id=4398|title=Is it just me or...}}
+
 [[Category:Magical items]]
