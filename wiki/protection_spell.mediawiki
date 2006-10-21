@@ -27,5 +27,6 @@ Character=An unknown character}}
 
 ===Hints\Spoilers===
 * {{thread|id=10415|title=LBA 2 Goofs}}
+* {{thread|id=5509|title=Protection Spell?}}
 
 [[Category:Magical items]]
