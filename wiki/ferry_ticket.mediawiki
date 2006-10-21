@@ -52,5 +52,6 @@ Character=Mr. Paul}}
 * {{thread|id=6414|title=It is a bug?}}
 * {{thread|id=5660|title=Let me add something to the "take zoe to desert island" trick}}
 * {{thread|id=5695|title=i dont know if this wuz found already, but heres a bug for begginers}}
+* {{thread|id=5258|title=Desert Island in tha rain}}
 
 [[Category:Objects]]
