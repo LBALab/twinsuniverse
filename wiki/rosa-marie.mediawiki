@@ -29,6 +29,7 @@ Age=Adult}}
 * {{thread|id=10385|title=every point of interest i could find (lba2) that isnt on this site, that needs to be!}}
 * {{thread|id=7717|title=Cheat poll}}
 * {{thread|id=4382|title=Wa-hey!}}
+* {{thread|id=4847|title=Cow}}
 
 {{Stub}}
 
