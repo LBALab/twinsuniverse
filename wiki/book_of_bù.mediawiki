@@ -55,4 +55,7 @@ Character=Twinsen}}
 * {{thread|id=6013|title=Future species?}}
 * {{thread|id=5932|title=LBA2 Mysteries}}
 
+===Hints\Spoilers===
+* {{thread|id=1611|title=LBA 1 Help!!!!!!!}}
+
 [[Category:Magical items]]
