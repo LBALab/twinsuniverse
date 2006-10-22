@@ -33,5 +33,6 @@ Character=Sendell, talking to Twinsen through the ball}}
 ===Hints\Spoilers===
 * {{thread|id=7443|title=What happens if...}}
 * {{thread|id=7093|title=Ball of Sendell!?!}}
+* {{thread|id=2084|title=Ball of sendall}}
 
 [[Category:Magical items]]
