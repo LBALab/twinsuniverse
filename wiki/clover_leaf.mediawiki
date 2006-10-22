@@ -29,5 +29,9 @@ Character=A [[rabbibunny]]}}
 Quote=You know Julia? She is a nice girl. She watches a bit too much TV, but there is some truth in her story: someone left a box for clover leaves on the islet in front of my house. It is too shallow for a boat to get there by water, and since the bridge leading to the islet has collapsed, the only way to get there is to fly.|
 Character=Beatrice}}
 
+==Related threads==
+===Hints\Spoilers===
+* {{thread|id=2094|title=The lost clover box?}}
+
 [[Category:Consumables]]
 [[Category:Articles without an image]]
