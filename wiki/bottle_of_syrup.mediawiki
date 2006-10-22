@@ -23,5 +23,9 @@ Character=[[Wadbull]]}}
 Quote=Did you know that a wise guy dumped some syrup into the island's water supply? I'd like to find that guy so that I can give him a piece of my mind. You wouldn't happen to know him, would you?|
 Character=[[Librarian]]}}
 
+==Related threads==
+===Hints\Spoilers===
+* {{thread|id=2714|title=Somehow, i got Lba working, now i need a little help ^_^}}
+
 [[Category:Objects]]
 [[Category:Articles without an image]]
