@@ -22,6 +22,7 @@ Age=Adult}}
 * {{thread|id=7360|title=Found a way to make your Dino-Fly fly with the rain}}
 * {{thread|id=6159|title=fly}}
 * {{thread|id=6166|title=ARGH!!!!!!!!! how du u get the bloody dinofly cured?????}}
+* {{thread|id=2543|title=Dinofly Maddness}}
 
 ===Fan art===
 * {{thread|id=6222|title=For those interested to see what a cell-shaded LBA would look like}}
