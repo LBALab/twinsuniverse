@@ -60,6 +60,9 @@ Age=Adult}}
 * {{thread|id=361|title=Twinsen's Voice}}
 * {{thread|id=11518|title=Wacky Twinsen game}}
 
+===Hints\Spoilers===
+* {{thread|id=1646|title=I think people should know this}}
+
 ===Fan art===
 * {{thread|id=11118|title=Twinsen in clay}}
 * {{thread|id=6222|title=For those interested to see what a cell-shaded LBA would look like}}
