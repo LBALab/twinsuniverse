@@ -26,6 +26,9 @@ Like most villagers at the [[Francos Island]], Kurtz had no specific role in [[T
 Quote=Taking the size of the island, its geological structure and wind direction into account. I have concocted a potion which should allow me to precisely determine the location of the fragment! Unfortunately...I uh, lost the vial.|
 Character=Kurtz}}
 
+==Related threads==
+===Hints\Spoilers===
+* {{thread|id=1413|title=Unsolved mysteries}}
 
 [[Category:Francos]]
 [[Category:Male characters]]
