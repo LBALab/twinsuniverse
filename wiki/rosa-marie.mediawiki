@@ -30,6 +30,7 @@ Age=Adult}}
 * {{thread|id=7717|title=Cheat poll}}
 * {{thread|id=4382|title=Wa-hey!}}
 * {{thread|id=4847|title=Cow}}
+* {{thread|id=2240|title=Twinsen is a cheater!!}}
 
 {{Stub}}
 
