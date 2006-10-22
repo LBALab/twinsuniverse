@@ -47,6 +47,10 @@ Character=Mentor of the School of Magic}}
 Quote=Looking for a costume or Magic accessories? Well, Chedil Amiradoo has a deal that'll make your head spin. Low, low prices and after-sales service. Currently doing the rounds on your island.|
 Character=Notice board at the School of Magic}}
 
+==Related threads==
+===Hints\Spoilers===
+* {{thread|id=3842|title=The funniest hints ever, & more! (Could anybody tell some more)}}
+
 [[Category:Rabbibunnies]]
 [[Category:Male characters]]
 [[Category:Medium characters]]
