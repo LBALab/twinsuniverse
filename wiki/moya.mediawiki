@@ -27,7 +27,7 @@ Character=[[Leopold]]}}
 Quote=Now that the clouds are gone I can finally enjoy our twin sunshine. You know, I heard there's an oasis in the desert where there's this giant turtle. I'd love to go there...|
 Character=Quetch on the beach}}
 
-==Related threads===
+==Related threads==
 ===Hints\Spoilers===
 * {{thread|id=3823|title=Have you tried to give Moya the turtle your car on White Leaf Desert?}}
 
