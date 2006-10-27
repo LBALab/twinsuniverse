@@ -37,5 +37,6 @@ Character=The racer at [[Von Kournil Tour]]}}
 ==Related threads==
 ===Hints\Spoilers===
 * {{thread|id=5279|title=Free Galic Acid}}
+* {{thread|id=1437|title=If...}}
 
 [[Category:Objects]]
