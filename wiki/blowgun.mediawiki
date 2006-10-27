@@ -46,5 +46,6 @@ Character=[[Aristide]]}}
 
 ===Hints\Spoilers===
 * {{thread|id=6848|title=Invisable Blowgun}}
+* {{thread|id=880|title=You know the rain thingie, how about this?}}
 
 [[Category:Weapons]]
