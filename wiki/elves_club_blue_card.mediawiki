@@ -35,5 +35,8 @@ Character=Raymond the Elf}}
 * {{thread|id=11515|title=No blue card on LBA HELP!!!!}}
 * {{thread|id=4946|title=Problem with blue card in LBA....}}
 
+===Hints\Spoilers===
+* {{thread|id=443|title=IMPORTANT! Q ABOUT THE ELVES}}
+
 [[Category:Objects]]
 [[Category:Articles without an image]]
