@@ -23,5 +23,8 @@ Character=What Twinsen heard when finding the horn}}
 ===General===
 * {{thread|id=6289|title=Favourite Horn}}
 
+===Hints\Spoilers===
+* {{thread|id=1372|title=Do you know....}}
+
 [[Category:Magical items]]
 [[Category:Articles without an image]]
