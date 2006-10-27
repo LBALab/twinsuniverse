@@ -32,6 +32,7 @@ Character=Beatrice}}
 ==Related threads==
 ===Hints\Spoilers===
 * {{thread|id=2094|title=The lost clover box?}}
+* {{thread|id=1297|title=Clover boxes}}
 
 [[Category:Consumables]]
 [[Category:Articles without an image]]
