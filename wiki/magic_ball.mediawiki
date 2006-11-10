@@ -65,5 +65,6 @@ Character=[[Miss Bloop]]}}
 * {{thread|id=6354|title=What is a magic ball???}}
 * {{thread|id=6010|title=Magicball soundeffect cameo}}
 * {{thread|id=5645|title=Fire ball}}
+* {{thread|id=11661|title=Microsoft rips off LBA!}}
 
 [[Category:Weapons]]
