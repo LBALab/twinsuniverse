@@ -59,6 +59,7 @@ Age=Adult}}
 * {{thread|id=459|title=here we go again...}}
 * {{thread|id=361|title=Twinsen's Voice}}
 * {{thread|id=11518|title=Wacky Twinsen game}}
+* {{thread|id=11665|title=Anyway of doing new moves with twinsen(lba2)}}
 
 ===Hints\Spoilers===
 * {{thread|id=1646|title=I think people should know this}}
