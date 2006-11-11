@@ -71,6 +71,7 @@ Age=Adult}}
 * {{thread|id=9301|title=A public service announcement}}
 * {{post|id=293985|title=Silk realm}}
 * {{thread|id=11560|title=Evil twinsen (for a futur LBA 3 ?? ^^)}}
+* {{thread|id=11287|title=Twinsen}}
 
 {{Stub}}
 
