@@ -22,6 +22,9 @@ Luc is a grobo living in [[Citadel Island]]. He has a large, successful bar at t
 * {{thread|id=7972|title=Families}}
 * {{thread|id=155|title=Twinsun - a happy jolly place? I THINK NOT}}
 
+===Fan Art===
+* {{post|id=76367|title=Edited Film Pictures}}
+
 {{Stub}}
 
 [[Category:Grobos]]
