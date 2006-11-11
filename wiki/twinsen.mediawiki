@@ -72,6 +72,7 @@ Age=Adult}}
 * {{post|id=293985|title=Silk realm}}
 * {{thread|id=11560|title=Evil twinsen (for a futur LBA 3 ?? ^^)}}
 * {{thread|id=11287|title=Twinsen}}
+* {{thread|id=11291|title=The Heir}}
 
 {{Stub}}
 
