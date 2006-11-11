@@ -35,6 +35,10 @@ Character=[[Dark Monk's priest]]}}
 Quote=My mommy, she's helping Mr. Monk make Dark Monk come back. And then, when he's here, heads are gonna roll!! It'll be so awesome!! My mommy's strong!!|
 Character=[[Annie's son]]}}
 
+==Related threads==
+===Hints\Spoilers===
+* {{thread|id=907|title=Monk's housemaid}}
+
 [[Category:Wannies]]
 [[Category:Female characters]]
 [[Category:Large characters]]
