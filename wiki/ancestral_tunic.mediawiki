@@ -62,5 +62,6 @@ Character=Official description of the [[Lightning spell]]}}
 
 ===Fan Art===
 * {{thread|id=11291|title=The Heir}}
+* {{thread|id=11279|title=Old drawing from 2000}}
 
 [[Category:Magical items]]
