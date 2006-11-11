@@ -23,6 +23,9 @@ Age=Adult}}
 * {{thread|id=3466|title=Sendell}}
 * {{thread|id=2442|title=Yet another odd quote}}
 
+===Fan Art===
+* {{thread|id=11564|title=Evil Sendell (lol)}}
+
 {{Stub}}
 
 [[Category:Female characters]]
