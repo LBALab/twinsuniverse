@@ -55,5 +55,6 @@ Character=Mr. Paul}}
 * {{thread|id=5258|title=Desert Island in tha rain}}
 * {{thread|id=2543|title=Dinofly Maddness}}
 * {{thread|id=1312|title=Do you know this one?}}
+* {{thread|id=673|title=Rain}}
 
 [[Category:Objects]]
