@@ -46,4 +46,7 @@ Character=When Twinsen found a new penguin}}
 * {{thread|id=7228|title=Speech glitch & the penguin on the reef}}
 * {{thread|id=660|title=Found another Mecapeng}}
 
+===Fan Art===
+* {{thread|id=11287|title=Twinsen}}
+
 [[Category:Weapons]]
