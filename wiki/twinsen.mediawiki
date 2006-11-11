@@ -69,6 +69,7 @@ Age=Adult}}
 * {{thread|id=6222|title=For those interested to see what a cell-shaded LBA would look like}}
 * {{thread|id=4852|title=Twinsen's model}}
 * {{thread|id=9301|title=A public service announcement}}
+* {{thread|id=11624|title=Silk realm}}
 
 {{Stub}}
 
