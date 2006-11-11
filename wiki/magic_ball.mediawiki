@@ -70,5 +70,6 @@ Character=[[Miss Bloop]]}}
 ===Fan Art===
 * {{thread|id=11287|title=Twinsen}}
 * {{thread|id=11291|title=The Heir}}
+* {{thread|id=11279|title=Old drawing from 2000}}
 
 [[Category:Weapons]]
