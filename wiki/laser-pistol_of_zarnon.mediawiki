@@ -33,4 +33,7 @@ Character=A dissident}}
 * {{thread|id=10088|title=rapid blaster}}
 * {{thread|id=10125|title=Controband laser gun?}}
 
+===Fan Art===
+* {{thread|id=11287|title=Twinsen}}
+
 [[Category:Weapons]]
