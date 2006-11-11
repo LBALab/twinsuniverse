@@ -60,4 +60,7 @@ Character=Official description of the [[Lightning spell]]}}
 * {{thread|id=6284|title=Twinsens Tunic}}
 * {{thread|id=6124|title=Why?}}
 
+===Fan Art===
+* {{thread|id=11291|title=The Heir}}
+
 [[Category:Magical items]]
