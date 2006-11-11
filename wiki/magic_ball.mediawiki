@@ -67,4 +67,7 @@ Character=[[Miss Bloop]]}}
 * {{thread|id=5645|title=Fire ball}}
 * {{thread|id=11661|title=Microsoft rips off LBA!}}
 
+===Fan Art===
+* {{thread|id=11287|title=Twinsen}}
+
 [[Category:Weapons]]
