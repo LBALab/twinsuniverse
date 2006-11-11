@@ -48,4 +48,7 @@ Character=[[Aristide]]}}
 * {{thread|id=6848|title=Invisable Blowgun}}
 * {{thread|id=880|title=You know the rain thingie, how about this?}}
 
+===Fan Art===
+* {{thread|id=11287|title=Twinsen}}
+
 [[Category:Weapons]]
