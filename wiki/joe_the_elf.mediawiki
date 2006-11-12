@@ -54,6 +54,9 @@ Character=Joe the Elf}}
 * {{thread|id=5081|title=Joe The Elf}}
 * {{thread|id=1143|title=Joe the elf rulez :)}}
 
+===Fan Art===
+* {{thread|id=10774|title=Smilies}}
+
 {{Stub}}
 
 [[Category:Elves]]
