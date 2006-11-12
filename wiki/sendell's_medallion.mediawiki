@@ -53,6 +53,7 @@ Character=A sign at Twinsen's house}}
 * {{thread|id=10891|title=Twinsen :)}}
 * {{thread|id=10819|title=Twinsen want's you!}}
 * {{thread|id=10812|title=Ka-meh-ha-meh.. I mean Magic ball blast}}
+* {{thread|id=10751|title=Another 3D twinsen}}
 
 [[Category:Magical items]]
 [[Category:Articles without an image]]
