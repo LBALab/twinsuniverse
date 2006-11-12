@@ -50,6 +50,7 @@ Character=A sign at Twinsen's house}}
 * {{thread|id=11007|title=twinsen paint image, old}}
 * {{thread|id=11083|title=Twinsen, my style}}
 * {{thread|id=11023|title=2-minutes twinsen"robot"}}
+* {{thread|id=10891|title=Twinsen :)}}
 
 [[Category:Magical items]]
 [[Category:Articles without an image]]
