@@ -86,6 +86,7 @@ Age=Adult}}
 * {{thread|id=10819|title=Twinsen want's you!}}
 * {{thread|id=10812|title=Ka-meh-ha-meh.. I mean Magic ball blast}}
 * {{thread|id=10751|title=Another 3D twinsen}}
+* {{thread|id=10774|title=Smilies}}
 
 {{Stub}}
 
