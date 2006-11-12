@@ -65,5 +65,6 @@ Character=Official description of the [[Lightning spell]]}}
 * {{thread|id=11279|title=Old drawing from 2000}}
 * {{thread|id=11007|title=twinsen paint image, old}}
 * {{thread|id=11083|title=Twinsen, my style}}
+* {{thread|id=11023|title=2-minutes twinsen"robot"}}
 
 [[Category:Magical items]]
