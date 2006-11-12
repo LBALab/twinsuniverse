@@ -81,6 +81,7 @@ Age=Adult}}
 * {{thread|id=9803|title=Lba 3}}
 * {{thread|id=11007|title=twinsen paint image, old}}
 * {{thread|id=11083|title=Twinsen, my style}}
+* {{thread|id=10794|title=LBA advance mockup}}
 
 {{Stub}}
 
