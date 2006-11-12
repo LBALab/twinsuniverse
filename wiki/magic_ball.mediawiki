@@ -73,5 +73,6 @@ Character=[[Miss Bloop]]}}
 * {{thread|id=11279|title=Old drawing from 2000}}
 * {{thread|id=10941|title=Authur takes control of his destiny...A twinsen Fan comic...(rough)}}
 * {{thread|id=11083|title=Twinsen, my style}}
+* {{thread|id=10812|title=Ka-meh-ha-meh.. I mean Magic ball blast}}
 
 [[Category:Weapons]]
