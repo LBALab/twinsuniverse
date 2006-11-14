@@ -88,6 +88,7 @@ Age=Adult}}
 * {{thread|id=10751|title=Another 3D twinsen}}
 * {{thread|id=10774|title=Smilies}}
 * {{thread|id=10763|title=Some picture.}}
+* {{thread|id=11699|title=[3D] Twinsen's PC impresses his evil twin!}}
 
 {{Stub}}
 
