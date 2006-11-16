@@ -56,6 +56,7 @@ Age=Adult}}
 * {{thread|id=10763|title=Some picture.}}
 * {{post|id=261759|title=MAD J's Fan Art}}
 * {{thread|id=9829|title=Zoe}}
+* {{post|id=75498|title=Metal Gear Twinsen}}
 
 ==External links==
 ===Fan art===
