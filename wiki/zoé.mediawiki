@@ -54,7 +54,10 @@ Age=Adult}}
 * {{thread|id=10813|title=Fan Lba 3 zoe design.}}
 * {{thread|id=10774|title=Smilies}}
 * {{thread|id=10763|title=Some picture.}}
-* {{thread|id=10712|title=Some fan art found in deviantART}}
+
+==External links==
+===Fan art===
+* [http://www.deviantart.com/view/12986693/ LBA 2 Picture]
 
 {{Stub}}
 
