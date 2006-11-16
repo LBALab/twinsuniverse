@@ -92,6 +92,7 @@ Age=Adult}}
 * {{thread|id=10655|title=Twinsen Background}}
 * {{post|id=260335|title=The big 3D modelling Thread.}}
 * {{thread|id=10535|title=My 3D twinsen}}
+* {{thread|id=10509|title=MAD J's Fan Art}}
 
 ==External links==
 ===Fan art===
