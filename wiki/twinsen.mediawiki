@@ -89,7 +89,10 @@ Age=Adult}}
 * {{thread|id=10774|title=Smilies}}
 * {{thread|id=10763|title=Some picture.}}
 * {{thread|id=11699|title=<nowiki>[3D]</nowiki> Twinsen's PC impresses his evil twin!}}
-* {{thread|id=10712|title=Some fan art found in deviantART}}
+
+==External links==
+===Fan art===
+* [http://www.deviantart.com/view/5691675/ Twinsen]
 
 {{Stub}}
 
