@@ -100,6 +100,7 @@ Age=Adult}}
 * {{thread|id=3216|title=Metal Gear Twinsen}}
 * {{thread|id=10334|title=The Citadel}}
 * {{thread|id=10242|title=Random collection}}
+* {{thread|id=10194|title=Hand Drawn Twinsen}}
 
 ==External links==
 ===Fan art===
