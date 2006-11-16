@@ -99,6 +99,7 @@ Age=Adult}}
 * {{thread|id=9829|title=Zoe}}
 * {{thread|id=3216|title=Metal Gear Twinsen}}
 * {{thread|id=10334|title=The Citadel}}
+* {{thread|id=10242|title=Random collection}}
 
 ==External links==
 ===Fan art===
