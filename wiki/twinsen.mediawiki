@@ -90,6 +90,7 @@ Age=Adult}}
 * {{thread|id=10763|title=Some picture.}}
 * {{thread|id=11699|title=<nowiki>[3D]</nowiki> Twinsen's PC impresses his evil twin!}}
 * {{thread|id=10655|title=Twinsen Background}}
+* {{post|id=260335|title=The big 3D modelling Thread.}}
 
 ==External links==
 ===Fan art===
