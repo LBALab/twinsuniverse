@@ -98,6 +98,7 @@ Age=Adult}}
 * {{thread|id=10479|title=A sketch I didn't know of}}
 * {{thread|id=9829|title=Zoe}}
 * {{thread|id=3216|title=Metal Gear Twinsen}}
+* {{post|id=10334|title=The Citadel}}
 
 ==External links==
 ===Fan art===
