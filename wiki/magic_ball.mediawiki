@@ -75,5 +75,6 @@ Character=[[Miss Bloop]]}}
 * {{thread|id=11083|title=Twinsen, my style}}
 * {{thread|id=10812|title=Ka-meh-ha-meh.. I mean Magic ball blast}}
 * {{thread|id=1644|title=Twinsen with magic ball pics}}
+* {{post|id=67040|title=Lba3}}
 
 [[Category:Weapons]]
