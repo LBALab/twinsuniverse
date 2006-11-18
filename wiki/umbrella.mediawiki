@@ -35,5 +35,8 @@ Character=When Twinsen received the umbrella}}
 * {{thread|id=5906|title=Another strange quote}}
 * {{thread|id=155|title=Twinsun - a happy jolly place? I THINK NOT}}
 
+===Fan Art===
+* {{post|id=112171|title=Lba3}}
+
 [[Category:Objects]]
 [[Category:Articles without an image]]
