@@ -31,6 +31,7 @@ Age=Adult}}
 * {{thread|id=9972|title=Just having a go...}}
 * {{post|id=229377|title=LBA comics??}}
 * {{thread|id=6093|title=Flash fan movie}}
+* {{post|id=55978|title=Lba3}}
 
 {{Stub}}
 
