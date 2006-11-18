@@ -101,6 +101,7 @@ Age=Adult}}
 * {{thread|id=10334|title=The Citadel}}
 * {{thread|id=10242|title=Random collection}}
 * {{thread|id=10194|title=Hand Drawn Twinsen}}
+* {{thread|id=9972|title=Just having a go...}}
 
 ==External links==
 ===Fan art===
