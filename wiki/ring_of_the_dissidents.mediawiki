@@ -39,4 +39,7 @@ Character=When Twinsen received the ring}}
 ===General===
 * {{thread|id=4632|title=The dissidents ring}}
 
+===Fan Art===
+* {{post|id=112171|title=Lba3}}
+
 [[Category:Objects]]
