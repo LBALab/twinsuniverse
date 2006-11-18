@@ -47,4 +47,7 @@ Character=Official description}}
 * {{thread|id=6472|title=Holomap & screen scrolling question from an LBA2 player}}
 * {{thread|id=2592|title=Holomap}}
 
+===Fan Art===
+* {{post|id=112171|title=Lba3}}
+
 [[Category:Objects]]
