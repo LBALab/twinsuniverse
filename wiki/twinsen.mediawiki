@@ -111,6 +111,7 @@ Age=Adult}}
 * {{post|id=228442|title=My first 3d animation!!!}}
 * {{thread|id=6093|title=Flash fan movie}}
 * {{thread|id=8393|title=LBA was origianlly invented during the Rock Age!}}
+* {{thread|id=8358|title=Pixel Twinsen + other things}}
 
 ==External links==
 ===Fan art===
