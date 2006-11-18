@@ -114,6 +114,7 @@ Age=Adult}}
 * {{thread|id=8358|title=Pixel Twinsen + other things}}
 * {{thread|id=8206|title=My LBA 3 fake screenshot}}
 * {{thread|id=5234|title=My little treat to the mbn, yep, a fully moddelled twinsen!}}
+* {{thread|id=1648|title=Lba3}}
 
 ==External links==
 ===Fan art===
