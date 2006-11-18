@@ -50,4 +50,7 @@ Character=Johnny}}
 ===General===
 * {{thread|id=3797|title=A unknow key}}
 
+===Fan Art===
+* {{post|id=112171|title=Lba3}}
+
 [[Category:Consumables]]
