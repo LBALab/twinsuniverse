@@ -10,6 +10,10 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
+==Related threads==
+===Fan Art===
+* {{post|id=112171|title=Lba3}}
+
 {{Stub}}
 
 [[Category:Male characters]]
