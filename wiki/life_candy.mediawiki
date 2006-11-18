@@ -21,4 +21,8 @@ The life candies were used by Twinsen whenever he needed to recover health. They
 Quote=Life candy: do you want 10 hearts for 10 Kashes?|
 Character=A random vending machine}}
 
+==Related threads==
+===Fan Art===
+* {{post|id=112171|title=Lba3}}
+
 [[Category:Consumables]]
