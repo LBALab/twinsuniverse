@@ -32,6 +32,10 @@ Character=Emperor of Zeelich}}
 Quote=Twinsunian, Dark Monk is unbeatable. In his statue, he has built a machine capable of storing the magical energy that he intends to steal from your planet!!! My agents went to Twinsun to kidnap your wizards since we needed them to attract the energy from your planet to Zeelich. But we were forced to kidnap the children because the wizards refused to cooperate!! You were our only obstacle. But now, we have won. The destruction of Twinsun and the use of the machine will intervene during the next ceremony. And you cannot prevent me from triggering the lunar reactors!!!|
 Character=Emperor of Zeelich}}
 
+==Related threads==
+===Fan Art===
+* {{thread|id=7692|title=Another Emperor}}
+
 ==External links==
 ===Fan art===
 * [http://www.deviantart.com/deviation/7406127/?qo=81&q=by%3Asepulchrave&qh=sort%3Atime+-in%3Ascraps Emperor of Zeelich]
