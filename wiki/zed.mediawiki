@@ -36,6 +36,9 @@ Character=Zed}}
 * {{thread|id=3464|title=Zed Campaign}}
 * {{thread|id=127|title=Zed}}
 
+===Fan Art===
+* {{thread|id=8393|title=LBA was origianlly invented during the Rock Age!}}
+
 [[Category:Grobos]]
 [[Category:Male characters]]
 [[Category:Medium characters]]
