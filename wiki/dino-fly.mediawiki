@@ -29,6 +29,7 @@ Age=Adult}}
 * {{post|id=161370|title=Edited Film Pictures}}
 * {{post|id=74509|title=Metal Gear Twinsen}}
 * {{thread|id=9972|title=Just having a go...}}
+* {{post|id=229377|title=LBA comics??}}
 
 {{Stub}}
 
