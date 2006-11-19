@@ -50,5 +50,6 @@ Character=[[Aristide]]}}
 
 ===Fan Art===
 * {{thread|id=11287|title=Twinsen}}
+* {{thread|id=4645|title=pictures!}}
 
 [[Category:Weapons]]
