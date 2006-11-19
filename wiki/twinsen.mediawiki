@@ -121,6 +121,7 @@ Age=Adult}}
 * {{thread|id=5002|title=My draws}}
 * {{thread|id=5639|title=Request for twinsen related draws}}
 * {{thread|id=4645|title=pictures!}}
+* {{thread|id=4495|title=Twinsen and Zoe graphite stlye}}
 
 ==External links==
 ===Fan art===
