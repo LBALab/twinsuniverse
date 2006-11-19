@@ -118,6 +118,7 @@ Age=Adult}}
 * {{thread|id=6687|title=%)}}
 * {{thread|id=6194|title=Another twinsen}}
 * {{thread|id=6096|title=Drawing of Twinsen}}
+* {{thread|id=5002|title=My draws}}
 
 ==External links==
 ===Fan art===
