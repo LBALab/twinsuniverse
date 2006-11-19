@@ -32,4 +32,7 @@ Character=Temple Park vendor}}
 ===Hints\Spoilers===
 * {{thread|id=857|title=Twinsen Odyssey-Dart Help}}
 
+===Fan Art===
+* {{thread|id=4645|title=pictures!}}
+
 [[Category:Weapons]]
