@@ -130,6 +130,7 @@ Age=Adult}}
 * {{thread|id=4134|title=My first Twinsen image}}
 * {{thread|id=3989|title=Twinsen sitting on the cliffs of Citadel Island}}
 * {{thread|id=3150|title=My first Lba image}}
+* {{thread|id=3789|title=Twinsen wants YOU}}
 
 ==External links==
 ===Fan art===
