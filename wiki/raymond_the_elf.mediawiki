@@ -16,6 +16,9 @@ Age=Kid}}
 * {{thread|id=6418|title=Elves and magic powers}}
 * {{thread|id=6295|title=another weird quote}}
 
+===Fan Art===
+* {{thread|id=3150|title=My first Lba image}}
+
 {{Stub}}
 
 [[Category:Elves]]
