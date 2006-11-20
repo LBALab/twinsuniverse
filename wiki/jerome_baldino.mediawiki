@@ -102,6 +102,9 @@ Character=Jerome Baldino}}
 * {{thread|id=741|title=another unknown quote}}
 * {{thread|id=530|title=I just played LBA2 again....}}
 
+===Fan Art===
+* {{thread|id=3150|title=My first Lba image}}
+
 {{Stub}}
 
 [[Category:Grobos]]
