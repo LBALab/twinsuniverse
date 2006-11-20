@@ -78,4 +78,7 @@ Character=Gazogem description}}
 * {{thread|id=7431|title=Found a way to make your protopack faster in LBA1}}
 * {{thread|id=7584|title=Stuck- Jet Pack}}
 
+===Fan Art===
+* {{thread|id=3150|title=My first Lba image}}
+
 [[Category:Objects]]
