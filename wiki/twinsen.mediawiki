@@ -145,6 +145,7 @@ Age=Adult}}
 * {{post|id=37768|title=Twinsen's son/daughter}}
 * {{thread|id=2037|title=3D Twinsen}}
 * {{thread|id=2036|title=My new twinsen}}
+* {{thread|id=1815|title=SEB's (Sethronn's Brother's) Twinsen 3d model}}
 
 ==External links==
 ===Fan art===
