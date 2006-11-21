@@ -144,6 +144,7 @@ Age=Adult}}
 * {{thread|id=3190|title=The replaced art}}
 * {{post|id=37768|title=Twinsen's son/daughter}}
 * {{thread|id=2037|title=3D Twinsen}}
+* {{thread|id=2036|title=My new twinsen}}
 
 ==External links==
 ===Fan art===
