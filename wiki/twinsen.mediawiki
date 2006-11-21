@@ -146,6 +146,7 @@ Age=Adult}}
 * {{thread|id=2037|title=3D Twinsen}}
 * {{thread|id=2036|title=My new twinsen}}
 * {{thread|id=1815|title=SEB's (Sethronn's Brother's) Twinsen 3d model}}
+* {{thread|id=2006|title=Twinsen Animation}}
 
 ==External links==
 ===Fan art===
