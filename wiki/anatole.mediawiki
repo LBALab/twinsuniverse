@@ -5,7 +5,7 @@ title: Anatole
 {{Character|
 Name=Anatole|
 Image=BBANATOL.jpg|
-Race=[[Wannie]]|
+Race=[[Sphero]]|
 Gender=Male|
 Size=Small|
 Age=Adult}}
