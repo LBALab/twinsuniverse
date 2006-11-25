@@ -38,10 +38,7 @@ Quote=It's kind of you to help me, but I managed to steal the guard's key. Take 
 Character=Prisoned grobo}}
 {{Quote|
 Quote=Oh, thanks a bunch, pal! Listen, this kid, he give me the key to the chapel. Here, take it. I've had enough fun with it.|
-Character=}}
-{{Quote|
-Quote=Old [[wannie]]|
-Character=}}
+Character=Old [[wannie]]}}
 {{Quote|
 Quote=The Monk, he threw me out of his choir. It's not fair, I didn't do anything. So I stole the key to the chapel! So I boxed it in and gave it to the old man!|
 Character=Johnny}}
