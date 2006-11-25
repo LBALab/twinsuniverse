@@ -37,7 +37,7 @@ Character=Leone}}
 Quote=I am a little worried, you know. Since he left, Wizard Ker'aooc has not sent any sign of life. I don't like what's going on, this is not his habit.|
 Character=Leone}}
 {{Quote|
-Quote=All I know is that the wizard Ker'aooc has gone on a trip with some of his colleagues. It's the Esmers who invited him!!|
+Quote=All I know is that the wizard Ker'aooc has gone on a trip with some of his colleagues. It's the Esmers who invited him<nowiki>!!</nowiki>|
 Character=Leone}}
 
 ==Related threads==
