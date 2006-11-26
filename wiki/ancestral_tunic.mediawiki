@@ -2,7 +2,7 @@
 title: Ancestral Tunic
 ---
 
-[[Image:Tunic.gif|right]]
+[[Image:Tunic.gif|right|90px|thumb|Ancestral Tunic]]
 
 {{Quote|
 Quote=Tunic. With this magical symbol, you have just earned the first level of power.|
