@@ -2,7 +2,7 @@
 title: Zlito
 ---
 
-[[Image:Zlito.gif|right]]
+[[Image:Zlito.gif|right|thumb|Zlito]]
 
 {{Quote|
 Quote=It is the exchange currency of planet Zeelich. With it, you can buy the articles you are interested in on planet Zeelich.|
