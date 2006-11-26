@@ -2,7 +2,7 @@
 title: Kash
 ---
 
-[[Image:Kashes.gif|right]]
+[[Image:Kashes.gif|right|thumb|Kash]]
 
 {{Quote|
 Quote=It is the exchange currency of your planet Twinsun. It allows you to buy the articles you are interested in.|
