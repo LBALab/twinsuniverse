@@ -32,7 +32,7 @@ Character=Annie}}
 Quote=For that, you'll have to call on the ferryman's services. He provides the only communication between the islands and the under-gas. Go see my housemaid. She shall tell you how to proceed.|
 Character=[[Dark Monk's priest]]}}
 {{Quote|
-Quote=My mommy, she's helping Mr. Monk make Dark Monk come back. And then, when he's here, heads are gonna roll!! It'll be so awesome!! My mommy's strong!!|
+Quote=My mommy, she's helping Mr. Monk make Dark Monk come back. And then, when he's here, heads are gonna roll<nowiki>!!</nowiki> It'll be so awesome<nowiki>!!</nowiki> My mommy's strong<nowiki>!!</nowiki>|
 Character=[[Annie's son]]}}
 
 ==Related threads==
