@@ -11,7 +11,7 @@ Size=Medium|
 Age=Adult}}
 
 {{Quote|
-Quote=It has been two months since I enrolled in this blasted school, and I have not been able to pass a single test!!!|
+Quote=It has been two months since I enrolled in this blasted school, and I have not been able to pass a single test<nowiki>!!!</nowiki>|
 Character=Aristide}}
 
 ==Description==
