@@ -10,6 +10,9 @@ Gender=Female|
 Size=Large|
 Age=Adult}}
 
+==Description==
+See [[Legend of Sendell]].
+
 ==Related threads==
 ===General===
 * {{thread|id=9558|title=Sendellism}}
