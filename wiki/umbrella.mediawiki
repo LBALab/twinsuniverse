@@ -24,7 +24,7 @@ Quote=The umbrella please.|
 Character=Twinsen}}
 {{Quote|
 Quote=But that's my umb...Oh<nowiki>!!!</nowiki> excuse me...I thought it was mine. Boohooo, I'm so embarrassed...I keep making mistakes.|
-Character=The umbrela thief}}
+Character=The umbrella thief}}
 {{Quote|
 Quote=You just found the customer's umbrella.|
 Character=When Twinsen received the umbrella}}
