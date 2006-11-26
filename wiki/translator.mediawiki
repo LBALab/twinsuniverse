@@ -27,7 +27,7 @@ Character=When Twinsen received the translator}}
 Quote=What's he saying??|
 Character=Twinsen}}
 {{Quote|
-Quote=Hey, Twinsen, take this translator, and you will conveniently understand the language of Zeelich!!|
+Quote=Hey, Twinsen, take this translator, and you will conveniently understand the language of Zeelich<nowiki>!!</nowiki>|
 Character=Jerome Baldino}}
 
 ==Related threads==
