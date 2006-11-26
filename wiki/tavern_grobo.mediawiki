@@ -4,7 +4,7 @@ title: Tavern Grobo
 
 {{Character|
 Name=Tavern grobo|
-Image=DIVERS.jpg|
+Image=DIVERS.gif|
 Race=[[Grobo]]|
 Gender=Male|
 Size=Medium|
