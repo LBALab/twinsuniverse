@@ -2,8 +2,12 @@
 title: Twinsuniverse Wiki
 ---
 
-[[Image:Welcome.gif|right]]
+<center>http://patrik.zebrazilla.org/mbn/twinsunica_vectors_2_230x230.png
+<br>'''Earth's equivalent to the [[Book of Bù]]'''</center>
 
+
+
+[[Image:Welcome.gif|right]]
 Welcome to '''[[Encyclopedia Twinsunica]]'''. This is the product of what once started as the LBA compendium project in December 2000. The goal of this project is to make a complete encyclopedia of the worlds of the adventure games Little Big Adventure 1 (Relentless) and 2 (Twinsen's Oddysey).
 
 The Twinsunica currently contains '''[[Twinsunica:Statistics|{{NUMBEROFARTICLES}}]]''' articles.
