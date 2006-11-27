@@ -2,7 +2,7 @@
 title: Burgermaster's Notes
 ---
 
-[[Image:Note.gif|right]]
+[[Image:Note.gif|right|80px|thumb|Burgermaster's notes]]
 
 {{Quote|
 Quote=With my eyes focused on the center of the bazaar, my back is glued to a natural parasol where I'd love to take a nap, but I must keep a sportive mood. It seems there are enough light posts and arches in the village to count the correct number of steps. Once there, the fences to my left point in the wrong direction. It's on the other side, down in the basin near the gas that my buried treasure lies.|
