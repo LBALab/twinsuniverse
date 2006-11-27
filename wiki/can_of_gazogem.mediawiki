@@ -2,7 +2,7 @@
 title: Can of Gazogem
 ---
 
-[[Image:Can of gazogem.gif|right]]
+[[Image:Can of gazogem.gif|right|200px|thumb|[[Twinsen]] exploring the inner structures of the [[Gazogem Refinery]]]]
 
 {{Quote|
 Quote=After you give it to Jerome, this can of gazogem will allow your friend to turn your proto-pack into a super-jetpack.|
