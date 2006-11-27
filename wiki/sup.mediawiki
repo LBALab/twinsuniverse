@@ -8,7 +8,8 @@ title: Sup
 Quote=Sup representative. The Sups live in the upper city of Otringal. They are the planet's intellectual elite and always hold the highest positions.|
 Character=A plaque in [[Dark Monk's temple]]}}
 
-This humanoid race has a huge head and a tiny body. The Sups live mainly on the island of Otringal. They are the intellectual elite of the planet Zeelich where they dominate the other races, imposing their iron rule on all and sundry in the name of their Emperor. Their advanced technology allows them to travel from galaxy to galaxy and attempt to populate other planets. The Emperor and DarkMonk appear to maintain excellent relations...
+==Description==
+This humanoid race has a huge triangular head and a thin body. The Sups live mainly on the island of [[Otringal]]. They are the intellectual elite of the planet [[Zeelich]] where they dominate the other races, imposing their iron rule on all and sundry in the name of [[Emperor of Zeelich|their Emperor]]. Their advanced technology allows them to travel from galaxy to galaxy and attempt to populate other planets. The Emperor and [[Dark Monk]] appear to maintain excellent relations...
 
 ==Related threads==
 ===General===
