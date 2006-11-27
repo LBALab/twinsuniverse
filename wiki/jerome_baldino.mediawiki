@@ -42,22 +42,19 @@ Character=Jerome Baldino}}
 Quote=I never realized there was an actual School of Magic! I guess I should get out of my shop more often.|
 Character=Jerome Baldino}}
 {{Quote|
-Quote=|
-Character=Jerome Baldino}}
-{{Quote|
 Quote=Hello! Twinsen? Baldino here! How are you? Looks like this transmitter works! If you swing by, I have a portable radio to give you. Also, I will have the proto-pack finished soon. It will allow you to fly in complete safety. Over.|
 Character=Jerome Baldino}}
 {{Quote|
-Quote=winsen, I am on Emerald Moon. I have uncovered a diabolical plot organized by the Esmers!! The kidnapping of the wizards and the children was only a small part of their plan. They are about to destroy our planet!!! Listen Twinsen, you must meet me!!|
+Quote=Twinsen, I am on Emerald Moon. I have uncovered a diabolical plot organized by the Esmers<nowiki>!!</nowiki> The kidnapping of the wizards and the children was only a small part of their plan. They are about to destroy our planet<nowiki>!!!</nowiki> Listen Twinsen, you must meet me<nowiki>!!</nowiki>|
 Character=Jerome Baldino}}
 {{Quote|
-Quote=The Esmers have set up a base somewhere on Desert Island. Find it and steal a shuttle!! You are the only one who can save Twinsun!!!|
+Quote=The Esmers have set up a base somewhere on Desert Island. Find it and steal a shuttle<nowiki>!!</nowiki> You are the only one who can save Twinsun<nowiki>!!!</nowiki>|
 Character=Jerome Baldino}}
 {{Quote|
-Quote=Twinsen!! You are here at last! It's horrible!! The Esmers have built some reactors on Emerald Moon in order to propel it toward Twinsun and explode our planet!! They obey their God who was miraculously reincarnated, and they want to fulfill an ancient prophecy which is supposed to return their planet to its ancient heavenly look.|
+Quote=Twinsen<nowiki>!!</nowiki> You are here at last! It's horrible<nowiki>!!</nowiki> The Esmers have built some reactors on Emerald Moon in order to propel it toward Twinsun and explode our planet<nowiki>!!</nowiki> They obey their God who was miraculously reincarnated, and they want to fulfill an ancient prophecy which is supposed to return their planet to its ancient heavenly look.|
 Character=Jerome Baldino}}
 {{Quote|
-Quote=Hey, Twinsen, take this translator, and you will conveniently understand the language of Zeelich!!|
+Quote=Hey, Twinsen, take this translator, and you will conveniently understand the language of Zeelich<nowiki>!!</nowiki>|
 Character=Jerome Baldino}}
 {{Quote|
 Quote=Twinsen! I left my vessel near the outside of the crater. We'll be able to escape through the yard!|
@@ -72,7 +69,7 @@ Character=Jerome Baldino}}
 Quote=Of course, but I will need this gazogem sooner or later. Besides, it will allow me to transform your protopack and increase its performance.|
 Character=Jerome Baldino}}
 {{Quote|
-Quote=You must go get me some gazogem, so that I can finish to repair our vessel and make your protopack more powerful!!|
+Quote=You must go get me some gazogem, so that I can finish to repair our vessel and make your protopack more powerful<nowiki>!!</nowiki>|
 Character=Jerome Baldino}}
 {{Quote|
 Quote=Thanks, Twinsen. Now I can finish up on the ship. I'll buzz you on the radio as soon as I do the protopack.|
