@@ -2,7 +2,7 @@
 title: Ferryman's Song
 ---
 
-[[Image:Song.gif|right]]
+[[Image:Song.gif|right|65px|thumb|Ferryman's song]]
 
 {{Quote|
 Quote=Ferryman if you please,<br>
