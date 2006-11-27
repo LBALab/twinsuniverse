@@ -2,7 +2,7 @@
 title: Car Part
 ---
 
-[[Image:Carpart.gif|right|155px|thumb|The car part which replaced the broken part of Twinsen's automobile]]
+[[Image:Carpart.gif|right|155px|thumb|The car part which replaced the broken part of [[Twinsen]]'s automobile]]
 
 {{Quote|
 Quote=After a few adjustments and once Zoé fits the part, the car will be ready to go.|
