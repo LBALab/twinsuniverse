@@ -2,7 +2,7 @@
 title: Key
 ---
 
-[[Image:Key.gif|right]]
+[[Image:Key.gif|right|24px|thumb|Yet another key]]
 
 {{Quote|
 Quote=Can't start this machine without an ignition key!|
