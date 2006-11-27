@@ -2,7 +2,7 @@
 title: Garden Balsam
 ---
 
-[[Image:Flower.gif|right]]
+[[Image:Flower.gif|right|160px|thumb|Garden Balsam Flower]]
 
 {{Quote|
 Quote=You must bring this flower to the Rector of the School of Magic.|
