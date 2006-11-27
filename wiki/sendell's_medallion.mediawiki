@@ -2,6 +2,8 @@
 title: Sendell's Medallion
 ---
 
+[[Image:sendells_medallion.png|right|200px|thumb|Close up of Sendell's Medallion]]
+
 {{Quote|
 Quote=Sendell's Medallion. With this magical symbol, you have just earned the third level of power.|
 Character=Official description, Twinsen's first adventure}}
