@@ -2,7 +2,7 @@
 title: Ferry Ticket
 ---
 
-[[Image:Ticket.gif|right]]
+[[Image:Ticket.gif|right|115px|thumb|An ferry ticket, as issued between [[Citadel Island]] and [[Island of the White Leaf Desert]]]]
 
 {{Quote|
 Quote=This ticket allows you to travel aboard the ferry which links Citadel Island and White Leaf Desert Island.|
