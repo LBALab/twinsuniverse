@@ -2,7 +2,7 @@
 title: Flask of Clear Water
 ---
 
-[[Image:11_runestone_clear_warer.gif|right|200px]]
+[[Image:11_runestone_clear_warer.gif|right|200px|thumb|Twinsen pouring out the vial of Clear Water]]
 
 {{Quote|
 Quote= Flask of Clear Water. With this magical symbol, you have just earned the fourth level of power.|
