@@ -15,7 +15,7 @@ Quote=Oh, hi Twinsen! If you want to take a little sea trip, jump on my back!!|
 Character=Moya}}
 
 ==Description==
-Moya is a turtle residing inside the sea, mainly around the [[oasis]]. She is rather kind, and is willing to come and take people somewhere whenever they ring the bell.
+'''Moya''' is a turtle residing inside the sea, mainly around the [[oasis]]. She is rather kind, and is willing to come and take people somewhere whenever they ring the bell.
 
 ==Role in Twinsen's adventure==
 When Twinsen rang the bells that stand near the oasis or at the left side of the [[Desert Island harbour|harbour]], Moya came and invited him to jump on her back to go somewhere. At the oasis, she brought Twinsen to a rock in the water where he could find a [[clover box]]. When Twinsen rang the bell near the harbour, she brought him to the [[Cave of the Pearl of Incandescence]].
@@ -41,3 +41,4 @@ Character=Quetch on the beach}}
 [[Category:Adult characters]]
 [[Category:Desert Island inhabitants]]
 [[Category:Articles without an image]]
+[[Category:Animals]]
