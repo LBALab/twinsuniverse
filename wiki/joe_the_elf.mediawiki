@@ -24,7 +24,7 @@ Character=Joe the Elf}}
 Quote=No thanks, seems to be OK now...|
 Character=Joe the Elf}}
 {{Quote|
-Quote=Hey Twinsen! It's me, Joe!! I don't feel too good. Couldn't you do something for me?|
+Quote=Hey Twinsen! It's me, Joe<nowiki>!!</nowiki> I don't feel too good. Couldn't you do something for me?|
 Character=Joe the Elf}}
 {{Quote|
 Quote=But... it's... Twinsen! Yo, Twinsen! It's me, Joe the Elf! Your old friend! Good to see you again!!!|
