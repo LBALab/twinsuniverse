@@ -10,6 +10,14 @@ Gender=Female|
 Size=Medium|
 Age=Adult}}
 
+{{Quote|
+Quote=This statue pays tribute to Zoé and me. Without her, I could have never defeated the infamous [[FunFrock]].|
+Character=[[Twinsen]]}}
+
+==Description==
+'''Zoé''' is our hero's spouse, and mother to his child. She lives with Twinsen and their [[Arthur|new-born baby]] in the [[Twinsen's house|house]] on [[Citadel Island]].
+{{Sectstub}}
+
 ==Related threads==
 ===General===
 * {{thread|id=10898|title=Does Twinsen REALLY love Zoe`?}}
