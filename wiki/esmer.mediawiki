@@ -12,3 +12,4 @@ Character=[[Bob]]}}
 {{stub}}
 
 [[Category:Esmers|*]]
+[[Category:Articles without an image]]
