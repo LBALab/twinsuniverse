@@ -10,6 +10,29 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
+{{Quote|
+Quote=So you found a hair dryer? Great! I'll be with you in a minute, just let me install the rheostat.|
+Character=Jerome Baldino}}
+
+==Description==
+'''Jerome Baldino''' (or simply '''Baldino''') is one of [[Twinsun]]'s most notable inventors and scientists. Among his inventions are the [[Proto-Pack]], Twinsun's first prototype [[Baldino's Spaceship|space ship]], and a [[portable radio]] device.
+He used to live in [[Proxima Island]], but has since moved to [[Desert Island]].
+
+==Role in Twinsen's adventure==
+Twinsen first met Baldino during his first adventure, while Baldino was still living in his [[Jerome Baldino's residence (Proxim-City)|Proxim-City residence]]. By giving him the rheostat from a [[Hair Dryer]] he had bought earlier, Twinsen helped Baldino create the experimental [[Proto-Pack]]. In return, Baldino asked Twinsen to take the Proto-Pack for a test run, and even payed him to do so. Baldino even allowed Twinsen to keep the Proto-Pack for the rest of his adventure.
+
+During the time between [[FunFrock]]'s fall and the beginning of Twinsen's second adventure, Twinsen and Baldino became close friends. For unknown reasons, Baldino moved to a [[Jerome Baldino's residence (Port-Ludo)|house]] on the newly populated [[Desert Island]], where he continued his researches. 
+
+Due to Twinsen and Baldino being friends, Baldino sought to help Twinsen whenever he could. When Twinsen's car broke down, Baldino gave Twinsen a [[car part]] which was needed to fix it, to [[Zoé]]'s request. Soon after that, Baldino gave him a [[portable radio]] device, which enabled him to communicate with him and with Zoé.
+
+Due to his inquisitive nature, Baldino used his powerful telescope to research the [[Esmer]] activities on [[Emerald Moon]]. While Twinsen visited [[Zeelich]] for the first time, Baldino used a [[Baldino's ship|space ship]] he had secretly built to fly to Emerald Moon, to discover the Esmers' demonic plan. Because of his discovery, the Esmers captured him and kept him in [[Emerald Moon prison|prison]]. Before leaving for Emerald Moon, however, Baldino remembered to leave Twinsen the Proto-Pack, just in case he might need it.
+
+Using the radio, Baldino was able to tell Twinsen all about the Esmers' plan, just before he was captured. He prompted Twinsen to steal a [[Esmer shuttle|shuttle]] from the [[Secret Esmer base]] on Desert Island, and use it to fly to Emerald Moon. Of course, Twinsen obliged to his request, and soon busted Baldino out of prison. After their escape, Twinsen and Baldino used Baldino's ship to fly back to Twinsun. Unfortunately, they were attacked by Esmer battleships, which caused them to crash on [[Zeelich]].
+
+Baldino spent most of the time on Zeelich on fixing the crashed space ship. He asked Twinsen to retrieve some [[gazogem]], a powerful fuel produced on Zeelich, which will enable him to repair and refuel the ship for their voyage home. Despite Twinsen's reluctance, as he was already in a hurry to find [[Island CX]], Twinsen agreed. After getting the gazogem, Baldino was able to transform the rather weak Proto-Pack into the much better [[Super-Jetpack]], which allowed Twinsen to fly higher and reach places he hasn't reached before, such as the [[Upper City]] of [[Otringal]].
+
+During [[FunFrock]]'s final face off against Twinsen, Baldino saved the children of Twinsun from falling into the lava under [[Dark Monk's Statue]] (Unbeknownst to Twinsen and FunFrock, who thought the children have fallen to their doom). Baldino then took Twinsen and the children back to Twinsun.
+
 ==Quotes==
 {{Quote|
 Quote=I've been working on a Jet-Pack prototype for days now. It's a small reactor that harnesses onto your back and allows you to fly about. My problem is that my last test flight wreaked a bit of havoc on the garden wall. It is rather difficult to fine tune the motor's power. I need a rheostat like the one you find in a hair dryer. Do you think you can find one of those for me?|
@@ -19,9 +42,6 @@ Quote=Well it's not a Jet-Pack yet, it's still just a Proto-Pack. I would apprec
 Character=Jerome Baldino}}
 {{Quote|
 Quote=I've been working on a Jet-Pack prototype for days now. It's a small reactor that is harnessed on the back and allows its user to fly about. My problem is that my latest flight test wreaked havoc on my Southern wall. So I'd like to borrow the rheostat in your hair dryer to fine tune the power of the motors (from looking at your hairdo, I don't think you really need the dryer, anyway). And if that works, I will have a job offer for you|
-Character=Jerome Baldino}}
-{{Quote|
-Quote=So you found a hair dryer? Great! I'll be with you in a minute, just let me install the rheostat.|
 Character=Jerome Baldino}}
 {{Quote|
 Quote=Here! Here's the part that Zoé needs for your car.|
