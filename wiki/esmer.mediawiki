@@ -1,0 +1,14 @@
+---
+title: Esmer
+---
+
+{{Quote|
+Quote=What's up with these Esmers? Couldn't they have stayed home?|
+Character=[[Bob]]}}
+
+==Description==
+'''Esmers''' is a general name for the inhabitants of [[Zeelich]].
+
+{{stub}}
+
+[[Category:Esmers|*]]
