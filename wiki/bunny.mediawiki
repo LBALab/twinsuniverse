@@ -11,7 +11,7 @@ Size=Medium|
 Age=Adult}}
 
 {{Quote|
-Quote=Hello!! Allow me to introduce the Grand Rector of the School of Magic!|
+Quote=Hello<nowiki>!!</nowiki> Allow me to introduce the Grand Rector of the School of Magic!|
 Character=Bunny}}
 
 ==Description==
