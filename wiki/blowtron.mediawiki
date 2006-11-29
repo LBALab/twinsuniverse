@@ -3,7 +3,7 @@ title: Blowtron
 ---
 
 {{Weapon|
-Name=Blowgun|
+Name=Blowtron|
 Image=Blowgun2.gif|
 Enemy=Yello, green<br>& red enemies|
 Rate=Fast|
