@@ -2,7 +2,7 @@
 title: Gem
 ---
 
-[[Image:Gem.gif|right]]
+[[Image:Gem.gif|right|75px|thumb|Gem]]
 
 {{Quote|
 Quote=The gems are commonly used by the Francos to produce gazogem. But you can use it to pay for the ferryman's services.|
