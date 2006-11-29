@@ -5,7 +5,7 @@ title: Blowtron
 {{Weapon|
 Name=Blowgun|
 Image=Blowgun2.gif|
-Enemy=Green enemies|
+Enemy=Yello, green<br>& red enemies|
 Rate=Fast|
 Damage=Little|
 Range=Medium}}
