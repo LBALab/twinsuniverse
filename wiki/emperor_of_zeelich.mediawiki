@@ -10,6 +10,8 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
+[[Image:Emperor statue.gif|right|145px|thumb|Statue of the Emperor of [[Zeelich]]]]
+
 {{Quote|
 Quote=Here you are at last! I was waiting for you Twinsunian, Dark Monk told me a lot about you!!|
 Character=Emperor of Zeelich}}
