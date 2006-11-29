@@ -3,7 +3,7 @@ title: Bob Vortix
 ---
 
 {{Character|
-Name=Bob|
+Name=Bob Vortix|
 Image=Bob Vortix.gif|
 Race=[[Sphero]]|
 Gender=Male|
