@@ -10,6 +10,8 @@ Gender=Female|
 Size=Large|
 Age=Adult}}
 
+[[Image:Sendell.gif|right|145px|thumb|Sendell]]
+
 ==Description==
 See [[Legend of Sendell]].
 
