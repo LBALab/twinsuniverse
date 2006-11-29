@@ -15,9 +15,6 @@ Character=[[Bob]]}}
 * {{post|id=4990|title= Your fave esmer charactar}}
 * {{post|id=5358|title= The Esmers invasion}}
 
-===Hints\Spoilers===
-* {{thread|id=10415|title=LBA 2 Goofs}}
-
 ===Fan Art===
 * {{post|id=650|title=Esmer Shuttle In 3D/movie}}
 * {{post|id=4788|title=Esmer Shuttle}}
