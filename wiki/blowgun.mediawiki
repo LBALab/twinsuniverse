@@ -5,7 +5,7 @@ title: Blowgun
 {{Weapon|
 Name=Blowgun|
 Image=Blowgun1.gif|
-Enemy=Yellow enemies|
+Enemy=Yellow & green enemies|
 Rate=Fast|
 Damage=Little|
 Range=Medium}}
