@@ -22,13 +22,13 @@ Character=Bazaar seller}}
 Quote=Roger de la Fontaine, he was my brother. He was the local burgermaster you know, who was responsible for our fragment. Roger, he kept hiding the fragment somewhere without telling anyone, untill the accident...Pity he was eaten by a monster from the gas.|
 Character=[[Roger de la Fontaine's brother]]}}
 {{Quote|
-Quote=And today nobody knows where the heck the fragment is. That`s why everybody is digging all over the place!! But why didn't he leave any notes?|
+Quote=And today nobody knows where the heck the fragment is. That`s why everybody is digging all over the place<nowiki>!!</nowiki> But why didn't he leave any notes?|
 Character=Twinsen}}
 {{Quote|
 Quote=I'm certain our fragment is buried here. Obviously, must be hidden under the grass. I mean the burgermaster couldn't have buried it under the rock, am I right?|
 Character=A treasure hunter}}
 {{Quote|
-Quote=This Roger de la Fontaine, he used to go pretty close to the gas. Could well be where he hid it, our fragment!!|
+Quote=This Roger de la Fontaine, he used to go pretty close to the gas. Could well be where he hid it, our fragment<nowiki>!!</nowiki>|
 Character=[[Valentine]]}}
 {{Quote|
 Quote=Taking the size of the island, its geological structure and wind direction into account. I have concocted a potion which should allow me to precisely determine the location of the fragment! Unfortunately...I uh, lost the vial.|
@@ -37,7 +37,7 @@ Character=[[Kurtz]]}}
 Quote=Because of this lost fragment nonsense, everyone is looking for it. So they leave their little rug rats with me all day long. They just don`t stop bawling...I`m going to look for another job soon.|
 Character=The babysitter}}
 {{Quote|
-Quote=Yeah it`s pretty serious, this here story!! It better be found this er...fragment. 'Cause no fragment, no ceremony, and no paradise!! Bah, I don`t give it a hoot, I`ve got myself a vineyard...Come on, mister, just a snort?|
+Quote=Yeah it`s pretty serious, this here story<nowiki>!!</nowiki> It better be found this er...fragment. 'Cause no fragment, no ceremony, and no paradise<nowiki>!!</nowiki> Bah, I don`t give it a hoot, I`ve got myself a vineyard...Come on, mister, just a snort?|
 Character=A drunk franco}}
 {{Quote|
 Quote=You have to be crazy to believe all these stories of fragment hunting. me, I think Roger lost it at home before getting eaten by a monster. What are you gonna do?, at least its good for business.|
