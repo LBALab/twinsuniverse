@@ -10,6 +10,8 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
+[[Image:Twinsen1.GIF|right|89px|thumb|Twinsen, the hero]]
+
 ==Related threads==
 ===General===
 * {{thread|id=10988|title=Twinsen`s tattoo}}
