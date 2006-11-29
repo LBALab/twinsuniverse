@@ -2,7 +2,7 @@
 title: Wizard's Diploma
 ---
 
-[[Image:Diploma.gif|right]]
+[[Image:Diploma.gif|right|154px|thumb|Wizard's Diploma]]
 
 {{Quote|
 Quote=Your diploma in magic has allowed you to reach the green ball level of magic.|
