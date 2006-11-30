@@ -15,7 +15,7 @@ Quote=Say Twinsen, did you ever see that Tralü? They say it's a monster that li
 Character=Felix}}
 
 ==Description==
-Felix is a nice old rabbibunny, usually spotted around the [[Citadel Island) Harbour|harbour]] of [[Citadel Island]]. His main hobby seems to be fishing, although usually without much luck. Also, the old fisherman seems to be quite interested in the mystery stories regarding the [[Tralü]] and its cave on the [[cliffs]].
+Felix is a nice old rabbibunny, usually spotted around the [[Citadel Island Harbour|harbour]] of [[Citadel Island]]. His main hobby seems to be fishing, although usually without much luck. Also, the old fisherman seems to be quite interested in the mystery stories regarding the [[Tralü]] and its cave on the [[cliffs]].
 
 ==Role in Twinsen's adventure==
 Although not being able to help [[Twinsen]] directly, Felix did give him a few hints regarding his quests. Most of them were about the Tralü he was so fanatic about, but he also tried to help Twinsen when the latter was searhing for [[Raph]].
