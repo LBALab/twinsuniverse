@@ -25,7 +25,7 @@ Like most characters, Bob's only role in [[Twinsen]]'s adventure was to give hin
 
 ==Additional quotes==
 {{Quote|
-Quote=Ah, he's disappeared?! Oh, well, I never really liked him! May the Tralü take him away!!|
+Quote=Ah, he's disappeared?! Oh, well, I never really liked him! May the Tralü take him away<nowiki>!!</nowiki>|
 Character=Bob}}
 {{Quote|
 Quote=So Twinsen, this li'l monster, coming soon?|
