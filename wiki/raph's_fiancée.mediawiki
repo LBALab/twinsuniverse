@@ -25,7 +25,7 @@ The fiancé gave [[Twinsen]] hints as to where he could find Raph and what to do
 Quote=Unfortunately, he's disappeared, Mr. Twinsen! I hope he hasn't gone on another of his strolls on the cliffs! One of these days it might be nasty, with all these rumors about the tralü...|
 Character=Raph's fiancé}}
 {{Quote|
-Quote=My pretty bunny has come back, thanks to you!! Oh thank you, Mr. Twinsen!!|
+Quote=My pretty bunny has come back, thanks to you<nowiki>!!</nowiki> Oh thank you, Mr. Twinsen<nowiki>!!</nowiki>|
 Character=Raph's fiancé}}
 
 ==Related threads==
