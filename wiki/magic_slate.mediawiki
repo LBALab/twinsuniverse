@@ -2,7 +2,7 @@
 title: Magic Slate
 ---
 
-[[Image:Slate.gif|right]]
+[[Image:Slate.gif|right|thumb|The Magic Slate]]
 
 {{Quote|
 Quote=By using the Action command in front of a plan, a print or any other illustration, you immediately create a copy with the Magic Slate. You can consult it at any time by selecting the Slate in the inventory.|
