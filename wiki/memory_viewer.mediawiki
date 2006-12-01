@@ -2,7 +2,7 @@
 title: Memory Viewer
 ---
 
-[[Image:Viewer.gif|right]]
+[[Image:Viewer.gif|right|140px|thumb|Memory viewer]]
 
 {{Quote|
 Quote=The memory viewer allows you to review the sequences which have punctuated your adventure.|
