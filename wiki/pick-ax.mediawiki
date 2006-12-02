@@ -2,7 +2,7 @@
 title: Pick-ax
 ---
 
-[[Image:Pickax.gif|right|140px|thumb|a pick-ax]]
+[[Image:Pickax.gif|right|140px|thumb|A pick-ax]]
 
 {{Quote|
 Quote=This pick-ax will allow you to dig into the ground or harder materials. With it, you can now locate objects buried underground, or extract materials.|
