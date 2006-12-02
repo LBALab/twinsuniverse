@@ -2,7 +2,7 @@
 title: Pyramid Shaped Key
 ---
 
-[[Image:Pyramid.gif|right]]
+[[Image:Pyramid.gif|right|147px|thumb|The pyramid shaped key]]
 
 {{Quote|
 Quote=This Pyramid is a key. If you put it in the right place, it will activate a mechanism giving you access to a secret place.|
