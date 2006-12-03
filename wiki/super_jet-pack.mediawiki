@@ -2,7 +2,7 @@
 title: Super Jet-pack
 ---
 
-[[Image:Jetpack.gif|right]]
+[[Image:Jetpack.gif|right|thumb|130px|The Super Jet-pack]]
 
 {{Quote|
 Quote=It was put together by Jerome Baldino. It now allows you to access new locations and to follow some grades that were impracticable with the proto-pack.|
