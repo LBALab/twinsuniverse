@@ -2,7 +2,7 @@
 title: Franco
 ---
 
-[[Image:KnartaAnim.gif|right|58px|thumb|Franco]]
+[[Image:KnartaAnim.gif|right|58px|frame|Franco]]
 
 {{Quote|
 Quote=Franco representative. The Francos live on the island of the Francos, (what a surprise!), which is enshrouded by the gas swarming with monsters. The Francos refine the gems extracted in the under-gas, and turn them into gazogem, usable by all the vehicles of Zeelich.|
