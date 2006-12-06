@@ -2,7 +2,7 @@
 title: Protection Spell
 ---
 
-[[Image:Protect.gif|right|thumb|The Protection Spell]]
+[[Image:Protect.gif|right|155px|thumb|The Protection Spell]]
 
 {{Quote|
 Quote=This Tunic, bequeathed by your ancestors, now gives you protection besides storing Magic. To use the shielding spell, press Enter from the Inventory. This spell consumes some Magic, just like throwing the Ball and using several other magic objects.|
