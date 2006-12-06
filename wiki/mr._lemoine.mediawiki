@@ -14,6 +14,9 @@ Age=Adult}}
 ===General===
 * {{thread|id=250|title=The funny and rude bits in LBA...}}
 
+===Fan Art===
+* {{thread|id=11770|title=Wannie monk}}
+
 {{Stub}}
 
 [[Category:Wannies]]
