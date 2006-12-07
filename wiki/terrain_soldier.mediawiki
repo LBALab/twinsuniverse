@@ -4,8 +4,8 @@ title: Terrain Soldier
 
 {{Enemy|
 Name=Terrain soldiers|
-Image=DIVERS.gif|
-Strength=Yellow|
+Image=Lba ingame terrain soldier.jpg|
+Strength=Zero|
 Reaction=Doesn't move|
 Recovery=0.3 seconds|
 Rate=1 second|
@@ -13,7 +13,44 @@ Damage=11%|
 Range=30 paces|
 Speed=14.4kph average; 18kph maximum}}
 
-{{Stub}}
+{{Quote|
+Quote=It is forbidden to travel outside the Citadel in that kind of attire!|
+Character=A terrain soldier}}
+
+==Description==
+'''Terrain soldiers''' are the basic soldiers in [[FunFrock]]'s army. They can be seen with a yellow suit on the [[Island of the White Leaf Desert]], with a white suit in the [[Hamalayi Mountains]], and with a green one everywhere else. They're omnipresent. They are patrolling in nearly every public place, like [[Lupin Burg]], the [[Old Burg]] and the rest of [[Principal Island]], the [[Maritime Museum]] on [[Proxima Island]], in the [[Hamalayi Mountains]] and at all fortresses and factories of FunFrock. There's a [[military camp]] on Principal and Desert Island.
+
+==Role in Twinsen's adventure==
+The terrain soldiers where major enemies of [[Twinsen]]. He inquired them at many different places in his adventure, and had to fight them in various fortresses and factories, sometimes to get a [[key]]. However, they were easy to defeat most of the time.
+
+==Trivia==
+In [[Peg Leg street]], Twinsen inquired a terrain soldier having a pee at nearby trees. While the soldier was absent, he was able to steal his bike to get to the [[water tower]].
+
+In the [[Old Burg]], there was a soldier standing in front of a poster. When Twinsen paid 10 [[kashes]], he was allowed to look at it:
+
+{{Quote|
+Quote=Young male quetch seeks young female rabbibunny for friendship (and maybe more...)|
+Character=The poster in Old Burg}}
+
+==Unconfirmed Theories==
+The average soldier seems to be quite lazy. Twinsen saw many soldiers sleeping in the grass when on duty.
+
+Also, there intelligence appears to be not very high. When Twinsen emerged from the [[Principal Island prison]], he was stopped by a soldier, but was able to pass when saying he was Santa Claus.
+
+Though the soldiers have human attributes, it is speculated if there were in fact [[Quetch]] clones.
+
+==Additional Quotes==
+
+{{Quote|
+Quote=If you give me 10 Kashes I'll let you read the poster behind me.|
+Character=A terrain soldier}}
+
+{{Quote|
+Quote= Guard post - open 24 hours a day. Do not disturb... |
+Character=A poster in [[Proxim-City]]}}
+
+{{Quote|
+Quote=What are you doing there, who are you?|
+Character=A terrain soldier}}
 
 [[Category:Forces]]
-[[Category:Articles without an image]]
