@@ -20,3 +20,109 @@ Character=[[Library Grobo]]}}
 ==Role in Twinsen's adventure==
 
 When Twinsen found out he is the current Heir, he had to retrieve the items and information left for him by his ancestors in the room underneath his house on Citadel Island. The key to this room however had been lost for presumably a few generations. The last family member to have possession of this key was Hégésippe. He was killed by LeBorgne, and the key was stolen and kept with his other treasures. To sum it up, Twinsen had to find LeBorgne's treasure to gain entry to the secret room.
+
+==Additional quotes==
+
+{{Quote|
+Quote="This room contains information and weapons that were amassed for generations to help the Heir who will, one day, be chosen from our descendants. The key to the room was passed down from generation to generation, but our ancestor Hégésippe was the last family member to retain the key. He was attacked and killed by the ruthless pirate LeBorgne during a sea voyage. Nobody knows where Leborgne's treasure, which undoubtedly contains the golden key to the room, is today."|
+Character=Plaque at the space underneath Twinsen's House, outside of the secret room}}
+
+{{Quote|
+Quote=I'm looking for information about LeBorgne the pirate.|
+Character=[[Twinsen]]}}
+
+{{Quote|
+Quote=I know that LeBorgne had some kind of a captain's log written for him (he was practically illiterate), and the boss of the tavern on Principal Island knows where it is!|
+Character=Unknown (Citadel Island)}}
+
+{{Quote|
+Quote=One day, one of my swabs claimed that LeBorgne was an ancestor of mine and... well, you know how dramatic burials at sea can be!|
+Character=Unknown (Citadel Island)}}
+
+{{Quote|
+Quote=Ask the sailor, he would have know who LeBorgne was.|
+Character=Unknown (Citadel Island)}}
+
+{{Quote|
+Quote=Asks one of my colleagues working in the warehouse on the port. He will know about this LeBorgne.|
+Character=Unknown (Citadel Island)}}
+
+{{Quote|
+Quote=I read some extracts from the captain's log - LeBorgne was ruthless! If you're still interested in the log, it's for sale at the Old Burg bazaar on Principal Island.|
+Character=Unknown (Citadel Island)}}
+
+{{Quote|
+Quote="To find Captain LeBorgne's treasure, the voyager who arrives at the port of Proxima island must use the closest mooring post as a guide. With his back to the docked boats, he must follow these instructions in DISCREET mode: 6 steps to the North (straight ahead), then 6 steps to the East (to his right), following the gradual slope. 2 steps to the North (straight ahead) until he reaches the metal garbage can, 3 steps to the East (to his right) until he arrives at a light post. He must stand EXACTLY between the 2 lamp posts, and then take 8 steps to the North until he arrives at a gate. Captain LeBorgne's treasure is in the building behind the gate."|
+Character="Authentic" [[Secret Map of LeBorgne's treasure]]}}
+
+{{Quote|
+Quote=I read some of the Captain's log - LeBorgne was ruthless! If you are still interested, the log is on sale at the Old Burg bazaar, on this island.|
+Character=Unknown (Principal Island)}}
+
+{{Quote|
+Quote=Ha, ha! You too are looking for his treasure? Well, I sure once had an old dusty book about LeBorgne, but a customer bought it this morning. It was a rabbibunny. I know that he works over at the library.|
+Character=Unknown (Principal Island)}}
+
+{{Quote|
+Quote=My dear sir, I have been looking for Captain LeBorgne's log for years now. And would you believe that I found it today while shopping in the Old Burg? Naturally, such a piece should be consulted on site. Go look on the table in the back of the room next to the projection room.|
+Character=Unknown (Principal Island)}}
+
+{{Quote|
+Quote=We must have something about LeBorgne. Go check with the chief librarian. You know him already, he's a rather large, orange rabbibunny.|
+Character=Unknown (Principal Island)}}
+
+{{Quote|
+Quote=Hmmh! Quite a character that LeBorgne, he scoured the entire hemisphere a few hundred years ago. My fisherman friend told me that the Bazaar is selling an object that belonged to LeBorgne.|
+Character=Unknown (Principal Island)}}
+
+{{Quote|
+Quote=Ah! That LeBorgne was quite a man!|
+Character=Unknown (Principal Island)}}
+
+{{Quote|
+Quote=LeBorgne! Since he didn't know how to read, he had his cook write the Captain's log. I know that it is for sale at the bazaar next door.|
+Character=Unknown (Principal Island)}}
+
+{{Quote|
+Quote=Ask the librarian, he knows a lot about the history of LeBorgne.|
+Character=Unknown (Principal Island)}}
+
+{{Quote|
+Quote=Come here! Now that's a real sailor! LeBorgne had a log that must have contained the location of his treasure somewhere.|
+Character=Unknown (Principal Island)}}
+
+{{Quote|
+Quote=One day, one of my swabs claimed that LeBorgne was an ancestor of mine and... well, you know how dramatic burials at sea can be!|
+Character=Unknown (Principal Island)}}
+
+{{Quote|
+Quote="Captain LeBorgne's treasure. This chest contains the fruits of a lifetime of dishonesty. It was seized by the IRS, the only predator known to this terrible pirate."|
+Character=Plaque of treasure at [[Maritime Museum]] on [[Proxima Island]]}}
+
+{{Quote|
+Quote="Skull flag. Pirate emblem belonging to the famous pirate Captain LeBorgne."|
+Character=Plaque of [[pirate flag]] at [[Maritime Museum]] on [[Proxima Island]]}}
+
+{{Quote|
+Quote=That name sounds familiar. Go visit the Maritime museum, I think that they have two objects that belonged to LeBorgne.|
+Character=Unknown (Proxima Island)}}
+
+{{Quote|
+Quote=Well, well. It seems that you too have found an authentic secret map of Captain LeBorgne! Do me a favor would you? Give Lanktir, who lives next to the bazaar, back his coffee pot. I'm so ashamed, I should have given it back long ago.|
+Character=Unknown (Proxima Island)}}
+
+{{Quote|
+Quote=No more fake red cards, too dangerous, I quit. From now on, I am only going to make fake Captain LeBorgne secret maps.|
+Character=[[Red Card forging rabbibunny]]}}
+
+{{Quote|
+Quote=So go in front of LeBorgne's chest, which is in the museum, and read the sign!|
+Character=Unknown (Proxima Island)}}
+
+{{Quote|
+Quote=Good day. Incredible huh? These objects belonging to LeBorgne that crossed through time|
+Character=Unknown museum visitor}}
+
+{{Quote|
+Quote=So read the inscriptions, there are objects that belonged to LeBorgne here!|
+Character=Unknown museum visitor}}
