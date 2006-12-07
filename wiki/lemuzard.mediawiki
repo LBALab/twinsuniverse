@@ -2,7 +2,7 @@
 title: Lemuzard
 ---
 
-[[Image:DVLEMUZA.JPG|right]]
+[[Image:DVLEMUZA.JPG|right|200px|thumb|A Lemuzard]]
 
 ==Description==
 This creature is used in a betting-game.
