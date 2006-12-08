@@ -36,6 +36,7 @@ See [[Legend of Sendell]].
 * {{thread|id=3911|title=Sendell ^_^}}
 * {{thread|id=3786|title=Sendell's new image}}
 * {{thread|id=3785|title=Sendell takes a turning}}
+* {{post|id=297883|title=mystery picture}}
 
 {{Stub}}
 
