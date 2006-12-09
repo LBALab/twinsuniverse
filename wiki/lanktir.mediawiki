@@ -4,7 +4,7 @@ title: Lanktir
 
 {{Character|
 Name=Lanktir|
-Image=DIVERS.gif|
+Image=Sailor.gif|
 Race=[[Grobo]]|
 Gender=Male|
 Size=Medium|
@@ -29,4 +29,3 @@ Character=Lanktir}}
 [[Category:Medium characters]]
 [[Category:Adult characters]]
 [[Category:Proxima Island inhabitants]]
-[[Category:Articles without an image]]
