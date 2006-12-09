@@ -4,7 +4,7 @@ title: Ferry captain
 
 {{Character|
 Name=Ferry captain|
-Image=DIVERS.gif|
+Image=Shipper.gif|
 Race=[[Rabbibunny]]|
 Gender=Male|
 Size=Medium|
@@ -35,4 +35,3 @@ By the time of Twinsen's second adventure, the captain was nowhere around any mo
 [[Category:Adult characters]]
 [[Category:Citadel Island inhabitants]]
 [[Category:Principal Island inhabitants]]
-[[Category:Articles without an image]]
