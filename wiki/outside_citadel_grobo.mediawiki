@@ -4,7 +4,7 @@ title: Outside Citadel Grobo
 
 {{Character|
 Name=Outside Citadel grobo|
-Image=DIVERS.gif|
+Image=Grobo.gif|
 Race=[[Grobo]]|
 Gender=Male|
 Size=Medium|
