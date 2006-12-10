@@ -10,7 +10,15 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
-{{Stub}}
+{{Quote|
+Quote=Hi! What are you doing there? Did you know that you can read the posters? All you have to do is move in front of one and use the ACTION command while in normal mode.|
+Character=Outside Citadel grobo}}
+
+==Description==
+There is a '''[[grobo]]''' strolling around at the house of an old [[rabbibunny]], which is the closest to the [[Citadel]], in [[Lupin-Burg]]. He usually can be found in front of the house or near the great pile of garbage.
+
+==Role in Twinsen's adventure==
+Apart from some hints about posters and where to find [[Zoé]], he didn't play any special role in [[Twinsen]]'s adventure.
 
 [[Category:Grobos]]
 [[Category:Male characters]]
