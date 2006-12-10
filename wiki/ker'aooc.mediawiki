@@ -4,7 +4,7 @@ title: Ker'aooc
 
 {{Character|
 Name=Ker'aooc|
-Image=DIVERS.gif|
+Image=BouboulAnim.gif|
 Race=[[Sphero]]|
 Gender=Male|
 Size=Small|
@@ -21,4 +21,3 @@ Age=Adult}}
 [[Category:Small characters]]
 [[Category:Adult characters]]
 [[Category:Desert Island inhabitants]]
-[[Category:Articles without an image]]
