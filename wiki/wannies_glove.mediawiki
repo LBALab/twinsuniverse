@@ -3,7 +3,7 @@ title: Wannies Glove
 ---
 
 {{Weapon|
-Name=Blowgun|
+Name=Wannie's glove|
 Image=Glove.gif|
 Enemy=Fire balls|
 Rate=Fast|
