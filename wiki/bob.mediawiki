@@ -2,7 +2,7 @@
 title: Bob
 ---
 
-<small>This article is about the grobo. For the astronomer sphero, see [[Bob Vortix]]</small>
+<center>''This article is about the grobo. For the astronomer sphero, see [[Bob Vortix]].''</center>
 
 {{Character|
 Name=Bob|
