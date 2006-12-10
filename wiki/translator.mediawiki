@@ -2,7 +2,7 @@
 title: Translator
 ---
 
-[[Image:Translat.gif|right|150px|thumb|The translator]]
+[[Image:Translat.gif|right|150px|thumb|A translator]]
 
 {{Quote|
 Quote=This translator allows you to understand everything said by the visitors from Space. In discreet mode, you can even spy on conversations.|
