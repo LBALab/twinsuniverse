@@ -12,15 +12,21 @@ Character=[[Bob]]}}
 
 ==Related threads==
 ===General===
-* {{post|id=4990|title= Your fave esmer charactar}}
-* {{post|id=5358|title= The Esmers invasion}}
+* {{thread|id=4990|title= Your fave esmer charactar}}
+* {{thread|id=5358|title= The Esmers invasion}}
+* {{thread|id=5259|title=The Esmers}}
+* {{thread|id=155|title=Twinsun - a happy jolly place? I THINK NOT}}
+
+===Hints\Spoilers===
+* {{thread|id=3842|title=The funniest hints ever, & more! (Could anybody tell some more)}}
 
 ===Fan Art===
-* {{post|id=650|title=Esmer Shuttle In 3D/movie}}
-* {{post|id=4788|title=Esmer Shuttle}}
+* {{thread|id=650|title=Esmer Shuttle In 3D/movie}}
+* {{thread|id=4788|title=Esmer Shuttle}}
+* {{post|id=112171|title=Lba3}}
 
 ===Fan Fiction===
-* {{post|id=5441|title=The Esmer Menace (In progress!)}}
+* {{thread|id=5441|title=The Esmer Menace (In progress!)}}
 
 {{stub}}
 
