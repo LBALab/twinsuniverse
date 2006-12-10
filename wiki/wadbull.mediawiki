@@ -4,7 +4,7 @@ title: Wadbull
 
 {{Character|
 Name=Wadbull|
-Image=DIVERS.gif|
+Image=Wadbull.jpg|
 Race=[[Rabbibunny]]|
 Gender=Male|
 Size=Medium|
@@ -33,4 +33,3 @@ Character=A grobo in the tavern}}
 [[Category:Medium characters]]
 [[Category:Adult characters]]
 [[Category:Principal Island inhabitants]]
-[[Category:Articles without an image]]
