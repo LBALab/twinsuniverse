@@ -4,7 +4,7 @@ title: Julia
 
 {{Character|
 Name=Julia|
-Image=DIVERS.gif|
+Image=Julia.jpg|
 Race=[[Rabbibunny]]|
 Gender=Female|
 Size=Medium|
@@ -12,7 +12,7 @@ Age=Adult}}
 
 {{Quote|
 Quote=We don't trust people easily here. Prove that you don't work for FunFrock, clobber a clone!|
-Character=[[Julia]]}}
+Character=Julia}}
 
 ==Description==
 '''Julia''' is a female [[rabbibunny]], who lives in a [[Julia's house|house]] in the [[Old Burg]] on [[Principal Island]]. She owns a big screen television (one of the only few televisions found on [[Twinsun]]). According to her best friend [[Beatrice]], she tends to watch it a bit too much.
@@ -41,4 +41,3 @@ Character=Beatrice}}
 [[Category:Medium characters]]
 [[Category:Adult characters]]
 [[Category:Principal Island inhabitants]]
-[[Category:Articles without an image]]
