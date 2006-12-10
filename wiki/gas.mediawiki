@@ -2,7 +2,7 @@
 title: Gas
 ---
 
-<small>This article is about the gas used for travels. For the Zeelichian layers, see [[Surface]] and [[Under-gas]]</small>
+<center>''This article is about the gas used for travels. For the Zeelichian layers, see [[Surface]] and [[Under-gas]]''</center>
 
 {{Quote|
 Quote=Gas, extract of molasses. You cannot use vehicles when your gas gauge is at zero.|
