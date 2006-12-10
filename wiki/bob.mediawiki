@@ -47,7 +47,7 @@ Character=Bob}}
 * {{thread|id=97|title=Something about Bob...}}
 
 ===Fan Art===
-* {{thread|id=87488|title=Amazing! LBA3 planning! Wooo!}}
+* {{post|id=87488|title=Amazing! LBA3 planning! Wooo!}}
 
 [[Category:Grobos]]
 [[Category:Male characters]]
