@@ -1,0 +1,42 @@
+---
+title: Tank
+---
+
+{{Enemy|
+Name=Hover tank|
+Image=Tank.gif|
+Strength=-|
+Reaction=Doesn't move|
+Recovery=-|
+Rate=-|
+Damage=-|
+Range=-|
+Speed=-}}
+
+{{Quote|
+Quote=Go ask my son, he has come home from work. Sorry about your house: the clones came with an attack tank, and they were looking for you!|
+Character=[[Mies van der Rooh's father]]}}
+
+==Description==
+'''Hover tanks''' are heavy battle tanks in the army of [[FunFrock]]. They hover a bit over the ground. However, they are not able to hover above water, like the [[Proto-Pack]].
+
+The tanks are used mainly for defending actions and attacking actions as well. There can be found one in the middle of [[Lupin-Burg]], enforcing surveillance. It was also used to destroy [[Twinsen's house]]. There are also tanks guarding [[FunFrock's fortress|FunFrock's fortresses]], or the [[Okojo Pass]] in the [[Hamalayi Mountains]]. They could also be seen on [[Desert Island]].
+
+==Role in Twinsen's adventure==
+During the rebel assault on the [[Okojo Pass]], [[Twinsen]] and a rebel rabbibunny stole a tank in order to get access to the small fort guarding the pass. However, the tank was not controlled by Twinsen, but by the rebel rabbibunny instead.
+
+Twinsen also had to destroy a tank guarding [[FunFrock's secret fortress]], in order to get access to it.
+
+==Additional Quotes==
+{{Quote|
+Quote=We no longer fear the threat of the teleportations, but you must get rid of the guards and the assault tank for us. I will then be able to dig.|
+Character=A [[rabbibunny]] at [[Fortress Island]]}}
+{{Quote|
+Quote=Come with me, we'll continue in the tank!|
+Character=The rebel [[rabbibunny]]}}
+
+==Related Threads==
+===Hints\Spoilers===
+{{thread|id=6871|title=Tanks Giving!}}
+
+[[Category:Forces]]
