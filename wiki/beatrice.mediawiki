@@ -4,7 +4,7 @@ title: Beatrice
 
 {{Character|
 Name=Beatrice|
-Image=DIVERS.gif|
+Image=Beatrice.jpg|
 Race=[[Rabbibunny]]|
 Gender=Female|
 Size=Medium|
@@ -36,4 +36,3 @@ Character=[[Julia]]}}
 [[Category:Medium characters]]
 [[Category:Adult characters]]
 [[Category:Principal Island inhabitants]]
-[[Category:Articles without an image]]
