@@ -10,10 +10,19 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
-==Quotes==
 {{Quote|
 Quote=Well, well. It seems that you too have found an authentic secret map of Captain LeBorgne! Do me a favor would you? Give Lanktir, who lives next to the bazaar, back his coffee pot. I'm so ashamed, I should have given it back long ago.|
 Character=A [[sphero]]}}
+
+==Description==
+'''Lanktir''' is a grobo living in [[Proxim-City]], next to the [[Proxim-City bazaar|bazaar]].
+
+==Role in Twinsen's adventure==
+When [[Twinsen]] entered Lanktir's house, Lanktir gave him a [[keypad]] he recieved by accident. Twinsen was able to use it inside the [[Teleportation Center]].
+
+When Twinsen was following the description of an old log of [[LeBorgne]] in order to find his treasure, he encountered a [[sphero]], who gave him a [[coffee pot]] he should return to Lanktir. When Twinsen did so, Lanktir gave him a [[list with clover boxes locations]].
+
+==Additional Quotes==
 {{Quote|
 Quote=If you give me back my coffee maker, I'll give you a list of certain places where you can find a rare plant and some boxes. And don't ask me where I found this list!|
 Character=Lanktir}}
@@ -21,8 +30,6 @@ Character=Lanktir}}
 ==Related threads==
 ===General===
 * {{thread|id=536|title=yet another unknown quote....}}
-
-{{Stub}}
 
 [[Category:Grobos]]
 [[Category:Male characters]]
