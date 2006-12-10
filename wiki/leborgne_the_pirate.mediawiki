@@ -128,3 +128,7 @@ Character=Unknown museum visitor}}
 {{Quote|
 Quote=So read the inscriptions, there are objects that belonged to LeBorgne here!|
 Character=Unknown museum visitor}}
+
+==Related Threads==
+* {{thread|id=7783|title=Strange quote}}
+* {{thread|id=6675|title=LBA has you}}
