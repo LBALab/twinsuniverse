@@ -3,18 +3,25 @@ title: Rummaging Rabbibunny
 ---
 
 {{Character|
-Name=Rummaging rabbibinny|
-Image=DIVERS.gif|
+Name=Rummaging rabbibunny|
+Image=Rummaging_rabbibunny.jpg|
 Race=[[Rabbibunny]]|
 Gender=Male|
 Size=Medium|
 Age=Adult}}
 
-{{Stub}}
+{{Quote|
+Quote=I rummage around here as there's no one guarding this place. I hide in the truck so that the guards won't see me. You just have to jump into the pile of garbage and be VERY DISCREET about it.|
+Character=Rummaging rabbibunny}}
+
+==Description==
+Next to the [[Citadel]], there's a '''rabbibunny rummaging around''' in a pile of garbage. He hid inside the garbage truck to get into the area which is closed to the public.
+
+==Role in Twinsen's adventure==
+When [[Twinsen]] escaped from the Citadel, he had to find a way through the closed and heavily guarded gate. He encountered the rummaging rabbibunny at the nearby pile of garbage and eventually got the hint to hide inside the garbage truck in order to get out of the closed area.
 
 [[Category:Rabbibunnies]]
 [[Category:Male characters]]
 [[Category:Medium characters]]
 [[Category:Adult characters]]
 [[Category:Citadel Island inhabitants]]
-[[Category:Articles without an image]]
