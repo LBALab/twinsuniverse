@@ -2,7 +2,7 @@
 title: Portable Radio
 ---
 
-[[Image:Radio.gif|right|70px|thumb|The portable radio]]
+[[Image:Radio.gif|right|70px|frame|The portable radio]]
 
 {{Quote|
 Quote=This portable radio allows you to dialogue with Baldino and Zoé when they are listening and if they are not out of range.|
