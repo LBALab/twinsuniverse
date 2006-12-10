@@ -45,7 +45,7 @@ Character=Shopkeeper in [[Old Burg]]}}
 
 ==Related threads==
 ===General===
-* {{thread|id=10195|title=Interesting LBA facts [Discuss]}}
+* {{thread|id=10195|title=Interesting LBA facts <nowiki>[Discuss]</nowiki>}}
 * {{thread|id=7543|title=Astronomer?}}
 * {{thread|id=6811|title=LBA makes no sense}}
 
