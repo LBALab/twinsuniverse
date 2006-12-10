@@ -27,6 +27,10 @@ When Twinsen was following the description of an old log of [[LeBorgne]] in orde
 Quote=If you give me back my coffee maker, I'll give you a list of certain places where you can find a rare plant and some boxes. And don't ask me where I found this list!|
 Character=Lanktir}}
 
+{{Quote|
+Quote=Someone made a mistake in the address and sent me this object by accident: it's a keypad that opens a door at the "Teleportation Center". This opens a room full of meca-penguins.|
+Character=Lanktir}}
+
 ==Related threads==
 ===General===
 * {{thread|id=536|title=yet another unknown quote....}}
