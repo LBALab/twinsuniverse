@@ -2,7 +2,7 @@
 title: Wizard's Parade Tunic
 ---
 
-[[Image:Wizard.gif|right]]
+[[Image:Wizard.gif|right|85px|thumb|The wizard's parade tunic]]
 
 {{Quote|
 Quote=This parade outfit is accessible only to Twinsun's graduated wizards. It makes you a bona fide magician.|
