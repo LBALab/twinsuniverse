@@ -10,11 +10,31 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
+{{Quote|
+Quote=My master often goes to get sand roses for me. I love munching them. They're so crunchy!|
+Character=Leopold}}
+
+==Description==
+'''Leopold''' is a camel living on [[Desert Island]]. He is often seen near the [[Hacienda]] with his owner, a [[grobo]]. He loves sand roses he gets from his owner.
+
+==Role in Twinsen's adventure==
+Leopold didn't play any role in [[Twinsen]]'s adventure, apart form giving him hints.
+
+==Trivia==
+Leopold was imported to the [[Island of the White Leaf Desert]]. It is unknown where he came from, as there is no other island on [[Twinsun]] where there are camels.
+
+==Additional Quotes==
+{{Quote|
+Quote=I don't know Twinsen, I don't live here. I was just imported.|
+Character=Leopold}}
+
+{{Quote|
+Quote=I saw one go by a while ago. I think he was looking for sand roses.|
+Character=Leopold}}
+
 ==Related threads==
 ===Fan Art===
 * {{post|id=112171|title=Lba3}}
-
-{{Stub}}
 
 [[Category:Male characters]]
 [[Category:Medium characters]]
