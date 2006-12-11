@@ -1,0 +1,40 @@
+---
+title: John Edgar H.
+---
+
+{{Character|
+Name=John Edgar H.|
+Image=SBI.jpg|
+Race=[[Sup]]|
+Gender=Male|
+Size=Medium|
+Age=Adult}}
+
+{{Quote|
+Quote=My agents went to Twinsun to kidnap your wizards since we needed them to attract the energy from your planet to Zeelich.|
+Character=The [[Emperor]]}}
+
+==Description==
+'''John Edgar H.''' is an agent working for the Sup Bureau of Investigation of [[Zeelich]]. He was a spy on [[Twinsun]] during the [[Esmer]] invasion of the planet, often hiding in trash bins and fake cacti.
+
+==Role in Twinsen's adventure==
+John's mission on Twinsun was to kill [[Twinsen]]. Twinsen encountered him some times when travelling around [[Desert Island]], when he was shooting from a thrash bin or a cactus.
+
+Twinsen eventually sneaked into an [[esmer shuttle]], and saw John receiving orders from the SBI.
+
+==Additional Quotes==
+{{Quote|
+Quote=I'm worried, Twinsen. These visitors from the sky look weird to me. They act almost too friendly. And get this, I've seen some of them hide in the garbage cans.|
+Character=[[Zoé]]}}
+{{Quote|
+Quote=These strangers are pretty strange. They have this whole collection of carnival costumes that range from cacti to garbage cans. They seem to enjoy it. I keep seeing them in disguise.|
+Character=A [[sphero]] at [[Port-Ludo]]}}
+
+==Related Threads==
+===General===
+{{thread|id=7614|title=John Edgar H. ?}}
+
+[[Category:Sups]]
+[[Category:Male characters]]
+[[Category:Medium characters]]
+[[Category:Adult characters]]
