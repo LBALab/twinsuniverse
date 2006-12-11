@@ -4,7 +4,7 @@ title: Moya
 
 {{Character|
 Name=Moya|
-Image=DIVERS.gif|
+Image=Moya.jpg|
 Race=Turtle|
 Gender=Female|
 Size=Small|
@@ -41,5 +41,4 @@ Character=Quetch on the beach}}
 [[Category:Small characters]]
 [[Category:Adult characters]]
 [[Category:Desert Island inhabitants]]
-[[Category:Articles without an image]]
 [[Category:Animals]]
