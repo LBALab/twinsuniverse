@@ -4,21 +4,39 @@ title: Hacienda Owner
 
 {{Character|
 Name=Hacienda owner|
-Image=DIVERS.gif|
+Image=Hacienda_owner.jpg|
 Race=[[Grobo]]|
 Gender=Male|
 Size=Medium|
 Age=Adult}}
 
+{{Quote|
+Quote=These Esmers are pretty chummy, buying drinks for everybody. They even buy them for the wizards. I still keep an eye on the women's steambath, though... The first one who goes in there will have to deal with me<nowiki>!!</nowiki>|
+Character=Hacienda owner}}
+
+==Description==
+This grobo is the '''owner of the [[Hacienda del Monte-Pelado]]''' on the [[Island of the White Leaf Desert]]. He is often seen at the small bar of the Hacienda, but can also be seen when preventing lechers to enter the women's steambath.
+
+==Role in Twinsen's adventure==
+Since roof access on the Hacienda is forbidden after an incident in [[Chez Luc]], [[Twinsen]] had to find another way of getting on top of the Hacienda and to the telescope, used to see the [[Island across the Hacienda]]. He entered the women's steambath, was eventually chased out by the Hacienda owner and thus was able to climb up the ladder behind the bar. Having seen the Island acroos the Hacienda, he was able to get there and get the [[protection spell]].
+
+==Additional Quotes==
+{{Quote|
+Quote=Sorry, but I've forbidden roof access since my colleague from Citadel Island had legal issues with a customer who took a bad dive in the cellar of his bar!|
+Character=Hacienda owner}}
+{{Quote|
+Quote=It's depressing. There's nobody left, so obviously business is down. Then the Esmers come and shut my Turkish bath down. I don't get it!|
+Character=Hacienda owner}}
+{{Quote|
+Quote=Unbelievable, the Esmers think they own the place. Their space shuttles come and go through Bald Mountain, it's like they have an anthill underneath<nowiki>!!</nowiki>|
+Character=Hacienda owner}}
+
 ==Related threads==
 ===General===
 * {{thread|id=6203|title=another thing...}}
-
-{{Stub}}
 
 [[Category:Grobos]]
 [[Category:Male characters]]
 [[Category:Medium characters]]
 [[Category:Adult characters]]
 [[Category:Desert Island inhabitants]]
-[[Category:Articles without an image]]
