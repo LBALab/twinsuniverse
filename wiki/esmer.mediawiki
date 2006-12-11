@@ -65,4 +65,3 @@ Image:EMPERER.jpg|The Emperor of Zeelich
 * {{thread|id=5441|title=The Esmer Menace (In progress!)}}
 
 [[Category:Esmers|*]]
-[[Category:Articles without an image]]
