@@ -36,6 +36,16 @@ Image:Screenshot-lba2-movies-06-esmers_base-MONTCH090.gif|Esmer shuttle emerging
 Image:Shuttle.jpg|Esmer shuttle from the inside
 </gallery>
 
+==Famous Esmers==
+
+{{sectstub}}
+
+<gallery>
+Image:SJONNYR.jpg|Johnny Rocket, the first Emser on Twinsun
+Image:SBI.jpg|John Edgar H., agent of the SBI
+Image:Emperer.jpg|The Emperor of Zeelich
+</gallery>
+
 ==Related threads==
 ===General===
 * {{thread|id=4990|title= Your fave esmer charactar}}
