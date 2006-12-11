@@ -2,13 +2,39 @@
 title: Esmer
 ---
 
-[[Image:Soucoup.GIF|right|71px|thumb|An Esmer spaceship]]
-
 {{Quote|
 Quote=What's up with these Esmers? Couldn't they have stayed home?|
 Character=[[Bob]]}}
 
+==Origin of the name==
 '''Esmers''' is a general name for the inhabitants of [[Zeelich]] used by twinsunians. It may have been a word describing extratwinsunians in general, but has evolved to meaning only Zeelichians. The esmers themselves prefer the name Zeelichians.
+
+==The Esmer invasion==
+A part of [[FunFrock]]'s and the [[Emperor]]'s plan to destory [[Twinsun]] needed the power of the Twinsunian wizards. Realising that it wouldn't be easy to get control on them, they started a mission to Twinsun, inviting the wizards to [[Zeelich]].
+
+As the Emsers couldn't just leave Twinsun after capturing the wizards, they established military control over the populace instead. This military force was called the Esmer troops.
+
+<gallery>
+Image:Screenshot-lba2-movies-03-esmers_arrival-SORT374.gif|Esmer shuttles approaching Twinsun
+Image:Screenshot-lba2-movies-03-esmers_arrival-SORT800.gif|Esmers landing on Citadel Island
+Image:Screenshot-lba2-ingame-citadel_island-lupin_burg.gif|Esmers in Lupin-Burg
+Image:Screenshot-lba2-movies-12-children_abduction-ENFA362.gif|An Esmer spaceship abducting the children
+</gallery>
+
+During the military presence of the Esmers on [[Twinsun]] Esmer troops and robots were guarding the streets, many public places, like [[Chez Luc]] and [[Miss Bloop's Private Museum]] were closed, along with the ferry service.
+
+With the prepared destruction of Twinsun with the [[Emerald Moon base|lunar reactors]], however, more and more Esmers left the planet, bringing themselves out of danger.
+
+==Esmer Spaceships==
+
+{{sectstub}}
+
+<gallery>
+Image:Screenshot-lba2-movies-03-esmers_arrival-SORT676.gif|Esmer spaceship on Citadel Island
+Image:Screenshot-lba2-movies-07-esmers_shuttle-VOYAGEZ09.gif|Esmer shuttle in space
+Image:Screenshot-lba2-movies-06-esmers_base-MONTCH090.gif|Esmer shuttle emerging from Bald Mountain
+Image:Shuttle.jpg|Esmer shuttle from the inside
+</gallery>
 
 ==Related threads==
 ===General===
@@ -27,8 +53,6 @@ Character=[[Bob]]}}
 
 ===Fan Fiction===
 * {{thread|id=5441|title=The Esmer Menace (In progress!)}}
-
-{{stub}}
 
 [[Category:Esmers|*]]
 [[Category:Articles without an image]]
