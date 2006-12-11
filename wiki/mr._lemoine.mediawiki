@@ -4,7 +4,7 @@ title: Mr. Lemoine
 
 {{Character|
 Name=Dark Monk's Priest|
-Image=DIVERS.gif|
+Image=Dark_monks_priest.jpg|
 Race=[[Wannie]]|
 Gender=Male|
 Size=Medium|
@@ -24,4 +24,3 @@ Age=Adult}}
 [[Category:Medium characters]]
 [[Category:Adult characters]]
 [[Category:Wannies Island inhabitants]]
-[[Category:Articles without an image]]
