@@ -2,6 +2,8 @@
 title: Clover Leaf
 ---
 
+[[Image:Clover_box.jpg|right|139px|thumb|A clover box]]
+
 {{Quote|
 Quote=Lucky Clover Leaf: using this clover leaf will use up one of your chances to revitalise yourself to a maximum.|
 Character=Inventory description}}
@@ -39,4 +41,3 @@ Character=Beatrice}}
 * {{post|id=112171|title=Lba3}}
 
 [[Category:Consumables]]
-[[Category:Articles without an image]]
