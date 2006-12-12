@@ -2,6 +2,8 @@
 title: Wannies Fragment
 ---
 
+[[Image:Screenshot-lba2-movies-18-wannies_fragment-FRAGMENT060.gif|200px|right|thumb|The Wannies Fragment]]
+
 {{Quote|
 Quote=his fragment of the wannies' key is one of the elements which will permit you to piece together the key to Dark Monk's temple.|
 Character=Official description}}
@@ -38,4 +40,3 @@ Character=A voice}}
 
 [[Category:Objects]]
 [[Category:Dark Monk's key]]
-[[Category:Articles without an image]]
