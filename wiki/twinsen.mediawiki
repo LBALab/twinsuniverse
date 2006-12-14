@@ -84,7 +84,7 @@ Twinsen handled a large amount of vehicles during his adventures. Following is a
 *[[Dino-Fly]] (not only a means of transportation but a great pal, too!)
 *[[Bulldozer]]
 
-The following 'passive' vehicles were also used:
+Twinsen also rode these vehicles as a passenger:
 
 *[[Garbage truck]]
 *[[Ferry]]
@@ -98,7 +98,7 @@ And in his second adventure, Twinsen handled the following means of transportati
 *[[Esmer shuttle]]
 *[[Upper-gas hover boat]]
 
-And the passive ones:
+And as a passenger:
 
 *[[High-speed ferry]]
 *[[Jerome Baldino's shuttle]]
