@@ -2,6 +2,8 @@
 title: Francos Fragment
 ---
 
+[[Image:Francos_fragment.png|right|165px|thumb|The Francos Fragment]]
+
 {{Quote|
 Quote=This fragment of the Franco's key is one of the elements which will permit you to piece together the key to Dark Monk's temple.|
 Character=Official description}}
@@ -45,4 +47,3 @@ Character=[[Franckie]]}}
 
 [[Category:Objects]]
 [[Category:Dark Monk's key]]
-[[Category:Articles without an image]]
