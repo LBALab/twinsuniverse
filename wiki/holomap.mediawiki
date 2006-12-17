@@ -2,7 +2,7 @@
 title: Holomap
 ---
 
-[[Image:Holomap.gif|right|170px|thumb|the Holomap]]
+[[Image:Holomap.gif|right|170px|thumb|The Holomap]]
 
 {{Quote|
 Quote=Holomap (H) key. The Holomap shows your position on the planet. The arrows represent important places that were pointed out to you during your quest. They will disappear once you have completed your task in each of the corresponding places. The Holomap rotates by pressing simultaneously (CTRL) and the arrow keys. By pressing only the arrow keys, you can scroll through text corresponding to the arrows visible on the Holomap.|
