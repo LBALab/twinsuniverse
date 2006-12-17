@@ -53,4 +53,19 @@ Character=A poster in [[Proxim-City]]}}
 Quote=What are you doing there, who are you?|
 Character=A terrain soldier}}
 
+==Related Threads==
+===General===
+* {{thread|id=6796|title=Quetch soldiers: the ultimate theory}}
+* {{thread|id=6845|title=Zzzzoldierz, kill that wife!}}
+* {{thread|id=1128|title=There are NO quetchclones}}
+* {{thread|id=4474|title=Eureeka!!}}
+* {{thread|id=587|title=hmm...}}
+* {{thread|id=250|title=The funny and rude bits in LBA...}}
+===Fan Art===
+* {{thread|id=10468|title=1997 LBA drawings done when I still a schoolboy}}
+* {{thread|id=10242|title=Random collection}}
+* {{thread|id=9129|title=First attempt in 2D animation :D}}
+* {{post|id=112171|title=Lba3}}
+* {{thread|id=6816|title=Hamalayi Soldier}}
+
 [[Category:Forces]]
