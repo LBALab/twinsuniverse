@@ -2,6 +2,8 @@
 title: Elves Club Blue Card
 ---
 
+[[Image:Elves blue card.png|right|59px|frame|Elves Club Blue Card]]
+
 {{Quote|
 Quote=The Elves Club Blue Card. This card is coated with star powder and will allow you to open the doors with blue locks.|
 Character=Official description}}
@@ -39,4 +41,3 @@ Character=Raymond the Elf}}
 * {{thread|id=4946|title=Problem with blue card in LBA....}}
 
 [[Category:Objects]]
-[[Category:Articles without an image]]
