@@ -2,6 +2,8 @@
 title: Ancestral Key
 ---
 
+[[Image:Key to the heirs room.png|right|59px|frame|Key to the Heir's room]]
+
 {{Quote|
 Quote=Ancestral Key. Opens the secret compartment in Twinsen's house.|
 Character=Official description}}
@@ -36,4 +38,3 @@ Quote=Captain LeBorgne's treasure. This chest contains the fruits of a lifetime 
 Character=A sign in the maritime museum}}
 
 [[Category:Objects]]
-[[Category:Articles without an image]]
