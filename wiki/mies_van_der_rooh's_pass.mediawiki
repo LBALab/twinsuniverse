@@ -2,6 +2,8 @@
 title: Mies van der Rooh's Pass
 ---
 
+[[Image:Architects_pass.png|right|62px|frame|[[Mies van der Rooh]]'s pass]]
+
 {{Quote|
 Quote=M. Mies van der Rooh's pass. This pass will grant you access to the Teleportation Center. You will still have to use Gawley's Horn on the left, after the first guard post.|
 Character=Official description}}
@@ -23,4 +25,3 @@ Quote=You will need my card to get into the center. It is on the drawing table. 
 Character=Mies van der Rooh}}
 
 [[Category:Objects]]
-[[Category:Articles without an image]]
