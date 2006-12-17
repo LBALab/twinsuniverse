@@ -15,6 +15,7 @@ Quote=Can't seem to sell a single hair dryer here. One of my colleagues is alrea
 Character=Hairdryer salesman}}
 
 ==Description==
+[[Image:Hairdryer.png|right|52px|frame|Hair dryer]]
 The hairdryer salesman is a pretty lazy quetch, apparently without a name. As the descriptive title may suggest, his job is to sell [[hairdryer|hairdryers]] to the people at various islands on [[Twinsun]]'s [[southern hemisphere]]. The price of the hairdryer may vary, and it would usually depend on how successfull his selling day was.
 Very few is known about this quetch, although it seems that he isn't exactly a chatty person.
 
