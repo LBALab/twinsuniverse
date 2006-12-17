@@ -2,7 +2,7 @@
 title: Burgermaster's Key
 ---
 
-[[Image:Burgermasters_key.png|right|83px|thumb|The Burgermaster's Key]]
+[[Image:Burgermasters_key.png|right|83px|frame|Burgermaster's Key]]
 
 {{Quote|
 Quote=It is the key that the burgermaster lost before he was eaten by a monster from the gas. Nobody has ever used it since.|
