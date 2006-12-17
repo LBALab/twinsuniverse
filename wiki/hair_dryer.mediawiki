@@ -2,6 +2,8 @@
 title: Hair Dryer
 ---
 
+[[Image:Hairdryer.png|right|52px|frame|Hair dryer]]
+
 {{Quote|
 Quote=I've been working on a Jet-Pack prototype for days now. It's a small reactor that harnesses onto your back and allows you to fly about. My problem is that my last test flight wreaked a bit of havoc on the garden wall. It is rather difficult to fine tune the motor's power. I need a rheostat like the one you find in a hair dryer. Do you think you can find one of those for me?|
 Character=[[Jerome Baldino]]}}
@@ -26,4 +28,3 @@ Quote=So you found a hair dryer? Great! I'll be with you in a minute, just let m
 Character=Jerome Baldino}}
 
 [[Category:Objects]]
-[[Category:Articles without an image]]
