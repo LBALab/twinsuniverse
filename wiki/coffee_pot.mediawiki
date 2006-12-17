@@ -2,6 +2,8 @@
 title: Coffee Pot
 ---
 
+[[Image:Coffee_pot.png|right|38px|frame|Coffee pot]]
+
 {{Quote|
 Quote=Coffee Pot. You must return it to one Lanktir who lives next to the bazaar on Proxima island.|
 Character=Official description}}
@@ -36,4 +38,3 @@ Character=A sphero}}
 * {{thread|id=1218|title=Coffee pot?}}
 
 [[Category:Objects]]
-[[Category:Articles without an image]]
