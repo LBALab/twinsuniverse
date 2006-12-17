@@ -35,7 +35,19 @@ Eventually, Twinsen found a [[grobo]] in [[Chez Luc]], who told him (in exchange
 (doing everything there is to do on Principal Island - the library, the astronomer, etc. This might need to be parted into two sections)
 
 ===Desert Island and The Temple of Bù===
-(reaching desert island and completing the temple of bu)
+{{Quote|
+Quote=The secret of [[The Legend]] can still be learned somewhere in the [[White Leaf Desert]].|
+Character=A book in the [[library]] at [[Principal Island]]}}
+When he reached [[Desert Island]], Twinsen had to face many dangers. The only access to the island was through a beach, surrounded by a set of islets, which Twinsen had to carefully jump between (as Twinsen doesn't know how to swim). After avoiding several [[mines]] and [[machine gun]]s, Twinsen managed to grab a [[key]] from one of the [[Terrain soldier|soldier]]s, and access the secure inner-area of Desert Island.
+
+There, Twinsen found an [[old rabbibunny]], sitting by a small well. The rabbibunny told him about the [[Temple of Bù]], an ancient temple buried under the sand. He informed Twinsen that the small well is in fact a ventilation shaft which leads inside the temple, which contained a [[Book of Bù|sacred book]]. The rabbibunny promised Twinsen that if he got him the book, he would tell him all he knows about The Legend.
+
+The Temple of Bù was possibly the hardest part of Twinsen's adventure. Twinsen had to solve several difficult puzzles (such as pushing a statue from one end of the room to another, assisted by a series of elevators), all while avoiding numerous traps and enemies, such as spikes, fireball-shooting statues, [[skeleton]]s and strange [[bouncing rock]]s.
+
+When he finally reached the [[Book of Bù]], Twinsen realized that the skeletons are no longer attacking him - instead, they started bowing in respect. An inscription on a nearby wall informed Twinsen that the book enabled him to speak to [[animals]], and read ancient [[runes]], such as the one in the inscription. The book had also strengthened Twinsen magic, promoting his magic level from yellow to green.
+
+When exiting the temple, Twinsen found himself on a bizarre, floating piece of land, and was mysteriously transported back to the desert, where he met with the old hermit once again. The hermit informed Twinsen that only the [[Heir]] could have survived the Temple of Bù, which must mean Twinsen is in fact the Heir, and that he is the one who must save [[Twinsun]] from [[Dr. FunFrock]]. 
+He also told that Twinsen may find more information inside his own [[Twinsen's house|home]].
 
 ===The Museum break-in===
 (everything up to achieving the key)
