@@ -2,7 +2,7 @@
 title: Sups Fragment
 ---
 
-[[Image:Sups fragment.png|right|thumb|The Sups Fragment]]
+[[Image:Sups fragment.png|right|162px|thumb|The Sups Fragment]]
 
 {{Quote|
 Quote=This fragment of the Sups' key is one of the elements which will permit you to piece together the key to Dark Monk's temple.|
