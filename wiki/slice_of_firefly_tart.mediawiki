@@ -2,6 +2,8 @@
 title: Slice of FireFly Tart
 ---
 
+[[Image:Slice_of_firefly_tart.png|right|104px|thumb|A slice of firefly tart]]
+
 {{Quote|
 Quote=You don't like this tart, but you must give it to someone who appreciates it more than you.|
 Character=Official description}}
@@ -26,4 +28,3 @@ Quote=So? How do you like my firefly tart?|
 Character=Wannie woman}}
 
 [[Category:Objects]]
-[[Category:Articles without an image]]
