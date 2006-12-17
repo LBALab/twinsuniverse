@@ -2,6 +2,8 @@
 title: Red Magnetic Card
 ---
 
+[[Image:Red card.png|right|55px|frame|Red Magnetic Card]]
+
 {{Quote|
 Quote=Red Magnetic Card. It will allow you to open the doors with a red lock.|
 Character=Official description}}
@@ -47,4 +49,3 @@ Character=The froger}}
 * {{thread|id=4968|title=haha Red Card Problem this time...}}
 
 [[Category:Objects]]
-[[Category:Articles without an image]]
