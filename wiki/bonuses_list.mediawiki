@@ -2,6 +2,8 @@
 title: Bonuses List
 ---
 
+[[Image:List_with_clover_boxes_locations.png|right|49px|frame|The list]]
+
 {{Quote|
 Quote=Locations of several clover leaves and boxes: There is a box for clover leaves in the sewers of Citadel island, and another in the basement of the tavern; one clover leaf is guarded by a soldier who is located behind sandbags. Another is guarded by a clone in the middle of the ruins on Principal island. Another one is on the roof of the Maritime Museum. Another is guarded by a groboclone to the right of the Teleportation Center's entrance. Another is guarded by a soldier in front of FunFrock's fortress.|
 Character=The list.}}
@@ -22,4 +24,3 @@ Character=Lanktir}}
 * {{thread|id=536|title=yet another unknown quote....}}
 
 [[Category:Objects]]
-[[Category:Articles without an image]]
