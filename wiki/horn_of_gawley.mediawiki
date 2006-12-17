@@ -2,6 +2,8 @@
 title: Horn of Gawley
 ---
 
+[[Image:Horn_of_Gawley.png|right|41px|frame|Horn of Gawley]]
+
 {{Quote|
 Quote=Gawley's Horn: (ENTER) key. For use on the Seals of Sendell. It will allow you to break them open, which will subsequently allow you to access new places.|
 Character=Official description}}
@@ -27,4 +29,3 @@ Character=What Twinsen heard when finding the horn}}
 * {{thread|id=1372|title=Do you know....}}
 
 [[Category:Magical items]]
-[[Category:Articles without an image]]
