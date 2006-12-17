@@ -2,6 +2,8 @@
 title: Bottle of Syrup
 ---
 
+[[Image:Bottle of Syrup.png|right|55px|frame|Bottle of Syrup]]
+
 {{Quote|
 Quote=Bottle of Syrup. This bottle contains 50cl of very concentrated red syrup.|
 Character=Official description}}
@@ -28,4 +30,3 @@ Character=[[Librarian]]}}
 * {{thread|id=2714|title=Somehow, i got Lba working, now i need a little help ^_^}}
 
 [[Category:Objects]]
-[[Category:Articles without an image]]
