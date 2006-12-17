@@ -2,6 +2,8 @@
 title: Twinsen's ID Card
 ---
 
+[[Image:Twinsen's_ID_card.png|right|62px|frame|[[Twinsen]]'s ID card]]
+
 {{Quote|
 Quote=Twinsen's ID Card. This card allows you to identify yourself to the authorities. Your smile is especially attractive on the photo!|
 Character=Official description}}
@@ -13,4 +15,3 @@ Character=Official description}}
 The ID card did not play a role in Twinsen's adventure, but the [[quetch]] was able to show this card to several inhabitants of the planet. In many cases, this resulted in him being in danger, as some people recognized his photo on the ID card from the Wanted posters around the planet, thus sounding the alrm to call a nearby [[clone]].
 
 [[Category:Objects]]
-[[Category:Articles without an image]]
