@@ -2,6 +2,8 @@
 title: Sups Fragment
 ---
 
+[[Image:Sups fragment.png|right|thumb|The Sups Fragment]]
+
 {{Quote|
 Quote=This fragment of the Sups' key is one of the elements which will permit you to piece together the key to Dark Monk's temple.|
 Character=Official description}}
@@ -16,4 +18,3 @@ As a part of his quest of uniting the four key fragments, [[Twinsen]] had to fin
 
 [[Category:Objects]]
 [[Category:Dark Monk's key]]
-[[Category:Articles without an image]]
