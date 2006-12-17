@@ -2,6 +2,8 @@
 title: Key to the Passage to CX
 ---
 
+[[Image:Key_to_the_passage_to_CX.png|right|96px|thumb|The Key to the passage which leads to Island CX]]
+
 {{Quote|
 Quote=This key will allow you to open the doors of the passage, whose entrance is in the village of the Mosquibees, and which will allow you to go up to islet CX.|
 Character=Official description}}
@@ -28,4 +30,3 @@ Quote=You are now welcome in the village of the Mosquibees and we will help you 
 Character=Queen Astrid}}
 
 [[Category:Objects]]
-[[Category:Articles without an image]]
