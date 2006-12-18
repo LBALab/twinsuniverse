@@ -3,7 +3,7 @@ title: Terrain Soldier
 ---
 
 {{Enemy|
-Name=Terrain soldiers|
+Name=Terrain soldier|
 Image=Lba ingame terrain soldier.jpg|
 Strength=Zero|
 Reaction=Doesn't move|
