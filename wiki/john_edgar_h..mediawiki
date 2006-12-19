@@ -36,5 +36,5 @@ Character=A [[sphero]] at [[Port-Ludo]]}}
 
 [[Category:Sups]]
 [[Category:Male characters]]
-[[Category:Medium characters]]
+[[Category:Average characters]]
 [[Category:Adult characters]]
