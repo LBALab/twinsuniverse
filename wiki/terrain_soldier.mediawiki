@@ -23,7 +23,7 @@ Character=A terrain soldier}}
 <gallery>
 Image:Soldier.gif|Soldier with a green suit
 Image:Soldier2.gif|Soldier with a cannon
-Image:Whtsoldier.gif|Soldier with a white suit
+Image:Whtsoldier.gif|Soldier with a white camouflage
 </gallery>
 
 ==Role in Twinsen's adventure==
