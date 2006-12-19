@@ -20,6 +20,12 @@ Character=A terrain soldier}}
 ==Description==
 '''Terrain soldiers''' are the basic soldiers in [[FunFrock]]'s army. They can be seen with a yellow suit on the [[Island of the White Leaf Desert]], with a white suit in the [[Hamalayi Mountains]], and with a green one everywhere else. They're omnipresent. They are patrolling in nearly every public place, like [[Lupin Burg]], the [[Old Burg]] and the rest of [[Principal Island]], the [[Maritime Museum]] on [[Proxima Island]], in the [[Hamalayi Mountains]] and at all fortresses and factories of FunFrock. There's a [[military camp]] on Principal and Desert Island.
 
+<gallery>
+Image:Soldier.gif|Soldier with a green suit
+Image:Soldier2.gif|Soldier with a cannon
+Image:Whtsoldier.gif|Soldier with a white suit
+</gallery>
+
 ==Role in Twinsen's adventure==
 The terrain soldiers were major enemies of [[Twinsen]]. He encountered them at many different places in his adventure, and had to fight them in various fortresses and factories, sometimes to get a [[key]]. However, they were easy to defeat most of the time.
 
