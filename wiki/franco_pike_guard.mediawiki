@@ -51,5 +51,7 @@ Character=A franco guard}}
 * {{thread|id=4683|title=Franco Guards, hey they are diffrent!}}
 * {{thread|id=4682|title=Do you think that Fraco guards are Clones?}}
 
-[[Category:Forces]]
+[[Category:Imperial Legion]]
+[[Category:Melee fighters]]
+[[Category:Gun wielders]]
 [[Category:Francos]]
