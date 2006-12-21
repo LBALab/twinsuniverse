@@ -38,3 +38,5 @@ Character=A [[sphero]] at [[Port-Ludo]]}}
 [[Category:Male characters]]
 [[Category:Average characters]]
 [[Category:Adult characters]]
+[[Category:Imperial Legion]]
+[[Category:Gun wielders]]
