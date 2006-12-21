@@ -268,3 +268,7 @@ And as a passenger:
 [[Category:Average characters]]
 [[Category:Adult characters]]
 [[Category:Citadel Island inhabitants]]
+[[Category:Good]]
+[[Category:Magic users]]
+[[Category:Gun wielders]]
+[[Category:Melee fighters]]
