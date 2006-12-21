@@ -44,3 +44,5 @@ Character=Money-Monkey}}
 [[Category:Large characters]]
 [[Category:Adult characters]]
 [[Category:Elevator inhabitants]]
+[[Category:Foe]]
+[[Category:Melee fighters]]
