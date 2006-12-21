@@ -54,3 +54,5 @@ Character=Shopkeeper in [[Old Burg]]}}
 [[Category:Small characters]]
 [[Category:Adult characters]]
 [[Category:Principal Island inhabitants]]
+[[Category:Good]]
+[[Category:Key characters]]
