@@ -41,3 +41,5 @@ Age=Adult}}
 [[Category:Adult characters]]
 [[Category:Citadel Island inhabitants]]
 [[Category:Tippett Island inhabitants]]
+[[Category:Animals]]
+[[Category:Good]]
