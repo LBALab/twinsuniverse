@@ -3,7 +3,7 @@ title: Tank
 ---
 
 {{Enemy|
-Name=Hover tank|
+Name=Tank|
 Image=Tank.gif|
 Strength=-|
 Reaction=Doesn't move|
@@ -18,7 +18,7 @@ Quote=Go ask my son, he has come home from work. Sorry about your house: the clo
 Character=[[Mies van der Rooh's father]]}}
 
 ==Description==
-'''Hover tanks''' are heavy battle tanks in the army of [[FunFrock]]. They hover a bit over the ground. However, they are not able to hover above water, like the [[Proto-Pack]].
+'''Tanks''' are heavy battle tanks in the army of [[FunFrock]].
 
 The tanks are used mainly for defending actions and attacking actions as well. There can be found one in the middle of [[Lupin-Burg]], enforcing surveillance. It was also used to destroy [[Twinsen's house]]. There are also tanks guarding [[FunFrock's fortress|FunFrock's fortresses]], or the [[Okojo Pass]] in the [[Hamalayi Mountains]]. They could also be seen on [[Desert Island]].
 
