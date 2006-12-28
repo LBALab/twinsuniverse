@@ -5,13 +5,13 @@ title: Tank
 {{Enemy|
 Name=Tank|
 Image=Tank.gif|
-Strength=-|
+Strength=Green|
 Reaction=Doesn't move|
-Recovery=-|
-Rate=-|
-Damage=-|
-Range=-|
-Speed=-}}
+Recovery=Medium|
+Rate=Slow|
+Damage=High|
+Range=Medium|
+Speed=Fast}}
 
 {{Quote|
 Quote=Go ask my son, he has come home from work. Sorry about your house: the clones came with an attack tank, and they were looking for you!|
