@@ -5,7 +5,7 @@ title: Nurse
 {{Enemy|
 Name=Nurse|
 Image=Nurse2.gif|
-Strength=None|
+Level=None|
 Reaction=Steps backwards|
 Recovery=Fast|
 Rate=Slow|
