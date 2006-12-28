@@ -5,7 +5,7 @@ title: Tank
 {{Enemy|
 Name=Tank|
 Image=Tank.gif|
-Strength=Green|
+Level=Green|
 Reaction=Doesn't move|
 Recovery=Medium|
 Rate=Slow|
