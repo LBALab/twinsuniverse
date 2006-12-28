@@ -48,3 +48,5 @@ Character=A [[terrain soldier]]}}
 ===Fan Art===
 * {{thread|id=10242|title=Random collection}}
 * {{post|id=67043|title=Lba3}}
+
+[[Category:FunFrock's army]]
