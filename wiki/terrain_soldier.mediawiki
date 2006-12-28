@@ -5,7 +5,7 @@ title: Terrain Soldier
 {{Enemy|
 Name=Terrain soldier|
 Image=Lba ingame terrain soldier.jpg|
-Strength=Zero|
+Level=None|
 Reaction=Doesn't move|
 Recovery=0.3 seconds|
 Rate=1 second|
