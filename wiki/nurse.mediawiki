@@ -1,0 +1,50 @@
+---
+title: Nurse
+---
+
+{{Enemy|
+Name=Nurse|
+Image=Nurse2.gif|
+Strength=None|
+Reaction=Steps backwards|
+Recovery=Fast|
+Rate=Slow|
+Damage=Few|
+Range=Melee|
+Speed=Medium}}
+
+<center>''This article is about [[Quetch]] nurses. For [[Grobo]] nurses equipped with tablet launchers, see [[Supergro]].''</center>
+
+{{Quote|
+Quote=Good day, fellow nurse.|
+Character=A nurse}}
+
+==Description==
+'''Nurses''' are [[quetch]]es working in [[FunFrock]]'s factories and prisons. Their basic job is to keep an eye on prisoners. However, they also do researches in the [[mutant factory]] and the [[Teleportation Center]].
+
+Nurses are always seen in the basic white nurse outfit. It is forbidden to travel in the nurse outfit outside the prisons and factories, but a [[Teleportation Center guard|nurse]] is seen outside in a white clothing guarding the entrance of the [[Teleportation Center]].
+
+Nurses sometimes carry weapons like a truncheon or a gun.
+
+==Role in Twinsen's adventure==
+[[Twinsen]] had to fight nurses at several places, as in the [[Citadel]], the [[mutant factory]], the [[Teleportation Center]], [[FunFrock's secret fortress]] and many more. Whenever a nurse encountered Twinsen, it would run to the nearest alarm button calling a [[Supergro]].
+
+In order to escape from the [[Citadel]], he had to take on a nurse's clothing as a disguise.
+
+==Additional Quotes==
+{{Quote|
+Quote=Hey, you! You're not one of my nurses! Sound the alarm!|
+Character=A nurse in the [[Citadel]]}}
+{{Quote|
+Quote=Hey, Mr. Nurse! Use your holomap if you're lost.|
+Character=A [[rabbibunny]] at [[Chez Luc]]}}
+{{Quote|
+Quote=It is forbidden to travel outside the Citadel in that kind of attire!|
+Character=A [[terrain soldier]]}}
+
+==Related Threads==
+===General===
+* {{thread|id=10423|title=Shocking Images! (E! True Hollywood story)}}
+===Fan Art===
+* {{thread|id=10242|title=Random collection}}
+* {{post|id=67043|title=Lba3}}
