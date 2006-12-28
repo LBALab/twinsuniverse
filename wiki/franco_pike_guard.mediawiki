@@ -5,7 +5,7 @@ title: Franco Pike Guard
 {{Enemy|
 Name=Franco guard with pike|
 Image=KNLUNE.jpg|
-Strength=Green/Red|
+Level=Green/Red|
 Reaction=Moves sideways|
 Recovery=Fast|
 Rate=Fast|
