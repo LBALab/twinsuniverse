@@ -5,7 +5,7 @@ title: Yellow Grobo Clone
 {{Enemy|
 Name=Yellow grobo clone|
 Image=lba_ingame_yellow_groboclone.jpg|
-Strength=Yellow|
+Level=Yellow|
 Reaction=Move sideways|
 Recovery=0.7 seconds|
 Rate=2 seconds|
