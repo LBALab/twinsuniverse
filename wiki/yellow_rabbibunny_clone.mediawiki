@@ -5,7 +5,7 @@ title: Yellow Rabbibunny Clone
 {{Enemy|
 Name=Yellow rabbibunny clone|
 Image=Lba ingame yellow rabbibunnyclone.jpg|
-Strength=Yellow|
+Level=Yellow|
 Reaction=Falls backwards|
 Recovery=5 seconds|
 Rate=1 second|
