@@ -49,4 +49,9 @@ Character=A [[terrain soldier]]}}
 * {{thread|id=10242|title=Random collection}}
 * {{post|id=67043|title=Lba3}}
 
+
+[[Category:Quetches]]
+[[Category:Melee fighters]]
+[[Category:Adult characters]]
+[[Category:Average characters]]
 [[Category:FunFrock's army]]
