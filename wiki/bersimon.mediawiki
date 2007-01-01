@@ -40,7 +40,6 @@ Character=Bersimon}}
 Quote=Bravo! And now, if you appreciate Great Art, let's meet at the lighthouse. You'll see what you'll see!|
 Character=Bersimon}}
 {{Quote|
-{{Quote|
 Quote=Don't forget to finish the lightning potion. To do so, go to the Desert Island to find a pearl of incandescence.|
 Character=Bersimon's letter}}
 {{Quote|
