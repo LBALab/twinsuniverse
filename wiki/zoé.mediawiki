@@ -72,7 +72,7 @@ Character=[[Twinsen]]}}
 * {{thread|id=8393|title=LBA was origianlly invented during the Rock Age!}}
 * {{post|id=34221|title=Zoe}}
 * {{thread|id=4495|title=Twinsen and Zoe graphite stlye}}
-* {{thread|id=87488|title=Amazing! LBA3 planning! Wooo!}}
+* {{post|id=87488|title=Amazing! LBA3 planning! Wooo!}}
 * {{thread|id=3229|title=Lba 3 Cover CD}}
 
 ==External links==
