@@ -35,6 +35,9 @@ Character=A voice}}
 * {{thread|id=5777|title=Dark Monk}}
 * {{thread|id=3606|title=The wannies fragment}}
 
+===Hints\Spoilers===
+* {{thread|id=11882|title=how do you get the keypart on wannies?}}
+
 ===Fan Art===
 * {{thread|id=3190|title=The replaced art}}
 
