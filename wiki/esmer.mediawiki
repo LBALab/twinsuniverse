@@ -74,6 +74,7 @@ Image:EMPERER.jpg|The Emperor of Zeelich
 * {{thread|id=650|title=Esmer Shuttle In 3D/movie}}
 * {{thread|id=4788|title=Esmer Shuttle}}
 * {{post|id=112171|title=Lba3}}
+* {{thread|id=11891|title=Esmer drawing}}
 
 ===Fan Fiction===
 * {{thread|id=5441|title=The Esmer Menace (In progress!)}}
