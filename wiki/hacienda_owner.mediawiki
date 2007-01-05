@@ -43,3 +43,5 @@ Character=Hacienda owner}}
 [[Category:Average characters]]
 [[Category:Adult characters]]
 [[Category:Desert Island inhabitants]]
+[[Category:Neutral]]
+[[Category:Melee fighters]]
