@@ -31,6 +31,7 @@ Character=Money-Monkey}}
 ==Related threads==
 ===General===
 * {{thread|id=10446|title=i cant get to the monkey!}}
+* {{thread|id=11905|title=whoever has done this is a genius}}
 
 ===Hints\Spoilers===
 * {{thread|id=9495|title=Problem!}}
