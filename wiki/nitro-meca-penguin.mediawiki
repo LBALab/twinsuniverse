@@ -26,7 +26,7 @@ There are two different forms that the meca-penguin would be found in, different
 <br>For LBA1: The <b>meca-penguin</b> - A simple wind-up penguin that would move slowly across the floor.
 <br>For LBA2: The <b>nitro-meca-penguin</b> - The same concept repeated, but with a five second time bomb installed, with the countdown commencing after it is wound-up and set on the ground. 
 
-During [[Twinsen]]'s first adventure, they especially came in handy against the [[red grobo clones]], as they disturbed these, enabling [[Twinsen]] to go past them or defeat them more easily. 
+During [[Twinsen]]'s first adventure, they especially came in handy against the red grobo clones, as they disturbed these, enabling [[Twinsen]] to go past them or defeat them more easily. 
 <br>In the second adventure, the explosive toys were of an even more trivial nature, however they could be put to good use.
 
 To retrieve such penguins, [[Twinsen]] usually had to buy them, although he was able to find some for free around the planet.
