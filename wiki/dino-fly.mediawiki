@@ -10,6 +10,16 @@ Gender=Male|
 Size=Large|
 Age=Adult}}
 
+==Description==
+
+The Dino-Fly is a mythical creature, with uncertain origins. He is a green dinosaur-like animal, with the ability to fly. When [[Twinsen] finds him, he is told that he has been waiting for him for a long time.
+
+==Role in Twinsen's Adventure==
+
+The Dino-Fly is an asset to both of [[Twinsen]]'s Adventure. On his first trip around [[Twinsun]], [[Twinsen]] meets the Dino-Fly at the cliff peak of [[Tippet Island]]'s surface. At this point, the Dino-Fly is only able to fly around the [[northern hemisphere]], but in the second adventure, [[Twinsen]] has taken him to his home on [[Citadel Island]], and he can fly around the few islands that you visit on [[Twinsun]].
+
+In both adventures, he provides a means of free transport around the planet for [[Twinsen]]. 
+
 ==Related threads==
 ===General===
 * {{thread|id=5932|title=LBA2 Mysteries}}
