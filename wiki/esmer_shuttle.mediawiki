@@ -30,4 +30,4 @@ At the top of the shuttle, reachable by a ladder, is the passenger's lounge and 
 
 ===Controls===
 
-The shuttle is usually not manually controlled, but rather flies on auto-pilot using the [[Itinerary Token]]. This token has to be retrieved from the respective control tower before take-off and has the flight pattern programmed in it. The passenger simply has to insert it into the designated slot in the shuttle's cockpit to start the flight, after which he may sit back comfortably.
+The shuttle is usually not manually controlled, but rather flies on auto-pilot using the [[Itinary Token]]. This token has to be retrieved from the respective control tower before take-off and has the flight pattern programmed in it. The passenger simply has to insert it into the designated slot in the shuttle's cockpit to start the flight, after which he may sit back comfortably.
