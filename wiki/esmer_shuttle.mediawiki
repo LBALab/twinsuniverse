@@ -10,9 +10,9 @@ The '''esmer shuttle''' is a flying ship used for transportations of persons and
 
 This shuttle was developed by and is most frequently used by [[esmers]], particularly the [[sups]]. It was first spotted on [[Twinsun]] not long before the [[Esmer#The_Esmer_invasion|Esmer invasion]].
 
-There is but one standardized model of the shuttle, allowing the use of efficient space ports, and easy maintenance and production. The [[Emperor of Zeelich]] had his own customized shuttle which was mostly the same but had a slightly more luxe interour and it beared the emperor's mark on the outside.
+There is just one standardized model of the shuttle, allowing the use of efficient space ports, standard sized landing pads, and it eases maintenance and production. The [[Emperor of Zeelich]] had his [[#The_Emperor\'s_shuttle|personal shuttle]] customized slightly.
 
-The esmer shuttle is the only known means of transportation between [[Zeelich]], [[Twinsun]] and the [[Emerald Moon]] next to [[Baldino's Spaceship]].
+The esmer shuttle is the only known means of transportation between [[Zeelich]], [[Twinsun]] and the [[Emerald Moon]] next to [[Baldino's Spaceship]], which was revealed only after the Esmers landed on Twinsun.
 
 ===Exteriour===
 
@@ -20,14 +20,19 @@ The esmer shuttle is the only known means of transportation between [[Zeelich]],
 
 While not frequently used, at the bottom of the shuttle are a pair of mechanical hands that can be used for carrying external transportation such as heavy loads that need to be released in-flight.
 
-The exhaust pipe for the engine can be seen at the back of the shuttle.
+The exhaust pipe for the engine can be seen at the back of the shuttle. Around this are three stabilatory wings, mostly useful for flying within a planet's atmosphere.
 
+[[Image:Shuttle.jpg|left|thumb|200px|Esmer shuttle interiour, showing the shuttle's controls and cargo bay.]]
 ===Interiour===
 
-[[Image:Shuttle.jpg|right|thumb|200px|Esmer shuttle interiour, showing the shuttle's controls and cargo bay.]]Getting inside the shuttle, the passenger finds himself in the cargo hold. This is well reachable so loading and unloading is easy. It's mostly empty apart for a storage room for space suits which can be found in all shuttles.
+Getting inside the shuttle, the passenger finds himself in the cargo hold. This is well reachable so loading and unloading is easy. It's mostly empty apart for a storage room for space suits which can be found in all shuttles.
 
 At the top of the shuttle, reachable by a ladder, is the passenger's lounge and shuttle controls.
 
 ===Controls===
 
 The shuttle is usually not manually controlled, but rather flies on auto-pilot using the [[Itinary Token]]. This token has to be retrieved from the respective control tower before take-off and has the flight pattern programmed in it. The passenger simply has to insert it into the designated slot in the shuttle's cockpit to start the flight, after which he may sit back comfortably.
+
+===The Emperor's shuttle===
+
+[[Image:Screenshot-lba2-ingame-otringal-emperial_shuttle_platform.gif|right|thumb|200px|The Emperor's shuttle seen from the outside, parked right across the [[Emperor's palace]]. The emperor's emblem is visible here.]]The [[Emperor of Zeelich]] had a customized version of the esmer shuttle. It is basically the same as any other, but it's slightly more luxurious and it carries the [[emperor's emblem]] on the front exteriour.
