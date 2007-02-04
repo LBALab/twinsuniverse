@@ -9,7 +9,7 @@ Quote=The travel token allows to program the destination of an Esmer shuttle. Wi
 Character=Official description}}
 
 ==Description==
-The '''itinary tokens''' are used for [[Esemers]] shuttles. Without these tokens, the shuttles can't take off. These disc-shaped tokens have to be placed inside a device placed on any common Esmers shuttle in order to launch those.
+The '''itinary tokens''' are used for [[Esmer shuttle|esmers shuttles]]. Without these tokens, the shuttles can't take off. These disc-shaped tokens have to be placed inside a device placed on any common Esmers shuttle in order to launch those.
 
 ==Role in Twinsen's adventure==
 The first time [[Twinsen]] found the need of an Itinary Token was when leaving [[Zeelich]] for the first time. After escaping two [[Franco guards]], he entered [[Otringal]]'s [[Astroport]], where he had to climb to the top of the tower. Once there, he had to defeat all technicians working at the tower, as well as a franco guard. After obtaining the desired token, Twinsen made his way back to a shuttle that stood at the port, and placed the travel token inside the device mentioned previously. Once doing that, he could safely make his way back to his home planet, landing at the [[Ridge of the Flowers Circle]].
