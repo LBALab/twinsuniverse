@@ -16,11 +16,9 @@ The esmer shuttle is the only known means of transportation between [[Zeelich]],
 
 ===Exteriour===
 
-[[Image:Screenshot-lba2-movies-07-esmers_shuttle-VOYAGEZ09.gif|right|thumb|200px|Esmer shuttle exteriour as seen from the side.]]The shuttle is shaped much like a saucer. The top of the shuttle's body with the cockpit is yellow while the bottom is coloured red. The shuttle has several flexible feet that allow for comfortable landings, but are contracted during flight. There is one door in the shuttle that is lowered after landing, doubling as stairs to get inside or out.
+[[Image:Screenshot-lba2-movies-07-esmers_shuttle-VOYAGEZ09.gif|right|thumb|200px|Esmer shuttle exteriour as seen from the side.]]The shuttle is shaped much like a saucer. The top of the shuttle's body with the cockpit is yellow while the bottom is coloured red. The shuttle has several flexible feet that allow for comfortable landings, but are contracted during flight. The exhaust pipe for the engine can be seen at the back of the shuttle. Around the body are three stabilatory wings, mostly useful for flying within a planet's atmosphere.
 
-While not frequently used, at the bottom of the shuttle are a pair of mechanical hands that can be used for carrying external transportation such as heavy loads that need to be released in-flight.
-
-The exhaust pipe for the engine can be seen at the back of the shuttle. Around this are three stabilatory wings, mostly useful for flying within a planet's atmosphere.
+There is one door in the shuttle that is lowered after landing, doubling as stairs to get inside or out. The cargo hold also has a door located at the bottom of the shuttle, but this is hardly used, mostly for dropping large objects in-flight. A pair of mechanical arms can be used to lower and release the specific cargo.
 
 [[Image:Shuttle.jpg|left|thumb|200px|Esmer shuttle interiour, showing the shuttle's controls and cargo bay.]]
 ===Interiour===
@@ -50,4 +48,5 @@ Twinsen first encountered the esmer shuttle among with many other Twinsunians, w
 <li>Using the Emperor's shuttle, to get from [[Island CX]]</li> to upper-town Otringal, right outside the Emperor's palace.</li>
 </ol>
 
-A very significant event involving the esmers shuttle was when the esmers realized their mistake of blindly following their Emperor and the falsified Dark Monk. They dropped a bomb carried by a shuttle into the moon base, stopping it from hurling towards Twinsun in combination with Sendell's powers channeled through Twinsen at that time. This was the only time when the shuttles were used for anything different than transporting people and goods.
+
+[[Image:Screenshot-lba2-movies-25-ending_1-END1865.gif|thumb|right|200px|The bomb held by mechanical arms, right before dropping it into the moon base's reactor.]]A very significant event involving the esmers shuttle was when the esmers realized their mistake of blindly following their Emperor and the falsified Dark Monk. They dropped a bomb carried by a shuttle into the moon base, stopping it from hurling towards Twinsun in combination with Sendell's powers channeled through Twinsen at that time. This was the only time when the shuttles were used for anything different than transporting people and goods.
