@@ -6,7 +6,7 @@ title: Esmer shuttle
 
 ==Description==
 
-The esmer shuttle is a flying ship used for transportations of persons and goods. It's most remarkable for being able to make inter-planetary flights, but can also be used for flights within the atmosphere of a planet.
+The '''esmer shuttle''' is a flying ship used for transportations of persons and goods. It's most remarkable for being able to make inter-planetary flights, but can also be used for flights within the atmosphere of a planet.
 
 This shuttle was developed by and is most frequently used by [[esmers]], particularly the [[sups]]. It was first spotted on [[Twinsun]] not long before the [[Esmer#The_Esmer_invasion|Esmer invasion]].
 
