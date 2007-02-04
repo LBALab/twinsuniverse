@@ -8,7 +8,7 @@ title: Esmer shuttle
 
 The esmer shuttle is a flying ship used for transportations of persons and goods. It's most remarkable for being able to make inter-planetary flights, but can also be used for flights within the atmosphere of a planet.
 
-This shuttle was developed by and is most frequently used by [[esmers]], particularly the [[sups]]. It was first spotted on [[Twinsun]] not long before the [[Zeelichian invasion]].
+This shuttle was developed by and is most frequently used by [[esmers]], particularly the [[sups]]. It was first spotted on [[Twinsun]] not long before the [[Esmer#The_Esmer_invasion|Esmer invasion]].
 
 There is but one standardized model of the shuttle, allowing the use of efficient space ports, and easy maintenance and production. The [[Emperor of Zeelich]] had his own customized shuttle which was mostly the same but had a slightly more luxe interour and it beared the emperor's mark on the outside.
 
