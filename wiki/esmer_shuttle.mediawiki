@@ -70,4 +70,9 @@ Character=The [[teacher]]}}
 Quote=Darn! This here shuttle, t'will soon be ready fer takeoff. Me myself, ah would of fixed them stabilizing jets<nowiki>!!</nowiki> Barrin' that, best use an itinerary token! Might not take off without it.|
 Character=A [[franco]] technican at the [[Astroport]]}}
 
+==Related threads==
+===Fan Art===
+* {{post|id=34217|title=Esmers shuttle}}
+* {{post|id=111337|title=pictures!}}
+
 [[Category:Vehicles]]
