@@ -25,6 +25,8 @@ Quote=Twinsen, if you want to try out the car, just go to the racetrack or the d
 Character=Zoé}}
 
 ==Related Threads==
+===General===
+* {{thread|id=11884|title=Sceen changing bug.}}
 * {{thread|id=11363|title=Yet another LBA 2 car bug}}
 * {{thread|id=11024|title=some fun stuff and tips}}
 * {{thread|id=7863|title=I just wanna drive :(}}
@@ -34,6 +36,7 @@ Character=Zoé}}
 * {{thread|id=1353|title=Women mechanics...? HAH!}}
 * {{thread|id=368|title=Little Big Adventure 2}}
 * {{thread|id=134|title=car crazyness}}
+===Hints\Spoilers===
 * {{thread|id=10843|title=My cars stuck!}}
 * {{thread|id=4131|title=Losing the car... (LBA2)}}
 * {{thread|id=7563|title=Destroy your car!}}
@@ -46,7 +49,8 @@ Character=Zoé}}
 * {{thread|id=1618|title=Buying a car?}}
 * {{thread|id=1342|title=Car in Cemetary, EDIT --> And Bald Mountain!!!}}
 * {{thread|id=1437|title=If...}}
+===Fan Art===
 * {{post|id=82844|title=Lba3}}
-* {{thread|id=11884|title=Sceen changing bug.}}
+
 
 [[Category:Vehicles]]
