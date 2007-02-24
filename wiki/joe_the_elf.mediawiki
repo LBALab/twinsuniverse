@@ -77,8 +77,6 @@ Character=Joe the Elf}}
 * {{post|id=112171|title=Lba3}}
 * {{thread|id=3150|title=My first Lba image}}
 
-{{Stub}}
-
 [[Category:Elves]]
 [[Category:Male characters]]
 [[Category:Small characters]]
