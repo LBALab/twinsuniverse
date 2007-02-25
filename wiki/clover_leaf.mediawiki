@@ -32,6 +32,9 @@ Quote=You know Julia? She is a nice girl. She watches a bit too much TV, but the
 Character=Beatrice}}
 
 ==Related threads==
+===General===
+* {{thread|id=12080|title=LBA1 cloverboxes?}}
+
 ===Hints\Spoilers===
 * {{thread|id=2094|title=The lost clover box?}}
 * {{thread|id=1297|title=Clover boxes}}
