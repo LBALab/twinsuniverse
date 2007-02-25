@@ -10,6 +10,28 @@ Gender=Male|
 Size=Large|
 Age=Adult}}
 
+==Description==
+'''Dr. FunFrock''' was a rather big [[Quetch]] and the dictator of [[Twinsun]], before [[Twinsen]] stopped his influence. He later disguised himself as [[Dark Monk]], the supposedly reincarnated god of [[Zeelich]]. His main goal was to get godlike powers. He beliefed to get them from the power of [[Sendell]] and the [[Stellar Entity]] inside Twinsun.
+
+During his dictatorship, he made use of his knowledge of cloning and teleporting to ensure total control of the planet's citizens. His [[clones]] of all races could be teleported to all places of [[Twinsun]] instantly through a network of [[telepods]]. These technologies were controlled by the [[Teleportation Center]] and the Cloning Center that was inside his [[FunFrock's Secret Fortress|secret fortress]].
+
+He build prisons all over the planet to hold any dissidents captive, including the massive [[Citadel]], giving the name to [[Citadel Island]]. Alternately, people could be forced under house arrests, indicated by bricked up entrance doors.
+
+He also evacuated the [[Northern Hemisphere]] in order to ensure his plans to dig a hole to the center of Twinsun starting from [[Polar Island]] in order to gain god powers. To evacuate the hemisphere, he produced mutants in his [[Mutant Factory]] to scare the citizens away.
+
+==Role in Twinsen's adventures==
+FunFrock was the tyrant the [[Legend of Sendell]] spoke of. [[Twinsen]], as the heir the prophecy spoke of, destroyed FunFrock's regime in his first adventure. He first met FunFrock, or possibly a clone of him, inside [[FunFrock's Headquarters]] on [[Principal Island]]. However, FunFrock quickly teleported himself away via the nearby [[telepod]].
+
+After Twinsen had destroyed both the [[Mutant Factory]] and the [[Teleportation Center]], he was trapped by FunFrock when trying to rescue a clone of [[Zoé]] in [[FunFrock's Secret Fortress]]. The secret fortress was built around the [[stone of the Septentrion]], the last runic stone of the prophecy. After Twinsen escaped the fortress's prison, he found the runic stone, and destroyed the fortress using the power of his [[Flask of Clear Water|Clear Water]].
+
+Twinsen faced FunFrock again on the rocky peak in the center of Polar Island. After a short battle, FunFrock fell of the rock, and Twinsen estimated he was defeated. FunFrock then set off a clone of him, which battled Twinsen again deeper in [[Sendell's Well]].
+
+FunFrock himself found a way to [[Zeelich]] and made a second plan to destroy Twinsun, along with the Zeelichian [[Emperor]]. They built reactors on [[Emerald Moon]] to fire the moon towards Twinsun. FunFrock disguised himself as [[Dark Monk]], a god of Zeelich, and manipulated the [[Esmers]] to help him with his plan.
+
+FunFrock abducted the wizards and children of Twinsun and brought them inside [[Dark Monk's statue]]. The statue itself should be the antenna to attracked the power of Sendell when Twinsun exploded.
+
+However, FunFrock was once again stopped by Twinsen in the last minute. Twinsen defeated FunFrock and several of his clones in the statue, and the Esmers destroyed the lunar reactors right before the moon's impact on Twinsun.
+
 ==Quotes==
 {{Quote|
 Quote=I have you at last! I see that you appreciated the clone that I made of your friend, the original is safe. I suppose that you have come here to find the 3rd Runic Stone. I already found it a long time ago, but it took some time to decipher it. And as soon as I knew the location of the Well of Sendell, I began the foraging work.|
@@ -84,8 +106,6 @@ Character=FunFrock}}
 ===Fan art===
 * [http://www.deviantart.com/deviation/35013177/?qo=15&q=by%3Asepulchrave&qh=sort%3Atime+-in%3Ascraps Funfrock's Campaign]
 * [http://www.deviantart.com/view/16705460/ Dr. Funfrock 2]
-
-{{Stub}}
 
 [[Category:Quetches]]
 [[Category:Male characters]]
