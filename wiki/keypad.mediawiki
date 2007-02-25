@@ -2,6 +2,7 @@
 title: Keypad
 ---
 
+[[Image:Keypad.png|73px|right|frame|The keypad.]]
 {{Quote|
 Quote=Someone made a mistake in the address and sent me this object by accident: it's a keypad that opens a door at the "Teleportation Center". This opens a room full of meca-penguins.|
 Character=[[Lanktir]]}}
