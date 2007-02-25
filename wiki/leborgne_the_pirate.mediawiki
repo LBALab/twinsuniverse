@@ -35,7 +35,7 @@ Character=[[Twinsen]]}}
 
 {{Quote|
 Quote=One day, one of my swabs claimed that LeBorgne was an ancestor of mine and... well, you know how dramatic burials at sea can be!|
-Character=The [[ferry captain]]}}}
+Character=The [[ferry captain]]}}
 
 {{Quote|
 Quote=I read some extracts from the captain's log - LeBorgne was ruthless! If you're still interested in the log, it's for sale at the Old Burg bazaar on Principal Island.|
