@@ -24,4 +24,11 @@ During his second adventure, he used it to get to the [[Island of the White Leaf
 Quote=Welcome to the Inter-islands Ferry, sir.|
 Character=A clerk}}
 
+==Related threads==
+===General===
+* {{thread|id=10657|title=Secret ferry movie}}
+* {{thread|id=5682|title=lba ferry?}}
+===Fan Art===
+* {{thread|id=9675|title=The ferry}}
+
 [[Category:Vehicles]]
