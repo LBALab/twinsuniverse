@@ -1,0 +1,38 @@
+---
+title: Supergro
+---
+
+{{Enemy|
+Name=Supergro|
+Image=DIVERS.gif|
+Level=Fire|
+Reaction=Moves backwards|
+Recovery=Fast|
+Rate=High|
+Damage=Very high|
+Range=Infinite|
+Speed=Fast}}
+
+{{Quote|
+Quote=The plans for this center are in FunFrock's personal safe. In his headquarters on Principal island. But to get in you must be able to defeat the Supergros (the nurses equipped with tablet launchers!).|
+Character=A helmetless [[yellow grobo clone]]}}
+
+==Description==
+'''Supergros''' are white [[grobo]] [[clones]]. They are armed with tablet launchers with which they can put anyone they hit to sleep. These people can then be brought to the nearest [[prison]]. They can be found in every prison and would teleport out of a [[telepod]] when alarmed by a [[nurse]]. Some can also be seen guarding the upper areas of [[Old Burg]], or [[FunFrock's Headquarters]].
+
+==Role in Twinsen's adventure==
+[[Twinsen]] was not able to face the supergros for a long time, and each time he met one of them, he would instantly be carried to the nearest prison. However, after he got the last level of magic with the [[flask of clear water]], he was able to fight them. Then, they would no longer shoot sleeping tablets, but deadly red projectiles, which could kill Twinsen in three hits.
+
+He had to fight a supergro in the entrance of [[FunFrock's Headquarters]], to get the [[key]] to enter it.
+
+==Related threads==
+===General===
+* {{thread|id=4366|title=Have you ever: Supergroboclones}}
+===Hints\Spoilers===
+* {{thread|id=10757|title=Taking care of supergros}}
+* {{thread|id=6797|title=supergros..... :P}}
+* {{thread|id=1421|title=Super 4th level magic ball protects you too?}}
+===Fan Art===
+* {{thread|id=10774|title=Smilies}}
+
+[[Category:Clones]]
