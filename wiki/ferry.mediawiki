@@ -1,0 +1,27 @@
+---
+title: Ferry
+---
+
+[[Image:02_ferry.gif|right|200px|thumb|The old ferry.]]
+
+{{Quote|
+Quote=Welcome aboard! You have picked a wonderful day for travelling, the weather is beautiful!|
+Character=The [[ferry captain]]}}
+
+==Description==
+The '''ferry''' is a service between [[Citadel Island]], [[Principal Island]] and later the [[Island of the White Leaf Desert]]. Passengers have to buy a [[ferry ticket]] to board.
+
+By the time of Twinsen's second adventure, the old, white ferry had been replaced with a new yellow one resembling a hovercraft. During the time of the [[Esmer invasion]], the ferry services were not allowed.
+
+==Role in Twinsen's adventures==
+[[Image:BOAT_2.preview.JPG|right|200px|thumb|The new ferry.]]
+[[Twinsen]] had to use the ferry several times during his adventure. He needed it to get to [[Principal Island]]. As the [[rabbibunny]] at the ferry ticket store did recognize him as the wanted refugee, however, he had to buy fake ferry tickets from a [[grobo]]. He first had to help the grobo moving around crates in the nearby [[warehouse]]. He later bought his [[catamaran]], enabling to move around freely on [[Twinsun]]'s [[Southern Hemisphere]] without having to use the ferry service.
+
+During his second adventure, he used it to get to the [[Island of the White Leaf Desert]] while his [[Dino-Fly]] was injured. When he healed him with the [[Horn of the Blue Triton]], he was allowed to freely move around on Twinsun again.
+
+==Additional Quotes==
+{{Quote|
+Quote=Welcome to the Inter-islands Ferry, sir.|
+Character=A clerk}}
+
+[[Category:Vehicles]]
