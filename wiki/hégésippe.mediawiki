@@ -13,3 +13,6 @@ Character=Runes in the cave below [[Twinsen's house]]}}
 Quote=You've just found the key lost by your ancestor Hégésippe.|
 Character=When Twinsen got the key}}
 [[Category:Dead characters]]
+
+==Related threads==
+* {{thread|id=11428|title=Hegesippe}}
