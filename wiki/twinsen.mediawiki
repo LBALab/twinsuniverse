@@ -253,6 +253,7 @@ And as a passenger:
 * {{thread|id=1907|title=Hair?}}
 * {{thread|id=1660|title=Twinsen's 3D portrait}}
 * {{thread|id=11768|title=New to 3d moddeling}}
+* {{thread|id=12155|title=My Twinsen Sculpture}}
 
 ==External links==
 ===Fan art===
