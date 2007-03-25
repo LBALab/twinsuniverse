@@ -15,7 +15,7 @@ Quote=Welcome dear customer! I don't have any more cherry flavoured syrup, but t
 Character=Wadbull}}
 
 ==Description==
-Wadbull is the owner of the [[Old Burg Bazaar]] on [[Principal Island]]. Always referring to his customers as 'dear', He regards them highly. He always tries to be helpful to customers, when item they need is not currently in stock. In his bazaar he stocks [[Gas]] for 30 [[kashes]], [[Meca-Penguins]] for 3 kashes each, and [[life points|life]] and [[magic points]] for 10 kashes each.
+'''Wadbull''' is the owner of the [[Old Burg Bazaar]] on [[Principal Island]]. Always referring to his customers as 'dear', He regards them highly. He always tries to be helpful to customers, when item they need is not currently in stock. In his bazaar he stocks [[Gas]] for 30 [[kashes]], [[Meca-Penguins]] for 3 kashes each, and [[life points|life]] and [[magic points]] for 10 kashes each.
 
 ==Role in Twinsen's adventure==
 Wadbull runs a bazaar from which [[Twinsen]] could buy items. He also revealed to Twinsen the location of [[LeBorgne]]'s log book.
