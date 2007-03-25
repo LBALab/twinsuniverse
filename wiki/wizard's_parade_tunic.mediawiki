@@ -8,17 +8,17 @@ title: Wizard's Parade Tunic
 Quote=This parade outfit is accessible only to Twinsun's graduated wizards. It makes you a bona fide magician.|
 Character=Official description}}
 
-==Description==
+== Description ==
 This '''parade tunic''' is worn by the wizards from [[Twinsun]]. It makes the owner recognizable as a wizard. These tunics are given to anyone who graduates from the [[School of Magic]]. In case the school has none left in stock, they will be supplied by the local wizard's accessories seller, [[Chedil Amiradoo]].
 
-==Role in Twinsen's adventure==
+== Role in Twinsen's adventure ==
 Upon graduating from the School of Magic, [[Twinsen]] was told about the myserious disappearance of all wizards of the planet. Following the request of the [[Mentor of the School of Magic|mentor of the school]], Twinsen went out to search for them. Once graduating from the school Twinsen was able buy a wizard's parade tunic from Chedil Amiradoo.
 
 The [[Esmers]], not recognizing Twinsen, thought he was just a harmless wizard they can kidnap. Twinsen was invited to a tour around [[Zeelich]], which was a cover for the Esmers' plans of kidnapping all the wizards. None of the Esmers recognized Twinsen, until [[Joe]] accidently betrayed him by revealing his true identity. Twinsen was then captured, and lost his wizard's costume.
 
 If it wasn't for the costume, Twinsen would not have been able to go to Zeelich with the Esmers.
 
-==Additional quotes==
+== Additional quotes ==
 {{Quote|
 Quote=I don't have any spare wizard's parade tunics left. But there is a peddler on the island. I'll contact him and ask him to give you one. Go find him. Also, let your beard grow.|
 Character=Mentor of the School of Magic}}
@@ -35,8 +35,8 @@ Character=Chedil Amiradoo}}
 Quote=You just found a parade outfit for the wizards. It'll make you look like an old wizard.|
 Character=When Twinsen received the tunic}}
 
-==Related threads==
-===Hints\Spoilers===
+== Related threads ==
+=== Hints\Spoilers ===
 * {{thread|id=3969|title=Hidden, and special videos in LBA2}}
 
 [[Category:Objects]]
