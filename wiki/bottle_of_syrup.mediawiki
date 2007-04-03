@@ -8,13 +8,15 @@ title: Bottle of Syrup
 Quote=Bottle of Syrup. This bottle contains 50cl of very concentrated red syrup.|
 Character=Official description}}
 
-==Description==
+== Description ==
 This bottle contains 1/2 liter of cherry-flavored syrup, used for either curing purposes, or just for flavour.
 
-==Role in Twinsen's adventure==
+== Role in Twinsen's adventure ==
 [[Twinsen]] had to travel back to [[Citadel Island]] to a local [[pharmacy]], and steal this '''bottle of syrup''', so that he could later pour it into the [[Principal Island]] [[Water Tower]]. This was based on the request of a [[Rabbibunny]] at a [[library]], who found the water taste in the island strange. When the quest was successfully completed, the librarian showed Twinsen a book in the Restricted Section of the library, at which information regarding “[[The Legend]]” was disclosed.
 
-==Additional quotes==
+Later in his adventure, Twinsen filled the now empty flask with the [[Flask of Clear Water|Clear Water]].
+
+== Additional quotes ==
 {{Quote|
 Quote=You've just found a Bottle of Syrup!|
 Character=A voice Twinsen heard when finding the bottle}}
@@ -25,8 +27,8 @@ Character=[[Wadbull]]}}
 Quote=Did you know that a wise guy dumped some syrup into the island's water supply? I'd like to find that guy so that I can give him a piece of my mind. You wouldn't happen to know him, would you?|
 Character=[[Librarian]]}}
 
-==Related threads==
-===Hints\Spoilers===
+== Related threads ==
+=== Hints\Spoilers ===
 * {{thread|id=2714|title=Somehow, i got Lba working, now i need a little help ^_^}}
 
 [[Category:Objects]]
