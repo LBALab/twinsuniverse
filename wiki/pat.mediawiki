@@ -14,10 +14,27 @@ Age=Adult}}
 Quote=Raph? With him and Fab, we put together a killer combo to play some funky rock'n rave! But since he didn't show at the last rehearsal, no way I can tell you were he is now!|
 Character=Pat}}
 
-==Description==
+== Description ==
 Pat is a musician and the best friends with [[Fab]] and [[Raph]]. Like them, she also likes hanging out at [[Chez Luc]].
 
-{{Stub}}
+Whenever music played in Chez Luc's jukebox, Pat came down to dance next to it.
+
+== Role in Twinsen's adventure ==
+Pat did not play any specific role in [[Twinsen]]'s adventure.
+
+== Additional quotes ==
+{{Quote|
+Quote=Hey!, we need some music here!|
+Character=Pat}}
+{{Quote|
+Quote=Cool<nowiki>!!</nowiki> That music rocks! Don't you think?|
+Character=Pat}}
+{{Quote|
+Quote=It's great that our buddy Raph is back at the lighthouse. But the arrival of these space aliens, that's some thin-I-never-seen-before.|
+Character=Pat}}
+{{Quote|
+Quote=Better ask his buddies Pat or Fab. They're upstairs. Haven't moved since it started raining.|
+Character=[[Luc]]}}
 
 [[Category:Quetches]]
 [[Category:Female characters]]
