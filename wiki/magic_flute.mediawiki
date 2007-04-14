@@ -25,4 +25,8 @@ Character=[[Raymond the Elf]], talking about the Clear Water Lake}}
 Quote=I'll give you my guitar in exchange for the flute that you possess Twinsen, beforehand, though, you will have play it next to the Clear Water Lake in order to obtain the 4th magical symbol.|
 Character=Wise rabbibunny}}
 
+==Related threads==
+===General===
+* {{thread|id=12249|title=Use Magic Flute instead of Horn of Gawley?}}
+
 [[Category:Magical items]]
