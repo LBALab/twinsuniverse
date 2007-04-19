@@ -4,7 +4,7 @@ title: FunFrock's Saber
 
 {{Weapon|
 Name=FunFrock's Saber|
-Image=DIVERS.gif|
+Image=Funfrock's saber.png|
 Enemy=All enemies|
 Rate=Slow/Fast, depending on behaviour|
 Damage=A lot|
@@ -43,4 +43,3 @@ Character=After Twinsen took the sabert}}
 * {{thread|id=1264|title=My version of twinsens sword:)}}
 
 [[Category:Weapons]]
-[[Category:Articles without an image]]
