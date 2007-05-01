@@ -25,7 +25,7 @@ Using the [[Horn of the Blue Triton]], Twinsen was able to heal Anatole, thus le
 
 ==Additional quotes==
 {{Quote|
-Quote=I'm no spring chicken anymore, you know. And the back, it's important when you bowl!!.|
+Quote=I'm no spring chicken anymore, you know. And the back, it's important when you bowl<nowiki>!!</nowiki>|
 Character=Anatole}}
 {{Quote|
 Quote=Aah, thank you kiddo! Feels like I got the back of a young sphero again..|
