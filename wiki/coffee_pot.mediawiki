@@ -9,7 +9,7 @@ Quote=Coffee Pot. You must return it to one Lanktir who lives next to the bazaar
 Character=Official description}}
 
 ==Description==
-'''The coffee pot''' is a machine used to make coffee, pretty rare on the planet. It is owned by [[Lanktir]], a [[grobo]] residing in [[Proxim-City]] at [[Proxima Island]]. With this machine, Lanktir can make himself coffee, probably his favourite drink.
+'''The coffee pot''' is a machine used to make coffee, pretty rare on the planet. It is owned by [[Lanktir]], a [[grobo]] residing in [[Proxim-City]] at [[Proxima Island]].
 
 ==Role in Twinsen's adventure==
 Looking for information about [[LeBorgne]] the pirate, [[Twinsen]] came across the [[library]], where a nice grobo kindly read him information from LeBorgne's log book. Asking about LeBorgne's lost treasure, Twinsen received very instructive information about how to find it. Upon following the exact steps as described in the log book, Twinsen found himself just next to the [[Proxima Museum]]. Once there, a [[sphero]] appeared, handing Twinsen the coffee pot. By returning it to Lanktir, Twinsen received as a reward [[List with clover boxes locations|a list of all places where he could find clover boxes]].
