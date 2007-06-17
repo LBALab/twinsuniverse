@@ -2,7 +2,7 @@
 title: Twinsuniverse Wiki
 ---
 
-<div class="firstHeading" style="font-size: 188%; padding-top: 1.65em; padding-bottom: 0.17em; float: right; position: absolute; right: 0.5em; top: 0%; width: 98%; background-color:#FFFFFF"></div>
+<div class="firstHeading" style="font-size: 188%; padding-top: 1.65em; padding-bottom: 0.17em; float: right; position: absolute; right: 0.5em; top: 0%; width: 98%; background-color:#FFFFFF">Welcome</div>
 
 [[Image:Welcome.gif|right]]
 
