@@ -2,6 +2,8 @@
 title: Twinsuniverse Wiki
 ---
 
+<div class="firstHeading" style="font-size: 188%; padding-top: 1.65em; padding-bottom: 0.17em; float: right; position: absolute; right: 0.5em; top: 0%; width: 98%; background-color:#FFFFFF"></div>
+
 [[Image:Welcome.gif|right]]
 
 Welcome to '''[[Encyclopedia Twinsunica]]'''. This is the product of what once started as the LBA compendium project in December 2000. The goal of this project is to make a complete encyclopedia of the worlds of the adventure games [[wikipedia:Little Big Adventure|Little Big Adventure]] (Relentless) and [[wikipedia:Little Big Adventure 2|Little Big Adventure 2]] (Twinsen's Oddysey).
