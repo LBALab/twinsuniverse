@@ -254,6 +254,7 @@ And as a passenger:
 * {{thread|id=1660|title=Twinsen's 3D portrait}}
 * {{thread|id=11768|title=New to 3d moddeling}}
 * {{thread|id=12155|title=My Twinsen Sculpture}}
+* {{thread|id=12503|title=Twinsen DS painting}}
 
 ==External links==
 ===Fan art===
