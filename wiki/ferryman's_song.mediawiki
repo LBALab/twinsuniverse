@@ -27,4 +27,8 @@ Character=Official description}}
 Quote=Of course, it's fairly simple. You have to pay him in gems if you want him to take you. But first you have to call him. To do that, you have to stand at the end of the ferryman's pier and call him with this song. Listen to me and don't forget.|
 Character=Annie}}
 
+==Related threads==
+===Fan Creations===
+* {{thread|id=12511|title=Finally the Ferry man song!}}
+
 [[Category:Objects]]
