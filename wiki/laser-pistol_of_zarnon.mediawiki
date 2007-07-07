@@ -9,18 +9,17 @@ Enemy=Red enemies and lower|
 Rate=Slow|
 Damage=A lot|
 Range=Infinite}}
-
 {{Quote|
 Quote=You now own a laser-pistol in working condition. It gives you enough firepower to reach distant targets that your magical ball cannot reach.|
 Character=Official description}}
 
-==Description==
+== Description ==
 The '''pistolaser of Zarnon''', also simply called the '''laser-pistol''', requires a piece of [[rock crystal]] to work. Once loaded with such crystal, the laser-pistol is able to fire short, perfectly horizontal and slow moving laser rays that explode upon impact. It does lots of damage, and due to the horizontal rays it has a very long range. However, it reloads very slowly.
 
-==Role in Twinsen's adventure==
+== Role in Twinsen's Adventure ==
 To help him in his quest, the Dissidents awarded [[Twinsen]] with the Laser Pistol of Zarnon. Twinsen had to use this pistol to get past the [[Franco guards|guards]] and open the door at the passage to the [[Elevator to the Undergas]]. It did a great deal of damage, and was therefore a very good weapon to use. However, Twinsen was usually not wise enough to realize that, and did not use the pistol too often.
 
-==Additional quotes==
+== Additional Quotes ==
 {{Quote|
 Quote=You have found a laser-pistol. It needs a rock crystal to work properly.|
 Character=When Twinsen received the pistol}}
@@ -28,12 +27,12 @@ Character=When Twinsen received the pistol}}
 Quote=To reach the elevator, you need a powerful weapon. Here, this is a pistolaser of Zarnon. But you will have to find a crystal to make it work. There are some on the side of the volcano of the celebration.|
 Character=A dissident}}
 
-==Related threads==
-===Hints\Spoiers===
+== Related Threads ==
+=== Hints\Spoilers ===
 * {{thread|id=10088|title=rapid blaster}}
 * {{thread|id=10125|title=Controband laser gun?}}
 
-===Fan Art===
+=== Fan Art ===
 * {{thread|id=11287|title=Twinsen}}
 
-[[Category:Weapons]]
+[[Category: Weapons]]
