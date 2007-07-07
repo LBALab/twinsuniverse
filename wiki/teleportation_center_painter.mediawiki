@@ -9,25 +9,24 @@ Race=[[Rabbibunny]]|
 Gender=Male|
 Size=Medium|
 Age=Adult}}
-
+{{image}}
 {{Quote|
 Quote=It's weird this sign that appears, I paint over it regularly but it comes back every time.|
 Character=Teleportation Center painter}}
 
-==Description==
+== Description ==
 The '''Teleportation Center painter''', whose name is unknown, was in charge of doing some left painting work for [[FunFrock]]'s [[Teleportation Center]]. His main task was to paint over the symbol of [[Sendell]] that kept reappearing on the wall.
 
-==Role in Twinsen's adventure==
+== Role in Twinsen's Adventure ==
 After [[Mies van der Rooh]] had hinted on the weak point of the Teleportation Center on the left side of the building, the Teleportation Center painter gave [[Twinsen]] the final hint to his way of entrance to the well protected building. Twinsen had to blow the [[Horn of Gawley]] in front of the Sendell symbol on the wall in order to get inside the building.
 
-==Additional quotes==
+== Additional Quotes ==
 {{Quote|
 Quote=Clever, now there is no longer a sign on the wall.|
 Character=Teleportation Center painter}}
 
-[[Category:Rabbibunnies]]
-[[Category:Male characters]]
-[[Category:Average characters]]
-[[Category:Adult characters]]
-[[Category:Brundle Island inhabitants]]
-[[Category:Articles without an image]]
+[[Category: Rabbibunnies]]
+[[Category: Male characters]]
+[[Category: Average characters]]
+[[Category: Adult characters]]
+[[Category: Brundle Island inhabitants]]
