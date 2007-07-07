@@ -6,7 +6,7 @@ title: Yellow Grobo Clone
 Name=Yellow grobo clone|
 Image=lba_ingame_yellow_groboclone.jpg|
 Level=Yellow|
-Reaction=Move sideways|
+Reaction=Moves sideways|
 Recovery=0.7 seconds|
 Rate=2 seconds|
 Damage=8%|
