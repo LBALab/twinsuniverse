@@ -9,16 +9,16 @@ Race=[[Rabbibunny]]|
 Gender=Female|
 Size=Medium|
 Age=Adult}}
+{{image}}
 
-==Related threads==
-===General===
+== Related Threads ==
+=== General ===
 * {{thread|id=155|title=Twinsun - a happy jolly place? I THINK NOT}}
 
 {{Stub}}
 
-[[Category:Rabbibunnies]]
-[[Category:Female characters]]
-[[Category:Average characters]]
-[[Category:Adult characters]]
-[[Category:Citadel Island inhabitants]]
-[[Category:Articles without an image]]
+[[Category: Rabbibunnies]]
+[[Category: Female characters]]
+[[Category: Average characters]]
+[[Category: Adult characters]]
+[[Category: Citadel Island inhabitants]]
