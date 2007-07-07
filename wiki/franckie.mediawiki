@@ -2,7 +2,6 @@
 title: Franckie
 ---
 
-{{image}}
 {{Character|
 Name=Franckie|
 Image=DIVERS.gif|
@@ -10,7 +9,7 @@ Race=[[Franco]]|
 Gender=Male|
 Size=Medium|
 Age=Adult}}
-
+{{image}}
 {{Quote|
 Quote=You have to be crazy to believe all these stories of fragment hunting. Me, I think Roger lost it at home before getting eaten by a monster. What are you gonna do?, at least its good for business.|
 Character=Franckie}}
