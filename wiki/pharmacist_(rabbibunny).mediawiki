@@ -9,23 +9,23 @@ Race=[[Rabbibunny]]|
 Gender=Female|
 Size=Medium|
 Age=Adult}}
+{{image}}
 
-==Related threads==
-===General===
+== Related Threads ==
+=== General ===
 * {{thread|id=4091|title=Quote #340, from Little Big Adventure 2\Twinsen's Odyssey}}
 * {{thread|id=3650|title=Twinsen is having an affair?}}
 * {{thread|id=3121|title=Another quotes from LBA...}}
 * {{thread|id=155|title=Twinsun - a happy jolly place? I THINK NOT}}
 
-===Hints\Spoilers===
+=== Hints\Spoilers ===
 * {{thread|id=3937|title=LBA2: quetch and Pharmacist}}
 * {{thread|id=1413|title=Unsolved mysteries}}
 
 {{Stub}}
 
-[[Category:Rabbibunnies]]
-[[Category:Female characters]]
-[[Category:Average characters]]
-[[Category:Adult characters]]
-[[Category:Citadel Island inhabitants]]
-[[Category:Articles without an image]]
+[[Category: Rabbibunnies]]
+[[Category: Female characters]]
+[[Category: Average characters]]
+[[Category: Adult characters]]
+[[Category: Citadel Island inhabitants]]
