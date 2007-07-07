@@ -9,7 +9,7 @@ Race=[[Rabbibunny]]|
 Gender=Male|
 Size=Medium|
 Age=Adult}}
-
+{{image}}
 {{Quote|
 Quote=Welcome, Twinsen. I'd be honored to have you study with us. But even, though you once saved our world, you'll still have to pass the same tests as the other students.|
 Character=Mentor of the School of Magic}}
