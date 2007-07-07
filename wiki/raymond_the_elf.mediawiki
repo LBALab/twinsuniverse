@@ -9,21 +9,20 @@ Race=[[Elf]]|
 Gender=Male|
 Size=Small|
 Age=Kid}}
-
-==Related threads==
-===General===
+{{image}}
+== Related Threads ==
+=== General ===
 * {{thread|id=7689|title="the Elf"}}
 * {{thread|id=6418|title=Elves and magic powers}}
 * {{thread|id=6295|title=another weird quote}}
 
-===Fan Art===
+=== Fan Art ===
 * {{thread|id=3150|title=My first Lba image}}
 
 {{Stub}}
 
-[[Category:Elves]]
-[[Category:Male characters]]
-[[Category:Small characters]]
-[[Category:Infant characters]]
-[[Category:Hamalayi Mountains inhabitants]]
-[[Category:Articles without an image]]
+[[Category: Elves]]
+[[Category: Male characters]]
+[[Category: Small characters]]
+[[Category: Infant characters]]
+[[Category: Hamalayi Mountains inhabitants]]
