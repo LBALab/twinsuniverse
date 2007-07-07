@@ -2,4 +2,4 @@
 title: Clone
 ---
 
-#REDIRECT [[Category:Clones]]
+#REDIRECT [[:Category:Clones]]
