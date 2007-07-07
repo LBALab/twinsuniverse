@@ -9,7 +9,7 @@ Race=[[Quetch]]|
 Gender=Female|
 Size=Medium|
 Age=Adult}}
-
+{{image}}
 {{Quote|
 Quote=Raph? With him and Fab, we put together a killer combo to play some funky rock'n rave! But since he didn't show at the last rehearsal, no way I can tell you were he is now!|
 Character=Pat}}
@@ -19,10 +19,10 @@ Pat is a musician and the best friends with [[Fab]] and [[Raph]]. Like them, she
 
 Whenever music played in Chez Luc's jukebox, Pat came down to dance next to it.
 
-== Role in Twinsen's adventure ==
+== Role in Twinsen's Adventure ==
 Pat did not play any specific role in [[Twinsen]]'s adventure.
 
-== Additional quotes ==
+== Additional Quotes ==
 {{Quote|
 Quote=Hey!, we need some music here!|
 Character=Pat}}
@@ -36,9 +36,8 @@ Character=Pat}}
 Quote=Better ask his buddies Pat or Fab. They're upstairs. Haven't moved since it started raining.|
 Character=[[Luc]]}}
 
-[[Category:Quetches]]
-[[Category:Female characters]]
-[[Category:Average characters]]
-[[Category:Adult characters]]
-[[Category:Citadel Island inhabitants]]
-[[Category:Articles without an image]]
+[[Category: Quetches]]
+[[Category: Female characters]]
+[[Category: Average characters]]
+[[Category: Adult characters]]
+[[Category: Citadel Island inhabitants]]
