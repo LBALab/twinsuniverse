@@ -2,7 +2,7 @@
 title: Telepod
 ---
 
-{{image}}
+[[Image:Telepod.gif|right|thumb|97px|One of the many telepods found all over Twinsun during [[Dr. FunFrock]]'s regime.]]
 {{Quote|
 Quote=He has at his disposal two high tech weapons that insure his power: cloning and teleportation. He can clone any of the species at will, and subsequently recruit these clones into his ranks. He can then deploy these clones instantly through a network of telepods that are dispersed over the entire planet.|
 Character=Introduction}}
