@@ -2,4 +2,46 @@
 title: Clone
 ---
 
-#REDIRECT [[:Category:Clones]]
+{{image}}
+{{Quote|
+Quote=He has at his disposal two high tech weapons that insure his power: cloning and teleportation. He can clone any of the species at will, and subsequently recruit these clones into his ranks. He can then deploy these clones instantly through a network of telepods that are dispersed over the entire planet.|
+Character=Introduction}}
+
+== Description ==
+'''Clones''' are robots created by [[Dr. FunFrock]], that are designed to look like a representative of one of the [[Twinsun]]ian [[:Category: Twinsunian Species|races]]. They are created in the Cloning Center, which is located in the inside of [[FunFrock's Secret Fortress]]. The clones are then sent to the [[Teleportation Center]] on [[Brundle Island]], where they can be teleported to one of the many [[telepod]]s around the planet.
+
+Red clones have an unexplainable hatred against [[Meca-Penguin]]s. In Twinsen's second adventure, all clones hated [[Nitro-Meca-Penguin]]s.
+
+== Role in Twinsen's Adventures ==
+Clones where enemies to [[Twinsen]] throughout his first adventure. He had to fight them at many different occasions. The Supergros posed a great threat to Twinsen, as they were able to send him to prison.
+
+During his second adventure, Twinsen had to fight clones in [[Dark Monk's statue]].
+
+== Types of Clones ==
+=== Grobo Clones ===
+*[[Yellow grobo clone]]
+*[[Green grobo clone]]
+*[[Red grobo clone]]
+*[[Flying red grobo clone]]
+*[[Supergro]]
+*[[Grobo clone with club]]
+*[[Grobo clone with rocket launcher]]
+
+=== Rabbibunny Clones ===
+*[[Yellow rabbibunny clone]]
+*[[Green rabbibunny clone]]
+*[[Red rabbibunny clone]]
+*[[Blue rabbibunny clone]]
+
+=== Sphero Clones ===
+*[[Blue sphero clone]]
+*[[Red sphero clone]]
+
+=== Quetch Clones ===
+*[[Zoé clone]]
+*[[Twinsen clone]]
+*[[FunFrock clone]]
+
+''Note:'' There have been discussions whether [[Terrain Soldier]]s qualify as Quetch clones.
+
+[[Category: Clones|*]]
