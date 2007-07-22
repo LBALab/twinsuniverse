@@ -2,7 +2,6 @@
 title: Clone
 ---
 
-{{image}}
 {{Quote|
 Quote=He has at his disposal two high tech weapons that insure his power: cloning and teleportation. He can clone any of the species at will, and subsequently recruit these clones into his ranks. He can then deploy these clones instantly through a network of telepods that are dispersed over the entire planet.|
 Character=Introduction}}
@@ -43,5 +42,14 @@ During his second adventure, Twinsen had to fight clones in [[Dark Monk's statue
 *[[FunFrock Clone]]
 
 ''Note:'' There have been discussions whether [[Terrain Soldier]]s qualify as Quetch clones.
+
+== Some Clones ==
+<gallery>
+Image:Lba_ingame_yellow_groboclone.jpg|[[Yellow Grobo Clone]]
+Image:Grclone.gif‎|Yellow Grobo Clone
+Image:Whiteclone.gif|[[Supergro]]
+Image:Lba_ingame_yellow_rabbibunnyclone.jpg|[[Yellow Rabbibunny Clone]]
+Image:Redsphero.gif|[[Red Sphero Clone]]
+</gallery>
 
 [[Category: Clones|*]]
