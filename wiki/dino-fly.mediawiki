@@ -27,6 +27,7 @@ In both adventures, he provides a means of free transport around the planet for 
 * {{thread|id=1860|title=LBA1 Vs LBA2}}
 * {{thread|id=1352|title=Another weird savegame}}
 * {{thread|id=125|title=Dinofly}}
+* {{thread|id=10051|title=Dino-fly is a...}}
 
 ===Hints\Spoilers===
 * {{thread|id=7360|title=Found a way to make your Dino-Fly fly with the rain}}
