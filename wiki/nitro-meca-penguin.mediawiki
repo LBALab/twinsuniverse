@@ -53,6 +53,7 @@ Character=When Twinsen found a new penguin}}
 * {{thread|id=8574|title=Meca Penguin for beginners}}
 * {{thread|id=7228|title=Speech glitch & the penguin on the reef}}
 * {{thread|id=660|title=Found another Mecapeng}}
+* {{thread|id=12734|title=the meca penguin bug}}
 
 ===Fan Art===
 * {{thread|id=11287|title=Twinsen}}
