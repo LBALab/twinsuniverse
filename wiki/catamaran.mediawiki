@@ -2,7 +2,7 @@
 title: Catamaran
 ---
 
-[[Image:Catamara.gif|right|200px|thumb|The catamaran with the [[pirate flag]] attached.]]
+[[Image:Catamara.gif|right|199px|thumb|The catamaran with the [[pirate flag]] attached.]]
 {{Quote|
 Quote=Here it is: like new, good handling and fast, this catamaran is for you!... for 200 Kashes.|
 Character=A [[sphero]] sailor}}
