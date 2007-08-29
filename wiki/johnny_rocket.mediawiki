@@ -15,7 +15,7 @@ Quote=People from the planet Twinsun, we come to you in a spirit of peace. Thank
 Character=Johnny Rocket}}
 
 ==Description==
-Johnny Rocket is the first ever [[Esmer]] to set foot on [[Twinsun]]. Although he helped the [[Emperor]] and [[FunFrock]] this way, he is completely against their acts and ideas and therefore helps the dissidents rebelling against them.
+'''Johnny Rocket''' is the first ever [[Esmer]] to set foot on [[Twinsun]]. Although he helped the [[Emperor]] and [[FunFrock]] this way, he is completely against their acts and ideas and therefore helps the dissidents rebelling against them.
 Johnny lives on the [[Imperial Hotel]], at the upper town of [[Otringal]]. He also seems to be the only Esmer who can speak the Twinsunian language or has a [[translator]].
 
 ==Role in Twinsen's adventure==
