@@ -10,7 +10,7 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
-==Description ==
+== Description ==
 
 '''Twinsen''' is a young [[quetch]] from [[Citadel Island]], [[Twinsun]]. He received praise and fame for freeing Twinsun from the evil dictator [[FunFrock]] during his first adventure, and saving Twinsun from destruction as well as ridding Zeelich from [[Dark Monk's curse]] during his second adventure.
 
@@ -18,13 +18,13 @@ Twinsen is the last person in a secret line of heirs. This line was so secret, t
 
 Twinsen's appearance is marked by his blue magical [[tunic]], [[Sendell's Medallion]] and his [[Magic Ball]]. This was his default attire throughout most of both his adventures.
 
-===Character===
+=== Character ===
 
 Because of his adventures and quests for the greater good, Twinsen is well known for his courage among the people on both planets, but he remains a modest and friendly attitude. He stands up for the common people, as he has the strong urge in his blood to stand up against injustice, a common trait amongst the line of heirs.
 
 Some might say that before and during Twinsen's first adventure, Twinsen was rather shy and perhaps softer. He became more talkative and verbal around the time his second adventure started.
 
-===Relations===
+=== Relations ===
 
 [[Image:Twinsen 2.gif|right|145px|thumb|Twinsen when meeting Sendell]]Together with his girlfriend [[Zoé]], Twinsen has one baby son [[Arthur]], who was born right after peace between Zeelich and Twinsun was regained and the [[Emerald Moon]] was pushed back.
 
@@ -34,11 +34,11 @@ Some of Twinsen's closest friends include [[Jerome Baldino]] and [[Dino-Fly]].
 
 Twinsen is able to communicate with [[Sendell]] from anywhere, even from Zeelich, by means of the [[Sendell's Ball]] which he retrieved during his second adventure. He has also met in person with a physical representation of Sendell twice; at the end of both his adventures, the first of which together with Zoé.
 
-==Skills==
+== Skills ==
 
 Twinsen is known for his wide arrangement of athletic moves, magic skills, and the capability to handle a large amount of different weapons and vehicles.
 
-===Athletics===
+=== Athletics ===
 
 Some observative people on Twinsun and Zeelich have noticed that Twinsen has four basic modes of movement. Each of the most important movements within these modes are:
 
@@ -47,13 +47,13 @@ Some observative people on Twinsun and Zeelich have noticed that Twinsen has fou
 *Punching and kicking
 *Sneaking, crouching
 
-===Magic skills and Magic Ball===
+=== Magic skills and Magic Ball ===
 
 Twinsen went through the four stages of magic throughout the first adventure: Yellow, Green, Red and Fire. This was possible by retrieving respectively the [[Magic Ball]] itself, which doubles as indication of the current level of magic of the owner, then [[Sendell's Medallion]], the [[Book of Bù]] and eventually a [[flask of Clear Water]].
 
 Between his first and second adventure, Twinsen mostly dislearned his magic skills, and the Magic Ball degraded back to yellow. After the need arose to use it again, he gradually regained his magic skills throughout his second adventure.
 
-===Handling weapons===
+=== Handling weapons ===
 
 Apart from his bare fists and feet, Twinsen came across and used many weapons during his adventures which he used to his advantage. These were used in his first adventure:
 
@@ -71,7 +71,7 @@ Whereas during his second adventure, Twinsen got his hands on a larger array of 
 *[[Wannies Glove]]
 *[[Emperor's Sword]]
 
-===Handling vehicles===
+=== Handling vehicles ===
 
 Twinsen handled a large amount of vehicles during his adventures. Following is a summary of the means of transportation handled by Twinsen during his first adventure:
 
@@ -106,14 +106,14 @@ And as a passenger:
 *[[Upper-gas ferry]]
 *[[Ferryman]]
 
-==Twinsen's adventures==
+== Twinsen's adventures ==
 
 [[Image:Twinsen painting.gif|right|145px|thumb|A painting of Twinsen, hanging on a wall in [[Miss Bloop's Private Museum]]]][[Twinsen's first adventure]] refers to the epic event of Twinsen rising up as Heir and overthrowing the evil dictator [[FunFrock]]. The adventure starts where Twinsen has weird dreams and is thrown in the Citadel Island's [[citadel]], and ends when he defeats FunFrock, meets with [[Sendell]], and finally returns home with [[Zoé]].
 
 [[Twinsen's second adventure]] refers to the [[Zeelichian invasion]] on Twinsun and Twinsen's intervention of their plans of destroying Twinsun as well as uncovering the fake [[Dark Monk]]. This adventure is generally considered start with the [[Great Storm]], and ending with Twinsen pushing back the [[Emerald Moon]] with help of the Zeelichians, and returning home to Zoé and their newborn son [[Arthur]].
 
-==Related threads==
-===General===
+== Related threads ==
+=== General ===
 * {{thread|id=10988|title=Twinsen`s tattoo}}
 * {{thread|id=10944|title=a twinsen that could swim}}
 * {{thread|id=10898|title=Does Twinsen REALLY love Zoe`?}}
@@ -163,10 +163,10 @@ And as a passenger:
 * {{thread|id=11518|title=Wacky Twinsen game}}
 * {{thread|id=11665|title=Anyway of doing new moves with twinsen(lba2)}}
 
-===Hints\Spoilers===
+=== Hints\Spoilers ===
 * {{thread|id=1646|title=I think people should know this}}
 
-===Fan art===
+=== Fan art ===
 * {{thread|id=11118|title=Twinsen in clay}}
 * {{thread|id=6222|title=For those interested to see what a cell-shaded LBA would look like}}
 * {{thread|id=4852|title=Twinsen's model}}
@@ -249,4 +249,29 @@ And as a passenger:
 * {{thread|id=2036|title=My new twinsen}}
 * {{thread|id=1815|title=SEB's (Sethronn's Brother's) Twinsen 3d model}}
 * {{thread|id=2006|title=Twinsen Animation}}
-* {{thread|id=1821|ti
+* {{thread|id=1821|title=Drawing of Twinsen in black and white}}
+* {{thread|id=1907|title=Hair?}}
+* {{thread|id=1660|title=Twinsen's 3D portrait}}
+* {{thread|id=11768|title=New to 3d moddeling}}
+* {{thread|id=12155|title=My Twinsen Sculpture}}
+* {{thread|id=12503|title=Twinsen DS painting}}
+
+== External links ==
+=== Fan art ===
+* [http://www.deviantart.com/view/5691675/ Twinsen]
+* [http://www.deviantart.com/view/12986693/ LBA 2 Picture]
+* [http://www.deviantart.com/view/19250173/ Twinsen]
+* [http://www.deviantart.com/view/20104820/ Twinsen Fan art]
+* [http://www.deviantart.com/view/1047280/ Twinsen and Zoe]
+* [http://www.deviantart.com/view/23464621/ Twinsen]
+* [http://www.deviantart.com/deviation/45989513/ Toss the magic ball please]
+
+[[Category: Quetches]]
+[[Category: Male characters]]
+[[Category: Average characters]]
+[[Category: Adult characters]]
+[[Category: Citadel Island inhabitants]]
+[[Category: Good]]
+[[Category: Magic users]]
+[[Category: Gun wielders]]
+[[Category: Melee fighters]]
