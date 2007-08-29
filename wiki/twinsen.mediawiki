@@ -77,7 +77,7 @@ Twinsen handled a large amount of vehicles during his adventures. Following is a
 
 *[[Go-cart]]
 *[[Motor cycle]]
-*[[Sail boat]]
+*[[Catamaran]]
 *[[Hover boat]]
 *[[Tank]]
 *[[Snowboard]]
