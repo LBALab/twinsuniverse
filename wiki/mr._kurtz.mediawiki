@@ -15,7 +15,7 @@ Quote=Mr. Kurtz - Retired Colonel - Specializing in non-scientific sciences|
 Character=Sign outside Kurtz's house}}
 
 ==Description==
-Kurtz lives on the [[Village of the Francos]], in a house where he made sure no sunlight could come in. His flowers are the proof.
+'''Kurtz''' lives on the [[Village of the Francos]], in a house where he made sure no sunlight could come in. His flowers are the proof.
 Like most of the island's inhabitants, Kurtz is also in a treasure hunt after the lost [[Francos fragment|fragment]].
 
 ==Role in Twinsen's adventure==
