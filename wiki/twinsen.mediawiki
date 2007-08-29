@@ -12,7 +12,7 @@ Age=Adult}}
 
 ==Description ==
 
-Twinsen is a young [[quetch]] from [[Citadel Island]], [[Twinsun]]. He received praise and fame for freeing Twinsun from the evil dictator [[FunFrock]] during his first adventure, and saving Twinsun from destruction as well as ridding Zeelich from [[Dark Monk's curse]] during his second adventure.
+'''Twinsen''' is a young [[quetch]] from [[Citadel Island]], [[Twinsun]]. He received praise and fame for freeing Twinsun from the evil dictator [[FunFrock]] during his first adventure, and saving Twinsun from destruction as well as ridding Zeelich from [[Dark Monk's curse]] during his second adventure.
 
 Twinsen is the last person in a secret line of heirs. This line was so secret, that Twinsen himself did not know about this until the need came up for the heir to rise up and fight against the tyrant (FunFrock), as forespoken in the prophecy described in the [[Book of Bù]].
 
@@ -249,29 +249,4 @@ And as a passenger:
 * {{thread|id=2036|title=My new twinsen}}
 * {{thread|id=1815|title=SEB's (Sethronn's Brother's) Twinsen 3d model}}
 * {{thread|id=2006|title=Twinsen Animation}}
-* {{thread|id=1821|title=Drawing of Twinsen in black and white}}
-* {{thread|id=1907|title=Hair?}}
-* {{thread|id=1660|title=Twinsen's 3D portrait}}
-* {{thread|id=11768|title=New to 3d moddeling}}
-* {{thread|id=12155|title=My Twinsen Sculpture}}
-* {{thread|id=12503|title=Twinsen DS painting}}
-
-==External links==
-===Fan art===
-* [http://www.deviantart.com/view/5691675/ Twinsen]
-* [http://www.deviantart.com/view/12986693/ LBA 2 Picture]
-* [http://www.deviantart.com/view/19250173/ Twinsen]
-* [http://www.deviantart.com/view/20104820/ Twinsen Fan art]
-* [http://www.deviantart.com/view/1047280/ Twinsen and Zoe]
-* [http://www.deviantart.com/view/23464621/ Twinsen]
-* [http://www.deviantart.com/deviation/45989513/ Toss the magic ball please]
-
-[[Category:Quetches]]
-[[Category:Male characters]]
-[[Category:Average characters]]
-[[Category:Adult characters]]
-[[Category:Citadel Island inhabitants]]
-[[Category:Good]]
-[[Category:Magic users]]
-[[Category:Gun wielders]]
-[[Category:Melee fighters]]
+* {{thread|id=1821|ti
