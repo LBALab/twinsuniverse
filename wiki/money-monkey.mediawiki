@@ -15,7 +15,7 @@ Quote=I, my lad, am an assassin that Dark Monk's paid to eliminate you. But, loo
 Character=Money-Monkey}}
 
 ==Description==
-Money-Monkey is an assassin of an unknown race with four arms. He was sent by [[FunFrock]] to kill [[Twinsen]].
+'''Money-Monkey''' is an assassin of an unknown race with four arms. He was sent by [[FunFrock]] to kill [[Twinsen]].
 
 ==Role in Twinsen's adventure==
 When Twinsen has arrived on the [[Elevator to the Undergas|elevator]] platform, he met Money-Monkey. In order to use the elevator, he had to kill the monkey, who at that moment attacked Twinsen, to get the [[key]] to the elevator.
