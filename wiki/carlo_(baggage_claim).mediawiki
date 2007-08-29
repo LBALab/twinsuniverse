@@ -15,7 +15,7 @@ Quote=Hey mister! If you want, I can carry your crate up to the exit for 102 lit
 Character=Carlo}}
 
 ==Description==
-Carlo is a lazy-looking [[Quetch]] working at the [[Baggage Claim]] of [[Citadel Island]]. He is willing to do hard work once in a while, but only for a lot of money.
+'''Carlo''' is a lazy-looking [[Quetch]] working at the [[Baggage Claim]] of [[Citadel Island]]. He is willing to do hard work once in a while, but only for a lot of money.
 
 ==Role in Twinsen's adventure==
 When [[Twinsen]] had to get the crate which contained the [[proto-pack]] to the reception, Carlo offered to help for a certain price. Twinsen could let Carlo do the job, what would have costed him 102 [[Kashes]].
