@@ -15,7 +15,7 @@ Quote=I went shopping. Be back soon. Signed: your housemaid.|
 Character=Annie}}
 
 ==Description==
-Annie is the Priest's housemaid. She lives with her only son at a small house in the [[Village of the Wannies]].
+'''Annie''' is the Priest's housemaid. She lives with her only son at a small house in the [[Village of the Wannies]].
 
 ==Role in Twinsen's adventure==
 Twinsen had to go to other islands in the [[under-gas]]. He knew he could travel with the help of the [[ferryman]], but not how to get in contact with him. The Priest of the Wannies told Twinsen to ask his housemaid about it. Twinsen then went to Annie, who taught him the [[Ferryman's Song]], the song required to call the ferryman.
