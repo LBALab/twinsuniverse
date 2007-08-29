@@ -14,7 +14,7 @@ Range=Wide|
 Speed=Slow}}
 
 == Description ==
-'''Red Sphero Clones''' are [[sphero]] [[clone]]s created by [[Dr. FunFrock]]. They are used as guards for his [[FunFrock's Secret Fortress|secret fortress]] and are also used on the secret [[Construction site|construction site]] between [[Fortress Island|Fortress]] and [[Polar Island]].
+'''Red Sphero Clones''' are [[sphero]] [[clone]]s created by [[Dr. FunFrock]]. They are used as guards for his [[FunFrock's Secret Fortress|secret fortress]] and are also used on the secret [[construction site]] between [[Fortress Island|Fortress]] and [[Polar Island]].
 
 == Role in Twinsen's Adventure ==
 [[Twinsen]] had to defeat a Red Sphero Clone guarding the entrance to the secret fortress in order to access it. He needed the clone's [[key]] to open the locked door.
