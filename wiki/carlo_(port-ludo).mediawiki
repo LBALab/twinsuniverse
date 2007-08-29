@@ -15,7 +15,7 @@ Quote=Everybody talks about these guys from outer space, they say they landed on
 Character=Carlo}}
 
 ==Description==
-Carlo is an old Quetch who likes to play bowling along with his friend, [[Anatole]]. He lives on [[Desert Island]].
+'''Carlo''' is an old Quetch who likes to play bowling along with his friend, [[Anatole]]. He lives on [[Desert Island]].
 
 ==Role in Twinsen's adventure==
 Carlo did not help [[Twinsen]] with anything, but it was nice for the [[quetch]] to bother him by walking on their playground or by healing Anatole.
