@@ -26,7 +26,7 @@ When Twinsen found out he is the current Heir, he had to retrieve the items and 
 ==Additional quotes==
 
 {{Quote|
-Quote="This room contains information and weapons that were amassed for generations to help the Heir who will, one day, be chosen from our descendants. The key to the room was passed down from generation to generation, but our ancestor Hégésippe was the last family member to retain the key. He was attacked and killed by the ruthless pirate LeBorgne during a sea voyage. Nobody knows where Leborgne's treasure, which undoubtedly contains the golden key to the room, is today."|
+Quote=This room contains information and weapons that were amassed for generations to help the Heir who will, one day, be chosen from our descendants. The key to the room was passed down from generation to generation, but our ancestor Hégésippe was the last family member to retain the key. He was attacked and killed by the ruthless pirate LeBorgne during a sea voyage. Nobody knows where Leborgne's treasure, which undoubtedly contains the golden key to the room, is today.|
 Character=Runes at the cave beneath Twinsen's House, outside of the secret room}}
 
 {{Quote|
@@ -42,7 +42,7 @@ Quote=I read some extracts from the captain's log - LeBorgne was ruthless! If yo
 Character=Someone at [[Citadel Island]]}}
 
 {{Quote|
-Quote="To find Captain LeBorgne's treasure, the voyager who arrives at the port of Proxima island must use the closest mooring post as a guide. With his back to the docked boats, he must follow these instructions in DISCREET mode: 6 steps to the North (straight ahead), then 6 steps to the East (to his right), following the gradual slope. 2 steps to the North (straight ahead) until he reaches the metal garbage can, 3 steps to the East (to his right) until he arrives at a light post. He must stand EXACTLY between the 2 lamp posts, and then take 8 steps to the North until he arrives at a gate. Captain LeBorgne's treasure is in the building behind the gate."|
+Quote=To find Captain LeBorgne's treasure, the voyager who arrives at the port of Proxima island must use the closest mooring post as a guide. With his back to the docked boats, he must follow these instructions in DISCREET mode: 6 steps to the North (straight ahead), then 6 steps to the East (to his right), following the gradual slope. 2 steps to the North (straight ahead) until he reaches the metal garbage can, 3 steps to the East (to his right) until he arrives at a light post. He must stand EXACTLY between the 2 lamp posts, and then take 8 steps to the North until he arrives at a gate. Captain LeBorgne's treasure is in the building behind the gate.|
 Character="Authentic" [[Secret Map of LeBorgne's treasure]]}}
 
 {{Quote|
@@ -62,11 +62,11 @@ Quote=Hmmh! Quite a character that LeBorgne, he scoured the entire hemisphere a 
 Character=Someone at [[Principal Island]]}}
 
 {{Quote|
-Quote="Captain LeBorgne's treasure. This chest contains the fruits of a lifetime of dishonesty. It was seized by the IRS, the only predator known to this terrible pirate."|
+Quote=Captain LeBorgne's treasure. This chest contains the fruits of a lifetime of dishonesty. It was seized by the IRS, the only predator known to this terrible pirate.|
 Character=Sign in front of the treasure at the [[Maritime Museum]] on [[Proxima Island]]}}
 
 {{Quote|
-Quote="Skull flag. Pirate emblem belonging to the famous pirate Captain LeBorgne."|
+Quote=Skull flag. Pirate emblem belonging to the famous pirate Captain LeBorgne.|
 Character=Sign in front of the [[pirate flag]] at the [[Maritime Museum]]}}
 
 {{Quote|
