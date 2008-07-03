@@ -2,10 +2,10 @@
 title: Twinsuniverse Wiki
 ---
 
-{| style="background:lightblue; margin:12px auto; width:50%; -moz-border-radius:18px"
+{| style="background:lightblue; margin:12px auto; width:70%; -moz-border-radius:18px"
 |-
-| style="padding:10px; width:40%" | [[Image:Welcome.gif]]
-| style="background:#FFFFFF; border: 10px solid lightblue; padding:12px; -moz-border-radius:18px" | {{Lastupdate}}.
+| style="padding:10px; width:40%" | [[Image:Big_twinsun_with_blurred_atmosphere-cropped.png|300px|Encyclopedia Twinsunica]]
+| style="background:#FFFFFF; border: 10px solid lightblue; padding:12px; -moz-border-radius:18px" | {{Lastupdate}}
 |}
 
 {| style="width:95%" align="center"
