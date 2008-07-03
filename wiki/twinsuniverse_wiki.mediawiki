@@ -2,9 +2,9 @@
 title: Twinsuniverse Wiki
 ---
 
-{| style="background:lightblue; margin:12px auto; width:30%; -moz-border-radius:18px"
+{| style="background:lightblue; margin:12px auto; width:50%; -moz-border-radius:18px"
 |-
-| style="padding:10px" | [[Image:Welcome.gif]]
+| style="padding:10px; width:40%" | [[Image:Welcome.gif]]
 | style="background:#FFFFFF; border: 10px solid lightblue; padding:12px; -moz-border-radius:18px" | {{Lastupdate}}.
 |}
 
