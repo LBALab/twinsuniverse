@@ -17,4 +17,4 @@ The Twinsunica currently contains '''[[Twinsunica:Statistics|{{NUMBEROFARTICLES}
 
 '''WARNING''': This is a complete encyclopedia, meaning everything will be written about. This encyclopedia is full with spoilers!! So it's recommended not to read any further without having both games played. Otherwise, spoilers at your own risk.
 
-{{navigation}}
+{{mainnavigation}}
