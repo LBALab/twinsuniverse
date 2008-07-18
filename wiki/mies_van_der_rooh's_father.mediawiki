@@ -5,14 +5,14 @@ title: Mies van der Rooh's Father
 {{Character|
 Name=Mies van der Rooh's father|
 Image=Mies_Van_Der_Rooh's_Father.JPG|right
-Race=[[Rabbibunny]]|
+Race=Rabbibunny|
 Gender=Male|
 Size=Medium|
 Age=Adult}}
 {{image}}
 ==Related threads==
 ===General===
-* {{thread|id=4091|title=Quote #340, from Little Big Adventure 2\Twinsen's Odyssey}}
+Mies Van Der Rooh's father is seen In LBA2. He is Twinsen's neighbour, also living in Bug Street on Citidel Island.
 
 {{Stub}}
 
@@ -21,4 +21,3 @@ Age=Adult}}
 [[Category:Male characters]]
 [[Category:Adult characters]]
 [[Category:Citadel Island inhabitants]]
-[[Category:Articles without an image]]
