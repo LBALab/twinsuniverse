@@ -4,7 +4,7 @@ title: Mies van der Rooh's Father
 
 {{Character|
 Name=Mies van der Rooh's father|
-Image=DIVERS.gif|
+Image=Mies_Van_Der_Rooh's_Father.JPG|right
 Race=[[Rabbibunny]]|
 Gender=Male|
 Size=Medium|
