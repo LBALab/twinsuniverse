@@ -4,12 +4,12 @@ title: Mies van der Rooh
 
 {{Character|
 Name=Mies van der Rooh|
-Image=DIVERS.gif|
+Image=Mies_Van_Der_Rooh.JPG|right
 Race=[[Rabbibunny]]|
 Gender=Male|
 Size=Medium|
 Age=Adult}}
-{{image}}
+
 {{Quote|
 Quote=I was put in charge of verifying this building because it was built over ruins that are marked with a strange symbol. It seems that a mad man is attacking different sites also marked with the same symbol. All this extra work has really ruined my weekend! We're really worried about the Teleportation Centre: it's weak point is situated on the left, right after the first guard post.|
 Character=Mies van der Rooh}}
