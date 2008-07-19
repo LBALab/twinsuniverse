@@ -8,7 +8,7 @@ Image=Mies_Van_Der_Rooh's_Father.JPG|right
 Race=Rabbibunny|
 Gender=Male|
 Size=Medium|
-Age=Old}}
+Age=Adult}}
 
 
 
