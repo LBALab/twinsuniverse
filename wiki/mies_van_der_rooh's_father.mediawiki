@@ -10,11 +10,25 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 {{image}}
-==Related threads==
-===General===
+
+
+
+==Description==
+
 Mies Van Der Rooh's father is seen In LBA2. He is Twinsen's neighbour, also living in Bug Street on Citidel Island.
 
-{{Stub}}
+==Role in Twinsen's adventure==
+
+In Lba2, he has the map of the sewers which for him to properly unveil, he needs a vial of Gallac Acid, which Twinsem retrieves on Desert Island from Kara'ooc's house. He also gives you a pyramid key which is a vital point in the game, so you can open the secret room in the sewers where Twinsen gets the Sendell's Ball.
+
+==Additional Quotes==
+
+Here we have a very instructive map of the sewers. Before you can consult it, you must wait until I restore it. For that, I need a vial of gallic acid. Unfortunately, there's none left on the island.
+-''Mies Van Der Rooh's Father''
+
+The gallic acid has revealed a text previously invisible. It mentions a small pyramid that was in my possession. Here! It's yours!
+-''Mies Van Der Rooh's Father''
+
 
 [[Category:Rabbibunnies]]
 [[Category:Average characters]]
