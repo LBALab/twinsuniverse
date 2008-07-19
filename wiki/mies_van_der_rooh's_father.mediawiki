@@ -9,7 +9,6 @@ Race=Rabbibunny|
 Gender=Male|
 Size=Medium|
 Age=Adult}}
-{{image}}
 
 
 
