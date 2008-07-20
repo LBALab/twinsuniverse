@@ -2,13 +2,12 @@
 title: Baggage Claim Owner
 ---
 
-
 "You'll need a baggage chack to claim anything stored here"
 -Baggage Claim Owner
 
 {{Character|
 Name=Baggage Claim Owner|
-Image=Baggageclaimrabbibunny.JPG|
+Image=Grobo.JPG|
 Race=[[Grobo]]|
 Gender=Male|
 Size=Medium|
