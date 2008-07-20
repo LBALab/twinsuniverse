@@ -2,6 +2,9 @@
 title: Pharmacist (Rabbibunny)
 ---
 
+"Sorry I don't have anything for a Dino-Fly"
+- the rabbibunny pharmacist
+
 {{Character|
 Name=The Pharmacist|
 Image=Pharmacist.JPG|
@@ -10,6 +13,22 @@ Gender=Female|
 Size=Medium|
 Age=Adult}}
 
+==Description==
+
+ A female rabbibunny who is the new pharmacist. 
+
+==Role in Twinsen's adventure==
+
+When Twinsen is looking for a cure for his Dino-Fly in LBA2, he meets this rabbibunny in the pharmacy, who incidently is the new pharmacist, after the old one died in LBA1. She tells Twinsen she does not have a cure for Dino-Fly, and distracts everyone in the room while a theif comes in and steals a customers umbrella.
+
+==Additional Quotes==
+
+"But I do have a customer who works for a healing wizard named Ker'aooc.
+He lives on Desert Island. According to my friend, he treats everybody for everything."
+-the pharmacist (rabbibunny)
+
+"If you are interested in an item, stand in front of it and do 'action'"
+-the pharmacist (rabbibunny)
 
 == Related Threads ==
 === General ===
@@ -22,7 +41,6 @@ Age=Adult}}
 * {{thread|id=3937|title=LBA2: quetch and Pharmacist}}
 * {{thread|id=1413|title=Unsolved mysteries}}
 
-{{Stub}}
 
 [[Category: Rabbibunnies]]
 [[Category: Female characters]]
