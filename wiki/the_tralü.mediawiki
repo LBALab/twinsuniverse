@@ -10,6 +10,16 @@ Gender=Unknown|
 Size=Large|
 Age=Unknown}}
 
+==Description==
+
+The Tralu was a monster who lived in the caves up in the cliffs of Citidel Island, and who no-one was sure actually existed, until it was killed, by Twinsen when he was freeing Raph the Lighthouse keeper.
+The Tralu has two mini-tralus, possibly offspring, who Twinsen encounters in the cave first.
+
+==Role in Twinsen's adventure==
+
+When Twinsen discovers Raph captured by the Tralu, about to be turned into his dinner, Twinsen goes through several parts of the cave to reach, and kill the Tralu, and free Raph, so the Weather Wizard can use his Lighthouse for a spell.
+
+
 ==Related threads==
 ===General===
 * {{thread|id=903|title=Poor Tralu...}}
