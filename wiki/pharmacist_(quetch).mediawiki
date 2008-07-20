@@ -4,12 +4,12 @@ title: Pharmacist (Quetch)
 
 {{Character|
 Name=The Pharmacist|
-Image=DIVERS.gif|
+Image=pharmacistquetch.JPG|
 Race=[[Quetch]]|
 Gender=Male|
 Size=Medium|
 Age=Adult}}
-{{image}}
+
 {{Quote|
 Quote=Twinsen! What are you doing here? I heard you were arrested only yesterday!|
 Character=The pharmacist}}
