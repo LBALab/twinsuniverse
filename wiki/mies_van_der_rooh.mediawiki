@@ -4,7 +4,7 @@ title: Mies van der Rooh
 
 {{Character|
 Name=Mies van der Rooh|
-Image=Mies_Van_Der_Rooh.JPG|right
+Image=Mies_Van_Der_Rooh.JPG|
 Race=[[Rabbibunny]]|
 Gender=Male|
 Size=Medium|
