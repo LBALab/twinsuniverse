@@ -2,7 +2,7 @@
 title: Baggage Claim Rabbibunny
 ---
 
-==Description==
+
 {{Character|
 Name=Baggage Claim Rabbibunny|
 Image=Baggageclaimrabbibunny.JPG|
@@ -10,6 +10,8 @@ Race=[[Rabbibunny]]|
 Gender=Male|
 Size=Medium|
 Age=Adult}}
+
+==Description==
 
 A rabbibunny employed at the Baggage Claim on Citidel Island
 
