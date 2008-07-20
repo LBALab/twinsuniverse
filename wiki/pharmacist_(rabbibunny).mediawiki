@@ -4,12 +4,12 @@ title: Pharmacist (Rabbibunny)
 
 {{Character|
 Name=The Pharmacist|
-Image=DIVERS.gif|
+Image=Pharmacist.JPG|
 Race=[[Rabbibunny]]|
 Gender=Female|
 Size=Medium|
 Age=Adult}}
-{{image}}
+
 
 == Related Threads ==
 === General ===
