@@ -4,12 +4,12 @@ title: Mrs. Brune
 
 {{Character|
 Name=Brune|
-Image=DIVERS.gif|
+Image=Brune.JPG|
 Race=[[Rabbibunny]]|
 Gender=Female|
 Size=Medium|
 Age=Adult}}
-{{image}}
+
 {{Quote|
 Quote=This rain, will it ever end! Between my kids who were supposed to go on a field trip and my oldest son who keeps forgetting his umbrella...I hope that they're not outside in this weather.|
 Character=Brune}}
@@ -38,3 +38,4 @@ Character=Brune}}
 [[Category: Average characters]]
 [[Category: Adult characters]]
 [[Category: Neutral]]
+[[Category: Citadel Island inhabitants]]
