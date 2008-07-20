@@ -1,0 +1,44 @@
+---
+title: Scooterbunny
+---
+
+{{Character|
+Name=Scooterbunny|
+Image=Scooterbunny.JPG|
+Race=[[Rabbibunny]]|
+Gender=Male|
+Size=Medium|
+Age=Adult}}
+
+"That alien jalopies easy on the eyes, but it looks difficult to park!
+So for 8 kashes, where do I drop you?"
+-Scooterbunny
+
+==Description==
+
+A rabbibunny who taxi's citizens around Citidel Island for a small fare.
+
+==Role in Twinsen's adventure==
+
+A character who is just there if you can't be bothered to walk somewhere far on Citidel Island.
+He only drives his scooter though when it is sunny.
+Although when it is raining on Citidel Island he tells you that you can run and jump.
+
+==Additional Quotes==
+
+"Hold on!"
+-Scooterbunny
+
+"I don't talk to nutcases Mr Twinsen!"
+-Scooterbunny
+
+"I don't take anyone in the storm, I hate this weather. And why doesn't the Weather Wizard intervene, heh?
+By the way, did you notice that you could jump while you are running?"
+-Scooterbunny
+
+
+[[Category:Rabbibunnies]]
+[[Category:Average characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Citadel Island inhabitants]]
