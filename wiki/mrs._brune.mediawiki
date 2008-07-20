@@ -3,7 +3,7 @@ title: Mrs. Brune
 ---
 
 {{Character|
-Name=Brune|
+Name=Mrs Brune|
 Image=Brune.JPG|
 Race=[[Rabbibunny]]|
 Gender=Female|
