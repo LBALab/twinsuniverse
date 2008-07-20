@@ -4,7 +4,7 @@ title: Pat
 
 {{Character|
 Name=Pat|
-Image=DIVERS.gif|
+Image=Pat.JPG|
 Race=[[Quetch]]|
 Gender=Female|
 Size=Medium|
