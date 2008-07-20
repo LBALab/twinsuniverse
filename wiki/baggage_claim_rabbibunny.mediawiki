@@ -2,20 +2,4 @@
 title: Baggage Claim Rabbibunny
 ---
 
-{{Character|
-Name=Baggage Claim Rabbibunny |
-Image=|
-Race=[[Rabbibunny]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
-
-{{Quote|
-Quote=I got enough problems without you so get lost!|
-Character=Baggage Claim Rabbibunny}}
-
-==Description==
-The Baggage Claim Rabbibunny works at the Baggage Claim on Citidel Island, down in the basement area.
-
-==Role in Twinsen's adventure==
-He only features in LBA2, just as a grumpy worker down in the Baggage Claim.
+[[Category: Citadel Island inhabitants]]
