@@ -9,7 +9,7 @@ Race=[[Quetch]]|
 Gender=Female|
 Size=Medium|
 Age=Adult}}
-{{image}}
+
 {{Quote|
 Quote=Raph? With him and Fab, we put together a killer combo to play some funky rock'n rave! But since he didn't show at the last rehearsal, no way I can tell you were he is now!|
 Character=Pat}}
