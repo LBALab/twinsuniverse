@@ -1,0 +1,25 @@
+---
+title: Warehouse Grobo
+---
+
+{{Character|
+Name=Warehouse Grobo|
+Image=Warehousegrobo.JPG|
+Race=[[Grobo]]|
+Gender=Male|
+Size=Medium|
+Age=Adult}}
+
+==Description==
+
+A grobo in the harbour of Citidel Island who sells Twinsen fake ferry tickets in LBA1, because the ticket clerk recognizes him as a wanted man. The warehouse that the Grobo is standing outside is replaced with Mr Paul's house in LBA2.
+
+==Role in Twinsen's adventure==
+
+When Twinsen needs a ferry ticket, but wont get sold one from the ticket clerk due to him being an escaped prisoner, he has to help a grobo move crates in an old warehouse, so he will get rewarded with a ticket.
+
+[[Category:Grobos]]
+[[Category:Male characters]]
+[[Category:Average characters]]
+[[Category:Adult characters]]
+[[Category:Citadel Island inhabitants]]
