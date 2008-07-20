@@ -4,7 +4,7 @@ title: Drunk Rabbibunny
 
 {{Character|
 Name=Drunk rabbibunny|
-Image=Drunk.JPG|
+Image=Drunk.JPG‎|
 Race=[[Rabbibunny]]|
 Gender=Male|
 Size=Medium|
