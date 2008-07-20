@@ -10,12 +10,11 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
-"I've had it up to my trunk! There are 4 crates in the warehouse that I cannot seem to arrange on the 4 crosses painted on the ground. I would gladly give a ferry ticket to anyone who could help me out of this mess."
--Warehouse Grobo
+{{Quote|Quote=I've had it up to my trunk! There are 4 crates in the warehouse that I cannot seem to arrange on the 4 crosses painted on the ground. I would gladly give a ferry ticket to anyone who could help me out of this mess.|Character=Warehouse Grobo}}
 
 ==Description==
 
-A grobo in the harbour of Citidel Island who sells Twinsen fake ferry tickets in LBA1, because the ticket clerk recognizes him as a wanted man. The warehouse that the Grobo is standing outside is replaced with Mr Paul's house in LBA2.
+A grobo in the harbour of Citadel Island who sells Twinsen fake ferry tickets in LBA1, because the ticket clerk recognizes him as a wanted man. The warehouse that the Grobo is standing outside is replaced with Mr Paul's house in LBA2.
 
 ==Role in Twinsen's adventure==
 
@@ -23,14 +22,7 @@ When Twinsen needs a ferry ticket, but wont get sold one from the ticket clerk d
 
 ==Additional Quotes==
 
-"Hello!"
--Warehouse Grobo
-
-"I don't know what that is all about."
--Warehouse Grobo
-
-"If you still want to take the ferry I can sell you some tickets for only 5 kashes each. I print them up myself."
--Warehouse Grobo
+{{Quote|Quote=If you still want to take the ferry I can sell you some tickets for only 5 kashes each. I print them up myself.|Character=Warehouse Grobo}}
 
 
 [[Category:Grobos]]
