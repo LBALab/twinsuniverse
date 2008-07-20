@@ -1,0 +1,37 @@
+---
+title: Baggage Claim Owner
+---
+
+
+"You'll need a baggage chack to claim anything stored here"
+-Baggage Claim Owner
+
+{{Character|
+Name=Baggage Claim Owner|
+Image=Baggageclaimrabbibunny.JPG|
+Race=[[Grobo]]|
+Gender=Male|
+Size=Medium|
+Age=Adult}}
+
+==Description==
+
+A grobo who owns the Baggage Claim on Citidel Island. He has two known employees.
+
+==Role in Twinsen's adventure==
+
+The main purpose of him was to let Twinsen have his proto-pack when it was delivered by Baldino during a certain time of the game. 
+Before and after it though, the doors to the basement and main parts of the Baggage Claim were locked, and he would not let
+Twinsen in. He employs a greedy quetch and a Rabbibunny who work down below.
+
+==Additional Quotes==
+
+"Go ahead Mr Twinsen, it's your property isn't it?"
+-the Baggage Claim Owner
+
+
+
+[[Category: Citadel Island inhabitants]]
+[[Category:Grobos]]
+[[Category:Male characters]][[Category:Adult characters]]
+[[Category:Citadel Island inhabitants]]
