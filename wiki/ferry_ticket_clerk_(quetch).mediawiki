@@ -4,7 +4,7 @@ title: Ferry Ticket Clerk (Quetch)
 
 {{Character|
 Name=Ticket Clerk (Quecth)|
-Image=|
+Image=Ticket_clerk.JPG|
 Race=[[Quetch]]|
 Gender=Male|
 Size=Medium|
