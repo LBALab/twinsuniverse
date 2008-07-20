@@ -1,0 +1,35 @@
+---
+title: Ferry Ticket Clerk (Quetch)
+---
+
+{{Character|
+Name=Ticket Clerk (Quecth)|
+Image=|
+Race=[[Quetch]]|
+Gender=Male|
+Size=Medium|
+Age=Adult}}
+
+"Welcome to the Inter-Island's Ferry Mr Twinsen!"
+
+==Description==
+
+A quetch who is the Ticket Clerk for the Inter-Island Ferries in the Harbour of Citidel Island.
+
+==Role in Twinsen's adventure==
+
+Every time Twinsen wants to board a ferry from Citidel Island in LBA2, he must go into the Ferry building, and buy a ticket from him. He reccomends to Twinsen at the start to read the posters advertising Desert Island and the Temple of Bu. He has an assisitant behind the counter with him, Mrs Brune.
+
+==Additional Quotes==
+
+"What can I do for you?"
+-Ticket Clerk
+
+"Why don't you read the posters, and if you are interested in a destination, you tell me."
+-Ticket Clerk
+
+"For 10 kashes wher, where do you want to go?"
+-Ticket Clerk
+
+"You can board as soon as the storms over"
+-Ticket Clerk
