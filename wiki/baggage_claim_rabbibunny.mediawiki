@@ -5,7 +5,7 @@ title: Baggage Claim Rabbibunny
 ==Description==
 {{Character|
 Name=Baggage Claim Rabbibunny|
-Image=Baggageclaimrabbibunny.jpg|
+Image=Baggageclaimrabbibunny.JPG|
 Race=[[Rabbibunny]]|
 Gender=Male|
 Size=Medium|
