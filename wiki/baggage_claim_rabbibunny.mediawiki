@@ -2,7 +2,6 @@
 title: Baggage Claim Rabbibunny
 ---
 
-
 {{Character|
 Name=Baggage Claim Rabbibunny|
 Image=Baggageclaimrabbibunny.JPG|
@@ -13,7 +12,7 @@ Age=Adult}}
 
 ==Description==
 
-A rabbibunny employed at the Baggage Claim on Citidel Island
+A rabbibunny employed at the Baggage Claim on Citadel Island
 
 ==Role in Twinsen's adventure==
 
@@ -24,7 +23,7 @@ Twinsen meets him in LBA2 when he is collecting his Protopack from the Baggage C
 ==Additional Quotes==
 
 "I got enough troubles without you so get lost!"
--the Baggagee Claim Rabbibunny
+-the Baggage Claim Rabbibunny
 
 
 [[Category: Citadel Island inhabitants]]
