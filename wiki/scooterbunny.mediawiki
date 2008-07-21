@@ -10,19 +10,19 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
-"That alien jalopies easy on the eyes, but it looks difficult to park!
+"That alien jalopy's easy on the eyes, but it looks difficult to park!
 So for 8 kashes, where do I drop you?"
 -Scooterbunny
 
 ==Description==
 
-A rabbibunny who taxi's citizens around Citidel Island for a small fare.
+A rabbibunny who taxi's citizens around Citadel Island for a small fare.
 
 ==Role in Twinsen's adventure==
 
 A character who is just there if you can't be bothered to walk somewhere far on Citidel Island.
 He only drives his scooter though when it is sunny.
-Although when it is raining on Citidel Island he tells you that you can run and jump.
+Although when it is raining on Citidal Island he tells you that you can run and jump.
 
 ==Additional Quotes==
 
