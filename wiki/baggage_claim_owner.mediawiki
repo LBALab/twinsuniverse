@@ -15,7 +15,7 @@ Age=Adult}}
 
 ==Description==
 
-A grobo who owns the Baggage Claim on Citidel Island. He has two known employees.
+A grobo who owns the Baggage Claim on Citadel Island. He has two known employees.
 
 ==Role in Twinsen's adventure==
 
@@ -33,4 +33,3 @@ Twinsen in. He employs a greedy quetch and a Rabbibunny who work down below.
 [[Category: Citadel Island inhabitants]]
 [[Category:Grobos]]
 [[Category:Male characters]][[Category:Adult characters]]
-[[Category:Citadel Island inhabitants]]
