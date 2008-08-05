@@ -107,6 +107,9 @@ Character=Jerome Baldino}}
 Quote=Come in! Twinsen? It's me, Baldino! I've improved your protopack, you can come pick it up now!|
 Character=Jerome Baldino}}
 
+== Trivia ==
+Jerome Baldino's model is the French showman [http://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Bonaldi Jérôme Bonaldi] who is known for specialising in presenting scientific inventions on radio and television.
+
 ==Related threads==
 ===General===
 * {{thread|id=9154|title=Am I the only one seeing this?!}}
