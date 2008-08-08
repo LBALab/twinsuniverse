@@ -4,12 +4,11 @@ title: Raph's Fiancée
 
 {{Character|
 Name=Raph's fiancé|
-Image=DIVERS.gif|
+Image=Ralph's fiance portrait.jpg|
 Race=[[Rabbibunny]]|
 Gender=Female|
 Size=Medium|
 Age=Adult}}
-{{image}}
 {{Quote|
 Quote=I don't understand why the lighthouse is closed and turned off. What could my fiancé Raph, be doing? By the way, Mr. Twinsen, did you know you can jump over the rocks if you are trapped?|
 Character=Raph's fiancé}}
