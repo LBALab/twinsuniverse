@@ -15,7 +15,7 @@ Quote=Hello miss Bloop.|
 Character=Twinsen}}
 
 ==Description==
-As a gratitude to the hero of the planet, Bloop (usually referred to as Miss Bloop) opened a [[Miss Bloop's Private Museum|museum]] dedicated to [[Twinsen]]. There, one can find items realted to Twinsen's first adventure.
+As a gratitude to the hero of the planet, Bloop (usually referred to as Miss Bloop) opened a [[Miss Bloop's Private Museum|museum]] dedicated to [[Twinsen]]. There, one can find items related to Twinsen's first adventure.
 It seems like this nice grobo dedicates herself to the museum, spending a great deal of time there.
 
 ==Role in Twinsen's adventure==
