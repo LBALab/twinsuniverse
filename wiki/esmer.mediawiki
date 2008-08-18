@@ -26,7 +26,7 @@ Image:Screenshot-lba2-movies-03-esmers_arrival-SORT571.gif|Esmers landing on Cit
 Image:Screenshot-lba2-ingame-citadel_island-lupin_burg.gif|Esmers in Lupin-Burg
 Image:Screenshot-lba2-movies-12-children_abduction-ENFA362.gif|An Esmer spaceship abducting the children
 Image:Esmers_lupin_burg.jpg|Esmer patrols
-Image:Mine_field.jpg|A mine field by the Esmers
+Image:Mine_field.jpg|A land mine field by the Esmers
 </gallery>
 
 During the military presence of the Esmers on [[Twinsun]] Esmer troops and robots were guarding the streets, many public places, like [[Chez Luc]] and [[Miss Bloop's Private Museum]] were closed, along with the ferry service.
