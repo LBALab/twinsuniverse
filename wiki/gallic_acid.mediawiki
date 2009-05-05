@@ -9,7 +9,7 @@ Quote=Gallic acid is used to restore ancient documents. It allows you to brighte
 Character=Official description}}
 
 ==Description==
-At this flask, '''Gallic Acid''' is stored. It is a type of acid used to restore ancient documents.  The bottle is very colourful, coloured yellow, blue and red.
+In this flask, '''Gallic Acid''' is stored. It is a type of acid used to restore ancient documents.  The bottle is very colourful, coloured yellow, blue and red.
 
 ==Role in Twinsen's adventure==
 After receiving the bottle from [[Leone]], [[Twinsen]] gave the flask with the gallic acid to [[Mies van der Rooh's father|his elderly neighbour]] on [[Citadel Island]]. The neighbour used it to restore an ancient map of the [[Citadel Island sewers|Citadel Island sewer system]], which revealed that the [[pyramid-shaped key]], which he then gave to Twinsen, could be used to open the secret door to a room in which the Weather Wizard [[Bersimon]] concealed [[Sendell's Ball]] in an icy case.
