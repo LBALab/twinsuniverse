@@ -20,7 +20,7 @@ Character=Official description, Twinsen's first adventure}}
 ==Description==
 The '''magic ball''' is, as the name suggests, a ball that stores a great deal of magic. This ball bounces a couple of times if it doesn't hit any enemy, and then automatically returns to its owner. The magic ball needs the [[Ancestral Tunic]] to function, since it is the primary source of magic. This weapon upgrades along with its owner's magic level.
 
-The color of the magic ball indicates the possessor's current level of magic. The magic levels are, from weakest to strongest: yellow, green, red and fire. To increase the magic level, one needs to recover magical items, one for each level. For a further description, read below.
+The color of the magic ball indicates the possessor's current level of magic. The magic levels are, from weakest to strongest: yellow, green, red and fire. To increase the magic level, one needs to recover magical items, one for each level.
 
 Every time one throws the magic ball, it uses some [[magic points]]. If the person is out of magic points, the ball can still be thrown, but it won't bounce any more, which dramatically decreases the ball range and functionality.
 
