@@ -27,7 +27,7 @@ Every time one throws the magic ball, it uses some [[magic points]]. If the pers
 The ball can be used for some special functions. Firstly, the trajectory of the ball can be altered by changing the "behaviour" (movement mode). In discreet mode, for example, the ball is thrown higher instead of far. This is handy for reaching switches that can't be reached otherwise. Second, the magic ball can retrieve [[keys]]; if there's a key somewhere in the current scene, throwing the magic ball at it will pick it up and return it to the owner.
 
 ==Role in Twinsen's adventures==
-The magic ball was [[Twinsen]]'s primary ranged weapon in his two adventures. Due to its great functionality and powerful shots, this weapon was most used by Twinsen in both his adventures. Not only as a weapon, but also to reach switches and retrieve keys.
+The magic ball was [[Twinsen]]'s primary ranged weapon in his two adventures. Due to its great functionality and powerful shots, this weapon was most used by Twinsen in both his adventures, not only as a weapon, but also to reach switches and retrieve keys.
 
 The four items Twinsen had to obtain in his two adventures in order to get a higher level of magic were:
 
