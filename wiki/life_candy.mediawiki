@@ -9,7 +9,7 @@ Quote=10 Life points! Cool!|
 Character=[[Twinsen]]}}
 
 ==Description==
-Made to look like hearts, these '''life candies''' contain a special genetic stimulant that triggers a re-growth of any damaged part of the body. Because the stimulant gets used up as it works, each capsule only allows a slight recovery of health. As such, they are used to heal minor injuries, and generally increase a person's stamina.
+Made to look like hearts, these '''life candies''' contain a special genetic stimulant that triggers the regeneration of any damaged part of the body. Because the stimulant is used up as it works, each capsule only allows a slight recovery of health. As such, they are used to heal minor injuries, and generally increase a person's stamina.
 
 Because of the cheap, widely available nature of the medicine, there is little sickness or disability on [[Twinsun]].
 
