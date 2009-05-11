@@ -10,6 +10,8 @@ Gender=Female|
 Size=Large|
 Age=Adult}}
 
+''"Hi Twinsen.  Far as I'm concerned, I like it when it rains.  The grass gets nicely thick.  Makes it taste better."''
+
 == Description ==
 Rose-Marie is found eating grass near the ruins of the old Citadel.
 
