@@ -18,11 +18,11 @@ Quote=Magic Ball. Each time you reach a higher level of magic, the Magic Ball's 
 Character=Official description, Twinsen's first adventure}}
 
 ==Description==
-The '''magic ball''' is, as the name suggests, a ball that stores a great deal of magic. This ball bounces a couple of times if it doesn't hit any enemy, and then automatically returns to the owner. The magic ball needs the [[Ancestral Tunic]] to function, since it is the primary source of magic. This weapon upgrades along with the owner's magic level.
+The '''magic ball''' is, as the name suggests, a ball that stores a great deal of magic. This ball bounces a couple of times if it doesn't hit any enemy, and then automatically returns to its owner. The magic ball needs the [[Ancestral Tunic]] to function, since it is the primary source of magic. This weapon upgrades along with its owner's magic level.
 
 The color of the magic ball indicates the possessor's current level of magic. The magic levels are, from weakest to strongest: yellow, green, red and fire. To increase the magic level, one needs to recover magical items, one for each level. For a further description, read below.
 
-Everytime one throws the magic ball, it uses some [[magic points]]. If the person is out of magic points, the ball can still be thrown, but it won't bounce any more, which dramatically decreases the ball range and functionality.
+Every time one throws the magic ball, it uses some [[magic points]]. If the person is out of magic points, the ball can still be thrown, but it won't bounce any more, which dramatically decreases the ball range and functionality.
 
 The ball can be used for some special functions. Firstly, the trajectory of the ball can be altered by changing the "behaviour" (movement mode). In discreet mode, for example, the ball is thrown higher instead of far. This is handy for reaching switches that can't be reached otherwise. Second, the magic ball can retrieve [[keys]]; if there's a key somewhere in the current scene, throwing the magic ball at it will pick it up and return it to the owner.
 
