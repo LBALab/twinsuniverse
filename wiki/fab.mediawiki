@@ -15,7 +15,7 @@ Quote=Raph? With him and Fab, we put together a killer combo to play some funky 
 Character=Pat}}
 
 ==Description==
-Fab is a musician and the best friends with [[Pat]] and [[Raph]]. Just like them, he likes hanging out in [[Chez Luc]].
+Fab is a musician and is best friends with [[Pat]] and [[Raph]]. Just like them, he likes hanging out in [[Chez Luc]].
 
 ==Role in Twinsen's adventure==
 Apart from the hint where Raph is, Fab had no role.
