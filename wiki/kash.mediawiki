@@ -9,7 +9,7 @@ Quote=It is the exchange currency of your planet Twinsun. It allows you to buy t
 Character=Official description}}
 
 ==Description==
-'''Kashes''' are the [[currency]] in [[Twinsun]], [[Twinsen]]'s planet. They are used by the inhabitants of the planet to buy anything they wish.
+'''Kashes''' are the [[currency]] on [[Twinsun]], [[Twinsen]]'s planet. They are used by the inhabitants of the planet to buy anything they wish.
 
 The kashes can be easily found almost anywhere around the planet, by searching rubbish cans or plants.
 
