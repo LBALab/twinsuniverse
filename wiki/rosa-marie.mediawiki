@@ -10,27 +10,25 @@ Gender=Female|
 Size=Large|
 Age=Adult}}
 
+== Description ==
+Rose-Marie is found eating grass near the ruins of the old Citadel.
+
 ==Related threads==
 ===General===
 * {{thread|id=11024|title=some fun stuff and tips}}
 * {{thread|id=9111|title=Just a little weird poll...}}
-* {{thread|id=8086|title=Twinsen's gift :p}}
 * {{thread|id=8374|title=Rosa the Cow}}
 * {{thread|id=833|title=The cheat what went too far!}}
-* {{thread|id=7428|title=some hidden animal sex in lba 2}}
 * {{thread|id=5878|title=Does anyone......?}}
 * {{thread|id=5705|title=The Rosa trick}}
-* {{thread|id=1695|title=The pervert cheat...}}
 * {{thread|id=250|title=The funny and rude bits in LBA...}}
 * {{thread|id=11117|title=The cow}}
 
 ===Hints\Spoilers===
-* {{thread|id=11475|title=Make love the the cow in LBA2}}
 * {{thread|id=10385|title=every point of interest i could find (lba2) that isnt on this site, that needs to be!}}
 * {{thread|id=7717|title=Cheat poll}}
 * {{thread|id=4382|title=Wa-hey!}}
 * {{thread|id=4847|title=Cow}}
-* {{thread|id=2240|title=Twinsen is a cheater!!}}
 
 ===Fan Art===
 * {{post|id=112171|title=Lba3}}
