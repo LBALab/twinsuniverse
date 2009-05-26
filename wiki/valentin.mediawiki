@@ -15,7 +15,7 @@ Quote=This Roger de la Fontaine, he used to get pretty close to the gas. Could w
 Character=Valentin}}
 
 ==Description==
-Valentin is just one of the many inhabitants on the [[Island of the Francos]], who is searching for the lost [[Franco Key Fragment]]. He uses a pendulum to find it.
+Valentine is just one of the many inhabitants on the [[Island of the Francos]], who is searching for the lost [[Franco Key Fragment]]. He uses a dowsing pendulum to find it.
 
 ==Role in Twinsen's adventure==
 Valentin gave [[Twinsen]] a clue, that the fragment might be buried near the gas.
