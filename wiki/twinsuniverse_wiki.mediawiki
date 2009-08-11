@@ -2,6 +2,7 @@
 title: Twinsuniverse Wiki
 ---
 
+{{Traduction}} 
 {| style="background:lightblue; margin:12px auto; width:70%; -moz-border-radius:18px"
 |-
 | style="padding:10px; width:40%" | [[Image:Big_twinsun_with_blurred_atmosphere-cropped.png|300px|Encyclopedia Twinsunica]]
@@ -11,11 +12,6 @@ title: Twinsuniverse Wiki
 {| style="width:95%" align="center"
 |-
 | style="vertical-align:top" |
-Welcome to '''[[Encyclopedia Twinsunica]]'''. This is the product of what once started as the LBA compendium project in December 2000. The goal of this project is to make a complete encyclopedia of the worlds of the adventure games [[wikipedia:Little Big Adventure|Little Big Adventure]] (Relentless) and [[wikipedia:Little Big Adventure 2|Little Big Adventure 2]] (Twinsen's Oddysey).
+Bienvenue dans l' '''[[Encyclopedie Twinsunica]]'''. Il s'agit du résultat du travail qui a débuté en décembre 2000. Le but de ce projet est de constituer une encyclopédie complète sur les lieux traversés dans les jeux que sont [[wikipedia:Little Big Adventure|Little Big Adventure]] (Relentless) and [[wikipedia:Little Big Adventure 2|Little Big Adventure 2]] (Twinsen's Oddysey).
 
-The Twinsunica currently contains '''[[Twinsunica:Statistics|{{NUMBEROFARTICLES}}]]''' articles.
-
-'''WARNING''': This is a complete encyclopedia, meaning everything will be written about. This encyclopedia is full with spoilers!! So it's recommended not to read any further without having both games played. Otherwise, spoilers at your own risk.
-
-
-{{mainnavigation}}
+[[en:Twinsuniverse_Wiki]]
