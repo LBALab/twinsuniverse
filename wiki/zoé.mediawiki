@@ -11,6 +11,10 @@ Size=Medium|
 Age=Adult}}
 
 {{Quote|
+Quote=[[Twinsen]], rush to the downtown pharmacy and find a cure for the Dino-Fly! He has just crashed in the garden and looks injured.|
+Character=[[Zoé]] upon greeting Twinsen, the first scene to start LBA2}}
+
+{{Quote|
 Quote=This statue pays tribute to Zoé and me. Without her, I could have never defeated the infamous [[FunFrock]].|
 Character=[[Twinsen]]}}
 
