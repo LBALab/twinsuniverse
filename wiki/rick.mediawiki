@@ -10,6 +10,8 @@ Gender=Male|
 Size=Large|
 Age=Adult}}
 
+Owner of [[Rick's Café]].
+
 ==Related threads==
 ===General===
 * {{thread|id=7112|title=The Godfather}}
