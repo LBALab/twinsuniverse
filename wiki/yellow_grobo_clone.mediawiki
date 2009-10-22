@@ -13,21 +13,15 @@ Damage=8%|
 Range=Melee|
 Speed=14.4 kph average; 18 maximum}}
 
-{{Quote|
-Quote=You need a ticket to board the ferry. You can buy one next door.|
-Character=A yellow grobo clone at the [[Citadel Island harbour]]}}
 
-== Description ==
-'''Yellow Grobo Clones''' were observer clones created by [[Dr. FunFrock]]. They were not capable of fighting for FunFrock, and therefore were used as normal workers, for example to keep an eye on the passengers at the [[Citadel Island harbour|Citadel Island]] and [[Principal Island harbour|Principal Island]] harbours. They were seen guarding a closed gate or [[Twinsen's house]] on [[Citadel Island]], too.
+'''Yellow Grobo Clones''' were observer clones created by [[Dr. FunFrock]]. They were not capable of fighting for FunFrock, and therefore were used as normal workers, for example to keep an eye on the passengers at the [[Citadel Island harbour|Citadel Island]] and [[Principal Island harbour|Principal Island]] harbours. They are seen guarding a closed gate or [[Twinsen's house]] on [[Citadel Island]], too.
 
-== Role in Twinsen's Adventure ==
+In order to get to [[Principal Island]], [[Twinsen]] has to use the [[ferry]]. The gate to the harbour, however, is blocked by a yellow grobo clone. After defeating it with his [[magic ball]], Twinsen is able to get onto the ferry.
+
 [[Image:Grclone.gif|right|70px|frame|The grobo clone without a helmet]]
-In order to get to [[Principal Island]], [[Twinsen]] had to use the [[ferry]]. The gate to the harbour, however, was blocked by a yellow grobo clone. After defeating it with his [[magic ball]], Twinsen was able to get onto the ferry.
+In [[Funky Town]], [[Twinsen]] encounters a yellow grobo clone without a helmet. For a certain amount of [[Kash|money]], Twinsen bought information from the grobo clone about the plans of the [[Teleportation Center]] being in [[FunFrock's headquarters]].
 
-Though the clones were present on other places, they were not important for Twinsen's adventure most of the time.
-
-== Trivia ==
-In [[Funky Town]], [[Twinsen]] encountered a yellow grobo clone without a helmet. For a certain amout of [[Kash|money]], one could buy information from him. Twinsen himself got information from the grobo clone about the plans of the [[Teleportation Center]] being in [[FunFrock's headquarters]].
+Though the clones are present on other places, they are not important in the game most of the time.
 
 A portrait of a yellow grobo clone is found in [[Miss Bloop's Private Museum]]. It has a safe hidden behind it.
 
