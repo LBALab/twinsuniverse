@@ -13,35 +13,19 @@ Damage=Little|
 Range=Short|
 Speed=Medium}}
 
-{{Quote|
-Quote=This is a well organized planet: soldiers everywhere, law and order, discipline, clean streets.|
-Character=[[Adelaïde]]}}
-
-==Description==
 '''Franco guards''' are omnipresent soldiers of the [[Emperor]]'s army on [[Zeelich]]. They can be seen with different weapons, from long pikes to big laser guns. They are seen at any place needing guarding, like the [[astroport]], the [[gazogem refinery]], and on many streets throughout the entire planet. Together with [[franco]] technicancs they build the crew of the [[Emerald Moon base]].
 
-Along with the [[Esmer]] invasion on [[Twinsun]] they could be seen in the streets of [[Lupin-Burg]] and [[Port-Ludo]] and the [[secret esmer base]].
+Along with the [[Esmer]] invasion on [[Twinsun]] they can be seen in the streets of [[Lupin-Burg]] and [[Port-Ludo]] and the [[secret esmer base]].
 
 They are guarding the little harbour at the [[Island of the Celebration]], and are stationed on [[Island CX]].
 
 The military troops of the Emperor attacking the [[village of the mosquibees]] was mainly consiting of franco guards and paratroopers.
 
-==Role in Twinsen's adventure==
-Due to their omnipresence [[Twinsen]] often could not make a way around the franco guards. Particulary at the [[astroport]], the [[Island of the Wannies]], and [[Island CX]], he had to battle them, sometimes to get a [[key]].
+Due to their omnipresence, [[Twinsen]] often can not make a way around the franco guards. Particulary at the [[astroport]], the [[Island of the Wannies]], and [[Island CX]], he has to battle them, sometimes to get a [[key]].
 
-With his rising strength, Twinsen could defeat them more easily, though they were still a treat by their number. For instance, the small streets of the [[Island of the Wannies]] were guarded by at least eight guards.
+With his rising strength, Twinsen can defeat them more easily, though they are still a threat by their number. For instance, the small streets of the [[Island of the Wannies]] are guarded by at least eight guards.
 
-==Trivia==
-When setting of an alarm in an airlock of the [[Emerald Moon base]], Twinsen was able to lure a guard into it. He quickly took on his space suit and opened the outer doors. Thus the franco guard, not wearing a space suit, was sucked out of the room into space.
-
-==Additional Quotes==
-{{Quote|
-Quote=Hi, pal! Hey, is that you who brought on all this military? They don't look all that strong, if you ask me. In my day, it was different. They fed us firefly tarts, that really built us up<nowiki>!!!</nowiki>|
-Character=The old [[wannie]] in the [[village of the wannies]]}}
-
-{{Quote|
-Quote=I'm sorry sir you may not enter here. It is restricted to the astroport personnel.|
-Character=A franco guard}}
+When setting of an alarm in an airlock of the [[Emerald Moon base]], Twinsen is able to lure a guard into it. He quickly takes on his space suit and opens the outer doors. Thus the franco guard, not wearing a space suit, is sucked out of the room into space.
 
 ==Related Threads==
 ===General===
