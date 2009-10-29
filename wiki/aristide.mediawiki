@@ -10,26 +10,9 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
-{{Quote|
-Quote=It has been two months since I enrolled in this blasted school, and I have not been able to pass a single test<nowiki>!!!</nowiki>|
-Character=Aristide}}
-
-==Description==
 '''Aristide''' is a [[grobo]] studying at the [[School of Magic]]. He is a rather bad pupil, unable to complete any of the tests.
 
-==Role in Twinsen's Adventure==
-Aristide had no role in Twinsen's adventure. At the most to laugh at, because he wasn't able to do the things [[Twinsen]] and the other wizards were able to.
-
-==Additional quotes==
-{{Quote|
-Quote=I can't, I just can't<nowiki>!!!</nowiki> I heard some alien dudes landed on Twinsun, and I didn't even see them<nowiki>!</nowiki> I tried for days to do that blowgun test<nowiki>!</nowiki>|
-Character=Aristide}}
-{{Quote|
-Quote=Ah no<nowiki>!!</nowiki> If I had seen any, I'd have asked him to help me pass at least one test<nowiki>!!!</nowiki>|
-Character=Aristide}}
-{{Quote|
-Quote=I've had it with these studies. I should do something else...I think I am going to try studying extra-zeelichian populations<nowiki>!!!</nowiki>|
-Character=Aristide}}
+Twinsen meets him several times at the school's entrance.
 
 ==Related threads==
 * {{thread|id=5918|title=Stupid Aristide...}}
