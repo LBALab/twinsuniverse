@@ -10,47 +10,11 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
-{{Quote|
-Quote=Diploma of Elementary-Weather Magic. The Wizard Bersimon has proven his talents as a master of the elements. He has reached the rank of Grand Master of sea winds and tornadoes.|
-Character=Bersimon's diploma}}
+'''Bersimon''', often referred to as '''The Weather Wizard''' is a weather wizard who lives in a [[Weather Wizard tent|tent]] on the [[cliffs]] of [[Citadel Island]]. He is a fully qualified wizard, who graduated from the [[School of Magic]].
 
-==Description==
-'''Bersimon''' is the Weather Wizard who lives on the [[cliffs]] of [[Citadel Island]], in his [[Weather Wizard tent]]. He is a fully qualified wizard, who graduated from the [[School of Magic]]. He seems to be one of the wisest people of the island.
+The Weather Wizard is the only one capable of chasing the storm that prevents [[Twinsen]] from going to [[Desert Island]]. However, he has to stand at a high point in order to utter a conjuration, and the [[lighthouse]] is the only available place at the island. After Twinsen freed [[Raph]], the lighthouse keeper, Bersimon is able to stop the storm. Then, finally capable of landing, the [[Esmers]] come.
 
-==Role in Twinsen's adventure==
-The Weather Wizard was the only one capable of chasing the storm that prevented [[Twinsen]] from going to [[Desert Island]]. However, he had to stand at a high point in order to utter a conjuration, and the [[lighthouse]] was the only available place at the island. After Twinsen freed [[Raph]], the lighthouse keeper, Bersimon was able to stop the storm. Then, finally capable of landing, the [[Esmers]] came. The Weather Wizard also once hid [[Sendell's Ball]] in a cage of ice in the [[sewers]]. He already made a potion, which only needed a [[pearl of incandescence]] to become ready for use, for freeing the ball.
-
-==Additional quotes==
-{{Quote|
-Quote=This storm...I wanted to get rid of it but the lighthouse was closed and I can't find the keeper anywhere. Only he could help me reach the top of the building where I have the view I need to utter a conjuration. It's the only way to stop this storm that neutralizes the island. But I need the lighthouse keeper.|
-Character=Bersimon}}
-{{Quote|
-Quote=Please, don't touch the container on the stove. OK? It contains a terrible creature!|
-Character=Bersimon}}
-{{Quote|
-Quote=Hmm...er...don't mention it please, it's only ...well just a kind of small personal experiment.|
-Character=Bersimon}}
-{{Quote|
-Quote=Don't touch that! I'm trying to create an enchanted ring and this put must not boil. Once I get myself a pearl of incandescence, I'll be able to call the lightning!|
-Character=Bersimon}}
-{{Quote|
-Quote=I just bumped into the keeper who was going back to the lighthouse. He told me that a true hero had just saved him from a voracious monster.|
-Character=Bersimon}}
-{{Quote|
-Quote=Bravo! And now, if you appreciate Great Art, let's meet at the lighthouse. You'll see what you'll see!|
-Character=Bersimon}}
-{{Quote|
-Quote=Don't forget to finish the lightning potion. To do so, go to the Desert Island to find a pearl of incandescence.|
-Character=Bersimon's letter}}
-{{Quote|
-Quote=Not being from here, I find your island rather strange. I don't understand why your Weather Wizard does nothing about this storm.|
-Character=[[Tourist Quetch]]}}
-{{Quote|
-Quote=I don't take anybody in this storm, I hate this weather. And why doesn't the Weather Wizard intervene, heh?|
-Character=[[Scooter Rabbibunny]]}}
-{{Quote|
-Quote=Shortly after FunFrock's disappearance, it was hidden on Citadel Island by the Weather Wizard. He placed it in a cage of ice which he then bound with a powerful spell. According to him, only the power of lightning is capable of freeing the ball.|
-Character=[[Mentor of the School of Magic]]}}
+Bersimon also once hid [[Sendell's Ball]] in a cage of ice in the [[Citadel Island sewers|sewers]]. He already made a potion, which only needed a [[pearl of incandescence]] to become ready for use, for freeing the ball.
 
 ==Related threads==
 ===General===
