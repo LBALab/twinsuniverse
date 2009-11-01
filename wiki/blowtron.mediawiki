@@ -10,24 +10,8 @@ Rate=Fast|
 Damage=Little|
 Range=Medium}}
 
-{{Quote|
-Quote=With the blowtron, you now dispose of a much higher firing rate.|
-Character=Official description}}
+The '''blowtron''' is a weapon firing projectiles. It is quite similar to the [[blowgun]], butis faster and causes more damage. Its widest aperture, as well as it's thicker size, enable it to be loaded with larger berries.
 
-==Description==
-Pretty similar to its "twin weapon", the [[blowgun]], the '''blowtron''' provides an even faster firing rate, making it a slightly better weapon. Its widest aperture, as well as it's thicker size, enable it to be loaded with larger berries. These weapons cannot be found anywhere around [[Twinsun]], and are pretty rare around [[Zeelich]] as well. They can only be found down in the [[Under-Gas]], in the [[Island of the Mosquibees]]. Whoever passes the [[mosquibees]]' [[Test of Truth]] will be rewarded with such a weapon, making him an equal of them.
-
-==Role in Twinsen's adventure==
-Desperately searching for a way of reaching [[Island CX]], [[Twinsen]] reached the [[Mosquibees Village]], where he encountered [[Queen Astrid]]. To prove to the suspicious queen that his intentions were good, the young [[quetch]] had to pass the Test of Truth. Upon passing the hard challenge, Twinsen received the blowtron, making him an equal of the mosquibees.
-
-The blowtron could come in handy sometimes, although it's hard to point an exact place where it was extremely vital in the quetch's adventure.
-
-==Additional quotes==
-{{Quote|
-Quote=You just found the blowtron. Use it to shoot faster and more powerfully.|
-Character=When Twinsen received the blowtron}}
-{{Quote|
-Quote=Excellent Twinsen! You just grabbed the blowtron! This weapon makes you our equal. You are now welcome in the village of the Mosquibees and we will help you reach the island CX. I not only own the key to the passage which leads there, I will also open the doors for you as soon as we arrive!!|
-Character=Queen Astrid}}
+Searching for a way of reaching [[Island CX]], [[Twinsen]] reaches the [[Mosquibees Village]], where he meets [[Queen Astrid]]. To prove to the suspicious queen that his intentions are good, he has to pass the [[Test of Truth]]. Upon passing the challenge, Twinsen receives the blowtron, a symbol for him being an equal of the mosquibees.
 
 [[Category:Weapons]]
