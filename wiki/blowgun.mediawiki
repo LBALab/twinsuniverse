@@ -10,34 +10,11 @@ Rate=Fast|
 Damage=Little|
 Range=Medium}}
 
-{{Quote|
-Quote=The Blowgun provides rapid firepower. You can reload it with small projectiles, such as berries.|
-Character=Official description}}
+The '''blowgun''' is a small metallic tube used as a weapon. By reloading it with various projectiles, such as berries, it is possible to fire fast and accurate shots. These weapons are given as rewards to any pupil of the [[School of Magic]] who successfully passes the [[Magic Ball]] test. The blowgun is long and thin, and is coloured red and grey.
 
-==Description==
-The '''blowgun''' is a small metallic tube, which is used as a pretty handy weapon, although being pretty rare around the planet. By reloading it with various projectiles, such as berries for example, it is possible to fire fast and accurate shots. These weapons are given as rewards to any pupil of the [[School of Magic]] who successfully passes the [[Magic Ball]] test. The object itself is long and thin, coloured red and grey.
+Upon passing the Magic Ball test as part of his studies at the School of Magic, [[Twinsen]] receives the blowgun as a reward. With it, he is able to walk around more safely around the planet, capable of defeating the rival [[esmers]] more easily. Also, it's possible to go back to the Magic Ball Test room, and complete the test using the blowgun rather than the magic ball. Doing so rewards Twinsen with a [[clover leaf]]. Other than that, Twinsen uses the blowgun only occasinally.
 
-==Role in Twinsen's adventure==
-Upon passing the Magic Ball test as part of his studies at the School of Magic, [[Twinsen]] received the blowgun as a reward. With it, he was able to walk around more safely around the planet, capable of defeating the rival [[esmers]] more easily. Although using this weapon very occasionally, it could come in handy sometimes.
-
-Once reaching the [[Mosquibees Village]], Twinsen had to pass the [[Test of Truth]] as a proof his good intentions. By passing this test, he earned a [[blowtron]], a similar, yet more powerful weapon, than the blowgun.
-
-==Trivia==
-After fully graduating from the School of Magic, Twinsen was able to come back to the room at which he passed the Magic Ball test. With his blowgun in his possession, the quetch found the test much easier, being able to reverse the magical symbols more conventiently thanks to the fast shot provided by the blowgun. In return for completing the test again, the quetch received a [[clover leaf]].
-
-==Additional quotes==
-{{Quote|
-Quote=You now have a blowgun. It fires darts fast and accurately.|
-Character=When Twinsen received the blowgun}}
-{{Quote|
-Quote=Bravo Twinsen, you have earned this blowgun. It provides accurate and rapid shots.|
-Character=[[Mentor of the School of Magic]]}}
-{{Quote|
-Quote=To practice for your Blowgun Test, simply go through this door at the back of this room. You'll then have a limited time to shoot all the targets.|
-Character=Mentor of the School of Magic}}
-{{Quote|
-Quote=I can't, I just can't!!! I heard some alien dudes landed on Twinsun, and I didn't even see them! I tried for days to do that blowgun test!|
-Character=[[Aristide]]}}
+At the [[Mosquibees Village]], Twinsen has to pass the [[Test of Truth]] as a proof his good intentions. By passing this test, he earns a [[blowtron]], a similar to yet more powerful weapon than the blowgun.
 
 ==Related threads==
 ===General===
