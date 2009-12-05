@@ -4,28 +4,11 @@ title: Bottle of Syrup
 
 [[Image:Bottle of Syrup.png|right|55px|frame|Bottle of Syrup]]
 
-{{Quote|
-Quote=Bottle of Syrup. This bottle contains 50cl of very concentrated red syrup.|
-Character=Official description}}
+The '''Bottle of Syrup''' is a bottle containing 1/2 liter of cherry-flavored syrup, used for either curing purposes, or just for flavour.
 
-== Description ==
-This bottle contains 1/2 liter of cherry-flavored syrup, used for either curing purposes, or just for flavour.
+Needing to change the water flavour in [[Principal Island]], [[Twinsen]] goes to the [[pharmacy]] of [[Citadel Island]] to take this syrup. He then goes to the [[Water Tower]] of Principal Island, and by pouring the syrup into the water tank, he changes the water's flavour. In return to doing so, the [[librarian]] lets Twinsen into the Restricted Section of the [[library]], where Twinsen reads about [[the legend]].
 
-== Role in Twinsen's adventure ==
-[[Twinsen]] had to travel back to [[Citadel Island]] to a local [[pharmacy]], and steal this '''bottle of syrup''', so that he could later pour it into the [[Principal Island]] [[Water Tower]]. This was based on the request of a [[Rabbibunny]] at a [[library]], who found the water taste in the island strange. When the quest was successfully completed, the librarian showed Twinsen a book in the Restricted Section of the library, at which information regarding “[[The Legend]]” was disclosed.
-
-Later in his adventure, Twinsen filled the now empty flask with the [[Flask of Clear Water|Clear Water]].
-
-== Additional quotes ==
-{{Quote|
-Quote=You've just found a Bottle of Syrup!|
-Character=A voice Twinsen heard when finding the bottle}}
-{{Quote|
-Quote=Welcome, dear customer! I don't have any more cherry flavored syrup, but there is a pharmacy open on Citadel Island. Move in front of the item that interests you and use the ACTION command.|
-Character=[[Wadbull]]}}
-{{Quote|
-Quote=Did you know that a wise guy dumped some syrup into the island's water supply? I'd like to find that guy so that I can give him a piece of my mind. You wouldn't happen to know him, would you?|
-Character=[[Librarian]]}}
+Later in the game, Twinsen fills the now empty flask with the [[Flask of Clear Water|Clear Water]].
 
 == Related threads ==
 === Hints\Spoilers ===
