@@ -4,7 +4,7 @@ title: Col. Kroptman
 
 {{Character|
 Name=Kroptman|
-Image=DIVERS.gif|
+Image=Kroptman.gif|
 Race=[[Sphero]]|
 Gender=Male|
 Size=Small|
