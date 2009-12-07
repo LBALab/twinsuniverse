@@ -4,19 +4,10 @@ title: Car Part
 
 [[Image:Carpart.gif|right|155px|thumb|The car part which replaced the broken part of [[Twinsen]]'s automobile]]
 
-{{Quote|
-Quote=After a few adjustments and once Zoé fits the part, the car will be ready to go.|
-Character=Official description}}
+The '''car part''' is a tool that's required in order to fix [[Twinsen]]'s car.
 
-==Description==
-This is a tool that [[Zoe]] required from [[Twinsen]] in order to fix their automobile.
+At the beginning of Little Big Adventure 2, Twinsen's and [[Zoe]]'s car does not work. Zoe asked [[Jerome Baldino]] to get them the part missing in order to fix the car.
 
-==Role in Twinsen's adventure==
-In order to complete the [[School of Magic]]'s [[Garden Balsam]] test, Twinsen needed the aid of a car. However, his current automobile was broken. The [[quetch]] asked [[Baldino]] for the proper tool needed in order to fix the car. Baldino gave it to Twinsen who in return ended up giving it to his girlfriend. After she fixed the car, Zoé brought it with her to the [[Island of the White Leaf Desert]], where Twinsen was then able to use it freely for his own needs and complete the Garden Balsam test.
-
-==Additional quotes==
-{{Quote|
-Quote=Jerome Baldino just gave you a part that Zoé needs to fix the car.|
-Character=When Twinsen received the car part}}
+Twinsen can ask Baldino for the missing part as soon as he arrives on [[Desert Island]], but the first time he actually needs the car is for a test at the [[School of Magic]]. After Baldino gives the part to Twinsen, he can give it to Zoe for her to fix the car. She then brings it to Desert Island, and Twinsen is able to use the car in order to complete the [[Garden Balsam]] test.
 
 [[Category:Objects]]
