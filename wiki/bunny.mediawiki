@@ -10,23 +10,9 @@ Gender=Female|
 Size=Medium|
 Age=Adult}}
 
-{{Quote|
-Quote=Hello<nowiki>!!</nowiki> Allow me to introduce the Grand Rector of the School of Magic!|
-Character=Bunny}}
+'''Bunny''' is a [[rabbibunny]] working as an assistant of the [[Mentor of the School of Magic|rector]] of the [[School of Magic]].
 
-==Description==
-Bunny is the charming assistant of the [[Mentor of the School of Magic|rector]] of the [[School of Magic]].
-
-==Role in Twinsen's adventure==
-Bunny had no role aside from introducing the rector, supposable prinicipal of the academy.
-
-==Additional quotes==
-{{Quote|
-Quote=A pleasant stay in our magnificant School of Magic!!|
-Character=Bunny}}
-{{Quote|
-Quote=Oh, these dreadfully dull Esmers are simply everywhere. Except here, fortunately. I believe they haven't found the school yet.|
-Character=Bunny}}
+[[Twinsen]] meets Bunny when he comes to the school in order to become a wizard. There, she introduces him the mentor of the school.
 
 ==Related threads==
 ===Fan Art===
