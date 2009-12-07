@@ -10,29 +10,11 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
-{{Quote|
-Quote=Hmmm...Maybe yes, maybe no, maybe both...Might be able to tell you something about it...expensive though...maybe 100 Zlitos...and maybe 'cause it's you...|
-Character=Captain}}
+The '''Captain''' is a nameless [[Franco]] who transforms people around the islands of [[Zeelich]]'s [[sruface]] for the price of 10 [[Zlitos]]. He calls his boat "Leontine".
 
-==Description==
-The Captain is a nameless Franco whose job is to bring people to different islands for the price of 10 [[Zlitos]]. He calls his "boat" Leontine.
+When [[Twinsen]] crashes on [[Otringal]], his main objective is to find a way to reach [[Island CX]]. In the [[Otringal harbour|harbour]] he finds the captain, who in return for 100 zlitos tells Twinsen about a franco on [[Celebration Island]] who went to the island and came back alive. He then takes him to the island for free.
 
-==Role in Twinsen's adventure==
-Twinsen had to get to [[Island CX]], and the only one who seemed he could help Twinsen was the Captain. He asked 100 Zlitos for the trip to the person who can help Twinsen. After that, Twinsen could ask the Captain to bring him to one of the other islands, but hardly did so, since he asked for double the price of the other cabs.
-
-==Additional quotes==
-{{Quote|
-Quote=I do know a dude who came back. These days, he sells souvenirs on Celebration Island. Might be able to take you to him....Oh well, for you, it's a freebie! Welcome aboard Leontine, my cab!!|
-Character=Captain}}
-{{Quote|
-Quote=That's it, my man, it's here. You'll find him easily, he sells souvenirs.|
-Character=Captain}}
-{{Quote|
-Quote=If you want, mate, you can climb aboard my Leontine and I'll take you to someplace for 10 Zlitos. OK then? Where to?|
-Character=Captain}}
-{{Quote|
-Quote=Hmmm...Nobody wants to go there these days, it's way to risky. They say monsters have come out of the gas over there. Try the Captain, he's the old nut at the very end of the pier. He's the only one who'd take you!|
-Character=[[Wannie]] in [[Rick's Café]]}}
+It's possible to use the captain's services afterwards, although he charges twice as much as the other captain in the harbour.
 
 ==Related threads==
 ===General===
