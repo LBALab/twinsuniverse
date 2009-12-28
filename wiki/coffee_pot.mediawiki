@@ -4,26 +4,11 @@ title: Coffee Pot
 
 [[Image:Coffee_pot.png|right|38px|frame|Coffee pot]]
 
-{{Quote|
-Quote=Coffee Pot. You must return it to one Lanktir who lives next to the bazaar on Proxima island.|
-Character=Official description}}
+The '''coffee pot''' is a machine used to make coffee. It is owned by [[Lanktir]], a [[grobo]] residing in [[Proxim-City]] at [[Proxima Island]].
 
-==Description==
-'''The coffee pot''' is a machine used to make coffee, pretty rare on the planet. It is owned by [[Lanktir]], a [[grobo]] residing in [[Proxim-City]] at [[Proxima Island]].
+Looking for information about [[LeBorgne]] the pirate, [[Twinsen]] comes across the [[library]], where he hears from a grobo parts from LeBorgne's log book. Asking about LeBorgne's lost treasure, Twinsen receives instructive information about how to find it. Upon following the exact steps as described in the log book, Twinsen finds himself just next to the [[Proxima Museum]]. Once there, a [[sphero]] appears, handing Twinsen the coffee pot. By giving it to Lanktir, Twinsen receives as a reward [[List with clover boxes locations|a list of all places where he can find clover boxes]].
 
-==Role in Twinsen's adventure==
-Looking for information about [[LeBorgne]] the pirate, [[Twinsen]] came across the [[library]], where a nice grobo kindly read him information from LeBorgne's log book. Asking about LeBorgne's lost treasure, Twinsen received very instructive information about how to find it. Upon following the exact steps as described in the log book, Twinsen found himself just next to the [[Proxima Museum]]. Once there, a [[sphero]] appeared, handing Twinsen the coffee pot. By returning it to Lanktir, Twinsen received as a reward [[List with clover boxes locations|a list of all places where he could find clover boxes]].
-
-==Additional quotes==
-{{Quote|
-Quote=You now possess a coffee pot.|
-Character=When Twinsen received the pot}}
-{{Quote|
-Quote=If you give me back my coffee maker, I'll give you a list of certain places where you can find a rare plant and some boxes. And don't ask me where I found this list!|
-Character=Lanktir}}
-{{Quote|
-Quote=Well, well. It seems that you too have found an authentic secret map of Captain LeBorgne! Do me a favor would you? Give Lanktir, who lives next to the bazaar, back his coffee pot. I'm so ashamed, I should have given it back long ago.|
-Character=A sphero}}
+Nor this puzzle neither the list are compulsory parts in completing the game.
 
 ==Related threads==
 ===General===
