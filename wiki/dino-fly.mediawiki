@@ -10,15 +10,11 @@ Gender=Male|
 Size=Large|
 Age=Adult}}
 
-==Description==
+The '''Dino-Fly''' is a mythical creature, with uncertain origins. He is a green dinosaur-like animal, with the ability to fly. When [[Twinsen]] finds him, he is told that he has been waiting for him for a long time.
 
-The Dino-Fly is a mythical creature, with uncertain origins. He is a green dinosaur-like animal, with the ability to fly. When [[Twinsen]] finds him, he is told that he has been waiting for him for a long time.
+The Dino-Fly is an asset to both of Twinsen's Adventure. On his first trip around [[Twinsun]], Twinsen is adviced by a [[sphero]] upon arriving on [[Tippet Island]] that he would need the services of a dino-fly in order to reach some of the planet's islands. Twinsen meets the Dino-Fly at the cliff peak of Tippet Island's surface. At this point, the Dino-Fly is only able to fly around the [[northern hemisphere]] of the planet, due to his soar back. Twinsen uses the Dino-Fly to reach some of the hemisphere's islands unreachable with a [[hydroglider]], such as [[Brundle Island]] and [[Fortress Island]].
 
-==Role in Twinsen's Adventure==
-
-The Dino-Fly is an asset to both of [[Twinsen]]'s Adventure. On his first trip around [[Twinsun]], [[Twinsen]] meets the Dino-Fly at the cliff peak of [[Tippet Island]]'s surface. At this point, the Dino-Fly is only able to fly around the [[northern hemisphere]], but in the second adventure, [[Twinsen]] has taken him to his home on [[Citadel Island]], and he can fly around the few islands that you visit on [[Twinsun]].
-
-In both adventures, he provides a means of free transport around the planet for [[Twinsen]]. 
+In [[Little Big Adventure 2]], Twinsen has taken the Dino-Fly to his home on [[Citadel Island]]. The game starts with a cutscene of Dino-Fly injured in a [[Great Storm|lightning storm]], and curing him is Twinsen's first main goal in the game. He is eventually able to do so by using the [[Horn of the Blue Triton]], which he receives as part of his studies in the [[School of Magic]]. Dino-Fly's main use in the second game is taking Twinsen to the [[Island of the Dome of the Slate]], which Twinsen can't reach with a [[ferry]].
 
 ==Related threads==
 ===General===
