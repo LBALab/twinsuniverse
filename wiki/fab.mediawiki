@@ -10,29 +10,9 @@ Gender=Male|
 Size=Small|
 Age=Adult}}
 
-{{Quote|
-Quote=Raph? With him and Fab, we put together a killer combo to play some funky rock'n rave!|
-Character=Pat}}
+'''Fab''' is a [[sphero]] musician. He is best friends with [[Pat]] and [[Raph]]. Just like them, he likes hanging out in [[Chez Luc]].
 
-==Description==
-Fab is a musician and is best friends with [[Pat]] and [[Raph]]. Just like them, he likes hanging out in [[Chez Luc]].
-
-==Role in Twinsen's adventure==
-Apart from the hint where Raph is, Fab had no role.
-
-==Additional quotes==
-{{Quote|
-Quote=He said he wanted to practice a new piece on his guitar. He usually hides out on the cliffs for piece and quiet. But not this long usually.|
-Character=Fab}}
-{{Quote|
-Quote=Thanks for having freed my buddy Raph, kiddo. Without you, his goose was cooked for sure.|
-Character=Fab}}
-{{Quote|
-Quote=These "Esmers" look quite nice, they ask lots of questions though. Everything interests them.|
-Character=Fab}}
-{{Quote|
-Quote=Raph? Ah yeah, he has set up a super combo with his buddies Pat and Fab! But I don't know where he is.|
-Character=[[Umbrella thief]]}}
+Talking with Fab is not a necessary part of the game, although he is able to give [[Twinsen]] a small hint about Raph's whereabouts when Twinsen is looking for him.
 
 ==Related threads==
 ===General===
