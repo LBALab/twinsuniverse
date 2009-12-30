@@ -35,11 +35,11 @@ With the prepared destruction of Twinsun with the [[Emerald Moon base|lunar reac
 
 :''Main Article: [[Esmer shuttle]]''
 
-These yellow spaceships can usually be found at the [[astroport]] in [[Otringal]], carrying passengers to various planets. However, they are also used for military purposes, like the invasion of [[Twinsun]], at the [[Emerald Moon base]], or as the [[Emperor]]'s personal spacecraft to get from [[Island CX]] to [[Otringal]].
+The yellow Esmer spaceships can usually be found at the [[astroport]] in [[Otringal]], carrying passengers to various planets. However, they are also used for military purposes, like for the invasion of [[Twinsun]], at the [[Emerald Moon base]], or as the [[Emperor]]'s personal spacecraft to get from [[Island CX]] to [[Otringal]].
 
 The shuttles' round outside makes them perfectly able to fly through space. Upon landing, big red feet extend from its bottom, and a side door opens.
 
-They are controlled by [[itinary token]]s.
+The shuttles are controlled by [[itinary token]]s.
 
 <gallery>
 Image:Screenshot-lba2-movies-03-esmers_arrival-SORT676.gif|Esmer spaceship on Citadel Island
