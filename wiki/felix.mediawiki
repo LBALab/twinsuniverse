@@ -10,30 +10,11 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
-{{Quote|
-Quote=Say Twinsen, did you ever see that Tralü? They say it's a monster that lives in the cliffs above Lupin-Bourg. If you take a walk up there, don't forget to carry a weapon. I mean your magic ball!|
-Character=Felix}}
+'''Felix''' is a [[rabbibunny]] spotted in the [[Citadel Island Harbour|harbour]] of [[Citadel Island]]. During the beginning of [[Little Big Adventure 2]] he is seen fishing at the harbour, and from time to time catching [[crabs]].
 
-==Description==
-Felix is a nice old rabbibunny, usually spotted around the [[Citadel Island Harbour|harbour]] of [[Citadel Island]]. His main hobby seems to be fishing, although usually without much luck. Also, the old fisherman seems to be quite interested in the mystery stories regarding the [[Tralü]] and its cave on the [[cliffs]].
+Felix is not a vital part of the game, and he is only able to give [[Twinsen]] some clues about the [[Tralü]] or about [[Raph]]. Beating the crabs Felix catches grants Twinsen [[life candies]] and [[kashes]].
 
-==Role in Twinsen's adventure==
-Although not being able to help [[Twinsen]] directly, Felix did give him a few hints regarding his quests. Most of them were about the Tralü he was so fanatic about, but he also tried to help Twinsen when the latter was searhing for [[Raph]].
-Also, the crabs Felix managed to fish came in quite handy for Twinsen, as he was able to get some [[life candies]] and [[kashes]] from beating those crabs.
-
-==Unconfirmed theories==
-There are two main unconfirmed theories about Felix. The first one is where the old rabbibunny lives, as there seem to be no house around the island that might belong to him. The seond unconfirmed theory regarding the fisherman is about his job. He could make money from fishing, but since he isn't a really successfull fisherman, it is unknown how he gets his money.
-
-==Trivia==
-Feeling a bit agressive, Twinsen released some frustration on the poor rabbibunny. Felix, being quite a chicken perhaps, got really scared, and ran away, diving into the water. Felix did come back later, however.
-
-==Additional quotes==
-{{Quote|
-Quote=I don't know him very well, but try asking around at "Chez Luc," that's his big hangout.|
-Character=Felix}}
-{{Quote|
-Quote=Hey, did you really destroy the Tralü? This monster really existed? Hail to you, may you be prosperous and may the Sendells protect your descendants!|
-Character=Felix}}
+When Twinsen hits Felix, the rabbibunny drops his fishing pole, runs to the water and dives in. He disappears from the scene, and is only back when Twinsen re-enters the harbour.
 
 ==Related threads==
 ===General===
