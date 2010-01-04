@@ -9,15 +9,12 @@ Race=[[Franco]]|
 Gender=Male|
 Size=Medium|
 Age=Adult}}
+
 {{image}}
-{{Quote|
-Quote=You have to be crazy to believe all these stories of fragment hunting. Me, I think Roger lost it at home before getting eaten by a monster. What are you gonna do?, at least its good for business.|
-Character=Franckie}}
 
-== Description ==
-Franckie is the owner of the [[Franckie's|bar]] on the [[Island of the Francos]]. During the search for the [[Francos fragment]], Franckie didn't participate in the treasure hunt, claiming he did not believe in all those stories. However, being the owner of the only pub on the island, he was able to use the search for his own benefit, and during that period his business blossomed.
+'''Franckie''' is the owner of the [[Franckie's|bar]] on the [[Island of the Francos]]. During the search for the [[Francos fragment]], Franckie doesn't participate in the treasure hunt, claiming he does not believe in all those stories. However, being the owner of the only pub on the island, he is able to use the search for his own benefit, and during that period his business blossoms.
 
-{{Stub}}
+Franckie gives Twinsen a small hint, to search for clues about the lost fragment in [[Roger de la Fontaine]]'s [[Burgermaster house|house]].
 
 [[Category: Francos]]
 [[Category: Male characters]]
