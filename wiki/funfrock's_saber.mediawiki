@@ -10,28 +10,19 @@ Rate=Slow/Fast, depending on behaviour|
 Damage=A lot|
 Range=Melee}}
 
-{{Quote|
-Quote=Magic Saber, once the Saber is in hand (ENTER key), (ALT) key to strike. It is the most powerful weapon on this planet. You can use the Magic Ball again by reselecting it.|
-Character=Official description}}
+'''FunFrock's saber''' is a saber that once belonged to [[Dr. FunFrock]], although he does not actually use it in the game. This saber is considered the most powerful weapon on [[Twinsun]], and is capable of killing most creatures.
 
-==Description==
-During [[FunFrock]]'s reign, the evil tyrant used to own a '''saber''', an extremely powerful sword like weapon, capable of defeating most creatures on the planet. FunFrock, however, did not use the sabre very often. Instead, he preferred to lock it inside a safe at [[FunFrock's headquarters|his headquarters]] in [[Principal Island]]. This safe was guarded by a few [[clones]], sometimes even a clone of FunFrock himself.
+In [[Little Big Adventure 1]], the saber is locked in a safe in [[FunFrock's headquarters]] at [[Principal Island]]. This safe is guarded by a few [[clones]], including a clone of FunFrock himself.
 
-The way one uses this sabre may vary, and depends on his behaviour:
-* '''Normal''': Twinsen just hit the enemy by walking forward and cutting.
-* '''Sporty''': Twinsen jumped back once and then forwards to hit the enemy.
-* '''Agressive''': Twinsen acted extremer than in Normal mode, and also jumped and turned a couple of times at the enemy.
-* '''Discreet''': Twinsen used the sword as silent as possible. He also acted the least aggresive.
+[[Twinsen]] finds the sword in the safe when he comes to the hadquarters to search for the plans of the [[Teleportation Center]]. 
 
-==Role in Twinsen's adventure==
-Coming to FunFrock's headquarters to look for the plans of the [[Teleportation Centre]], Twinsen came across the safe at which the saber was stored. After defeating FunFrock's clone, as well as a [[red grobo clone]] that was also in the room, Twinsen was able to safely reach the safe. By freeing a [[grobo]] that was captured in the headquarters, Twinsen retrieved the [[key]] to the safe as a reward, and could then open the safe where the plans of the Teleportation Centre were supposed to be found. Instead of the plans, he found there FunFrock's saber, as well as a note from his own neighbour addressed to FunFrock. Twinsen probably realized that the saber could come in extremely useful, and therefore decided to steal it from the dictator.
+The way Twinsen uses the saber may varies, depending on his behaviour:
+* '''Normal''': Twinsen hits the enemy by walking forward and cutting.
+* '''Sporty''': Twinsen jumps back once and then forward to hit the enemy.
+* '''Agressive''': Twinsen acts extremer than in Normal mode, and also jumps and turns a couple of times at the enemy.
+* '''Discreet''': Twinsen uses the sword as silent as possible. He also acts the least aggresive.
 
-The saber, as Twinsen thought, came in very handy indeed. With its aid, Twinsen was able to defeat some creatures he wasn't able to bit beforehand, such as the red clones. The sabre came in handiest at the [[Well of Sendell]]. Since FunFrock was only beatable with the saber, Twinsen had to use his tricks and smarts in order to defeat the evil tyrant and save his planet.
-
-==Additional quotes==
-{{Quote|
-Quote=You've just stolen Dr. FunFrock's saber!|
-Character=When Twinsen takes the saber}}
+Using the sword, Twinsen is able to defeat some enemies he couldn't beforehand, such as [[red clones]]. In the final battle against FunFrock in the [[Well of Sendell]], it's possible to kill him only with the sword.
 
 ==Related threads==
 ===General===
