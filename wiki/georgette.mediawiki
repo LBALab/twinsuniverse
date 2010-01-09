@@ -10,15 +10,7 @@ Gender=Female|
 Size=Medium|
 Age=Adult}}
 
-{{Quote|
-Quote=This temple is dedicated to Dark Monk. He is the God of the Zeelichians and lives again! His Majesty promised to cancel the Zeelichian curse during the cult's next ceremony.|
-Character=Georgette}}
-
-==Description==
-Georgette is one of the tourists on [[Zeelich]]. She is there with her husband and two children. They look like kangaroos.
-
-==Role in Twinsen's adventure==
-Georgette had no real role in [[Twinsen]]'s adventures, but her husband gave Twinsen a hint as to where to find some [[rock crystal]] on the [[Celebration Island|island]].
+'''Georgette''' is a tourist on [[Zeelich]], resembling a kangaroo. She is seen outside [[Dark Monk's Temple]] in the [[Island of the Celebration]] with [[Georgette's husband|her husband]] and two children.
 
 ==Related threads==
 ===Fan Art===
