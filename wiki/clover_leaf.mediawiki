@@ -27,6 +27,8 @@ At the following places clover boxes can be found in LBA 2:
 *In the [[gem mine]]
 *In the secret hideout of the [[Mosquibee]]s on the [[Island below the Island of the Celebration|Volcano Island]]
 
+Clover leaves also fill the [[Horn of Gawley]] with life candies.
+
 ==Related threads==
 ===General===
 * {{thread|id=12080|title=LBA1 cloverboxes?}}
