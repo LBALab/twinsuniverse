@@ -10,23 +10,9 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
-{{Quote|
-Quote=So, young quetch, you've come to help in the fight against FunFrock? As you can see, this city has suffered because of our rebellion. We are constantly bombed, which is why our leaders have set their camp in the center of the island. You can take my buggy to go see them.|
-Character=Grap}}
+'''Grap''' is a [[rabbibunny]] serving as the lieutenant of the [[rebels]] on [[Relbellion Island]]. Grap's [[buggy]] serves the rebels as a transportation method between the island's [[Rebellion Island harbour|harbour]] and the [[rebel camp]].
 
-==Description==
-Not accepting [[FunFrock]]'s tyrany, some rebel rabbibunnies have set up a camp on [[Rebellion Island]], planning to fight against him. The rebel's lieutenant is named '''Grap''', a brave rabbibunny always willing to fight. Grap's buggy usually serves the rebels as a transportation method between the island's [[Rebellion Island harbour|harbour]] and the [[rebel camp]].
-
-==Role in Twinsen's adventure==
-In the mission of freeing Colonal [[Kroptman]], Twinsen joined some of the rebelling rabbibunnies going to the [[Okojo Pass]] in the [[Hamalayi Mountains]]. However, Grap stayed in the island during this attack, and did not join the rebels.
-
-==Additional quotes==
-{{Quote|
-Quote=Hi! If I take your flag to be representative of your intentions, I see that you too have chosen Liberty. Lieutenant Grap is down in the trench, go see him - he'll tell you where our leaders are.|
-Character=A rebel rabbibunny}}
-{{Quote|
-Quote=Go see Grap first if you want to drive. He's a rabbibunny and he's down in the trench.|
-Character=A rebel rabbibunny}}
+[[Twinsen]] meets Grap in a trench in Rebellion Island, and hears from him that the island is constantly bobmed. Grap tells Twinsen that he can take his buggy to reach the rebel camp.
 
 [[Category:Rabbibunnies]]
 [[Category:Male characters]]
