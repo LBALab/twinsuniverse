@@ -10,18 +10,12 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
-{{Quote|
-Quote=These Esmers are pretty chummy, buying drinks for everybody. They even buy them for the wizards. I still keep an eye on the women's steambath, though... The first one who goes in there will have to deal with me<nowiki>!!</nowiki>|
-Character=Hacienda owner}}
+The '''hacienda owner''' is a [[grobo]] owning the [[Hacienda del Monte-Pelado]] on the [[Island of the White Leaf Desert]]. He is often seen at the small bar of the Hacienda, but can also be seen when preventing lechers to enter the women's steambath. His name is unknown, though it is commonly mistaken for "[[#Name confusement|Masher]]".
 
-==Description==
-This grobo is the '''owner of the [[Hacienda del Monte-Pelado]]''' on the [[Island of the White Leaf Desert]]. He is often seen at the small bar of the Hacienda, but can also be seen when preventing lechers to enter the women's steambath. His name is unknown, though it is commonly mistaken for "[[#Who is "Masher"?|Masher]]".
+Since roof access on the Hacienda is forbidden after an incident in [[Chez Luc]], [[Twinsen]] has to find another way of getting on top of the Hacienda and to the telescope, used to see the [[Island across the Hacienda]]. He enters the women's steambath, and is eventually chased out by the Hacienda owner and thus is able to climb up the ladder behind the bar. Having seen the Island across the Hacienda, he is able to get there and get the [[protection spell]].
 
-==Role in Twinsen's adventure==
-Since roof access on the Hacienda is forbidden after an incident in [[Chez Luc]], [[Twinsen]] had to find another way of getting on top of the Hacienda and to the telescope, used to see the [[Island across the Hacienda]]. He entered the women's steambath, was eventually chased out by the Hacienda owner and thus was able to climb up the ladder behind the bar. Having seen the Island across the Hacienda, he was able to get there and get the [[protection spell]].
-
-==Who is "Masher"?==
-When Twinsen accidentally walked into the women's steambath, one of women exclaimed "Masher!", signaling the Hacienda Owner to come and kick Twinsen out. Because of that, it was mistaken for the grobo's name. In fact, "Masher" is slang for a pervert.
+==Name confusement==
+When Twinsen walks into the women's steambath, one of the women exclaims "Masher!", signaling the Hacienda Owner to come and kick Twinsen out. Because of that, it was mistaken for the grobo's name. In fact, "Masher" is slang for a pervert.
 
 ==Additional Quotes==
 {{Quote|
