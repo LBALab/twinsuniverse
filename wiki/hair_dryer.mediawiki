@@ -4,27 +4,8 @@ title: Hair Dryer
 
 [[Image:Hairdryer.png|right|52px|frame|Hair dryer]]
 
-{{Quote|
-Quote=I've been working on a Jet-Pack prototype for days now. It's a small reactor that harnesses onto your back and allows you to fly about. My problem is that my last test flight wreaked a bit of havoc on the garden wall. It is rather difficult to fine tune the motor's power. I need a rheostat like the one you find in a hair dryer. Do you think you can find one of those for me?|
-Character=[[Jerome Baldino]]}}
+The '''hair dryer''' in [[Little Big Adventure 1]] is a common hair dryer, used to dry one's hair by blowing hot air. A [[hair dryer salesman]] sells these hair dryers in several islands around the [[Southern Hemisphere]] of [[Twinsun]].
 
-==Description==
-This '''hair dryer''' is just a rather common hair dryer, used to dry one's hair. By blowing hot air, this device ensures a dry, smooth hair. They are quite unpopular around [[Twinsun]], making the life of the poor [[hair dryer salesman]] rather difficult. If anyone is interested in buying one though, then it is quite likely to meet the salesman at your local island.
-
-==Role in Twinsen's adventure==
-In a search for a way to walk around the [[Maritime Museum]] in complete safety, [[Twinsen]] came across [[Jerome Baldino's residence (Proxim-City)|Jerome Baldino's residence]], where he heard about the [[grobo]]'s plans of building a [[proto-pack]]. Understanding that this would ensure him flying around the museum without touching the floor, Twinsen was ready to fullfill any of Baldino's requests in order to complete the proto-pack. Since Baldino told Twinsen that he would need a rehostat like the one found in hair dryers, the [[quetch]] went out on his way searching for one.
-
-In no time at all, Twinsen came back to Baldino's, possessing a hair dryer he was able to buy for 30 [[kashes]] from the hair dryer salesman. Twinsen handed Baldino the hair dryer, and the latter completed in a short time his work on the proto-pack. Being a bit confused maybe, the grobo suggested Twinsen 10 kashes in order to test the proto-pack. Twinsen, of course, agreed to the deal, and was thus the proud owner of a proto-pack. The quetch was then able to fly around the museum in complete safety, without being caught by the [[clones]].
-
-==Additional quotes==
-{{Quote|
-Quote=Can't seem to sell a single hair dryer here. One of my colleagues is already out there trying his best. If this keeps up, I'll have to move on to another island.|
-Character=Hairdryer salesman}}
-{{Quote|
-Quote=30 Kashes for a hair dryer, how about that? I normally sell them door to door, but customers are sparse, and you seem nice enough.|
-Character=Hairdryer salesman}}
-{{Quote|
-Quote=So you found a hair dryer? Great! I'll be with you in a minute, just let me install the rheostat.|
-Character=Jerome Baldino}}
+In a search for a way to walk around the [[Maritime Museum]] safely, [[Twinsen]] comes across [[Jerome Baldino's residence (Proxim-City)|Jerome Baldino's residence]], where he hears from [[Baldino]] about his plans of building a [[proto-pack]]. Baldino explains Twinsen that to complete the proto-pack, he needs a rheostat like the one found in hair dryer, and asks him to get one for him. Twinsen finds the hair dryer salesman patrolling around [[Proxima Island]], and buys a hair dryer from him for 30 [[kashes]]. He then gives the hair dryer to Baldino, who completes the proto-pack. Baldino also offers Twinsen 10 kashes to test the proto-pack.
 
 [[Category:Objects]]
