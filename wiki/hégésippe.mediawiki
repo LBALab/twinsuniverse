@@ -2,17 +2,11 @@
 title: Hégésippe
 ---
 
-{{Quote|
-Quote="This room contains information and weapons that were amassed for generations to help the Heir who will, one day, be chosen from our descendants. The key to the room was passed down from generation to generation, but our ancestor Hégésippe was the last family member to retain the key. He was attacked and killed by the ruthless pirate LeBorgne during a sea voyage. Nobody knows where Leborgne's treasure, which undoubtedly contains the golden key to the room, is today."|
-Character=Runes in the cave below [[Twinsen's house]]}}
-==Description==
-'''Hégésippe''' was an ancestor of [[Twinsen]]. He was the last to hold the [[key to the Heir's room]], before he was killed by the pirate [[LeBorgne]]. Twinsen later found the key in LeBorgne's treasure in the [[Maritime Museum]] on [[Proxima Island]].
+'''Hégésippe''' was an ancestor of [[Twinsen]]. He was the last to hold the [[key to the Heir's room]], before he was killed by the pirate [[LeBorgne]]. This story is scribes on runes at a cave near [[Twinsen's house]].
 
-==Additional Quotes==
-{{Quote|
-Quote=You've just found the key lost by your ancestor Hégésippe.|
-Character=When Twinsen got the key}}
-[[Category:Dead characters]]
+Twinsen finds the lost key in LeBorgne's treasure in the [[Maritime Museum]] on [[Proxima Island]], and uses it to enter the locked room in the cave.
 
 ==Related threads==
 * {{thread|id=11428|title=Hegesippe}}
+
+[[Category:Dead characters]]
