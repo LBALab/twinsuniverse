@@ -4,31 +4,13 @@ title: Itinary Token
 
 [[Image:Itinary_token.png|right|157px|thumb|An Itinary token]]
 
-{{Quote|
-Quote=The travel token allows to program the destination of an Esmer shuttle. Without it, the spacecraft cannot take off.|
-Character=Official description}}
+'''Itinary tokens''' are used by [[Zeelich]]ians for operating [[Esmer shuttle]]s. Without these tokens, the shuttles can't take off. These disc-shaped tokens have to be placed inside a device placed on any common Esmers shuttle in order to launch them.
 
-==Description==
-The '''itinary tokens''' are used for [[Esmer shuttle|esmers shuttles]]. Without these tokens, the shuttles can't take off. These disc-shaped tokens have to be placed inside a device placed on any common Esmers shuttle in order to launch those.
+[[Twinsen]] first notices the [[Esmers]] using an itinary token when going with them to [[Zeelich]]. When escaping the planet later, Twinsen needs to find an itinary token for a shuttle. After escaping the [[Otringal prison|prison]], Twinsen runs to the control tower in the [[Astroport]], where he steals a token after defeating the [[franco guards]] and technicians. After obtaining the token, Twinsen makes his way back to a shuttle that stands at the port, and places the travel token inside the appropriate device. Once doing that, the shuttle takes off.
 
-==Role in Twinsen's adventure==
-The first time [[Twinsen]] found the need of an Itinary Token was when leaving [[Zeelich]] for the first time. After escaping two [[Franco guards]], he entered [[Otringal]]'s [[Astroport]], where he had to climb to the top of the tower. Once there, he had to defeat all technicians working at the tower, as well as a franco guard. After obtaining the desired token, Twinsen made his way back to a shuttle that stood at the port, and placed the travel token inside the device mentioned previously. Once doing that, he could safely make his way back to his home planet, landing at the [[Ridge of the Flowers Circle]].
+The second time Twinsen needs a token is when heading for [[Emerald Moon]]. Twinsen has to steal a shuttle from the [[Esmer base|secret base]] the Esmers had built inside the [[Temple of Bù]], and travel to the moon in order to free [[Jerome Baldino]]. To get himself a token, Twinsen has to defeat the [[Franco guard]] guarding the shuttle in order to get the key to the elevator nearby. He then needs the [[proto-pack]] to fly over an electric bridge and defeat one more Franco guard to open a spheric safe which holds the token. On his way back Twinsen encounters one more guard, which he can easily defeat by turning the electric bridge off and then on again. Twinsen then takes the elevator down and enters the shuttle to head for the moon.
 
-The second time a token was used by Twinsen was when heading for [[Emerald Moon]]. Twinsen had to steal a shuttle from the secret base the Esmers had built inside the [[Temple of Bù]], and travel to the moon in order to free [[Baldino]]. To get himself a token, Twinsen had to defeat the [[Franco guard]] guarding the shuttle in order to get the key to the elevator nearby. Then he needed the [[protopack]] to fly over an electric bridge and defeat one more Franco guard to open a spheric safe which held the token. On his way back Twinsen encounters one more guard, which he can easily defeat by turning the electric bridge off and on again.
-Then he takes the elevator down and enters the shuttle to head for the moon.
-
-The third time Twinsen needed such a token was when leaving [[Island CX]] and going back to [[Otringal]]. He obtained this token from a tower very similar to the Astroport at Otringal. Once doing that, the quetch had to make his way through the dangerous island, until reaching the Emsers shuttle that stood in the corner. He could then make his way back to Otringal, landing just next to the [[Emperor's Palace]].
-
-==Unconfirmed theories==
-Twinsen obtained three Itinary Tokens during his second adventure. In both places, there was only one token. It is unknown where all other travelers got their token from, although it can be assumed that the Esmers provided them with these tokens.
-
-==Additional quotes==
-{{Quote|
-Quote=You have found a itinary token. You can now use an Esmer shuttle.|
-Character=When Twinsen found a token}}
-{{Quote|
-Quote=There's a piece missing here, something disc-shaped. I guess it allows the shuttle to take off.|
-Character=Twinsen}}
+The third time Twinsen needs an itinary token is when leaving [[Island CX]] and going back to [[Otringal]]. He obtains this token from a tower very similar to the Astroport in [[Otringal]]. Once doing that, he has to make his way through the dangerous island, until reaching the Emsers shuttle that stands in the corner. He can then make his way back to Otringal, landing just next to the [[Emperor's Palace]].
 
 ==Related threads==
 ===Hints\Spoilers===
