@@ -10,33 +10,24 @@ Gender=Male|
 Size=Small|
 Age=Adult}}
 
-{{Quote|
-Quote=Thank you for having freed me. I am a dissident of the government. The emperor and Dark Monk, our reincarnated God, manipulate the people of Zeelich. They lie continually.|
-Character=Joan Loumin}}
+'''Joan Loumin''' is a [[mosquibee]] acting as part of the [[dissidents]] group on [[Zeelich]].
 
-==Description==
-Rejecting the [[Emperor of Zeelich]] and his actions, a small group of dissidents have set up a resistance group, spreading propaganda against the Emperor. The most active member of this group, and apparently their "leader", seems to be Joan Loumin, a brave yet reckless mosquibee. Perhaps due to not being careful enough, Joan was captured by the emperor at least once. However, he seems to be the most active dissident, having spreading the propaganda on several islands. He also seems to be in a pretty close contact with [[Astrid]], the Mosquibees queen.
+His name is not mentioned in the actual game, and is only written in the official [[LBA 2]] website [http://www.littlebigadventure2.com/lba2/FAMILLE/MOSQUIEN.HTM]. [[Twinsen]] meets him in several different places during the game.
 
-==Role in Twinsen's adventure==
-Throughout his quests around [[Zeelich]], [[Twinsen]] encountered Joan Loumin several times. In his first trip to Zeelich, while escaping from [[Otringal prison|jail]], Twinsen came across Joan's cell. Following the mosquibee's pleads, Twinsen released him by opening his cell through the switches upstairs. In return, Joan adviced the [[quetch]] to leave the building through the back door, to avoid the guards.
-Coming back to Zeelich later on, Twinsen met Joan Loumin, as well as some of his dissident friends, at the secret basement of the [[Twinsunian Souvenir Shop]]. There, he and his friends helped Twnisen by preparing him for [[Island CX]], as well as instructing him on how to get there, and handing him the [[Laser Pistol of Zarnon]].
-When Twinsen reached the [[Mosquibees Island]], Joan Loumin was standing there, just next to the queen. There, he gave Twinsen a small hint about the kind of proof Astrid was anticipating. He also witnessed Twinsen undergoing the Test of Truth at the [[Challenge room]]. Just after Twinsen completed the challenge, the emperor's soldiers attacked the village, and Joan, as well as the queen and another mosquibee, was captured.
-Going after the queen so that he could reach Island CX, Twinsen met Joan Loumin once again at the cell of the [[Building Company]] at [[Wannies Island]]. There, Joan adviced the quetch to go to Island CX as soon as possible.
-Later on, after Twinsen's adventure was finished, one could spot Joan Loumin at the party in [[Citadel Island]].
+Twinsen first meets Joan during his first trip to [[Zeelich]], while escaping from the [[Otringal]] [[Otringal prison|prison]]. Joan is held as a prisoner in another cell, and Twinsen can release him by hitting the switch on the top floor. While this is not a neccessarry part of the game, a player who does release Joan gets an advice from him about leaving through the back door, as the front entrance is heavily guarded. Understanding Joan at this point requires owning a [[translator]], and a player who did not pick one earlier in the game hears Zeelichian from him instead.
 
-==Trivia==
+Twinsen later meets Joan and his dissident fellows at the [[Twinsunian Souvenir Shop]] in Otringal. They help him prepare for his trip to [[Island CX]], and hand him a [[Laser Pistol]].
+
+When arriving to the [[Island of the Mosquibees]], Twinsen sees Joan standing next to the queen [[Astrid]]. When Astrid asks Twinsen for a proof of his good intentions, Joan hints him that it is the [[dissidents ring]] she's looking for.
+
+Joan later witnesses Twinsen undergoing the Test of Truth at the [[Challenge room]]. Just after Twinsen completes the challenge, the emperor's soldiers attack the village, and Joan, together with the queen and another mosquibee, is captured. They are being held prisoners at the [[Building Company]] in [[Wannies Island]].
+
+Twinsen goes to their cell in the Building Company, in order to get the [[key to Island CX]] from the queen. Joan advices him to get there as soon as possible.
+
+Joan is lastly seen at the end of the game, in the party on [[Citadel Island]].
+
+==Character origins==
 The model for Joan Loumin is the active member of French Resistance during the World War II [[Wikipedia:Jean Moulin|Jean Moulin]], who was one of the most active French Resistance members during the World War II, close to the commanders and captured by the enemy more than once. To add to the similarity, Jean Moulin's image is associated with a scarf he often wore to hide scarring and the typical for the time period fedora hat.
-
-==Additional quotes==
-{{Quote|
-Quote=But let's not waste any time. If you want to get out of here, don't take the main entrance, it is being watched by soldiers.|
-Character=Joan Loumin}}
-{{Quote|
-Quote=It's our secret identification sign. He just might be speaking the truth your Majesty.|
-Character=Joan Loumin}}
-{{Quote|
-Quote=Only you can stop the emperor and Dark Monk.|
-Character=Joan Loumin}}
 
 ==Related threads==
 ===Fan Art===
