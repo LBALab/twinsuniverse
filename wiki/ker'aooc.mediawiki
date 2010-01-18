@@ -10,34 +10,11 @@ Gender=Male|
 Size=Small|
 Age=Adult}}
 
-{{Quote|
-Quote=Ah you are so kind. Go see Ker'aooc the healer on my behalf on Desert Island. I work for him and, believe me, he knows tricks that would cure anything, even a Dino-Fly...|
-Character=[[Leone]]}}
+'''Ker'aooc''' is a [[sphero]] wizard living in [[Port-Ludo]] on the [[Island of the White Leaf Desert]]. He is often referred to as the '''healing wizard'''. A sphero named [[Leone]] is working for him. Additinally, [[Anatole]] is one of his regular customers.
 
-== Description ==
-'''Ker<nowiki>'</nowiki>aooc''' is a [[sphero]] wizard living in [[Port-Ludo]] on the [[Island of the White Leaf Desert]]. He is often referred to as the '''healing wizard'''. [[Leone]] is working for him, [[Anatole]] is one of his regular customers.
+In a search for a cure for his [[Dino-Fly]], [[Twinsen]] meets Leone in the [[pharmacy]] of [[Citadel Island]]. She advices him to go meet Ker'aooc in [[Ker'aooc's house|his house]] in Desert Island. When Twinsen arrives to Desert Island, he finds out that Ker'aooc is not home. Leone tells him that she is worried about that, becuase he usually doesn't disappear for too long. Twinsen later finds out that Ker'aooc, together with the other [[wizards]] of the planet, went with the [[Esmers]] to [[Zeelich]], as an exchange trip. Leone tells Twinsen that if it's an emergency, he can try finding the [[School of Magic]].
 
-== Role in Twinsen's adventure ==
-[[Twinsen]] searched for Ker'aooc during his second adventure because he needed a cure for his [[Dino-Fly]]. However, Ker'aooc was not home. He had been invited by the [[Esmers]] to come to an exchange trip to their planet [[Zeelich]]. Leone directed Twinsen to the [[School of Magic]] instead.
-
-Twinsen later freed Ker'aooc, among the other wizards, from the machine in [[Dark Monk's statue]].
-
-== Trivia ==
-Twinsen borrowed a vial of [[Gallic Acid]] from Ker'aooc. Leone allowed him to take it.
-
-== Additional quotes ==
-{{Quote|
-Quote=All I know is that the wizard Ker'aooc has gone on a trip with some of his colleagues. It's the Esmers who invited him<nowiki>!!</nowiki>|
-Character=Leone}}
-{{Quote|
-Quote=I saw Ker'aooc pass by a while back. Told me the Esmers had invited him...someplace or other. Regardless, he was going to the Hacienda.|
-Character=[[Chedil Amiradoo]]}}
-{{Quote|
-Quote=I usually play better than that, but my back's killing me. The healer Ker'aooc went out and forgot to leave me some poultice.|
-Character=Anatole}}
-{{Quote|
-Quote=You succeeded. Maybe I should go see the healing wizard. He told me that, if I poured a little gallic acid in my engine, I could go faster<nowiki>!!</nowiki>|
-Character=A racer at [[Von Kournil tour]]}}
+Twinsen later frees Ker'aooc, among the other wizards, from the machine in [[Dark Monk's statue]].
 
 == Related threads ==
 === General ===
