@@ -4,12 +4,12 @@ title: Roger de la Fontaine's Brother
 
 {{Character|
 Name=Roger de la Fontaine's brother|
-Image=DIVERS.gif|
+Image=Rdlfb.jpg|
 Race=[[Franco]]|
 Gender=Male|
 Size=Medium|
 Age=Adult}}
-{{image}}
+
 {{Quote|
 Quote=Roger de la Fontaine, he was my brother. He was the local burgermaster you know, who was responsible for our fragment. Roger, he kept hiding the fragment somewhere without telling anyone, untill the accident...Pity he was eaten by a monster from the gas.|
 Character=Roger de la Fontaine's brother}}
