@@ -4,17 +4,9 @@ title: Kash
 
 [[Image:Kashes.gif|right|78px|thumb|Kash]]
 
-{{Quote|
-Quote=It is the exchange currency of your planet Twinsun. It allows you to buy the articles you are interested in.|
-Character=Official description}}
+'''Kashes''' are the currency unit on [[Twinsun]]. They are used by the inhabitants of the planet to buy items they want. Kashes can be easily found almost anywhere around the planet, by searching rubbish cans or plants.
 
-==Description==
-'''Kashes''' are the [[currency]] on [[Twinsun]], [[Twinsen]]'s planet. They are used by the inhabitants of the planet to buy anything they wish.
-
-The kashes can be easily found almost anywhere around the planet, by searching rubbish cans or plants.
-
-==Role in Twinsen's adventures==
-Twinsen used Kashes in order to buy anything he was interested in. Once arriving on [[Zeelich]], he found no further use for them, and was more than happy to sell them to the [[Twinsunian Souvenir Shop]], in exchange for [[Zlitos]].
+[[Twinsen]] uses Kashes in order to buy anything he is interested in. Once arriving on [[Zeelich]], he finds no further use for them, and sells them to the [[Twinsunian Souvenir Shop]], in exchange for [[Zlitos]].
 
 ==Related threads==
 ===General===
