@@ -10,7 +10,7 @@ Rate=Slow/Fast, depending on behaviour|
 Damage=A lot|
 Range=Melee}}
 
-'''FunFrock's saber''' is a saber that once belonged to [[Dr. FunFrock]], although he does not actually use it in the game. This saber is considered the most powerful weapon on [[Twinsun]], and is capable of killing most creatures.
+The '''Magic Saber''' is a saber that once belonged to [[Dr. FunFrock]], although he does not actually use it in the game. This saber is considered the most powerful weapon on [[Twinsun]], and is capable of killing most creatures.
 
 In [[Little Big Adventure 1]], the saber is locked in a safe in [[FunFrock's headquarters]] at [[Principal Island]]. This safe is guarded by a few [[clones]], including a clone of FunFrock himself.
 
