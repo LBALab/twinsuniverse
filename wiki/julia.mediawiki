@@ -10,31 +10,13 @@ Gender=Female|
 Size=Medium|
 Age=Adult}}
 
-{{Quote|
-Quote=We don't trust people easily here. Prove that you don't work for FunFrock, clobber a clone!|
-Character=Julia}}
+'''Julia''' is a female [[rabbibunny]] living in a [[Julia's house|house]] in the [[Old Burg]] on [[Principal Island]]. She owns a big screen television, one of the only few televisions found on [[Twinsun]]. Julia is best friend to [[Beatrice]]], and according to her she watches television too much.
 
-==Description==
-'''Julia''' is a female [[rabbibunny]], who lives in a [[Julia's house|house]] in the [[Old Burg]] on [[Principal Island]]. She owns a big screen television (one of the only few televisions found on [[Twinsun]]). According to her best friend [[Beatrice]], she tends to watch it a bit too much.
-
-==Role in Twinsen's adventure==
-While Julia said a lot, she had little impact on [[Twinsen]]'s adventures. She informed him that in order to gain the trust of the Old Burg citizenry he had to prove that he wasn't an agent of [[FunFrock]]. Also, after her trust had been won, she told him a long winded story which was ultimately about a [[clover box]], located on an islet off [[Peg Leg Street]].
-
-==Quotes==
-{{Quote|
-Quote=I've got to tell you something. It's awful! My best friend (Beatrice) is in love with Steven. But Paul, Steven's half brother, left Cindy when Linda got out of the clinic after her bobsleigh accident. But not for Linda, for Tatjana! Only Serge (who secretly admires Steven) has been trying for months to win the love of Tatjana who refuses to talk to Christy since she died. All the while Stephanie - who remarried Serge - discovered the letter from Paulina in which she explained where was the box of clover leaves left behind by Roy. So, evidently, Beatrice wonders if Linda knows about the accident. You get all that?|
-Character=Julia}}
-{{Quote|
-Quote=Go see Beatrice and tell her that Julia sent you. She'll explain all that better than I can. She lives on the outskirts of the Old Burg, in a house next to the sea, on Peg Leg Street.|
-Character=Julia}}
-{{Quote|
-Quote=You know Julia? She is a nice girl. She watches a bit too much TV, but there is some truth in her story: someone left a box for clover leaves on the islet in front of my house. It is too shallow for a boat to get there by water, and since the bridge leading to the islet has collapsed, the only way to get there is to fly.|
-Character=Beatrice}}
+When [[Twinsen]] first arrives to the Old Burg, he finds out that the local citizens are afraid of him. Julia advices him that in order to win the people's trust, he should "clobber a [[clone]]". After Twinsen does so, Julia, as well as the rest of the town's citizens, is willing to talk to him. Julia tells Twinsen a long story, which hints him about a [[clover box]] located on an islet off [[Peg Leg Street]]. She tells him to go to Beatrice and ask her about it.
 
 ==Related threads==
 ===General===
 * {{thread|id=9467|title="You get all that?"}}
-
 
 [[Category:Rabbibunnies]]
 [[Category:Female characters]]
