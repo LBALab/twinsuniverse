@@ -9,53 +9,24 @@ Race=[[Elf]]|
 Gender=Male|
 Size=Small|
 Age=Kid}}
-{{Quote|
-Quote=Thanks for opening the grotto. My name is Joe the Elf. I was locked up here because I wasn't meant to be in the story, there might have been some bugs in the game!|
-Character=Joe the Elf}}
 
-== Description ==
-'''Joe the Elf''' is a green [[Elf]]. He has magic powers to teleport himself, and is able to use [[telepod]]s, which where supposed to only work for [[Clones]]. He is a member of the Elves Club and a friend of [[Twinsen]].
+'''Joe the Elf''' is a green [[Elf]]. He has magic powers to teleport himself, and is able to use [[telepod]]s, which are supposed to work only for [[Clones]]. He is a member of the Elves Club and a friend of [[Twinsen]].
 
-== Role in Twinsen's adventures ==
-Twinsen found Joe in a grotto in the [[White Leaf Desert]] during his first adventure. He was trapped in a maze. After Twinsen had opened the entrance of the cave with the [[Horn of Gawley]], however, he was able to leave it. He made Twinsen a honorary Elf as a reward, by giving him the [[Elves Club Blue Card]]. With this card, Twinsen was able to open a locked door in a small fortress in the [[Hamalayi Mountains]].
+==In Little Big Adventure 1==
+Twinsen finds Joe in a grotto in the [[White Leaf Desert]] in [[Little Big Adventure 1]]. Joe is trapped in a labyrinth, allegedly because he wasn't supposed to be in the game. After Twinsen opens the entrance of the cave with the [[Horn of Gawley]], however, he is able to leave it. Joe makes Twinsen a honorary Elf as a reward, by giving him the [[Elves Club Blue Card]]. With this card, Twinsen is able to open a locked door in a small fortress in the [[Hamalayi Mountains]].
 
-Meanwhile, Joe went out to explore the world. According to a [[horse]], he was looking for a captured princess to be rescued.
+Joe later goes out to explore the world. According to the [[horse]] galloping in the desert, he is looking for a captured princess to be rescued.
 
-Twinsen and Joe met again several times during Twinsen's second adventure. Firstly, in the [[Tralü's cave]], where Joe showed his magical teleporting power, which were not yet working all right.
+If Twinsen uses his [[Flask of Clear Water]] in the [[Water Tower]] to clear the water supply of [[Principal Island]], Joe teleports in from the telepod on top of the Water Tower, claiming that teleportation makes him nauseous.
 
-They met again in the [[Cemetery]] in front of the [[School of Magic]]. Joe was transformed into a shell for unknown reasons. However, Twinsen was able to heal him with the [[Horn of the Blue Triton]]. Joe gave him [[Clover leaf|Clover leaves]] as a reward.
+==In Little Big Adventure 2==
+Twinsen and Joe meet again several times in [[Little Big Adventure 2]]. Firstly, in the [[Tralü's cave]], where Joe shows his magical teleporting power, which are not yet working all right.
 
-Later on, Joe went to [[Zeelich]] along with Twinsun's wizards. As the wizards were captured by the forces of the [[Emperor]], he was scared and planned to get back to [[Twinsun]]. On his way, he met Twinsen, in his [[wizard's parade tunic]], at the [[Otringal]] [[astroport]]. He recognized Twinsen and called him by his name. The [[Esmers]], who had not yet recognized Twinsen, thus put both of then in the [[Otringal prison]].
+They meet again in the [[Cemetery]] in front of the [[School of Magic]]. Joe is transformed into a shell for unknown reasons. However, Twinsen is able to heal him with the [[Horn of the Blue Triton]]. Joe gives him three [[Clover leaf|Clover leaves]] as a reward.
 
-In prison, Joe teleported himself into Twinsen's cell. He told Twinsen about the Esmers' plans to abduct the children of Twinsen. He also attracted a [[Franco policeman]], who opened the cell's door, making it possible for Twinsen to escape the prison. Joe himself hid in the [[Esmer shuttle]] that Twinsen stole.
+Later on, Joe goes to [[Zeelich]] along with [[Twinsun]]'s wizards. As the wizards are captured by the forces of the [[Emperor]], he is scared and planns to get back to [[Twinsun]]. On his way, he meets Twinsen, in his [[wizard's parade tunic]], at the [[Otringal]] [[astroport]]. He recognizes Twinsen and calls him by his name. The [[Esmers]], who don't yet recognized Twinsen, thus put both of them in the [[Otringal prison]].
 
-==Trivia==
-After Twinsen had used his [[Flask of Clear Water]] in the [[Water Tower]] to clear the water supply of [[Principal Island]], Joe teleported in from the telepod on top of the Water Tower. The teleportation had made him nauseous. It is unknown how he was able to use the telepod, as there are none seen on [[Desert Island]].
-
-When Twinsen had a close look on the shuttle wreck at the [[Ridge of the Flowers Circle]], Joe eventually came out of it, telling he had hid in the shuttle when Twinsen left from Zeelich. However, we would have liked it to get back to Zeelich, as the wizards were left alone there now.
-
-==Quotes==
-{{Quote|
-Quote=Ewwwww! Teleportation makes me nauseous.|
-Character=Joe the Elf}}
-{{Quote|
-Quote=Hey Twinsen! It's me, Joe<nowiki>!!</nowiki> I don't feel too good. Couldn't you do something for me?|
-Character=Joe the Elf}}
-{{Quote|
-Quote=But... it's... Twinsen! Yo, Twinsen! It's me, Joe the Elf! Your old friend! Good to see you again<nowiki>!!!</nowiki>|
-Character=Joe the Elf}}
-{{Quote|
-Quote=Hey, Twinsen, great bumping into you! Say, you don't seem all that buddy-buddy with the locals! Soon as they heard your name, they jumped you, knocked you out, and stole your wizard's costume. And now, we're in jail.|
-Character=Joe the Elf}}
-{{Quote|
-Quote=Actually I was with the wizards when the Esmers invited them to this planet. Now, they're being held captive by the emperor and claim the Esmers want to kidnap the children of Twinsun. I got scared, so I left, and found you there.|
-Character=Joe the Elf}}
-{{Quote|
-Quote=They say the Esmers left for our planet to kidnap Twinsun's children! They say nothing can be done, but I still have hope. I'm sure you will succeed in reaching the astroport to steal a shuttle and go save those children<nowiki>!!!</nowiki>|
-Character=Joe the Elf}}
-{{Quote|
-Quote=I had hidden in the shuttle when you left the planet of the strange people. But now, I would like to go back. We left the wizards all alone up there, and they must be getting bored stiff.|
-Character=Joe the Elf}}
+In prison, Joe teleports himself into Twinsen's cell. He tells Twinsen about the Esmers' plans to abduct the children of Twinsun. He also attracts a [[Franco policeman]], who opens the cell's door, making it possible for Twinsen to escape the prison. Joe himself hides in the [[Esmer shuttle]] that Twinsen steals, and appears later in the crashed shuttle on the [[Ridge of the Flowers Circle]]. He claims he would like to get back to Zeelich, as the wizards are left alone there now.
 
 ==Related threads==
 ===General===
