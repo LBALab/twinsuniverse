@@ -10,29 +10,11 @@ Gender=Male|
 Size=Small|
 Age=Adult}}
 
-{{Quote|
-Quote=Hey quetch, hell of a job. If you'd like to carry on down the corridor and, try to open the hatch at the end of the hall.|
-Character=Colonel Kroptman}}
+'''Kroptman''' is a firm [[sphero]] rebelling against [[FunFrock]] during his reign. He became the colonel of the rebels on [[Rebellion Island]]. Kroptman was captured during their assault on the [[Okojo pass]], which would lead them to the [[Northern hemisphere]] of [[Twinsun]].
 
-==Description==
-Kroptman was a firm sphero who rebelled against [[FunFrock]] during his reign. He became the colonel of the rebels on [[Rebellion Island]]. Kroptman was captured during their assault on the [[Okojo pass]], which would lead them to the [[Northern hemisphere]] of [[Twinsun]]. After Kroptman was freed by [[Twinsen]] he escaped together with the rabbibunny commando that had guided Twinsen to the fort. They both disappeared.
+When [[Twinsen]] arrives to Rebellion Island he is given the task to free the Colonel. A commando helps Twinsen to get into the fort which guards the pass and where Kroptman is being held. Freeing the Colonel eventually enables Twinsen to reach the Northern Hemisphere himself.
 
-==Role on Twinsen's adventure==
-When Twinsen got to Rebellion Island he was given the task to free the Colonel. A commando helped Twinsen to get into the fort which guarded the pass and where Kroptman was being held. Freeing the Colonel eventually enabled Twinsen to reach the Northern Hemisphere himself.
-
-==Uncomfirmed theories==
-Kroptman and the rabbibunny commando might have been killed during their escape. This was not confirmed by any of the other rebels.
-
-==Trivia==
-After Colonel Kroptman was rescued by Twinsen, he disappeared and was never seen again anywhere on Twinsun.
-
-==Additional quotes==
-{{Quote|
-Quote=You must be Twinsen. Like you, we have rebelled against that madman FunFrock - and you saw what's left of the city. We don't believe that the Northern hemisphere has become uninhabitable like the propaganda says it has. There may even be some survivors living there who refused to be deported. This is why we have decided to take the road leading to the Okojo pass by force. It leads to the Northern hemisphere. Unfortunately, our leader, Colonel Kroptman, was captured during the attack. We believe that he is still being held in the small fort that guards the pass. Help us free him by raiding the fort. You will be able to get to the Northern hemisphere if you do so. Go back to the hangar, there is a commando waiting for you in the boat.|
-Character=Leader of the rebels}}
-{{Quote|
-Quote=You're a real hero, Twinsen ! Well uh ... I mean, thanks for freeing Colonel Kroptman.|
-Character=Rebel rabbibunny}}
+After Kroptman is freed by [[Twinsen]] he escapes together with the [[rabbibunny]] commando that had guided Twinsen to the fort. They both disappear.
 
 [[Category:Spheroes]]
 [[Category:Male characters]]
