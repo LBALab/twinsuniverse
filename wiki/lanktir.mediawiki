@@ -10,26 +10,9 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
-{{Quote|
-Quote=Well, well. It seems that you too have found an authentic secret map of Captain LeBorgne! Do me a favor would you? Give Lanktir, who lives next to the bazaar, back his coffee pot. I'm so ashamed, I should have given it back long ago.|
-Character=A [[sphero]]}}
+'''Lanktir''' is a [[grobo]] living in [[Proxim-City]] at [[Proxima Island]], next to the [[Proxim-City bazaar|bazaar]].
 
-==Description==
-'''Lanktir''' is a grobo living in [[Proxim-City]], next to the [[Proxim-City bazaar|bazaar]].
-
-==Role in Twinsen's adventure==
-When [[Twinsen]] entered Lanktir's house, Lanktir gave him a [[keypad]] he recieved by accident. Twinsen was able to use it inside the [[Teleportation Center]].
-
-When Twinsen was following the description of an old log of [[LeBorgne]] in order to find his treasure, he encountered a [[sphero]], who gave him a [[coffee pot]] he should return to Lanktir. When Twinsen did so, Lanktir gave him a [[list with clover boxes locations]].
-
-==Additional Quotes==
-{{Quote|
-Quote=If you give me back my coffee maker, I'll give you a list of certain places where you can find a rare plant and some boxes. And don't ask me where I found this list!|
-Character=Lanktir}}
-
-{{Quote|
-Quote=Someone made a mistake in the address and sent me this object by accident: it's a keypad that opens a door at the "Teleportation Center". This opens a room full of meca-penguins.|
-Character=Lanktir}}
+Lanktir gives [[Twinsen]] a [[keypad]] which he received by accident. Twinsen can use this keypad later to open a secret room in the [[Teleportation Center]]. Addtionally, if Twinsen follows the directions in [[LeBorgne]]'s log, a [[sphero]] comes and gives him a [[coffee pot]], asking him to return it to Lanktir. In return to the coffee pot, Lanktir gives Twinsen a [[bonuses list]], detailing the locations of some [[clover boxes]] and clover leaves around [[Twinsun]].
 
 ==Related threads==
 ===General===
