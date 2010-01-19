@@ -9,23 +9,14 @@ Enemy=Red enemies and lower|
 Rate=Slow|
 Damage=A lot|
 Range=Infinite}}
-{{Quote|
-Quote=You now own a laser-pistol in working condition. It gives you enough firepower to reach distant targets that your magical ball cannot reach.|
-Character=Official description}}
 
-== Description ==
-The '''pistolaser of Zarnon''', also simply called the '''laser-pistol''', requires a piece of [[rock crystal]] to work. Once loaded with such crystal, the laser-pistol is able to fire short, perfectly horizontal and slow moving laser rays that explode upon impact. It does lots of damage, and due to the horizontal rays it has a very long range. However, it reloads very slowly.
+The '''laser pistol of Zarnon''', usually referred to as '''laser-pistol''', is a pistol loaded with [[rock crystal]]. This pistol fires short, perfectly horizontal and slow moving laser rays that explode upon impact. It causes lots of damage, and due to the horizontal rays it has a very long range. However, it reloads very slowly.
 
-== Role in Twinsen's Adventure ==
-To help him in his quest, the Dissidents awarded [[Twinsen]] with the Laser Pistol of Zarnon. Twinsen had to use this pistol to get past the [[Franco guards|guards]] and open the door at the passage to the [[Elevator to the Undergas]]. It did a great deal of damage, and was therefore a very good weapon to use. However, Twinsen was usually not wise enough to realize that, and did not use the pistol too often.
+[[Twinsen]] receives the laser pistol from the [[dissidents]] in the [[Twinsunian Souvenir Shop]] when they help him prepare for the journey to [[Island CX]]. They instruct him to load the pistol with rock crystal mined from the [[Island of the Celebration]]. Twinsen goes there, and with a [[pick-ax]] he buys from the [[Francos bazaar]], he mines the rock crystal and loads the pistol with it.
 
-== Additional Quotes ==
-{{Quote|
-Quote=You have found a laser-pistol. It needs a rock crystal to work properly.|
-Character=When Twinsen received the pistol}}
-{{Quote|
-Quote=To reach the elevator, you need a powerful weapon. Here, this is a pistolaser of Zarnon. But you will have to find a crystal to make it work. There are some on the side of the volcano of the celebration.|
-Character=A dissident}}
+Without the pistol, Twinsen cannot reach the levers that control the door leading to the [[Francos harbour]], from which he takes a tanker to the [[Elevator to the Undergas]].
+
+The laser pistol also serves as an effective weapon, especially against far away enemies.
 
 == Related Threads ==
 === Hints\Spoilers ===
