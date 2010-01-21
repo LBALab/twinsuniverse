@@ -18,18 +18,4 @@ Character=The legend according to the [[Book of Bù]]}}
 
 She, too, is imprisoned and taken away by FunFrock's soldiers. In the search for his girlfriend and the truth about the Legend, Twinsen discovers that he in fact is the very Heir, destined to overthrow the evil tyrant FunFrock, as described in the Legend itself.
 
-The next quotes describe how the legend comes true in the game:
-{{Quote|
-Quote=Only the Heir could have survived in that Temple! You are the Chosen One that the prophecy spoke of. You are worthy of keeping the Book of Bù, Twinsen. It will allow you to decipher the runes and to speak to the animals. The prophecy that must be accomplished is also revealed in its pages: you must overthrow Dr. FunFrock, the despot who has destroyed the harmony that once existed on this planet. In my dreams, I saw him profaning the Well of Sendell, which caused the immediate destruction of this world. You must go to the Well of Sendell to save us from Dr. FunFrock. I don't know where this well is, but your ancestors must have left instructions for you, somewhere in your home.|
-Character=The old man in the desert}}
-{{Quote|
-Quote=This room contains information and weapons that were amassed for generations to help the Heir who will, one day, be chosen from our descendants. The key to the room was passed down from generation to generation, but our ancestor Hégésippe was the last family member to retain the key. He was attacked and killed by the ruthless pirate LeBorgne during a sea voyage. Nobody knows where Leborgne's treasure, which undoubtedly contains the golden key to the room, is today.|
-Character=Just outside the Heir's room, underneath Twinsen's house}}
-{{Quote|
-Quote=You who read this text, know that there are 3 Runic Stones in this world. Their locations are now indicated on your Holomap. They are large menhirs with runic text written on them. They will help the Heir in his quest for Sendell. The third stone will show the exact location of the Well of Sendell. In addition to the help provided by the text, each stone conceals a secret.|
-Character=Inside the Heir's room}}
-{{Quote|
-Quote=I am Sendell, like all of those you see here, we are all Sendells. We are here to watch over a stellar entity that is in gestation, it will come into existence in a few centuries. As we can only act from the heart of the planet, we implanted a lineage of elected creatures among the species living on the surface. You are the current descendant of this family, and when FunFrock's threat had become too great, it was me that called to you in your dreams. The entity can now finish its gestation because you rid us of FunFrock. It would have died if he had gotten to it, and this world would have imploded, thanks to you it will continue to flourish. Return now to the surface, you can now erase the final traces that he left there.|
-Character=Sendell}}
-
 [[Category:Legends]]
