@@ -10,35 +10,13 @@ Gender=Female|
 Size=Small|
 Age=Adult}}
 
-{{Quote|
-Quote=Here's the deal. I will tell you how to treat your Dino-Fly, if you would bring back my umbrella. Use your smarts but remember that, in life, haste makes waste...|
-Character=Leone}}
+'''Leone''' is a sphero working for the healing wizard [[Ker'aooc]] as his [[housemaid]]. During most of the time in [[Little Big Adventure 2]] she is seen cleaning [[Ker'aooc's house|his house]] in [[Port-Ludo]].
 
-==Description==
-Leone is a young sphero working for the healing wizard, [[Ker'aooc]], as his housemaid.
+[[Twinsen]] first meets Leone in the [[pharmacy]] on [[Citadel Island]], when she tells him she has an idea how to help [[Dino-Fly]]. Just then, her [[umbrella]] is stolen by a [[Umbrella thief|thief]] [[rabbibunny]]. Giving her back the umbrella, Twinsen learns from Leone that he can go visit the healing wizard for assistance.
 
-==Role in Twinsen's adventure==
-[[Twinsen]] first met Leone in the [[pharmacy]] on [[Citadel Island]]. Just when she was going to tell Twinsen how he could treat [[Dino-Fly]], her [[umbrella]] was stolen by a [[Umbrella thief|thief]] [[rabbibunny]]. Giving her back the umbrella, Twinsen learned from Leone that he could go visit the healing wizard for assistance. When he went to [[Desert Island]] to look for the wizard, Twinsen found Leone in the wizard's house, where she told him that the wizard would be gone for a while. She also gave him a [[Flask of gallic acid]] for free.
+When Twinsen goes to [[Desert Island]] to look for the wizard, he finds Leone in the wizard's house, where she tells him that Ker'aooc would be gone for a while. She suggests Twinsen to search for the [[School of Magic]] in case it's an emergency.
 
-==Additional quotes==
-{{Quote|
-Quote=Ah you are so kind. Go see Ker'aooc the healer on my behalf on Desert Island. I work for him and, believe me, he knows tricks that would cure anything, even a Dino-Fly...|
-Character=Leone}}
-{{Quote|
-Quote=I'm sorry that the healer Ker'aooc is away. When he'll be back is anyone's guess. If it's an emergency, try the School of Magic.|
-Character=Leone}}
-{{Quote|
-Quote=Only the wizards and the initiated know her whereabouts. All I know is that she went into hiding somewhere on the island.|
-Character=Leone}}
-{{Quote|
-Quote=You can borrow this vial, I don't think Master Ker'aooc has much use for it.|
-Character=Leone}}
-{{Quote|
-Quote=I am a little worried, you know. Since he left, Wizard Ker'aooc has not sent any sign of life. I don't like what's going on, this is not his habit.|
-Character=Leone}}
-{{Quote|
-Quote=All I know is that the wizard Ker'aooc has gone on a trip with some of his colleagues. It's the Esmers who invited him<nowiki>!!</nowiki>|
-Character=Leone}}
+Twinsen can also take the [[Flask of gallic acid]] from Ker'aooc's house. Leone says that he can take, as Ker'aooc doesn't use it.
 
 ==Related threads==
 ===General===
