@@ -4,22 +4,11 @@ title: Life Candy
 
 [[Image:Tridna.jpg|right|200px|thumb|Fan Art illustrating the concept of life candy]]
 
-{{Quote|
-Quote=10 Life points! Cool!|
-Character=[[Twinsen]]}}
+'''Life candies''' are a part of the lives system in the [[Little Big Adventure]] games. They are made to look like hearts, and contain a special genetic stimulant that triggers the regeneration of any damaged part of the body. Because the stimulant is used up as it works, each capsule only allows a slight recovery of health. As such, they are used to heal minor injuries, and generally increase a person's stamina. When a person's life points meter reaches zero, he loses one [[clover leaf]].
 
-==Description==
-Made to look like hearts, these '''life candies''' contain a special genetic stimulant that triggers the regeneration of any damaged part of the body. Because the stimulant is used up as it works, each capsule only allows a slight recovery of health. As such, they are used to heal minor injuries, and generally increase a person's stamina.
+Because of the cheap, widely available nature of the medicine, which is found in most garbage cans and plants, there is little sickness or disability on [[Twinsun]].
 
-Because of the cheap, widely available nature of the medicine, there is little sickness or disability on [[Twinsun]].
-
-==Role in Twinsen's adventures==
-The life candies were used by Twinsen whenever he needed to recover health. They are one of the 3 main collectable items on Twinsun.
-
-==Additional quotes==
-{{Quote|
-Quote=Life candy: do you want 10 hearts for 10 Kashes?|
-Character=A random vending machine}}
+The life candies are used by [[Twinsen]] whenever he needs to recover health. He can either find them in plants or garbage cans, or buy them in the bazaars around the planet. In [[Little Big Adventure 2]], as part of his studies in the [[School of Magic]], he receives the [[Horn of the Blue Triton]], which enables him storing a greater amount of life points, as well as using them to heal others.
 
 ==Related threads==
 ===Fan Art===
