@@ -10,29 +10,15 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
-{{Quote|
-Quote=I was put in charge of verifying this building because it was built over ruins that are marked with a strange symbol. It seems that a mad man is attacking different sites also marked with the same symbol. All this extra work has really ruined my weekend! We're really worried about the Teleportation Centre: it's weak point is situated on the left, right after the first guard post.|
-Character=Mies van der Rooh}}
+'''Mies van der Rooh''' is [[Twinsen]]'s neighbour during [[FunFrock]]'s reign. He lives with his [[Mies van der Rooh's father|father]] in a [[Van der Rooh's residence|house]] in [[Bug Street]]. Mies is an architect, and works on maintaining some of FunFrock's buildings, including the [[Teleportation Center]]. He is very loyal to FunFrock, and can't see the tyranny that FunFrock causes, because he is one of the citizens who are better off during FunFrock's reign.
 
-==Description==
-'''Mies van der Rooh''' was [[Twinsen]]'s neighbour during [[FunFrock]]'s reign. He lived with his [[Mies van der Rooh's father|father]] in a rather large house in [[Bug Street]]. Mies was an architect, and worked on maintaining some of FunFrock's buildings, including the [[Teleportation Centre]]. He was very loyal to FunFrock, and couldn't see the tyranny that FunFrock caused, because he was one of the citizens who were 'better off' during FunFrock's reign. After FunFrock was overthrown, what happened to him is a mystery. He may even be dead.
-
-==Role in Twinsen's adventure==
-Mies van der Rooh inadvertently helped Twinsen overthrow FunFrock, by allowing him access to the Teleportation Centre. He also gave Twinsen his [[Mies van der Rooh's pass|pass]].
-
-==Trivia==
+==Name origin==
 Mies van der Rooh was probably named after [http://en.wikipedia.org/wiki/Mies_van_der_rohe Ludwig Mies van der Rohe], a famous architect himself.
 
-==Additional quotes==
-{{Quote|
-Quote=You will need my card to get into the centre. It is on the drawing table. If you do succeed in catching this vandal with his weird Horn, I would appreciate it if you would kick his rear end for me.|
-Character=Mies van der Rooh}}
-{{Quote|
-Quote=My dear and respected Dr FunFrock. I took the plans of the Teleportation Center home with me, to work on them over the weekend. I will bring them back on monday. Signed: Mies van der Rooh, Architect, Bug Street, Citadel Island.|
-Character=The note in FunFrock's safe}}
-{{Quote|
-Quote=I am updating the works of my defunct son. Certain plans here date back from the time when he rebuilt the island's network of sewers.|
-Character=Mies van der Rooh's father}}
+==Role in the game==
+Twinsen goes to meet Mies van der Rooh after he finds a note from him in a safe in [[FunFrock's headquarters]]. Twinsen tells him that he is searching for the plans of the Teleportation Center, and Mies gives him his [[architect's pass]], which Twinsen uses to enter the building.
+
+Some time between the events of the two games, Mies van der Rooh died under unknown circumstances. Before his death, he rebuilt the [[Citadel Island sewers|sewers system]] of [[Citadel Island]].
 
 ==Related threads==
 ===General===
