@@ -13,31 +13,25 @@ depending on magic level|
 Range=Short~Medium,<br>
 depending on [[magic points]]}}
 
-{{Quote|
-Quote=Magic Ball. Each time you reach a higher level of magic, the Magic Ball's striking power will increase. Its trajectories will also become more effective with each new level, as long as you have enough magic in stock! The Ball will use up magic each time it is thrown.|
-Character=Official description, Twinsen's first adventure}}
-
-==Description==
-The '''magic ball''' is, as the name suggests, a ball that stores a great deal of magic. This ball bounces a couple of times if it doesn't hit any enemy, and then automatically returns to its owner. The magic ball needs the [[Ancestral Tunic]] to function, since it is the primary source of magic. This weapon upgrades along with its owner's magic level.
+The '''magic ball''' is a ball that stores a great deal of magic. This ball bounces a couple of times if it doesn't hit any enemy, and then automatically returns to its owner. The magic ball needs the [[Ancestral Tunic]] to function, since it is the primary source of magic. This weapon upgrades along with its owner's magic level.
 
 The color of the magic ball indicates the possessor's current level of magic. The magic levels are, from weakest to strongest: yellow, green, red and fire. To increase the magic level, one needs to recover magical items, one for each level.
 
 Every time one throws the magic ball, it uses some [[magic points]]. If the person is out of magic points, the ball can still be thrown, but it won't bounce any more, which dramatically decreases the ball range and functionality.
 
-The ball can be used for some special functions. Firstly, the trajectory of the ball can be altered by changing the "behaviour" (movement mode). In discreet mode, for example, the ball is thrown higher instead of far. This is handy for reaching switches that can't be reached otherwise. Second, the magic ball can retrieve [[keys]]; if there's a key somewhere in the current scene, throwing the magic ball at it will pick it up and return it to the owner.
+The magic ball can be used for some special functions. Firstly, the trajectory of the ball can be altered by changing the [[behaviour mode]]. In discreet mode, for example, the ball is thrown higher instead of far. This is handy for reaching switches or enemies that can't be reached otherwise. Second, the magic ball can retrieve [[keys]]; if there is a key somewhere in the current scene, throwing the magic ball at it will pick it up and return it to the owner.
 
-==Role in Twinsen's adventures==
-The magic ball was [[Twinsen]]'s primary ranged weapon in his two adventures. Due to its great functionality and powerful shots, this weapon was most used by Twinsen in both his adventures, not only as a weapon, but also to reach switches and retrieve keys.
+The magic ball is [[Twinsen]]'s primary ranged weapon in his two adventures. Due to its great functionality and powerful shots, this weapon is most used by Twinsen in both his adventures, not only as a weapon, but also to reach switches and retrieve keys.
 
-The four items Twinsen had to obtain in his two adventures in order to get a higher level of magic were:
+The four items Twinsen has to obtain in the two games in order to get a higher level of magic are:
 
-'''Twinsen's first adventure''':
+'''[[Little Big Adventure 1]]''':
 * [[Ancestral Tunic]]
 * [[Book of Bù]]
 * [[Sendell's Medallion]]
 * [[Flask with Clear Water]]
 
-'''Twinsen's second adventure''':
+'''[[Little Big Adventure 2]]''':
 * [[Ancestral Tunic]] + [[Sendell's Medallion]]
 * [[Wizard's diploma]]
 * [[Sendell's Ball]]
@@ -49,20 +43,6 @@ Image:Greenbal.gif|Green Magic Ball
 Image:Redbal.gif|Red Magic Ball
 Image:Firebal.gif|Fire Magic Ball
 </gallery>
-
-==Additional quotes==
-{{Quote|
-Quote=You've just rediscovered your Magic Ball! Try using it on the clones!|
-Character=When Twinsen first found the ball in [[Twinsen's house|his house]]}}
-{{Quote|
-Quote=You just found your Magic Ball! When you wear your ancestral Tunic you'll be able to bounce it at your enemies!|
-Character=When Twinsen found the ball at the beginning of his second adventure}}
-{{Quote|
-Quote=You can throw the Magic Ball and make it bounce in different ways: For that, you need the Tunic since it allows you to store Magic power that the Ball consumes at each throw.|
-Character=Official description, Twinsen's second adventure}}
-{{Quote|
-Quote=By the way, don't forget that the trajectory of your magic ball changes with your behavior!|
-Character=[[Miss Bloop]]}}
 
 ==Related threads==
 ===General===
