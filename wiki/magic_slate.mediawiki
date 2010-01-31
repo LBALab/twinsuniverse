@@ -4,22 +4,22 @@ title: Magic Slate
 
 [[Image:Slate.gif|right|147px|thumb|The Magic Slate]]
 
-{{Quote|
-Quote=By using the Action command in front of a plan, a print or any other illustration, you immediately create a copy with the Magic Slate. You can consult it at any time by selecting the Slate in the inventory.|
-Character=Official description}}
+The '''Magic Slate''' is a slate allowing to store images of any kind, and in no time at all. These slates are given as rewards for completing a specific test in the [[School of Magic]].
 
-==Description==
-The '''magic slate''' allows its possessor to store images of any kind, and in no time at all. These slates are rather rare, and are given only as rewards for completing a specific test in the [[School of Magic]].
+[[Twinsen]] receives the Magic Slate from the [[Mentor of the School of Magic]], after completing the [[Dome of the Slate]] test as part of his studies in the School of Magic. With this slate, Twinsen is able to store particular images that he finds important enough to be recorded as he goes about in his journey.
 
-==Role in Twinsen's adventure==
-[[Twinsen]] received the Magic Slate from the [[Mentor of the School of Magic]], after completing the [[Dome of the Slate]] test. With this Slate, Twinsen was able to store particular images that he found important enough to be recorded as he went about in his journey.
+The slate comes in handy especially for storing maps. After making record of a map, Twinsen can look at the Slate and use it to examine various locations that are on it. Some examples of maps that end up being stored into the Magic Slate are the map of the Dome of the Slate, the [[Citadel Island sewers|Sewers of Citadel Island]] and the [[Emerald Moon base]].
 
-The Slate came in handy especially for storing maps. After making record of a map, Twinsen could look at the Slate and use it to examine various locations that are on it. Some examples of maps that ended up being stored into the Magic Slate is the map of the Dome of the Slate, the [[Citadel Island sewers|Sewers of Citadel Island]] and the [[Emerald Moon base]].
+Using the slate is not a compulsory part of the game, although it can come in handy in some points.
 
-==Additional quotes==
-{{Quote|
-Quote=You now own a Magic Slate, which allows you to keep a copy of all kinds of images.|
-Character=When Twinsen received the slate}}
+==Images stored in the slate==
+<gallery>
+Image:Slate2.gif|The slate without any images stored
+Image:Sewers_slate.gif|The sewers of Citadel Island
+Image:Island_cx_map_slate.gif|Island CX
+Image:Emerald_moon_base_slate.gif|Emerald Moon Base
+Image:Dome_of_the_slate_slate.gif|Dome of the Slate
+</gallery>
 
 ==Related threads==
 ===Hints\Spoilers===
