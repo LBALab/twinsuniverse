@@ -3,10 +3,10 @@ title: FunFrock's Saber
 ---
 
 {{Weapon|
-Name=FunFrock's Saber|
+Name=Magic Saber|
 Image=Funfrock's saber.png|
 Enemy=All enemies|
-Rate=Slow/Fast, depending on behaviour|
+Rate=Slow/Fast,<br>depending on behaviour|
 Damage=A lot|
 Range=Melee}}
 
