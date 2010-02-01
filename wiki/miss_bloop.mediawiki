@@ -10,33 +10,9 @@ Gender=Female|
 Size=Medium|
 Age=Adult}}
 
-{{Quote|
-Quote=Hello miss Bloop.|
-Character=Twinsen}}
+'''Miss Bloop''' is a femal [[grobo]] owning a [[Miss Bloop's Private Museum|musem]] on [[Citadel Island]]. This museum is dedicated to [[Twinsen]] and his first adventure.
 
-==Description==
-As a gratitude to the hero of the planet, Bloop (usually referred to as Miss Bloop) opened a [[Miss Bloop's Private Museum|museum]] dedicated to [[Twinsen]]. There, one can find items related to Twinsen's first adventure.
-It seems like this nice grobo dedicates herself to the museum, spending a great deal of time there.
-
-==Role in Twinsen's adventure==
-Miss Bloop got Twinsen's [[Ancestral tunic]] and [[Sendell's medallion]], after he defeated [[FunFrock]], for her museum. Twinsen later gets them back from her after he helped her open the doors to a chamber in the museum.
-
-==Additional quotes==
-{{Quote|
-Quote=Excuse him, he is a nice Grobo. You know, he only gives himself airs.|
-Character=Miss Bloop}}
-{{Quote|
-Quote=You showed up at the right time. The door at the top of the stairs is jammed. We need to find a way to go upstairs to release it and free the bell which protects your tunic.|
-Character=Miss Bloop}}
-{{Quote|
-Quote=What? The lighthouse keeper? Ah, no! No, no I didn't see him!|
-Character=Miss Bloop}}
-{{Quote|
-Quote=Thank you for releasing the door, Twinsen. Use your tunic with wisdom.|
-Character=Miss Bloop}}
-{{Quote|
-Quote=By the way, don't forget that the trajectory of your magic ball changes with your behavior!|
-Character=Miss Bloop}}
+After the events of [[Little Big Adventure 1]], Twinsen landed his [[Ancestral Tunic]] and [[Sendell's Medallion]] to Miss Bloop's museum. When he needs them again in the beginning of [[Little Big Adventure 2]], he goes to the museum to fetch them. There, he learns from Miss Bloop that the door to the control room of the museum is locked, and thus the tunic and the medallion cannot be reached. After Twinsen manages to open the door and take his belongings, Miss Bloop gives him a hint regarding the tunic, saying that the trajectory of the [[magic ball]] changes with his [[behaviour]].
 
 ==Related threads==
 ===General===
