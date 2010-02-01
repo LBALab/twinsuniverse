@@ -4,24 +4,10 @@ title: Mies van der Rooh's Pass
 
 [[Image:Architects_pass.png|right|62px|frame|[[Mies van der Rooh]]'s pass]]
 
-{{Quote|
-Quote=M. Mies van der Rooh's pass. This pass will grant you access to the Teleportation Center. You will still have to use Gawley's Horn on the left, after the first guard post.|
-Character=Official description}}
+'''Mies van der Rooh's pass''' is a card which [[Mies van der Rooh]] uses to enter the [[Teleportation Center]] in [[Brundle Island]].
 
-==Description==
-Being quite a respected architect among [[FunFrock]] and his army, [[Mies van der Rooh]] owns this pass. This small card grants him access to the [[Teleportation Centre]] at [[Brundle Island]]. The [[rabbibunny]] usually keeps this pass at his desk, on which he also draws his architecture plans. The card itself contains a photo of Mies van der Rooh, as well as his personal details.
+When [[Twinsen]] goes to Mies van der Rooh in his search for the plans of the Teleportation Center, he receives this pass from him. When Twinsen reaches the Teleportation Center, a [[nurse]] guarding the site asks for his identification. By showing him the architect's pass, Twinsen is able to safely pass through the gate and enter the building.
 
-==Role in Twinsen's adventure==
-Searching for the plans of the Teleportation Centre, [[Twinsen]] reached [[FunFrock's secret fortress]], where he hoped to find the desired plans. Instead, along with [[FunFrock's sabre]], he found a note from Mies van der Rooh, saying he took the plans for his house to work at. Wasting no time at all, Twinsen immediately made his way to [[Bug Street]], where he managed to find the architect wandering around the street. The rabbibunny then invited the quetch over to his house, so that they will look at the plans together.
-
-Once inside the house, Mies handed Twinsen his pass, and sent him to the Teleportation Centre. Upon reaching there, Twinsen handed the card to the [[nurse]] guarding the centre. He was then able to pass through the gate and enter the place, as the nurse accepted the pass and opened the gate for him.
-
-==Trivia==
-By reading the description of the card, Twinsen was able to gain a very useful clue- the description said that he would need to blow the [[Horn of Gawley]] at the sign in the wall.
-
-==Additional quotes==
-{{Quote|
-Quote=You will need my card to get into the center. It is on the drawing table. If you do succeed in catching this vandal with his weird Horn, I would appreciate it if you would kick his rear end for me!|
-Character=Mies van der Rooh}}
+The [[inventory]] description of the architect's pass gives a hint, saying that the [[Horn of Gawley]] is needed to enter the building.
 
 [[Category:Objects]]
