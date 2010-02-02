@@ -4,17 +4,19 @@ title: Mosquibee
 
 [[Image:MosqAnim.gif|right|73px|frame|Mosquibee]]
 
+'''Mosquibee''' is one of the four main species of the planet [[Zeelich]]. Their name is derived from a combination of ''mosquito'' and ''bee''. With their wings, they are the only race in Zeelich capable of flying.
+
+The mosquibees usually keep to themselves, and outside the [[Island of the Mosquibees]] in the [[Under-Gas]] of Zeelich, they are hardly seen around the planet. A plaque in [[Dark Monk's temple]] describes them as such:
+
 {{Quote|
 Quote=Mosquibee representative. The race of the Mosquibees lives in the under-gas. Their village is a magnificent cocoon anchored on the rocky tor which supports the island CX.|
 Character=A plaque at Dark Monk's temple}}
 
-These insectoids belong to the family of short-winged wasps. This race doesn't like to be told what to do by any outsider and lives in a swarm around its queen. The mosquibees live in an immense cocoon clinging to one of the peaks of the under-gas. Ever since they gave asylum to the dissidents from Otringal, skirmishes with the Emperor's forces are becoming more and more frequent....
+When the [[Emperor]] assisted [[FunFrock]] in imposing as [[Dark Monk]], the mosquibees are the only ones in the planet who resist the Emperor's actions. Instead, they have their own queen, [[Astrid]].
+
+[[Twinsen]] comes to the Island of the Mosquibees knowing it provides access to [[Island CX]]. Just after he proves his trustworthiness to the queen, the Emperor's soldiers attack the village, and a battle commences between them and the mosquibees. Several mosquibees take hide then in [[mosquibees hideout|a cave]] in [[Volcano Island]].
 
 ==Related threads==
-
-===List of famous Mosquibees===
-* [[Astrid]] - Queen of the Mosquibees.
-
 ===General===
 * {{thread|id=4677|title=Sups vs. Mosquibee's!}}
 
@@ -24,7 +26,5 @@ These insectoids belong to the family of short-winged wasps. This race doesn't l
 ===Fan Art===
 * {{post|id=84457|title=Lba3}}
 * {{thread|id=12119|title=Think of the mosquibees please!}}
-
-{{Stub}}
 
 [[Category:Mosquibees|*]]
