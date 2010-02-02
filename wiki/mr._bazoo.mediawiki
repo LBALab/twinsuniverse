@@ -10,29 +10,11 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
-{{Quote|
-Quote=If you'd care to purchase something, you just have to stand in front of it and do "ACTION".|
-Character=Mr. Bazoo}}
+'''Mr. Bazoo''' is a [[grobo]] owning the [[Mr. Bazoo's Shop|shop]] in [[Lupin-Burg]].
 
-==Description==
-Mr. Bazoo has a [[Mr. Bazoo's Shop|bazaar]] on [[Citadel Island]]. He sells there all the usual stuff found at any other shop, but at lower prices than elsewhere.
+[[Twinsen]] can buy from Mr. Bazoo [[Nitro-Meca Penguins]], [[Darts]] [[life points]] and [[magic points]]. Bazoo and his shop, however, do not play a vital part of the game.
 
-==Role in Twinsen's adventure==
-Whenever [[Twinsen]] needed [[Nitro-Meca Penguins]], [[Darts]] or [[life points|life]] or [[magic points]], he could come over to Mr. Bazoo’s shop and buy them there.
-
-==Trivia==
-Messing around with the Nitro-Meca Penguin he bought, Twinsen caused it to explode, what made Mr. Bazoo run away. Seeing that the shop was left empty, Twinsen then robbed the shop of all the penguins he wanted.
-
-==Additional quotes==
-{{Quote|
-Quote=Don't do that, you fool, it's going to blow up!|
-Character=Mr. Bazoo}}
-{{Quote|
-Quote=Nobody touches the cash register!|
-Character=Mr. Bazoo}}
-{{Quote|
-Quote=You've seen the visitors. They are Esmers. Supposedly, they're peaceloving and just want to trade us their technology for some of the wisdom of our wizards.|
-Character=Mr. Bazoo}}
+One cheat enables robbing the money box in the shop, as well as gaining unlimited Nitro-Meca-Penguins. If Twinsen launches a penguin in the shop, Mr. Bazoo gets scared and runs away. Twinsen can then steal some [[kashes]] from the shop, and also take penguins and darts for free.
 
 ==Related threads==
 ===General===
