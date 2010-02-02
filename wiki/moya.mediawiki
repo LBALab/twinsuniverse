@@ -10,23 +10,9 @@ Gender=Female|
 Size=Small|
 Age=Adult}}
 
-{{Quote|
-Quote=Oh, hi Twinsen! If you want to take a little sea trip, jump on my back!!|
-Character=Moya}}
+'''Moya''' is a turtle residing inside the sea surrounding the [[Island of the White Leaf Desert]]. She is mostly seen around the southern beach of the island, either near the [[oasis]] or near the west side of [[Port-Ludo]]. Moya is willing to take people on her back for sea trips. To use her services, one should ring the bells located near either of those two places.
 
-==Description==
-'''Moya''' is a turtle residing inside the sea, mainly around the [[oasis]]. She is rather kind, and is willing to come and take people somewhere whenever they ring the bell.
-
-==Role in Twinsen's adventure==
-When Twinsen rang the bells that stand near the oasis or at the left side of the [[Port-Ludo|harbour]], Moya came and invited him to jump on her back to go somewhere. At the oasis, she brought Twinsen to a rock in the water where he could find a [[clover box]]. When Twinsen rang the bell near the harbour, she brought him to the [[Cave of the Pearl of Incandescence]].
-
-==Additional Quotes==
-{{Quote|
-Quote=Hi Twinsen. If you want to see Moya the turtle, you may find her at the small oasis or on the other side of the harbor. To call her, just ring the bell.|
-Character=A camel in the desert}}
-{{Quote|
-Quote=Now that the clouds are gone I can finally enjoy our twin sunshine. You know, I heard there's an oasis in the desert where there's this giant turtle. I'd love to go there...|
-Character=Quetch on the beach}}
+When [[Twinsen]] rings these bells, Moya comes and invites him to jump on her back to go somewhere. At the oasis, she brings Twinsen to a rock in the water where he can find a [[clover box]]. Near the harbour, she brings him to the [[Cave of the Pearl of Incandescence]].
 
 ==Related threads==
 ===Hints\Spoilers===
