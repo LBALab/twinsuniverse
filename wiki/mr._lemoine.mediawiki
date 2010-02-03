@@ -10,14 +10,16 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
+'''Mr. Lemoine''' is a [[wannie]] working as a priest in [[Dark Monk's chapel]] at the [[Village of the Wannies]]. He is very dedicated to the case of [[Dark Monk's prophecy]], and attempts to warn anyone to not interfere with their religious ceremonies.
+
+[[Twinsen]] goes to the chapel in a search for a way to reach the [[Mosquibees Island]]. After Mr. Lemoine warns him not to interfere with Dark Monk's ceremony, he tells Twinsen that he should consult his housemaid, [[Annie]], who knows how to reach the mosquibees.
+
 ==Related threads==
 ===General===
 * {{thread|id=250|title=The funny and rude bits in LBA...}}
 
 ===Fan Art===
 * {{thread|id=11770|title=Wannie monk}}
-
-{{Stub}}
 
 [[Category:Wannies]]
 [[Category:Male characters]]
