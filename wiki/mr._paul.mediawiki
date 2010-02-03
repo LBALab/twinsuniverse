@@ -10,15 +10,9 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
-{{Quote|
-Quote=The foul weather prevents the boats from leaving the harbor.There's nothing to do, all maritime activity is paralyzed. Let me tell you, Mr. Twinsen, only the Weather Wizard could set things straight!!|
-Character=Mr. Paul}}
+'''Mr. Paul''' is a sailor [[grobo]] living in the [[Citadel Island harbour|harbour]] of [[Citadel Island]]. He is responsible for operating the [[ferry|ferries]] sailing from Citadel Island to Desert Island, as well as conducting passengers' [[ferry ticket|tickets]] upon boarding.
 
-==Description==
-Mr. Paul is a sailor grobo living in the [[Citadel Island harbour|harbour]] of [[Citadel Island]]. He is responsible for the ferry and its passengers.
-
-==Role in Twinsen's adventure==
-When [[Twinsen]] needed to go from Citadel to [[Desert Island]], Paul steered it. He also checked if Twinsen had a [[Ferry ticket|ticket]] or not.
+During the [[storm]] in the beginning of [[Little Big Adventure 2]], Paul takes cover in [[Mr. Paul's house|his house]]. When [[Twinsen]] comes to his house, he hears from him that all maritime service is ceased until the end of the storm. Later, when the storm is over, Mr. Paul conducts Twinsen's ferry ticket, and sails the ferry taking him from Citadel to Desert Island and back. While Twinsen is on Desert Island, Mr. Pauls awaits near the ferry in [[Port Ludo]].
 
 ==Related threads==
 ===General===
