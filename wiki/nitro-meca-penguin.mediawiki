@@ -10,35 +10,9 @@ Rate=Slow|
 Damage=Medium|
 Range=Short}}
 
-{{Quote|
-Quote=Meca-Penguin. Red clones just hate this stupid toy.|
-Character=Official description, Twinsen's first adventure}}
+'''Nitro-Meca-Penguin''' is a weapon available in [[Little Big Adventure 2]]. Those penguins are similar to the [[Meca-Penguins]] used in [[Little Big Adventure 1]], although slightly different. Once such a penguin is launched, it moves a few inches forward, and explodes 5 seconds after, creating some damage around its explosion point.
 
-==Description==
-Although looking quite innocent, these clockwork "toys" are much more dangerous than one may think. Launching a '''nitro-meca-penguin''' will result in the penguin exploding, a few seconds later. People like collecting them as weapons, or sometimes just as toys, apparently unaware of the dangers they may cause. Additionally, some of the [[rabbibunnies]] rebelling against [[FunFrock]] used them sometimes for practicing, shooting them as fake targets.
-
-During FunFrock's reign, the evil tyrant created a technology capable of cloning the different species. For unknown reasons, the red grobo clones seemed to be very fanatic about these "toys", playing around with them at any opportunity they got.
-
-==Role in Twinsen's adventure==
-During his two quests for defeating [[FunFrock]], [[Twinsen]] was sometimes required to use not only the basic weapons, such as the [[magic ball]] or the [[sabre]], but also some special weapons. These included the meca-penguins. Although they weren't assets to the adventure, they could still be made useful.
-
-There are two different forms that the Meca-Penguin would be found in, different in each of his adventures:
-
-* In his first adventure, the '''meca-penguin''' - a simple wind-up penguin that would move slowly across the floor.
-* In his second adventure, the '''nitro-meca-penguin''' - the same concept repeated, but with a five second time bomb installed, with the countdown commencing after it is wound-up and set on the ground. 
-
-During [[Twinsen]]'s first adventure, they especially came in handy against the red grobo clones, as they disturbed these, enabling [[Twinsen]] to go past them or defeat them more easily. 
-<br>In the second adventure, the explosive toys were of an even more trivial nature, however they could be put to good use.
-
-To retrieve such penguins, [[Twinsen]] usually had to buy them, although he was able to find some for free around the planet.
-
-==Additional quotes==
-{{Quote|
-Quote=You can use the Nitro-Meca-Penguins by placing them in a level and unencumbered area.|
-Character=Official description, Twinsen's second adventure}}
-{{Quote|
-Quote=You just acquired a superb Nitro-Meca-Penguin. Select it in the inventory and it'll explode a few seconds later.|
-Character=When Twinsen found a new penguin}}
+Nitro-Meca-Penguins can be found in some shops, as well as in hidden places around [[Twinsun]] and [[Zeelich]]. One room in [[Dark Monk's Temple]] is full of these penguins. It is possible to possess a maximum of 10 penguins at a time.
 
 ==Related threads==
 ===General===
