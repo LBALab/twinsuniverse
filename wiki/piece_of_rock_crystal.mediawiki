@@ -4,23 +4,11 @@ title: Piece of Rock Crystal
 
 [[Image:Screenshot-lba2-ingame-island_of_the_celebration-getting_rock_crystal_3.gif|right|thumb|200px|[[Twinsen]] standing in front of a bunch of rock crystals]]
 
-{{Quote|
-Quote=This piece of the Crystal of Celebration is of unmatched purity. It will allow you to operate a pisto-Laser.|
-Character=Official description}}
+'''rock crystal''' is a mineral used to operate [[Laser Pistol]]s. This element can mainly be found in the northern part of the [[Island of Celebration]].
 
-==Description==
-The '''rock crystal''' is a mineral used to operate [[Laser Pistol|laser pistols]]. This is a rather rare element, and can mainly be found in the northern part of the [[Island of Celebration]].
+In order to reach the [[Under-Gas]], [[Twinsen]] first has to go to the [[Francos Harbour]], from which he can take a ship that brings him to the [[elevator to the Under-Gas]]. However, since the lifts that control the opening of the doors are too far to reach with the [[magic ball]], Twinsen needs a long-range weapon, such as the laser pistol.
 
-==Role in Twinsen's adventure==
-In order to reach the [[Under-Gas]], [[Twinsen]] first had to go to the [[Francos Harbour]], from which he would take a ship that should bring him to the [[elevator to the Under-Gas]]. However, since the lifts that control the opening of the doors were too far to reach with the [[magic ball]], Twinsen needed a long-range weapon, such as the laser pistol.
-
-However, the Laser Pistol couldn't operate until it was loaded with a rock crystal. Following the advice of the Dissidents, Twinsen went to Celebration Island, where such crystal can usually be found. After circling the whole island, passing dangerous obstacles and escaping deadly lava balls, he eventually made his way to the place where rock crystal could be found. Once digging there using his [[pick-ax]], he obtained the rock crystal he needed, and was able to use the pistol.
-
-==Additional quotes==
-{{Quote|
-Quote=You now own a laser-pistol in working condition. It gives you enough firepower to reach distant targets that your magical ball cannot reach.|
-Character=When Twinsen picked the crystal}}
-
+When Twinsen meets the [[dissidents]] in the [[Twinsunian Souvenir Shop]], they give him a laser pistol, and instruct him to find a piece of rock crystal in order to load it. Twinsen then goes to Celebration Island, and after circling the whole island, passing dangerous obstacles and escaping deadly lava balls, he eventually reaches the place where rock crystal is found. Once digging there using his [[pick-ax]], he obtains the rock crystal he needs, and is able to use the pistol.
 ==Related threads==
 ===Hints\Spoilers===
 * {{thread|id=7105|title=LBA2, Questions}}
