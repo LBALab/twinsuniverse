@@ -10,31 +10,9 @@ Gender=Female|
 Size=Medium|
 Age=Adult}}
 
-{{Quote|
-Quote=Raph? With him and Fab, we put together a killer combo to play some funky rock'n rave! But since he didn't show at the last rehearsal, no way I can tell you were he is now!|
-Character=Pat}}
+'''Pat''' is a [[quetch]] working as a musician. She is best friends with [[Fab]] and [[Raph]], who together formed a band. They all like hanging out at [[Chez Luc]].
 
-== Description ==
-Pat is a musician and the best friends with [[Fab]] and [[Raph]]. Like them, she also likes hanging out at [[Chez Luc]].
-
-Whenever music played in Chez Luc's jukebox, Pat came down to dance next to it.
-
-== Role in Twinsen's Adventure ==
-Pat did not play any specific role in [[Twinsen]]'s adventure.
-
-== Additional Quotes ==
-{{Quote|
-Quote=Hey!, we need some music here!|
-Character=Pat}}
-{{Quote|
-Quote=Cool<nowiki>!!</nowiki> That music rocks! Don't you think?|
-Character=Pat}}
-{{Quote|
-Quote=It's great that our buddy Raph is back at the lighthouse. But the arrival of these space aliens, that's some thin-I-never-seen-before.|
-Character=Pat}}
-{{Quote|
-Quote=Better ask his buddies Pat or Fab. They're upstairs. Haven't moved since it started raining.|
-Character=[[Luc]]}}
+Pat does not have a vital role in the game. [[Twinsen]] can ask her about Raph the [[lighthouse]] keeper, but he doesn't get much of an answer. If Twinsen puts some music on in the jukebox in the pub, Pat comes down and starts dancing next to it.
 
 [[Category: Quetches]]
 [[Category: Female characters]]
