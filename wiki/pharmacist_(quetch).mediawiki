@@ -10,20 +10,11 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
-{{Quote|
-Quote=Twinsen! What are you doing here? I heard you were arrested only yesterday!|
-Character=The pharmacist}}
+The '''pharmacist''' is a [[quetch]] running the [[Citadel Island]] [[pharmacy]] during the reign of [[FunFrock]].
 
-== Description ==
-The pharmacist ran the [[Citadel Island]] [[pharmacy]] for a period during the reign of [[FunFrock]]. He was probably the "informant" the nurse was talking about, and thus was maybe responsible for [[Twinsen]]'s arrest. He obviously feared Twinsen, as he was very scared when he saw that Twinsen had managed to escape. He was eventually killed by Twinsen.
+It has been suspected by fans that he is the "informant" the [[nurse]] in the [[Citadel]] is talking about, and thus is maybe responsible for [[Twinsen]]'s arrest.
 
-== Role in Twinsen's Adventure ==
-The pharmacist had no paticular role, but is the main reason why Twinsen was in the [[Citadel]]. He Also tried to stop Twinsen from getting a bottle of [[cherry syrup]], within the pharmacy.
-
-== Additional Quotes ==
-{{Quote|
-Quote=Impossible! Nobody gets out of the Citadel alive!|
-Character=The pharmacist}}
+When Twinsen comes to the pharmacy to get a bottle of [[cherry syrup]], it is obvious that the pharmacist fears Twinsen, as he is very scared when he sees that Twinsen had managed to escape the Citadel. The pharmacist manages to call a [[grobo clone]] using his alarm button, but is eventually killed by Twinsen.
 
 == Related Threads ==
 === General ===
