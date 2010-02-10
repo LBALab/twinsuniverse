@@ -2,9 +2,6 @@
 title: Pharmacist (Rabbibunny)
 ---
 
-"Sorry I don't have anything for a Dino-Fly"
-- the rabbibunny pharmacist
-
 {{Character|
 Name=The Pharmacist|
 Image=Pharmacist.JPG|
@@ -13,25 +10,11 @@ Gender=Female|
 Size=Medium|
 Age=Adult}}
 
-==Description==
+The '''pharmacist''' is a female [[rabbibunny]] running the [[pharmacy]] on [[Citadel Island]] in [[Little Big Adventure 2]]. She is the sister of [[Raph]], the [[lighthouse]] keeper.
 
- A female rabbibunny who is the new pharmacist. 
+After [[Dino-Fly]] is hit by a lightning during the [[storm]], [[Zoe]] sends [[Twinsen]] to the pharmacy to find a cure for him. The pharmacist tells Twinsen that she doesn't have anything for a Dino-Fly.
 
-==Role in Twinsen's adventure==
-
-Before [[Twinsen]]'s defeat of [[Dr. FunFrock]], the [[Pharmacist (Quetch)|Quetch Pharmacist]] was killed by Twinsen when he was trying to collect some [[cherry syrup]]. After FunFrock's fall, the pharmacist was replaced by a [[Rabbibunny]]. When Twinsen is looking for a cure for his Dino-Fly in LBA2, he meets this rabbibunny in the pharmacy, who incidently is the new pharmacist, after the old one died in LBA1. She tells Twinsen she does not have a cure for Dino-Fly, and distracts everyone in the room while a theif comes in and steals a customers umbrella.
-
-==Additional Quotes==
-
-"But I do have a customer who works for a healing wizard named Ker'aooc.
-He lives on Desert Island. According to my friend, he treats everybody for everything."
--the pharmacist (rabbibunny)
-
-"If you are interested in an item, stand in front of it and do 'action'"
--the pharmacist (rabbibunny)
-
-"Don't touch my cash register!"
--the pharmacist (rabbibunny)
+After the storm, in case Twinsen hasn't talked with [[Leone]], the pharmacist tells him that the healing wizard [[Ker'aooc]] might be able to help him.
 
 == Related Threads ==
 === General ===
