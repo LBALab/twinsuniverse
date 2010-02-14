@@ -4,20 +4,9 @@ title: Protection Spell
 
 [[Image:Protect.gif|right|155px|thumb|The Protection Spell]]
 
-{{Quote|
-Quote=This Tunic, bequeathed by your ancestors, now gives you protection besides storing Magic. To use the shielding spell, press Enter from the Inventory. This spell consumes some Magic, just like throwing the Ball and using several other magic objects.|
-Character=Official description}}
+'''The Protection Spell''' gives its owner the ability to become completely immune towards virtually any attack. The spell consumes plenty of [[magic points]] while being used, and does not work any more as soon as the person runs out of magic points. The only harm this spell doesn't protect against is falling into water, lava or gas.
 
-==Description==
-'''The Protection Spell''' gives its owner the ability to become completely immune towards virtually any attack. The spell consumes plenty of [[magic points]], while it's being used and won't work anymore as soon as the person runs out of magic points. The only harm this spell doesn't protect against is falling into water, lava or gas.
-
-==Role in Twinsen's adventures==
-The Protection Spell was one of two spells that [[Twinsen]] obtained during his second adventure. Twinsen received the Protection Spell from the [[Island across the Hacienda]]. Although the Protection Spell was not necessary for completing his quest, it could still be quite handy during various points and obstacles within the two planets.
-
-==Additional quotes==
-{{Quote|
-Quote=I am going to tell you a little secret: a wizard told me that he might have hidden a protective spell on the island across from the Hacienda.|
-Character=The racer}}
+While obtaining the protection spell is not a compulsory task in the completion of the game, it can come in handy in places difficult to cross due to heavy guarding by enemies. Twinsen finds the Protection Spell inside the cave in the [[Island across the Hacienda]], after killing the monster guarding it..
 
 ==Related threads==
 ===General===
