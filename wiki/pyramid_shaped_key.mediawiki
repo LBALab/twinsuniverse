@@ -4,29 +4,10 @@ title: Pyramid Shaped Key
 
 [[Image:Pyramid.gif|right|188px|thumb|The pyramid shaped key]]
 
-{{Quote|
-Quote=This Pyramid is a key. If you put it in the right place, it will activate a mechanism giving you access to a secret place.|
-Character=Official description}}
+The '''Pyramid shaped key''' is a key the shape of a pyramid openning the secret room in the [[Citadel Island sewers|sewers of Citadel Island]], where [[Sendell's Ball]] is surrounded by a cage of ice.
 
-==Description==
-This '''key''', shaped, as its name may suggest, pyramid-like, allows one to reach the secret room in the [[Citadel Island sewers|sewers of Citadel Island]], at which [[Sendell's Ball]] was surrounded by cage of ice.
+The key was kept by [[Mies van Der Rooh's father]], the old [[rabbibunny]] who lives next to [[Twinsen]] on [[Bug Street]]. After Twinsen gives his neighbour a [[flask of gallic acid]], he is able to use it to restore a map of the sewers. This map turns out to mention the key, which the rabbibunny gives to Twinsen.
 
-The key was kept by [[Mies van Der Rooh's father]], the old [[rabbibunny]] who lives just next to [[Twinsen]] on [[Bug Street]].
-
-==Role in Twinsen's adventure==
-In return for giving the him the [[Flask of Gallic Acid]], Twinsen's neighbour awarded him with the Pyramid Shaped Key. Once possessing it, He had to go to [[Green Corulla Street]] at the middle of the sewers, and use it on the same-coloured shaped key hole on the ground. This made the door to the secret room with Sendell's Ball open.
-
-Twinsen did not not find any use for they key after that, and was unfortunate not to be able to sell it at the [[Twinsunian Souvenir Shop]] in [[Otringal]].
-
-==Additional quotes==
-{{Quote|
-Quote=Your neighbour just gave you a Pyramid Shaped Key.|
-Character=When Twinsen received the key}}
-{{Quote|
-Quote=The gallic acid has revealed a text previously invisible. It mentions a small pyramid that was in my possession. Here! It's yours!|
-Character=Mies van der Rooh's father}}
-{{Quote|
-Quote=In the secret room, in the center of the sewers, there is an enchanted globe. The Weather Wizard put it there. According to him, it has to do with the prophecy of Sendell. I preferred to lock this room: it can be opened only with the small pyramid.|
-Character=A caption in the map of the sewers}}
+Twinsen uses this key with the keyhole on the floor in [[Green Corulla Street]], which makes the door to the secret room open.
 
 [[Category:Objects]]
