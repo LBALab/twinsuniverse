@@ -4,12 +4,11 @@ title: Raymond the Elf
 
 {{Character|
 Name=Raymond the Elf|
-Image=DIVERS.gif|
+Image=Raymond.gif|
 Race=[[Elf]]|
 Gender=Male|
 Size=Small|
 Age=Kid}}
-{{image}}
 
 '''Raymond the Elf''' is one of two [[elf|elves]] in [[Little Big Adventure 1]]. He looks just like [[Joe the Elf]], only his clothes are coloured blue.
 
