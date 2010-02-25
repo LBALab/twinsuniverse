@@ -10,13 +10,11 @@ Gender=Female|
 Size=Large|
 Age=Adult}}
 
-''"Hi Twinsen.  Far as I'm concerned, I like it when it rains.  The grass gets nicely thick.  Makes it taste better."''
+'''Rose-Marie''' is a cow eating grass on the [[cliffs]] of [[Citadel Island]], near the ruins of the old [[Citadel]].
 
+[[Twinsen]] can ask Rose-Marie whether she has seen [[Raph]], the [[lighthouse]] keeper, and she replies she saw him with his guitar, heading to the cliffs. Later, when the [[esmers]] land on [[Twinsun]], Rose-Marie warns Twinsen that one armed [[sup]] is hiding behind the trees.
 
-
-
-== Description ==
-Rose-Marie is found eating grass near the ruins of the old Citadel.
+If Twinsen goes behind Rose-Marie and paces forward for a while, he gets a [[clover leaf]] from her. This can be done an unlimited number of times.
 
 ==Related threads==
 ===General===
@@ -37,8 +35,6 @@ Rose-Marie is found eating grass near the ruins of the old Citadel.
 
 ===Fan Art===
 * {{post|id=112171|title=Lba3}}
-
-{{Stub}}
 
 [[Category:Female characters]]
 [[Category:Large characters]]
