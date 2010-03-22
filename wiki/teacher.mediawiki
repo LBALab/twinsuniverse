@@ -11,11 +11,23 @@ Size=Medium|
 Age=Adult}}
 {{image}}
 
+''"[Sniff]...the children...we were at the "Flowers Circle" [sniff]...suddenly one of those alien ships showed up right overhead. There was this big white flash, and then...nothing. Next thing I remember, I found myself alone, the children nowhere in sight, and the ship was taking off. It's horrible, Mr. Twinsen! You have to find them! You have to!"''
+-School Teacher -LBA2
+
+==Description==
+The school teacher on [[Citidel Island]] in LBA2 plays know vital role except that she recalls to Twinsen the abduction of the children of Twinsun.
+Twinsen must then continue his quest to look for them
+
+==Additional Quotes==
+
+"I'd like to take the kids to the "Flowers Circle", but the weather's just too bad."
+-School Teacher -LBA2
+
 == Related Threads ==
 === General ===
 * {{thread|id=155|title=Twinsun - a happy jolly place? I THINK NOT}}
 
-{{Stub}}
+
 
 [[Category: Rabbibunnies]]
 [[Category: Female characters]]
