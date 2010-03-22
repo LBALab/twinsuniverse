@@ -10,11 +10,33 @@ Gender=Male|
 Size=Large|
 Age=Adult}}
 
+''"Your hydroglider is great! But you won't make it to Fortress island or to Polar island with it. They are isolated by the currents, no ship can find them. You need a Dino-Fly to go there."''
+-Rabbibunny at tippet Island
+
+
+==Description==
+
 The '''Dino-Fly''' is a mythical creature, with uncertain origins. He is a green dinosaur-like animal, with the ability to fly. When [[Twinsen]] finds him, he is told that he has been waiting for him for a long time.
+
+==Role in LBA1==
 
 The Dino-Fly is an asset to both of Twinsen's Adventure. On his first trip around [[Twinsun]], Twinsen is adviced by a [[sphero]] upon arriving on [[Tippet Island]] that he would need the services of a dino-fly in order to reach some of the planet's islands. Twinsen meets the Dino-Fly at the cliff peak of Tippet Island's surface. At this point, the Dino-Fly is only able to fly around the [[northern hemisphere]] of the planet, due to his soar back. Twinsen uses the Dino-Fly to reach some of the hemisphere's islands unreachable with a [[hydroglider]], such as [[Brundle Island]] and [[Fortress Island]].
 
+==Role in LBA2==
+
 In [[Little Big Adventure 2]], Twinsen has taken the Dino-Fly to his home on [[Citadel Island]]. The game starts with a cutscene of Dino-Fly injured in a [[Great Storm|lightning storm]], and curing him is Twinsen's first main goal in the game. He is eventually able to do so by using the [[Horn of the Blue Triton]], which he receives as part of his studies in the [[School of Magic]]. Dino-Fly's main use in the second game is taking Twinsen to the [[Island of the Dome of the Slate]], which Twinsen can't reach with a [[ferry]].
+
+==Additional Quotes==
+
+''"Good day. Let's see, you can talk to me and you're wearing the Medallion of Sendell: you must be the Heir! I've been waiting for you for centuries and I've got a backache so we'll go carefully. The Hamalayi mountains are too high for me but I can lead you through this entire hemisphere, except for Polar island: it is too well guarded by FunFrock. Where do you want to go?"''
+-Dino-Fly -LBA1
+
+''"Oh what a fall, I'm hurt badly. Under normal conditions, I could have taken you for a spin in the air. But this time, you will have to treat me first."''
+-Dino-Fly -LBA2
+
+''"Where do you want to go, Twinsen?"''
+-Dino-Fly -LBA1 & LBA2
+
 
 ==Related threads==
 ===General===
