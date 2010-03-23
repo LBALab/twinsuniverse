@@ -6,7 +6,7 @@ title: Red Sphero Clone
 Name=Red Sphero Clone|
 Image=Redsphero.gif|
 Level=Red|
-Reaction=Stays on spot|
+Reaction=Spins round on spot|
 Recovery=Medium|
 Rate=Fast|
 Damage=High|
