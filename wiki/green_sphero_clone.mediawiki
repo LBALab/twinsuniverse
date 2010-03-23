@@ -13,7 +13,8 @@ Damage=High|
 Range=Wide|
 Speed=Slow}}
 
-Green level of Sphero clone. Not that common. Found in LBA1
+Green level of Sphero clone. Not that common. 
+Found in LBA1
 
 [[Category: Clones]]
 [[Category: Green enemies]]
