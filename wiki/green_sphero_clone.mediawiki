@@ -1,0 +1,22 @@
+---
+title: Green Sphero Clone
+---
+
+{{Enemy|
+Name=Green Sphero Clone|
+Image=Green_sphero_clone.JPG‎|
+Level=green|
+Reaction=Spins round on spot|
+Recovery=Medium|
+Rate=Fast|
+Damage=High|
+Range=Wide|
+Speed=Slow}}
+
+Green level of Sphero clone. Not that common. Found in LBA1
+
+[[Category: Clones]]
+[[Category: Green enemies]]
+[[Category: Small characters]]
+[[Category: FunFrock's army]]
+[[Category: Spheroes]]
