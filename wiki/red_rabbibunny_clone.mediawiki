@@ -1,0 +1,23 @@
+---
+title: Red Rabbibunny Clone
+---
+
+{{Enemy|
+Name=Red Rabbibunny Clone|
+Image=Red_rabbibunny_clone.JPG‎|
+Level=Red|
+Reaction=Top half of body spins around|
+Recovery=2.5 seconds|
+Rate=|
+Damage=|
+Range=Wide|
+Speed=moderate-fast}}
+
+Red Rabbibunny Clones, one of the least common clones in LBA1, quite strong, but not extremely difficult to defeat. A few are found in the [[Okojo Pass]] Fort.
+
+[[Category: Clones]]
+[[Category: Red enemies]]
+[[Category: Gun wielders]]
+[[Category: FunFrock's army]]
+[[Category: Rabbibunnies]]
+[[Category: Average characters]]
