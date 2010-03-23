@@ -14,6 +14,7 @@ Range=Wide|
 Speed=Slow}}
 
 Weakest level of Sphero clone, still quite strong though. Less common than grobo-clones or rabbibunny-clones but the most common type of sphero-clone.
+Found in LBA1
 
 [[Category: Clones]]
 [[Category: Yellow enemies]]
