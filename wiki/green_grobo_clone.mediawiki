@@ -1,0 +1,23 @@
+---
+title: Green Grobo Clone
+---
+
+{{Enemy|
+Name=Yellow Grobo Clone|
+Image=Green_grobo_clone.JPG‎|
+Level=Green|
+Reaction=Moves sideways|
+Recovery=0.7 seconds|
+Rate=2 seconds|
+Damage=Medium|
+Range=Close-wide|
+Speed=}}
+
+Green Grobo Clones, equipped with a sort of tazer-gun that shoots out quite damaging sparks. Found in LBA1 in more protected areas.
+
+[[Category: Clones]]
+[[Category: Green enemies]]
+[[Category: Gun Wielders]]
+[[Category: Average characters]]
+[[Category: FunFrock's army]]
+[[Category: Grobos]]
