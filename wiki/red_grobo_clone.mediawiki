@@ -13,7 +13,7 @@ Damage=Medium|
 Range=Melee|
 Speed=}}
 
-Strongest Grobo-clone in LBA1, apart from the [[supergro]]. Like all grobo clones, it can shoot out sparks from its baton that inflict damage. 
+Strongest Grobo-clone in LBA1, apart from the [[supergro]]. It can shoot out sparks from its baton that inflict damage. Found in more protected areas
 
 [[Category: Clones]]
 [[Category: Red enemies]]
