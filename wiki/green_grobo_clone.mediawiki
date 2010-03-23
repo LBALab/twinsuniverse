@@ -10,14 +10,14 @@ Reaction=Moves sideways|
 Recovery=0.7 seconds|
 Rate=2 seconds|
 Damage=Medium|
-Range=Close-wide|
+Range=Melee|
 Speed=}}
 
-Green Grobo Clones, equipped with a sort of tazer-gun that shoots out quite damaging sparks. Found in LBA1 in more protected areas.
-
+Green Grobo Clones, equipped with a sort of tazer-gun that shoots out quite damaging sparks. Found in LBA1.
+It can shoot out sparks from its baton that inflict damage. 
 [[Category: Clones]]
 [[Category: Green enemies]]
-[[Category: Gun Wielders]]
+[[Category: Melee fighters]]
 [[Category: Average characters]]
 [[Category: FunFrock's army]]
 [[Category: Grobos]]
