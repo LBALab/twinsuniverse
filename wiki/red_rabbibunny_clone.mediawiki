@@ -13,7 +13,7 @@ Damage=|
 Range=Wide|
 Speed=moderate-fast}}
 
-Red Rabbibunny Clones, one of the least common clones in LBA1, quite strong, but not extremely difficult to defeat. A few are found in the [[Okojo Pass]] Fort.
+'''Red [[Rabbibunny]] [[Clone]]''', is one of the least common clones in [[LBA 1]]. It is quite strong, but not extremely difficult to defeat. A few are found in the [[Okojo Pass]] Fort.
 
 [[Category: Clones]]
 [[Category: Red enemies]]
