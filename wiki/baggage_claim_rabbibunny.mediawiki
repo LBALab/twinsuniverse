@@ -10,20 +10,9 @@ Gender=Male|
 Size=Medium|
 Age=Adult}}
 
-=DESCRIPTION=
+The '''baggage claim rabbibunny''' is a nameless [[rabbibunny]] employed at the [[Baggage Claim]] on [[Citadel Island]].
 
-The baggage claim [[rabbibunny]] is a nameless [[rabbibunny]] employed at the [[Baggage Claim]] on [[Citadel Island]].
-
-=ROLE IN TWINSEN'S ADVENTURE=
-
-A minor character whom you only see in the basement area of the Baggage Claim. 		
-He is grumpy, and serves no purpose in the game, apart from entertainment if you kick/punch him.		
-[[Twinsen]] meets him in LBA2 when he is collecting his [[Protopack]] from the [[Baggage Claim]].
-
-=ADDITIONAL QUOTES=
-
-"I got enough troubles without you so get lost!"
- -the Baggage Claim Rabbibunny
+Twinsen meets the rabbibunny when he comes to the baggage claim building to retrieve his [[proto-pack]]. If Twinsen chooses to push the crate himself, he reaches the rabbibunny, who tells him grumpily to go away. Hitting the rabbibunny results in him running away to a conveyor belt that pushes him until he disappears in a hole in the wall.
 
 
 [[Category: Citadel Island inhabitants]]
