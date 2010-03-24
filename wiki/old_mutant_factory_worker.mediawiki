@@ -1,0 +1,24 @@
+---
+title: Old Mutant Factory Worker
+---
+
+{{Character|
+Name=Old mutant factory worker|
+Image=Old_mutant_factory_worker.JPG‎|
+Race=[[Grobo]]|
+Gender=Male|
+Size=Medium|
+Age=Adult}}
+
+{{Quote|
+Quote=From this warehouse we send material to the other hemisphere, we use a shuttle that dates back to the old subway lines. I participated in its construction but I've been waiting for a ferry for two years... Two years!!|
+Character=The [[Old mutant factory worker]]}}
+
+Not much is known about this character from LBA1. He is an ex-worker of the [[Mutant Factory]] waiting outside the factory for a ferry home, and has apparently been doing so for two years.
+
+
+[[Category:Grobos]]
+[[Category:Average characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Hamalayi Mountains inhabitants]]
