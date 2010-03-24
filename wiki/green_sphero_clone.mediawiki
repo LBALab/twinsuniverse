@@ -13,8 +13,7 @@ Damage=High|
 Range=Wide|
 Speed=Slow}}
 
-Green level of Sphero clone. Not that common. One can be seen in the [[Mutant Factory]] in the [[Hamalayi Mountains]].
-Found in LBA1
+'''Green level of [[Sphero]] [[clone]]s''' are not very common. One can be seen in the [[Mutant Factory]] in the [[Hamalayi Mountains]].
 
 [[Category: Clones]]
 [[Category: Green enemies]]
