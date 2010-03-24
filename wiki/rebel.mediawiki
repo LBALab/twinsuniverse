@@ -2,7 +2,6 @@
 title: Rebel
 ---
 
-The '''rebels''' are inhabitants of [[Twinsun]] who oppose [[Dr. Funfrock]] with military force. They retreat to an [[Rebellion Island|island]] which is constantly bombed by 
 {{Character|
 Name=Rebels|
 Image=Rebels.JPG|
@@ -10,9 +9,7 @@ Race=[[Rabbibunny]] and [[Sphero]] |
 Gender=Male|
 Size=Medium|
 Age=Adult}}
-
-
-Funfrock's forces. They wage an ongoing war, tearing down the teleportation pads, destroying all the [[clones]], and vanquishing the presence of FunFrock from its shores. New recruits train in the [[Rebel Camp]]. The rebels primarily seem to be [[rabbibunnies]] and [[spheroes]]
+The '''rebels''' are inhabitants of [[Twinsun]] who oppose [[Dr. Funfrock]] with military force. They retreat to an [[Rebellion Island|island]] which is constantly bombed by Funfrock's forces. They wage an ongoing war, tearing down the teleportation pads, destroying all the [[clones]], and vanquishing the presence of FunFrock from its shores. New recruits train in the [[Rebel Camp]]. The rebels primarily seem to be [[rabbibunnies]] and [[spheroes]]
 
 [[Rebellion Island]] is isolated, and the rebels allow access to their [[Rebellion Island Harbour|harbour]] only to ships bearing a [[pirate flag]].
 
