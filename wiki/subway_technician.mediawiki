@@ -4,7 +4,7 @@ title: Subway Technician
 
 {{Character|
 Name=Subway Technician|
-Image=‎|
+Image=‎Subway_Technician.JPG|
 Race=[[Grobo]]|
 Gender=Male|
 Size=Medium|
@@ -12,7 +12,7 @@ Age=Adult}}
 
 {{Quote|
 Quote=Yes, I know, you also want me to start the transporter. Ok, stand in front of it, I'll start it up.|
-Character=The [[Subway Technician]]}}
+Character=The [[Subway technician]]}}
 
 ==Description==
 A rather grumpy character who plays no major role in LBA1. He is seen in two places: at the [[Subway Station]] where he starts up the subway to the [[Mutant Factory]] for Twinsen. 
@@ -20,7 +20,7 @@ He is also from then on seen in the Mutant Factor repairing a spare subway shutt
 
 {{Quote|
 Quote=Leave me alone! I've got work to do, and no time to play!|
-Character=The [[Subway Technician]]}}
+Character=The [[Subway technician]]}}
 
 
 [[Category:Grobos]]
