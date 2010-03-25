@@ -10,21 +10,9 @@ Gender=Female|
 Size=Medium|
 Age=Adult}}
 
-{{Quote|
-Quote=The passage that I'm opening for you leads to a port, where the old subway that crossed the Hamalayi used to leave from.|
-Character=The [[Rabbibunny Village lady]]}}
+The '''Rabbibunny Village lady''' only known lady in the [[Rabbibunny Village]]. She assists [[Twinsen]] by opening up a passage to the [[Subway Station]] which he can then use to reach the [[Mutant Factory]].
 
-==Description==
-
-The only known lady in the [[Rabbibunny Village]]. She assists [[Twinsen]] by opening up a passage to the [[Subway Station]] which Twinsen can then use to take to the [[Mutant Factory]]. 
-After Twinsen destroys the [[Mutant Factory]] she gives him a life-heart, if he goes over to her standing by the washing line.
-
-==Additional Quotes==
-
-{{Quote|
-Quote=It's so much calmer since you've come, do you really have to leave?|
-Character=The [[Rabbibunny Village lady]]}}
-
+After Twinsen destroys the [[Mutant Factory]], she gives him a life-[[heart]], if he goes over to her standing by the washing line.
 
 [[Category:Rabbibunnies]]
 [[Category:Average characters]]
