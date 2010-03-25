@@ -33,6 +33,9 @@ Character=The [[Rabbibunny Village Chieftain]]}}
 Quote=Hey, you! Don't touch our k... oh, it's you! Good work, you have disabled the mutant factory! No more new monsters are being produced. By the way, what is your name, brave stranger?|
 Character=The [[Rabbibunny Village Chieftain]]}}
 
+{{Quote|
+Quote=New monsters are still coming to the village: the factory has not been completely disabled!|
+Character=The [[Rabbibunny Village Chieftain]]}}
 
 
 
