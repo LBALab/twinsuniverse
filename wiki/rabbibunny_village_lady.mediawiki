@@ -1,0 +1,25 @@
+---
+title: Rabbibunny Village Lady
+---
+
+{{Character|
+Name=Rabbibunny Village lady|
+Image=Rabbibunny_Village_lady.JPG|
+Race=[[Rabbibunny]]|
+Gender=Female|
+Size=Medium|
+Age=Adult}}
+
+{{Quote|
+Quote=The passage that I'm opening for you leads to a port, where the old subway that crossed the Hamalayi used to leave from.|
+Character=The [[Rabbibunny Village lady]]}}
+
+
+The only known lady in the [[Rabbibunny Village]]. She assists [[Twinsen]] by opening up a passage to the [[Subway Station]] which Twinsen can then use to take to the [[Mutant Factory]].
+
+
+[[Category:Rabbibunnies]]
+[[Category:Average characters]]
+[[Category:Female characters]]
+[[Category:Adult characters]]
+[[Category:Hamalayi Mountains inhabitants]]
