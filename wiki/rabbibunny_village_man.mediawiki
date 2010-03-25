@@ -3,7 +3,7 @@ title: Rabbibunny Village Man
 ---
 
 {{Character|
-Name=Additional Rabbibuny Villager|
+Name=Additional Rabbibuny Village man|
 Image=Rabbibunny_villager_1.JPG‎|
 Race=[[Rabbibunny]]|
 Gender=Male|
