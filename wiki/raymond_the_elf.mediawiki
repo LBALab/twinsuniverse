@@ -28,6 +28,10 @@ Raymond later stands on the rocky peak nearby the station, and gives Twinsen 3 c
 Quote=I am Raymond-the-Elf, to show my gratitude, I will indicate the location of the Clear Water Lake to you. It is to the North-West, in the Hamalayi mountains (look on your Holomap). If you play the flute there, you will find an important element of the prophecy. And in a grotto near the temple of Bù, you'll find one of my fellow elves, he'll be able to get you a blue card.|
 Character=[[Raymond the Elf]]}}
 
+{{Quote|
+Quote=Hello fellow elf.|
+Character=[[Raymond the Elf]]}}
+
 == Related Threads ==
 === General ===
 * {{thread|id=7689|title="the Elf"}}
