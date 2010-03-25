@@ -37,6 +37,17 @@ Character=The [[Rabbibunny Village Chieftain]]}}
 Quote=New monsters are still coming to the village: the factory has not been completely disabled!|
 Character=The [[Rabbibunny Village Chieftain]]}}
 
+{{Quote|
+Quote=And now, brave stranger Twinsen, follow me to the Door of the Sacred Carrot.|
+Character=The [[Rabbibunny Village Chieftain]]}}
+
+{{Quote|
+Quote=Carrot, open up!|
+Character=The [[Rabbibunny Village Chieftain]]}}
+
+{{Quote|
+Quote=Thank you for saving this village, brave stranger Twinsen.|
+Character=The [[Rabbibunny Village Chieftain]]}}
 
 
 [[Category:Rabbibunnies]]
