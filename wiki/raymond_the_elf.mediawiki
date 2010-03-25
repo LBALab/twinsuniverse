@@ -10,27 +10,11 @@ Gender=Male|
 Size=Small|
 Age=Kid}}
 
-{{Quote|
-Quote=I am Raymond-the-Elf, to show my gratitude, I will indicate the location of the Clear Water Lake to you. It is to the North-West, in the Hamalayi mountains (look on your Holomap). If you play the flute there, you will find an important element of the prophecy. And if you have a membership card you can show me, I've something else for you.|
-Character=[[Raymond the Elf]]}}
-
-==Description==
-
 '''Raymond the Elf''' is one of two [[elf|elves]] in [[Little Big Adventure 1]]. He looks just like [[Joe the Elf]], only his clothes are coloured blue.
 
 [[Twinsen]] finds Raymond locked in a cell in the subway station at the [[Hamalayi Mountains]]. A [[nurse]] in the station tells Twinsen that he captured the elf, but now does not know what to do with it, as officially it does not exist. By killing the nurse, Twinsen gets the [[key]] to the cell, and is thus able to free Raymond. As a gratitude, Raymond shows Twinsen on his [[holomap]] the location of [[Clear Water Lake]]. By showing him the [[Elves club blue card]], Twinsen also receives from Raymond 3 [[clover leaves]].
 
 Raymond later stands on the rocky peak nearby the station, and gives Twinsen 3 clover leaves every time he shows him the card again.
-
-==Additional Quotes==
-
-{{Quote|
-Quote=I am Raymond-the-Elf, to show my gratitude, I will indicate the location of the Clear Water Lake to you. It is to the North-West, in the Hamalayi mountains (look on your Holomap). If you play the flute there, you will find an important element of the prophecy. And in a grotto near the temple of Bù, you'll find one of my fellow elves, he'll be able to get you a blue card.|
-Character=[[Raymond the Elf]]}}
-
-{{Quote|
-Quote=Hello fellow elf.|
-Character=[[Raymond the Elf]]}}
 
 == Related Threads ==
 === General ===
