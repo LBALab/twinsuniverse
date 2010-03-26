@@ -11,7 +11,7 @@ Size=Medium|
 Age=Adult}}
 
 {{Quote|
-Quote=The passage that I'm opening for you leads to a port, where the old subway that crossed the Hamalayi used to leave from.|	+	
+Quote=The passage that I'm opening for you leads to a port, where the old subway that crossed the Hamalayi used to leave from.|	
 Character=The [[Rabbibunny Village lady]]}}
 
 ==Description==
