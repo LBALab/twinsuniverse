@@ -3,7 +3,7 @@ title: Red Grobo Clone
 ---
 
 {{Enemy|
-Name=Yellow Grobo Clone|
+Name=Red Grobo Clone|
 Image=Red_grobo_clone.JPG‎|
 Level=Red|
 Reaction=Moves sideways|
