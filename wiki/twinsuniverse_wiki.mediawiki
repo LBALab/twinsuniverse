@@ -18,5 +18,12 @@ The Twinsuniverse_Wiki Wiki currently contains '''[[Twinsuniverse_Wiki Wiki:Stat
 '''WARNING''': This is a complete knowledge base, meaning it contains both official as well as non-official information. This knowledge base is full with spoilers!! So it's recommended not to read any further without having both games played. Otherwise, spoilers at your own risk.
 
 
+{{Character
+ |image=Mr. Paul.png
+ |race=grobo
+ |gender=male
+ |size=small
+ |age=adult
+}}
 {{mainnavigation}}
 [[Category:Categories|*]]
