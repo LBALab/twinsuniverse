@@ -2,10 +2,10 @@
 title: Twinsuniverse Wiki
 ---
 
-{| style="background:lightblue; margin:12px auto; width:70%; -moz-border-radius:18px"
+{| class="lastupdate"
 |-
-| style="padding:10px; width:40%" | [[Image:Big_twinsun_with_blurred_atmosphere-cropped.png|300px|Twinsuniverse_Wiki Wiki]]
-| style="background:#FFFFFF; border: 10px solid lightblue; padding:12px; -moz-border-radius:18px" | {{Lastupdate}}
+| class="lastupdate-left" | [[Image:Big_twinsun_with_blurred_atmosphere-cropped.png|300px|Twinsuniverse_Wiki Wiki]]
+| class="lastupdate-right" | {{Lastupdate}}
 |}
 
 {| style="width:95%" align="center"
@@ -16,7 +16,7 @@ Welcome to the '''[[Twinsuniverse_Wiki Wiki:About|Twinsuniverse_Wiki Wiki]]'''. 
 The Twinsuniverse_Wiki Wiki currently contains '''[[Twinsuniverse_Wiki Wiki:Statistics|{{NUMBEROFARTICLES}}]]''' articles.
 
 '''WARNING''': This is a complete knowledge base, meaning it contains both official as well as non-official information. This knowledge base is full with spoilers!! So it's recommended not to read any further without having both games played. Otherwise, spoilers at your own risk.
-
+|}
 
 {{mainnavigation}}
 [[Category:Categories|*]]
