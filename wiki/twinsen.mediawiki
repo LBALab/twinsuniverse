@@ -2,13 +2,24 @@
 title: Twinsen
 ---
 
-{{Character|
-Name=Twinsen|
-Image=TWINSEN.jpg|
-Race=[[Quetch]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Twinsen.jpg
+ |race=Quetch
+ |gender=Male
+ |size=average
+ |age=Adult
+ |magical=
+ |lba1=
+ |lba2=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 == Description ==
 
@@ -268,6 +279,7 @@ And as a passenger:
 * [http://www.deviantart.com/view/23464621/ Twinsen]
 * [http://www.deviantart.com/deviation/45989513/ Toss the magic ball please]
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category: Quetches]]
 [[Category: Male characters]]
 [[Category: Average characters]]
@@ -276,4 +288,4 @@ And as a passenger:
 [[Category: Good]]
 [[Category: Magic users]]
 [[Category: Gun wielders]]
-[[Category: Melee fighters]]
+[[Category: Melee fighters]] -->
