@@ -2,7 +2,8 @@
 title: Zoé
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{twinsunica import}}{{Stub}}
+{{Infobox Character
  |image=Zoé.jpg
  |race=Quetch
  |gender=Female
@@ -35,7 +36,6 @@ title: Zoé
 '''Zoé''' is our hero's spouse, and mother to his child. She lives with Twinsen and their [[Arthur|new-born baby]] in the [[Twinsen's house|house]] on [[Citadel Island]].
 
 In LBA1, Zoé shows no sign of pregnancy. In LBA2, Zoé's pregnancy is proven with a bulging baby-bump.
-{{Stub}}
 {{Sectstub}}
 
 ==Related threads==
