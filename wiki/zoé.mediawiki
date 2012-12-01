@@ -20,6 +20,7 @@ title: Zoé
  |island=Citadel Island
  |building=Twinsen's House
 }}
+
 {{Quote
 |quote=[[Twinsen]], rush to the downtown pharmacy and find a cure for the Dino-Fly! He has just crashed in the garden and looks injured.
 |character=Zoé{{!}}Zoé upon greeting Twinsen, the first scene to start LBA2}}
@@ -34,6 +35,7 @@ title: Zoé
 '''Zoé''' is our hero's spouse, and mother to his child. She lives with Twinsen and their [[Arthur|new-born baby]] in the [[Twinsen's house|house]] on [[Citadel Island]].
 
 In LBA1, Zoé shows no sign of pregnancy. In LBA2, Zoé's pregnancy is proven with a bulging baby-bump.
+{{Stub}}
 {{Sectstub}}
 
 ==Related threads==
@@ -95,8 +97,6 @@ In LBA1, Zoé shows no sign of pregnancy. In LBA2, Zoé's pregnancy is proven wi
 ===Fan art===
 * [http://www.deviantart.com/view/12986693/ LBA 2 Picture]
 * [http://www.deviantart.com/view/1047280/ Twinsen and Zoe]
-
-{{Stub}}
 
 <!-- remove these category links when they're all automated by categorizers...
 [[Category:Quetches]]
