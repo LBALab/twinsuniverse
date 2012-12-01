@@ -3,12 +3,23 @@ title: Carlo (Baggage Claim)
 ---
 
 {{twinsunica import}}{{Infobox Character
-|name=Carlo
-|image=Carlo (Baggage Claim).jpg
-|race=quetch
-|gender=Male
-|size=average
-|age=Adult}}
+ |image=Carlo (Baggage Claim).jpg
+ |race=quetch
+ |gender=Male
+ |size=average
+ |age=Adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |occupation=
+ |requires=Kashes
+ |amount=102
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 '''Carlo''' is a [[Quetch]] working as a porter in the [[Baggage Claim]] of [[Citadel Island]]. His job is to carry packages from the storage room to the reception.
 
