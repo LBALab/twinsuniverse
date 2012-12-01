@@ -2,21 +2,31 @@
 title: Zoé
 ---
 
-{{Character|
-Name=Zoé|
-Image=QT_ZOE.jpg|
-Race=[[Quetch]]|
-Gender=Female|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Zoé.jpg
+ |race=Quetch
+ |gender=Female
+ |size=average
+ |age=Adult
+ |magical=
+ |lba1=
+ |lba2=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+{{Quote
+|quote=[[Twinsen]], rush to the downtown pharmacy and find a cure for the Dino-Fly! He has just crashed in the garden and looks injured.
+|character=Zoé{{!}}Zoé upon greeting Twinsen, the first scene to start LBA2}}
 
-{{Quote|
-Quote=[[Twinsen]], rush to the downtown pharmacy and find a cure for the Dino-Fly! He has just crashed in the garden and looks injured.|
-Character=[[Zoé]] upon greeting Twinsen, the first scene to start LBA2}}
-
-{{Quote|
-Quote=This statue pays tribute to Zoé and me. Without her, I could have never defeated the infamous [[FunFrock]].|
-Character=[[Twinsen]]}}
+{{Quote
+|quote=This statue pays tribute to Zoé and me. Without her, I could have never defeated the infamous [[FunFrock]].
+|character=Twinsen}}
 
 [[Image:Zoe mike.gif|right|138px|thumb|Zoé talking to her dear [[Twinsen]] over the radio]]
 
@@ -88,9 +98,10 @@ In LBA1, Zoé shows no sign of pregnancy. In LBA2, Zoé's pregnancy is proven wi
 
 {{Stub}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Quetches]]
 [[Category:Female characters]]
 [[Category:Average characters]]
 [[Category:Adult characters]]
 [[Category:Citadel Island inhabitants]]
-[[Category:Good]]
+[[Category:Good]] -->
