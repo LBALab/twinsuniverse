@@ -3,14 +3,14 @@ title: Dr. FunFrock
 ---
 
 {{twinsunica import}}{{Infobox Character
- |image=FunFrock.gif
+ |image=Dr. FunFrock.png
  |race=Quetch
  |gender=Male
  |size=Large
  |age=Adult
  |magical=
- |lba1=
- |lba2=
+ |lba1=yes
+ |lba2=yes
  |occupation=
  |requires=
  |amount=
