@@ -2,13 +2,24 @@
 title: Ferry Ticket Clerk (Quetch)
 ---
 
-{{Character|
-Name=Ticket Clerk (Quecth)|
-Image=Ticket_clerk.JPG|
-Race=[[Quetch]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Ticket_clerk.JPG
+ |race=Quetch
+ |gender=Male
+ |size=average
+ |age=Adult
+ |magical=
+ |lba1=
+ |lba2=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 The '''ferry ticket clerk''' is a [[quetch]] working as a [[ferry ticket|ticket]] seller for the Inter-Island Ferries in the [[Citadel Island harbour|Harbour]] of [[Citadel Island]].
 
@@ -16,6 +27,8 @@ Every time [[Twinsen]] wants to board a [[ferry]] from Citidel Island in [[Littl
 
 The clerk has an assisitant behind the counter with him, named [[Mrs. Brune]].
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category: Quetches]]
-[[Category: Male characters]][[Category: Adult characters]]
-[[Category: Citadel Island inhabitants]]
+[[Category: Male characters]]
+[[Category: Adult characters]]
+[[Category: Citadel Island inhabitants]] -->
