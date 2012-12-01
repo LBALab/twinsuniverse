@@ -8,17 +8,17 @@ title: Zoé
  |gender=Female
  |size=average
  |age=Adult
- |magical=
- |lba1=
- |lba2=
+ |magical=no
+ |lba1=yes
+ |lba2=yes
  |occupation=
  |requires=
  |amount=
- |fam1=
+ |fam1=Twinsen
  |fam2=
- |planet=
- |island=
- |building=
+ |planet=Twinsun
+ |island=Citadel Island
+ |building=Twinsen's House
 }}
 {{Quote
 |quote=[[Twinsen]], rush to the downtown pharmacy and find a cure for the Dino-Fly! He has just crashed in the garden and looks injured.
