@@ -3,7 +3,7 @@ title: Pat
 ---
 
 {{twinsunica import}}{{Infobox Character
- |image=Pat.JPG
+ |image=Pat.png
  |race=Quetch
  |gender=Female
  |size=average
