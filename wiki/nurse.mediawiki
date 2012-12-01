@@ -2,16 +2,23 @@
 title: Nurse
 ---
 
-{{Enemy|
-Name=Nurse|
-Image=Nurse2.gif|
-Level=None|
-Reaction=Steps backwards|
-Recovery=Fast|
-Rate=Slow|
-Damage=Few|
-Range=Melee|
-Speed=Medium}}
+{{twinsunica import}}{{Infobox Enemy
+ |image=Nurse2.gif
+ |race=quetch
+ |gender=male
+ |size=average
+ |age=adult
+ |magical=no
+ |lba1=yes
+ |lba2=
+ |requires=none
+ |reaction=Steps backwards
+ |recovery=Fast
+ |rate=Slow
+ |damage=Few
+ |range=Melee
+ |speed=Medium
+}}
 
 <center>''This article is about [[Quetch]] nurses. For [[Grobo]] nurses equipped with tablet launchers, see [[Supergro]].''</center>
 
@@ -32,8 +39,9 @@ In order to escape from the [[Citadel]], Twinsen has to take on a nurse's clothi
 * {{thread|id=10242|title=Random collection}}
 * {{post|id=67043|title=Lba3}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Quetches]]
 [[Category:Melee fighters]]
 [[Category:Adult characters]]
 [[Category:Average characters]]
-[[Category:FunFrock's army]]
+[[Category:FunFrock's army]] -->
