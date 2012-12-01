@@ -2,13 +2,13 @@
 title: Carlo (Baggage Claim)
 ---
 
-{{Character|
-Name=Carlo|
-Image=QT_MANU.jpg|
-Race=[[Quetch]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+|name=Carlo
+|image=QT_MANU.jpg
+|race=quetch
+|gender=Male
+|size=average
+|age=Adult}}
 
 '''Carlo''' is a [[Quetch]] working as a porter in the [[Baggage Claim]] of [[Citadel Island]]. His job is to carry packages from the storage room to the reception.
 
@@ -19,9 +19,3 @@ A secret room in the building holds a crate containing 102 kashes, exactly the s
 ==Related threads==
 ===General===
 * {{thread|id=11086|title=Is it possible to get the box out without paying the guy?}}
-
-[[Category:Quetches]]
-[[Category:Male characters]]
-[[Category:Average characters]]
-[[Category:Adult characters]]
-[[Category:Citadel Island inhabitants]]
