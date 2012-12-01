@@ -2,17 +2,27 @@
 title: Teleportation Center guard
 ---
 
-{{Character|
-Name=Teleportation Center guard|
-Image=DIVERS.gif|
-Race=[[Quetch]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
-{{image}}
-{{Quote|
-Quote=Let me see some identification please!|
-Character=Teleportation Center guard}}
+{{twinsunica import}}{{Infobox Character
+ |image=
+ |race=Quetch
+ |gender=Male
+ |size=average
+ |age=Adult
+ |magical=
+ |lba1=
+ |lba2=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+{{Quote
+|quote=Let me see some identification please!
+|character=Teleportation Center guard}}
 
 == Description ==
 The entrance of the well protected [[Teleportation Center]] was guarded by a nameless, simple [[Quetch]]. His task was to ask visitors for identification and open the Center's gates for them. He was armed with a simple pistol, but when necessary he was helped by the two shooting robots behind the gates.
