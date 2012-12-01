@@ -8,8 +8,8 @@ title: Pharmacist (Quetch)
  |gender=Male
  |size=average
  |age=Adult
- |magical=
- |lba1=
+ |magical=no
+ |lba1=yes
  |lba2=
  |occupation=
  |requires=
