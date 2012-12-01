@@ -2,13 +2,24 @@
 title: Tabata
 ---
 
-{{Character|
-Name=Tabata|
-Image=QTTABATA.jpg|
-Race=[[Quetch]]|
-Gender=Female|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=QTTABATA.jpg
+ |race=Quetch
+ |gender=Female
+ |size=average
+ |age=Adult
+ |magical=
+ |lba1=
+ |lba2=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 ==Description==
 Tabata is a quetch wizard, and is one of the wizards kidnapped by the [[esmers]].
@@ -24,8 +35,9 @@ Being a wizard, Tabata was also kidnapped by [[FunFrock]]. She was the only girl
 ===Fan Art===
 * {{thread|id=11051|title=My Tabata sketch!}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Quetches]]
 [[Category:Female characters]]
 [[Category:Average characters]]
 [[Category:Adult characters]]
-[[Category:Desert Island inhabitants]]
+[[Category:Desert Island inhabitants]] -->
