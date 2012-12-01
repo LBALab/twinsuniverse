@@ -11,14 +11,14 @@ title: Twinsen
  |magical=yes
  |lba1=yes
  |lba2=yes
- |occupation=
+ |occupation=Hero
  |requires=
  |amount=
- |fam1=
+ |fam1=Zoé
  |fam2=
- |planet=
- |island=
- |building=
+ |planet=Twinsun
+ |island=Citadel Island
+ |building=Twinsen's House
 }}
 
 == Description ==
