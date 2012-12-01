@@ -8,9 +8,9 @@ title: Twinsen
  |gender=Male
  |size=average
  |age=Adult
- |magical=
- |lba1=
- |lba2=
+ |magical=yes
+ |lba1=yes
+ |lba2=yes
  |occupation=
  |requires=
  |amount=
