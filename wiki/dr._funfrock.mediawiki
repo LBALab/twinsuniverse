@@ -2,17 +2,28 @@
 title: Dr. FunFrock
 ---
 
-{{Character|
-Name=FunFrock|
-Image=FunFrock.gif|
-Race=[[Quetch]]|
-Gender=Male|
-Size=Large|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=FunFrock.gif
+ |race=Quetch
+ |gender=Male
+ |size=Large
+ |age=Adult
+ |magical=
+ |lba1=
+ |lba2=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 '''Dr. FunFrock''' is the main antagonist of [[Twinsen]] and his allies. He was a rather big [[Quetch]] and the dictator of [[Twinsun]], before Twinsen stopped his influence. He later disguised himself as [[Dark Monk]], the supposedly reincarnated god of [[Zeelich]]. His main goal was to get godlike powers. He beliefed to get them from the power of [[Sendell]] and the [[Stellar Entity]] inside Twinsun.
 
-==In Little Big Adventure 1==
+==During "FunFrock's Reign"==
 During his dictatorship, he made use of his knowledge of cloning and teleporting to ensure total control of the planet's citizens. His [[clones]] of all races could be teleported to all places of [[Twinsun]] instantly through a network of [[telepod]]s. These technologies were controlled by the [[Teleportation Center]] and the Cloning Center that was inside his [[FunFrock's Secret Fortress|secret fortress]].
 
 He built prisons all over the planet to hold any dissidents captive, including the massive [[Citadel]], giving the name to [[Citadel Island]]. Alternately, people could be forced under house arrests, indicated by bricked up entrance doors.
@@ -25,7 +36,7 @@ After Twinsen destroys both the [[Mutant Factory]] and the [[Teleportation Cente
 
 Twinsen faces FunFrock again on the rocky peak in the center of Polar Island. After a short battle, FunFrock falls off the rock, and Twinsen estimates he was defeated. FunFrock then sets off a clone of him, which battles Twinsen again deeper in [[Sendell's Well]].
 
-==In Little Big Adventure 2==
+==During "Twinsen's Odyssey"==
 FunFrock himself found a way to [[Zeelich]] and made a second plan to destroy Twinsun, along with the Zeelichian [[Emperor]]. They built reactors on [[Emerald Moon]] to fire the moon towards Twinsun. FunFrock disguised himself as [[Dark Monk]], a god of Zeelich, and manipulated the [[Esmers]] to help him with his plan.
 
 FunFrock abducts the wizards and children of Twinsun and brings them inside [[Dark Monk's statue]]. The statue itself should be the antenna to attract the power of Sendell when Twinsun explodes.
@@ -59,7 +70,7 @@ However, FunFrock is once again stopped by Twinsen in the last minute. Twinsen d
 * {{thread|id=2780|title=confusing}}
 * {{thread|id=2412|title=What do you think of FunFrock in LBA?}}
 * {{thread|id=2323|title="To the Glory of Doctor FunFrock"}}
-* {{thread|id=1867|title=Do you remember when... [spolier]}}
+* {{thread|id=1867|title=Do you remember when... &#91;spolier&#93;}}
 * {{thread|id=155|title=Twinsun - a happy jolly place? I THINK NOT}}
 * {{thread|id=1267|title=Funfrock's plan}}
 * {{thread|id=776|title=I just finished LBA2}}
@@ -88,6 +99,7 @@ However, FunFrock is once again stopped by Twinsen in the last minute. Twinsen d
 * [http://www.deviantart.com/deviation/35013177/?qo=15&q=by%3Asepulchrave&qh=sort%3Atime+-in%3Ascraps Funfrock's Campaign]
 * [http://www.deviantart.com/view/16705460/ Dr. Funfrock 2]
 
+<!-- remove all these category links when they have been automated by categorizers...
 [[Category:Quetches]]
 [[Category:Male characters]]
 [[Category:Large characters]]
@@ -95,4 +107,4 @@ However, FunFrock is once again stopped by Twinsen in the last minute. Twinsen d
 [[Category:Polar Island inhabitants]]
 [[Category:Celebration Island inhabitants]]
 [[Category:FunFrock's army]]
-[[Category:Melee fighters]]
+[[Category:Melee fighters]] -->
