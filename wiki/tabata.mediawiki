@@ -8,7 +8,7 @@ title: Tabata
  |gender=Female
  |size=average
  |age=Adult
- |magical=no
+ |magical=yes
  |lba1=
  |lba2=yes
  |occupation=
