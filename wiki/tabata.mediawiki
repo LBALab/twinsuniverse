@@ -3,7 +3,7 @@ title: Tabata
 ---
 
 {{twinsunica import}}{{Infobox Character
- |image=QTTABATA.jpg
+ |image=Tabata.jpg
  |race=Quetch
  |gender=Female
  |size=average
