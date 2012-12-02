@@ -2,22 +2,23 @@
 title: Red Grobo Clone
 ---
 
-{{Enemy|
-Name=Red Grobo Clone|
-Image=Red_grobo_clone.JPG‎|
-Level=Red|
-Reaction=Moves sideways|
-Recovery=0.7 seconds|
-Rate=2 seconds|
-Damage=Medium|
-Range=Melee|
-Speed=}}
+{{twinsunica import}}{{Infobox Enemy
+ |name=Red Grobo Clone
+ |image=Red_grobo_clone.JPG‎
+ |level=Red
+ |reaction=Moves sideways
+ |recovery=0.7 seconds
+ |rate=2 seconds
+ |damage=Medium
+ |range=Melee
+ |speed=}}
 
 '''Red [[Grobo]] [[Clone]]''' is the strongest Grobo-clone in [[LBA 1]], apart from the [[supergro]]. It can shoot out sparks from its baton that inflict damage. They are usually found in more protected areas.
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category: Clones]]
 [[Category: Red enemies]]
 [[Category: Melee fighters]]
 [[Category: Average characters]]
 [[Category: FunFrock's army]]
-[[Category: Grobos]]
+[[Category: Grobos]] -->
