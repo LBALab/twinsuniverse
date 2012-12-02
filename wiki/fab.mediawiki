@@ -2,13 +2,24 @@
 title: Fab
 ---
 
-{{Character|
-Name=Fab|
-Image=BB_FAB.jpg|
-Race=[[Sphero]]|
-Gender=Male|
-Size=Small|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Fab.jpg
+ |race=Sphero
+ |gender=Male
+ |size=Small
+ |age=Adult
+ |magical=
+ |lba1=
+ |lba2=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 '''Fab''' is a [[sphero]] musician. He is best friends with [[Pat]] and [[Raph]]. Just like them, he likes hanging out in [[Chez Luc]].
 
@@ -18,8 +29,9 @@ Talking with Fab is not a necessary part of the game, although he is able to giv
 ===General===
 * {{thread|id=8829|title=When We Was Fab}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Spheroes]]
 [[Category:Male characters]]
 [[Category:Small characters]]
 [[Category:Adult characters]]
-[[Category:Citadel Island inhabitants]]
+[[Category:Citadel Island inhabitants]] -->
