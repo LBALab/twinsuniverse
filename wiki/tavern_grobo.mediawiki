@@ -41,7 +41,7 @@ After [[Zoé]] had been captured by [[Clone|grobo clones]], [[Twinsen]] was look
 
 {{Quote
  |quote=I would like to buy a drink for the grobo upstairs.
- |character=[[Twinsen]]}}
+ |character=Twinsen}}
 
 <!-- remove these category links when they're all automated by categorizers...
 [[Category:Grobos]]
