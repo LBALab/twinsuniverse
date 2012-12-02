@@ -2,22 +2,23 @@
 title: Green Grobo Clone
 ---
 
-{{Enemy|
-Name=Yellow Grobo Clone|
-Image=Green_grobo_clone.JPG‎|
-Level=Green|
-Reaction=Moves sideways|
-Recovery=0.7 seconds|
-Rate=2 seconds|
-Damage=Medium|
-Range=Melee|
-Speed=}}
+{{twinsunica import}}{{Infobox Enemy
+ |name=Yellow Grobo Clone
+ |image=Green_grobo_clone.JPG‎
+ |level=Green
+ |reaction=Moves sideways
+ |recovery=0.7 seconds
+ |rate=2 seconds
+ |damage=Medium
+ |range=Melee
+ |speed=}}
 
 '''Green [[Grobo]] [[Clone]]s''', are equipped with a sort of laser-gun that shoots out damaging sparks. It can shoot out sparks from its baton that inflict damage.
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category: Clones]]
 [[Category: Green enemies]]
 [[Category: Melee fighters]]
 [[Category: Average characters]]
 [[Category: FunFrock's army]]
-[[Category: Grobos]]
+[[Category: Grobos]] -->
