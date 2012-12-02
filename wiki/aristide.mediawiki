@@ -2,13 +2,24 @@
 title: Aristide
 ---
 
-{{Character|
-Name=Aristide|
-Image=GBARISTI.jpg|
-Race=[[Grobo]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Aristide.jpg
+ |race=Grobo
+ |gender=Male
+ |size=average
+ |age=Adult
+ |magical=
+ |lba1=
+ |lba2=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 '''Aristide''' is a [[grobo]] studying at the [[School of Magic]]. He is a rather bad pupil, unable to complete any of the tests.
 
@@ -17,8 +28,9 @@ Twinsen meets him several times at the school's entrance.
 ==Related threads==
 * {{thread|id=5918|title=Stupid Aristide...}}
 
+<!-- remvoe these category links when they're all automated by categorizers...
 [[Category:Grobos]]
 [[Category:Male characters]]
 [[Category:Average characters]]
 [[Category:Adult characters]]
-[[Category:Desert Island inhabitants]]
+[[Category:Desert Island inhabitants]] -->
