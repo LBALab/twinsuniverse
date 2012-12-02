@@ -2,13 +2,24 @@
 title: Jerome Baldino
 ---
 
-{{Character|
-Name=Jerome Baldino|
-Image=GR_BALDI.jpg|
-Race=[[Grobo]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Jerome Baldino.jpg
+ |race=grobo
+ |gender=male
+ |size=average
+ |age=adult
+ |magical=no
+ |lba1=yes
+ |lba2=yes
+ |occupation=Inventor
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 '''Jerome Baldino''', often referred to simply as '''Baldino''', is a [[grobo]] working as an inventor. Among his inventions are the [[proto-pack]], [[Twinsun]]'s first prototype [[Baldino's Spaceship|space ship]], and a [[portable radio]] device.
 
