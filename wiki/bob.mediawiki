@@ -4,13 +4,24 @@ title: Bob
 
 <center>''This article is about the grobo. For the astronomer sphero, see [[Bob Vortix]].''</center>
 
-{{Character|
-Name=Bob|
-Image=Bob.gif|
-Race=[[Grobo]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Bob.png
+ |race=Grobo
+ |gender=Male
+ |size=average
+ |age=Adult
+ |magical=
+ |lba1=
+ |lba2=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 '''Bob''' is a [[grobo]] living in [[Citadel Island]]. Throughout most of LBA 2 he is seen patrolling the western part of [[Lupin-Burg]], for no visible reason. He is quite grumpy, and complains a lot. Bob has a little brother, studying at the [[school]] of Citadel Island.
 
@@ -31,8 +42,9 @@ Bob hints that [[Raph]] might have been kidnapped by the [[Tralü]].
 ===Fan Art===
 * {{post|id=87488|title=Amazing! LBA3 planning! Wooo!}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Grobos]]
 [[Category:Male characters]]
 [[Category:Average characters]]
 [[Category:Adult characters]]
-[[Category:Citadel Island inhabitants]]
+[[Category:Citadel Island inhabitants]] -->
