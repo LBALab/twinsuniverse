@@ -2,13 +2,24 @@
 title: Ker'aooc
 ---
 
-{{Character|
-Name=Ker'aooc|
-Image=BouboulAnim.gif|
-Race=[[Sphero]]|
-Gender=Male|
-Size=Small|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=
+ |race=Sphero
+ |gender=Male
+ |size=Small
+ |age=Adult
+ |magical=
+ |lba1=
+ |lba2=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 '''Ker'aooc''' is a [[sphero]] wizard living in [[Port-Ludo]] on the [[Island of the White Leaf Desert]]. He is often referred to as the '''healing wizard'''. A sphero named [[Leone]] is working for him. Additinally, [[Anatole]] is one of his regular customers.
 
@@ -20,8 +31,9 @@ Twinsen later frees Ker'aooc, among the other wizards, from the machine in [[Dar
 === General ===
 * {{thread|id=6468|title=Ker'Aooc...}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Spheroes]]
 [[Category:Male characters]]
 [[Category:Small characters]]
 [[Category:Adult characters]]
-[[Category:Desert Island inhabitants]]
+[[Category:Desert Island inhabitants]] -->
