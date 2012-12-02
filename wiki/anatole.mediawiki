@@ -2,13 +2,24 @@
 title: Anatole
 ---
 
-{{Character|
-Name=Anatole|
-Image=BBANATOL.jpg|
-Race=[[Sphero]]|
-Gender=Male|
-Size=Small|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Anatole.jpg
+ |race=Sphero
+ |gender=Male
+ |size=Small
+ |age=Adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 '''Anatole''' is an old [[sphero]]. He often has pain in his back, which is treated by the healing wizard, [[Ker'aooc]]. In his spare time, he likes to play pétanque with his [[Quetch Pétanque player|friend]] at the pétanque pitch in [[Port-Ludo]] in [[Desert Island]].
 
@@ -21,8 +32,9 @@ Anatole gives [[Twinsen]] some hints, for example about the [[school of magic]] 
 ===Hints\Spoilers===
 * {{thread|id=10385|title=every point of interest i could find (lba2) that isnt on this site, that needs to be!}}
 
+<!-- remove these category links whenb they're all automated by categorizers...
 [[Category:Spheroes]]
 [[Category:Male characters]]
 [[Category:Small characters]]
 [[Category:Adult characters]]
-[[Category:Desert Island inhabitants]]
+[[Category:Desert Island inhabitants]] -->
