@@ -2,7 +2,7 @@
 title: Supergro
 ---
 
-{{twinsunica import}}{{Enemy
+{{twinsunica import}}{{Infobox Enemy
  |name=Supergro
  |image=Whiteclone.gif
  |level=Fire
