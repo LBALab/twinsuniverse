@@ -2,16 +2,16 @@
 title: Supergro
 ---
 
-{{Enemy|
-Name=Supergro|
-Image=Whiteclone.gif|
-Level=Fire|
-Reaction=Moves backwards|
-Recovery=Fast|
-Rate=High|
-Damage=Very high|
-Range=Infinite|
-Speed=Fast}}
+{{twinsunica import}}{{Enemy
+ |name=Supergro
+ |image=Whiteclone.gif
+ |level=Fire
+ |reaction=Moves backwards
+ |recovery=Fast
+ |rate=High
+ |damage=Very high
+ |range=Infinite
+ |speed=Fast}}
 
 '''Supergros''' are white [[grobo]] [[clones]]. They are armed with tablet launchers with which they can put anyone they hit to sleep. These people can then be brought to the nearest [[prison]]. They can be found in every prison and would teleport out of a [[telepod]] when alarmed by a [[nurse]]. Some can also be seen guarding the upper areas of [[Old Burg]], or [[FunFrock's Headquarters]].
 
@@ -29,8 +29,9 @@ Twinsen has to fight a supergro in the entrance of [[FunFrock's Headquarters]], 
 ===Fan Art===
 * {{thread|id=10774|title=Smilies}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Clones]]
 [[Category:Gun wielders]]
 [[Category:Average characters]]
 [[Category:FunFrock's army]]
-[[Category:Grobos]]
+[[Category:Grobos]] -->
