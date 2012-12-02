@@ -10,7 +10,7 @@ title: Miss Bloop
  |age=adult
  |magical=
  |lba1=
- |lba2=
+ |lba2=yes
  |occupation=
  |requires=
  |amount=
