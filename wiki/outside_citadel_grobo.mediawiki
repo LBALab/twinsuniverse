@@ -2,20 +2,32 @@
 title: Outside Citadel Grobo
 ---
 
-{{Character|
-Name=Outside Citadel grobo|
-Image=Grobo.gif|
-Race=[[Grobo]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=
+ |race=grobo
+ |gender=Male
+ |size=average
+ |age=Adult
+ |magical=
+ |lba1=
+ |lba2=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 The '''Outside Citadel grobo''' is a [[grobo]] strolling around at the house of an old [[rabbibunny]], which is the closest to the [[Citadel]] in [[Citadel Island]]. He can be found in front of the house or near the great pile of garbage.
 
 [[Twinsen]] meets this grobo while escaping from the Citadel. He hints him that it is possible to read posters, and later gives him a hint regarding where to find [[Zoé]].
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Grobos]]
 [[Category:Male characters]]
 [[Category:Average characters]]
 [[Category:Adult characters]]
-[[Category:Citadel Island inhabitants]]
+[[Category:Citadel Island inhabitants]] -->
