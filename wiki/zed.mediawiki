@@ -2,17 +2,28 @@
 title: Zed
 ---
 
-{{Character|
-Name=Zed|
-Image=Zed.gif|
-Race=[[Grobo]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Zed.png
+ |race=grobo
+ |gender=Male
+ |size=average
+ |age=Adult
+ |magical=
+ |lba1=
+ |lba2=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
-{{Quote|
-Quote=Ah Twinsen, with this rain, I found plenty of mushrooms!|
-Character=Zed}}
+{{Quote
+ |quote=Ah Twinsen, with this rain, I found plenty of mushrooms!
+ |character=Zed}}
 
 ==Description==
 Zed is a grobo living on [[Citadel Island]]. His only hobby seems to be collecting mushrooms, something he likes doing while it rains. He also likes to lay at the beach during sunnier weather.
@@ -21,12 +32,12 @@ Zed is a grobo living on [[Citadel Island]]. His only hobby seems to be collecti
 Zed had no real role in [[Twinsen]]'s adventures. He only gave Twinsen some hints, like most characters. In his case: Twinsen can drown, where to seek [[Raph]] and that mushrooms could come in handy.
 
 ==Additional quotes==
-{{Quote|
-Quote=Last time I heard him play his guitar, he was probably on the Cliffs. I was looking for mushrooms at that time.|
-Character=Zed}}
-{{Quote|
-Quote=The Esmers should come here. It feels so good to look for mushrooms. By the way, I wouldn't try to go swimming, it gets deep very rapidly.|
-Character=Zed}}
+{{Quote
+ |quote=Last time I heard him play his guitar, he was probably on the Cliffs. I was looking for mushrooms at that time.
+ |character=Zed}}
+{{Quote
+ |quote=The Esmers should come here. It feels so good to look for mushrooms. By the way, I wouldn't try to go swimming, it gets deep very rapidly.
+ |character=Zed}}
 
 ==Related threads==
 ===General===
@@ -39,8 +50,9 @@ Character=Zed}}
 ===Fan Art===
 * {{thread|id=8393|title=LBA was origianlly invented during the Rock Age!}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Grobos]]
 [[Category:Male characters]]
 [[Category:Average characters]]
 [[Category:Adult characters]]
-[[Category:Citadel Island inhabitants]]
+[[Category:Citadel Island inhabitants]] -->
