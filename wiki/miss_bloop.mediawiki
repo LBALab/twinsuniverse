@@ -2,13 +2,24 @@
 title: Miss Bloop
 ---
 
-{{Character|
-Name=Miss Bloop|
-Image=GBBLOOP.jpg|
-Race=[[Grobo]]|
-Gender=Female|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Miss Bloop.jpg
+ |race=grobo
+ |gender=female
+ |size=average
+ |age=adult
+ |magical=
+ |lba1=
+ |lba2=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 '''Miss Bloop''' is a femal [[grobo]] owning a [[Miss Bloop's Private Museum|musem]] on [[Citadel Island]]. This museum is dedicated to [[Twinsen]] and his first adventure.
 
@@ -18,8 +29,9 @@ After the events of [[Little Big Adventure 1]], Twinsen landed his [[Ancestral T
 ===General===
 * {{thread|id=7972|title=Families}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Grobos]]
 [[Category:Female characters]]
 [[Category:Average characters]]
 [[Category:Adult characters]]
-[[Category:Citadel Island inhabitants]]
+[[Category:Citadel Island inhabitants]] -->
