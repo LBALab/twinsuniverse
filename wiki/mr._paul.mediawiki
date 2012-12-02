@@ -2,13 +2,24 @@
 title: Mr. Paul
 ---
 
-{{Character|
-Name=Mr. Paul|
-Image=Paul.gif|
-Race=[[Grobo]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Mr. Paul.png
+ |race=grobo
+ |gender=Male
+ |size=average
+ |age=Adult
+ |magical=no
+ |lba1=
+ |lba2=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 '''Mr. Paul''' is a sailor [[grobo]] living in the [[Citadel Island harbour|harbour]] of [[Citadel Island]]. He is responsible for operating the [[ferry|ferries]] sailing from Citadel Island to Desert Island, as well as conducting passengers' [[ferry ticket|tickets]] upon boarding.
 
