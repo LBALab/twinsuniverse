@@ -2,13 +2,24 @@
 title: Luc
 ---
 
-{{Character|
-Name=Luc|
-Image=GBLUC.jpg|
-Race=[[Grobo]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=
+ |race=grobo
+ |gender=Male
+ |size=average
+ |age=Adult
+ |magical=no
+ |lba1=
+ |lba2=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 '''Luc''' is a [[grobo]] owning the pub [[Chez Luc]] in [[Citadel Island]].
 
