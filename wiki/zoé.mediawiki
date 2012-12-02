@@ -21,9 +21,8 @@ title: Zoé
  |island=Citadel Island
  |building=Twinsen's House
 }}
-
 {{Quote
-|quote=[[Twinsen]], rush to the downtown pharmacy and find a cure for the Dino-Fly! He has just crashed in the garden and looks injured.
+|quote=[[Twinsen]], rush to the downtown pharmacy and find a cure for the [[Dino-Fly]]! He has just crashed in the garden and looks injured.
 |character=Zoé{{!}}Zoé upon greeting Twinsen, the first scene to start LBA2}}
 
 {{Quote
