@@ -10,7 +10,7 @@ title: Hacienda Owner
  |age=Adult
  |magical=
  |lba1=
- |lba2=
+ |lba2=yes
  |occupation=
  |requires=
  |amount=
