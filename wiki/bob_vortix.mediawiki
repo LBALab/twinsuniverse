@@ -2,13 +2,24 @@
 title: Bob Vortix
 ---
 
-{{Character|
-Name=Bob Vortix|
-Image=Bob Vortix.gif|
-Race=[[Sphero]]|
-Gender=Male|
-Size=Small|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Bob Vortix.gif
+ |race=Sphero
+ |gender=Male
+ |size=Small
+ |age=Adult
+ |magical=
+ |lba1=
+ |lba2=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 '''Bob Vortix''' is a [[sphero]] astronomer living in the [[Old Burg]] on [[Principal Island]]. He was placed under house arrest because he knew too much about [[FunFrock]]'s tyranny. Due to his knowledge, he has gained respect from the citizens living on Principal Island.
 
@@ -26,10 +37,11 @@ When searching for information about [[LeBorgne]], Twinsen can come back to Bob'
 * {{thread|id=7543|title=Astronomer?}}
 * {{thread|id=6811|title=LBA makes no sense}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Spheroes]]
 [[Category:Male characters]]
 [[Category:Small characters]]
 [[Category:Adult characters]]
 [[Category:Principal Island inhabitants]]
 [[Category:Good]]
-[[Category:Key characters]]
+[[Category:Key characters]] -->
