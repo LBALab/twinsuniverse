@@ -15,7 +15,7 @@ Welcome to the '''[[Twinsuniverse_Wiki Wiki:About|Twinsuniverse_Wiki Wiki]]'''. 
 
 The Twinsuniverse_Wiki Wiki currently contains '''[[Twinsuniverse_Wiki Wiki:Statistics|{{NUMBEROFARTICLES}}]]''' articles.
 
-'''WARNING''': This is a complete knowledge base, meaning it contains both official as well as non-official information. This knowledge base is full with spoilers!! So it's recommended not to read any further without having both games played. Otherwise, spoilers at your own risk.
+{{warning|This is a complete knowledge base, meaning it is full with spoilers!! It is recommended not to read any further without having both games played. Otherwise, spoilers at your own risk.}}
 |}
 
 {{mainnavigation}}
