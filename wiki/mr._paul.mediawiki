@@ -10,7 +10,7 @@ title: Mr. Paul
  |age=Adult
  |magical=no
  |lba1=
- |lba2=
+ |lba2=yes
  |occupation=
  |requires=
  |amount=
