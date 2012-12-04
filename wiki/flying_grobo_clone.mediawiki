@@ -9,7 +9,7 @@ title: Flying Grobo Clone
  |size=average
  |alignment=
  |requires=Red
- |lba1=
+ |lba1=yes
  |lba2=
  |occupation=
  |style=
