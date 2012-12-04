@@ -4,7 +4,7 @@ title: Green Grobo Clone
 
 {{twinsunica import}}{{Infobox Enemy
  |image=Green_grobo_clone.JPG‎
- |race=
+ |race=grobo
  |gender=
  |size=
  |alignment=
