@@ -3,15 +3,23 @@ title: Yellow Grobo Clone
 ---
 
 {{twinsunica import}}{{Infobox Enemy
- |name=Yellow Grobo Clone
- |image=lba_ingame_yellow_groboclone.jpg
- |level=Yellow
+ |image=
+ |race=grobo
+ |gender=male
+ |size=average
+ |alignment=
+ |requires=Yellow
+ |lba1=yes
+ |lba2=
+ |occupation=
+ |style=
+ |range=Melee
+ |speed=14.4 kph average; 18 maximum
+ |damage=8%
+ |rate=2 seconds
  |reaction=Moves sideways
  |recovery=0.7 seconds
- |rate=2 seconds
- |damage=8%
- |range=Melee
- |speed=14.4 kph average; 18 maximum}}
+}}
 
 '''Yellow Grobo Clones''' were observer clones created by [[Dr. FunFrock]]. They were not capable of fighting for FunFrock, and therefore were used as normal workers, for example to keep an eye on the passengers at the [[Citadel Island harbour|Citadel Island]] and [[Principal Island harbour|Principal Island]] harbours. They are seen guarding a closed gate or [[Twinsen's house]] on [[Citadel Island]], too.
 
