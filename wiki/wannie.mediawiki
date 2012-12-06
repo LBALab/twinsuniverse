@@ -2,11 +2,11 @@
 title: Wannie
 ---
 
-[[Image:BlafardAnim.gif|right|thumb|74px|A Wannie]]
+{{twinsunica import}}[[Image:BlafardAnim.gif|right|thumb|74px|A Wannie]]
 
-{{Quote|
-Quote=Wannie representative. The race of the Wannies lives in the under-gas. They are the workers of the gem mine, from which gazogem is made. The mine is being run by the Building Company, under imperial supervision.|
-Character=A plaque in [[Dark Monk's temple]]}}
+{{Quote
+ |quote=Wannie representative. The race of the Wannies lives in the under-gas. They are the workers of the gem mine, from which gazogem is made. The mine is being run by the Building Company, under imperial supervision.
+ |character=Dark Monk's temple{{!}}A plaque in Dark Monk's temple}}
 
 Kind of big moles who stand on two feet. They live in families in comfortably furnished caves. Their favorite place is the [[under-gas]] because they can't survive on the surface without protecting themselves against the light (with sunglasses, big black capes, etc.). Traditionally miners from generation to generation, they sift the under-gas lava to extract gems for the [[Building Company]] which, in exchange, protects them from the monsters.
 
@@ -23,6 +23,6 @@ Kind of big moles who stand on two feet. They live in families in comfortably fu
 ===Fan Art===
 [http://www.deviantart.com/view/16452498/ Wannie]
 
-{{Stub}}
-
-[[Category:Wannies|*]]
+[[Category:Wannies| ]]
+[[Category:Wannie characters| ]]
+[[Category:Wannie enemies| ]]
