@@ -2,7 +2,7 @@
 title: Elf
 ---
 
-[[Image:Joe the Elf.jpg|right|thumb|[[Joe the Elf]]]]
+{{twinsunica import}}[[Image:Joe the Elf.jpg|right|thumb|[[Joe the Elf]]]]
 An '''Elf''' is a magical creature that exists on [[Twinsun]].
 
 Elves are known to be able to teleport, although allegedly this causes them nausea. During the reign of [[Dr. FunFrock]], elves don't officially exist.
