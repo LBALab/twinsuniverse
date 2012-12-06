@@ -2,11 +2,11 @@
 title: Sup
 ---
 
-[[Image:SupAnim.gif|right|52px|thumb|Sup]]
+{{twinsunica import}}[[Image:SupAnim.gif|right|52px|thumb|Sup]]
 
-{{Quote|
-Quote=Sup representative. The Sups live in the upper city of Otringal. They are the planet's intellectual elite and always hold the highest positions.|
-Character=A plaque in [[Dark Monk's temple]]}}
+{{Quote
+ |uote=Sup representative. The Sups live in the upper city of Otringal. They are the planet's intellectual elite and always hold the highest positions.
+ |character=Dark Monk's temple{{!}}A plaque in Dark Monk's temple}}
 
 ==Description==
 This humanoid race has a huge triangular head and a thin body. The Sups live mainly on the island of [[Otringal]]. They are the intellectual elite of the planet [[Zeelich]] where they dominate the other races, imposing their iron rule on all and sundry in the name of [[Emperor of Zeelich|their Emperor]]. Their advanced technology allows them to travel from galaxy to galaxy and attempt to populate other planets. The Emperor and [[Dark Monk]] appear to maintain excellent relations...
@@ -27,6 +27,6 @@ This humanoid race has a huge triangular head and a thin body. The Sups live mai
 * {{thread|id=11891|title=Esmer drawing}}
 * {{thread|id=12533|title=Zeelich - Sup render}}
 
-{{Stub}}
-
-[[Category:Sups|*]]
+[[Category:Sups| ]]
+[[Category:Sup characters| ]]
+[[Category:Sup enemies| ]]
