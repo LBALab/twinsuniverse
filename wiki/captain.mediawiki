@@ -2,15 +2,26 @@
 title: Captain
 ---
 
-{{Character|
-Name=Captain|
-Image=KCAPITAI.jpg|
-Race=[[Franco]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Captain.jpg
+ |race=Franco
+ |gender=Male
+ |size=average
+ |age=Adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
-The '''Captain''' is a nameless [[Franco]] who transforms people around the islands of [[Zeelich]]'s [[sruface]] for the price of 10 [[Zlitos]]. He calls his boat "Leontine".
+The '''Captain''' is a nameless [[Franco]] who transports people around the islands of [[Zeelich's Surface]] for the price of 10 [[Zlitos]]. He calls his boat "Leontine".
 
 When [[Twinsen]] crashes on [[Otringal]], his main objective is to find a way to reach [[Island CX]]. In the [[Otringal harbour|harbour]] he finds the captain, who in return for 100 zlitos tells Twinsen about a franco on [[Celebration Island]] who went to the island and came back alive. He then takes him to the island for free.
 
@@ -20,8 +31,9 @@ It's possible to use the captain's services afterwards, although he charges twic
 ===General===
 * {{thread|id=674|title=Another quote..}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Francos]]
 [[Category:Male characters]]
 [[Category:Average characters]]
 [[Category:Adult characters]]
-[[Category:Otringal inhabitants]]
+[[Category:Otringal inhabitants]] -->
