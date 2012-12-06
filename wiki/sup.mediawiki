@@ -5,7 +5,7 @@ title: Sup
 {{twinsunica import}}[[Image:SupAnim.gif|right|52px|thumb|Sup]]
 
 {{Quote
- |uote=Sup representative. The Sups live in the upper city of Otringal. They are the planet's intellectual elite and always hold the highest positions.
+ |quote=Sup representative. The Sups live in the upper city of Otringal. They are the planet's intellectual elite and always hold the highest positions.
  |character=Dark Monk's temple{{!}}A plaque in Dark Monk's temple}}
 
 ==Description==
