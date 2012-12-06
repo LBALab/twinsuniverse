@@ -2,10 +2,12 @@
 title: Gloum
 ---
 
-[[Image:DVPATRIK.JPG|right|143px|thumb|[[Patrick]], a gloum]]
+{{twinsunica import}}[[Image:DVPATRIK.JPG|right|143px|thumb|[[Patrick]], a gloum]]
 
 '''Gloum''' is a large crocodile-like creature in [[Otringal]]. All gloums there work in the [[Casino Gloum]].
 
 Owning the casino in the [[middle city]] of Otrinal, the gloums tell [[Twinsen]] about the big jack-pot he can win there. However, when arriving at the jack-pot room, Twinsen is attacked by two gloums, who steal all of his money in case they defeat him. After Twinsen beats them, he can exit the casino through the back door, leading to Otringal's [[Upper City]].
 
-[[Category:Gloums|*]]
+[[Category:Gloums| ]]
+[[Category:Gloum characters| ]]
+[[Category:Gloum enemies| ]]
