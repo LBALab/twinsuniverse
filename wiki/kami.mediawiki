@@ -2,8 +2,8 @@
 title: Kami
 ---
 
-[[Image:Screenshot-lba1-movies-05-snowstorm-05.jpg|right|200px|thumb|Kami]]
+{{twinsunica import}}[[Image:Screenshot-lba1-movies-05-snowstorm-05.jpg|right|200px|thumb|Kami]]
 
 The '''Kami''' are a white, weasel-like race living in the [[Hamalayi Mountains]]. They seem to be easily scared off. When [[Twinsen]] almost freezes to death in the Hamalayi Mountains, some Kamis save him. They also give him a [[snowboard]].
 
-[[Category:Twinsunian Species]]
+[[Category:Species]]
