@@ -7,7 +7,7 @@ title: Grobo
 '''Grobo''' is one of the four main species of [[Twinsun]]. The official [[Little Big Adventure 2]] website describes them as so:
 {{quote
  |quote=An elephant-like race. These characters are gentle oafs who try to stay out of trouble. They do, however, have their character and their own particular quirks: they enjoy picking, gathering and DIY jobs. In fact they enjoy everything. They are cooperative and hard-working even if some of them are not exactly Nobel prize winners.
- |character=[http://www.magicball.net/mirrors/official-lba2/FAMILLE/GROBOSEN.HTM Official LBA 2 site]}}
+ |character=http://www.magicball.net/mirrors/official-lba2/FAMILLE/GROBOSEN.HTM Official LBA 2 site}}
 
 The Grobos are spread everywhere around the planet, and are not centered in one place. In [[Little Big Adventure 1]], [[grobo clones]] are also very common.
 
