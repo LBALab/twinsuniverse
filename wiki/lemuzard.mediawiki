@@ -2,7 +2,7 @@
 title: Lemuzard
 ---
 
-[[Image:DVLEMUZA.JPG|right|200px|thumb|A Lemuzard]]
+{{twinsunica import}}[[Image:Lemuzard.jpg|right|200px|thumb|A Lemuzard]]
 
 '''Lemuzard''' is a creature used in a betting-game at the [[Casino]] in [[Otringal]].
 
@@ -14,4 +14,4 @@ In this game, the betting person can place his bet of 1 [[zlito]] on any of the 
 ===Hints\Spoilers===
 * {{thread|id=2522|title=Otringal Casino}}
 
-[[Category:Zeelichian Species]]
+[[Category:Species]]
