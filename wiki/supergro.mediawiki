@@ -5,7 +5,7 @@ title: Supergro
 {{twinsunica import}}{{Infobox Enemy
  |image=Whiteclone.gif
  |race=grobo
- |gender=
+ |gender=male
  |size=
  |alignment=
  |requires=Fire
