@@ -2,7 +2,7 @@
 title: Rabbibunny
 ---
 
-[[Image:LapichonAnim.gif|right|72px|frame|Rabbibunny]]
+{{twinsunica import}}[[Image:LapichonAnim.gif|right|72px|frame|Rabbibunny]]
 
 '''Rabbibunny''' is one of the four main species of [[Twinsun]]. The name is deprived from a combination of the words "rabbit" and "bunny", due to their body shape.
 
@@ -31,4 +31,6 @@ Rabbibunnies are common everywhere around Twinsun, and there is even a [[Rabbibu
 ===Fan art===
 * [http://www.deviantart.com/view/11302613/ Inor and Claudia]
 
-[[Category:Rabbibunnies|*]]
+[[Category:Rabbibunnies| ]]
+[[Category:Rabbibunny characters| ]]
+[[Category:Rabbibunny enemies| ]]
