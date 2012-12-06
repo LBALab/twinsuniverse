@@ -2,13 +2,24 @@
 title: Roger de la Fontaine
 ---
 
-{{Character|
-Name=Roger de la Fontaine|
-Image=DIVERS.gif|
-Race=[[Franco]]|
-Gender=Male|
-Size=Medium|
-Age=Dead}}
+{{twinsunica import}}{{Infobox Character
+ |image=
+ |race=franco
+ |gender=male
+ |size=average
+ |age=dead
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 '''Roger de la Fontaine''' was the Burgmaster of the [[Island of the Francos]], who was in charge of looking after the [[Francos Key Fragment]]. He often buried the fragment to keep it safe, so that nobody could find it and steal it. One of his favourite pastimes was to spend time near the Gas, and that is where he met his death - eaten by a [[gas monster]]. Because nobody knew where he hid the fragment, the entire Island was whipped up into a frenzy, and everybody started looking for the fragment.
 
@@ -21,8 +32,9 @@ Roger de la Fontaine means "Roger of the Fountain" in French.
 * {{thread|id=4766|title=The Francos Burgermeister}}
 * {{thread|id=893|title=Burgermaster?}}
 
+<!-- remove these category links when they're all automatd by categorizers...
 [[Category:Francos]]
 [[Category:Male characters]]
 [[Category:Average characters]]
 [[Category:Dead characters]]
-[[Category:Francos Island inhabitants]]
+[[Category:Francos Island inhabitants]] -->
