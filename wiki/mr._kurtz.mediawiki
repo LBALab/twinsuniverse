@@ -2,13 +2,24 @@
 title: Mr. Kurtz
 ---
 
-{{Character|
-Name=Kurtz|
-Image=KnartaAnim.gif|
-Race=[[Franco]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Kurtz.png
+ |race=franco
+ |gender=male
+ |size=average
+ |age=adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 '''Kurtz''' is a [[franco]] living on the [[Village of the Francos]], in [[Mr. Kurtz's house|a house]] where he made sure no sunlight can come in. His flowers are the proof of that.
 
@@ -20,8 +31,9 @@ Mr. Kurtz has no vital role in the game. He tells [[Twinsen]] that he concoted a
 ===Hints\Spoilers===
 * {{thread|id=1413|title=Unsolved mysteries}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Francos]]
 [[Category:Male characters]]
 [[Category:Average characters]]
 [[Category:Adult characters]]
-[[Category:Francos Island inhabitants]]
+[[Category:Francos Island inhabitants]] -->
