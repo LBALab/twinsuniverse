@@ -5,7 +5,7 @@ title: Red Grobo Clone
 {{twinsunica import}}{{Infobox Enemy
  |image=Red_grobo_clone.JPG‎
  |race=grobo
- |gender=
+ |gender=male
  |size=
  |alignment=
  |requires=Red
