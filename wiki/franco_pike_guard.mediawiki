@@ -2,16 +2,28 @@
 title: Franco Pike Guard
 ---
 
-{{Enemy|
-Name=Franco guard with pike|
-Image=KNLUNE.jpg|
-Level=Green/Red|
-Reaction=Moves sideways|
-Recovery=Fast|
-Rate=Fast|
-Damage=Little|
-Range=Short|
-Speed=Medium}}
+{{twinsunica import}}
+{{warning|This article tells about both '''Franco Pike Guards''' and [[Franco Laser Soldier]]s. It should therefor be split and renamed.}}{{Infobox Enemy
+ |image=Franco Pike Guard.png
+ |race=franco
+ |gender=male
+ |size=average
+ |alignment=emperor
+ |requires=Green
+ |lba1=
+ |lba2=yes
+ |occupation=Guard
+ |melee=yes
+ |ranged=
+ |magic=
+ |explosive=
+ |range=Short
+ |speed=Medium
+ |damage=Little
+ |rate=Fast
+ |reaction=Moves sideways
+ |recovery=Fast
+}}
 
 '''Franco guards''' are omnipresent soldiers of the [[Emperor]]'s army on [[Zeelich]]. They can be seen with different weapons, from long pikes to big laser guns. They are seen at any place needing guarding, like the [[astroport]], the [[gazogem refinery]], and on many streets throughout the entire planet. Together with [[franco]] technicancs they build the crew of the [[Emerald Moon base]].
 
@@ -35,7 +47,8 @@ When setting of an alarm in an airlock of the [[Emerald Moon base]], Twinsen is 
 * {{thread|id=4683|title=Franco Guards, hey they are diffrent!}}
 * {{thread|id=4682|title=Do you think that Fraco guards are Clones?}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Imperial Legion]]
 [[Category:Melee fighters]]
 [[Category:Gun wielders]]
-[[Category:Francos]]
+[[Category:Francos]] -->
