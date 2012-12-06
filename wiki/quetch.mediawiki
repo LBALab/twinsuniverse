@@ -2,7 +2,7 @@
 title: Quetch
 ---
 
-[[Image:QuetchAnim.gif|right|frame|Quetch]]
+{{twinsunica import}}[[Image:QuetchAnim.gif|right|frame|Quetch]]
 
 '''Quetch''' is one of the four main species of the planet [[Twinsun]]. Their shape resembles humand, and they are characterized by a pony tail haircut.
 
@@ -18,6 +18,6 @@ It is among the quetches that [[Sendell]] implanted a line of chosen ones, capab
 * {{thread|id=11142|title=Homesen}}
 * {{thread|id=4757|title=My x-mas art}}
 
-{{Stub}}
-
-[[Category:Quetches|*]]
+[[Category:Quetches| ]]
+[[Category:Quetch characters| ]]
+[[Category:Quetch enemies| ]]
