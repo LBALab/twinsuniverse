@@ -2,10 +2,10 @@
 title: Schmoutz
 ---
 
-[[Image:DVSCHMOU.JPG|right|thumb|A schmoutz]]
+{{twinsunica import}}[[Image:DVSCHMOU.JPG|right|thumb|A schmoutz]]
 
 A '''Schmoutz''' is a yellow creature which looks like a fusion of a dog and a pig. These creatures are used as pets by [[Zeelich]]ians.
 
 During his journey on Zeelich, Twinsen sees three of these creatures. One in the [[wannies' mines]], one in the [[wannies village]] and one in the [[Imperial hotel]]. They have no role in his adventure though.
 
-[[Category:Zeelichian Species]]
+[[Category:Species]]
