@@ -2,7 +2,7 @@
 title: Sphero
 ---
 
-[[Image:BouboulAnim.gif|right|frame|A sphero]]
+{{twinsunica import}}[[Image:BouboulAnim.gif|right|frame|A sphero]]
 
 This race of small bio-androids has been living for years on [[Twinsun]] as an endangered species. Unfortunately, they have been unable to breed for a very long time and have only a dim hope of seeing tiny spheros cavorting around their gardens.
 
@@ -35,6 +35,6 @@ This race of small bio-androids has been living for years on [[Twinsun]] as an e
 ===Fan art===
 * [http://www.deviantart.com/view/9989630/ Sphero]
 
-{{Stub}}
-
-[[Category:Spheroes|*]]
+[[Category:Spheros| ]]
+[[Category:Sphero characters| ]]
+[[Category:Sphero enemies| ]]
