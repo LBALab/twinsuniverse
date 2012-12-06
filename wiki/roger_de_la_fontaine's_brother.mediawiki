@@ -2,13 +2,24 @@
 title: Roger de la Fontaine's Brother
 ---
 
-{{Character|
-Name=Roger de la Fontaine's brother|
-Image=Rdlfb.jpg|
-Race=[[Franco]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Roger de la Fontaine's Brother.png
+ |race=franco
+ |gender=male
+ |size=average
+ |age=adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 '''Roger de la Fontaine's brother''' is [[Franco]] whose name is unknown. He was the brother of [[Roger de la Fontaine]], the late Burgermaster of the [[Island of the Francos]].
 
@@ -22,8 +33,9 @@ Even after Twinsen finds the francos fragment and shows it to Roger's brother, h
 === General ===
 * {{thread|id=2580|title=It's the good ol' "Where's That Quote From?"}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category: Francos]]
 [[Category: Male characters]]
 [[Category: Average characters]]
 [[Category: Adult characters]]
-[[Category: Francos Island inhabitants]]
+[[Category: Francos Island inhabitants]] -->
