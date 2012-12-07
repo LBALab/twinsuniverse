@@ -8,7 +8,7 @@ title: Tavern Grobo
  |gender=Male
  |size=average
  |age=Adult
- |magical=
+ |magical=no
  |lba1=yes
  |lba2=
  |occupation=
