@@ -8,7 +8,7 @@ title: Dr. FunFrock
  |gender=Male
  |size=Large
  |age=Adult
- |magical=
+ |magical=no
  |lba1=yes
  |lba2=yes
  |occupation=
