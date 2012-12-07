@@ -8,7 +8,7 @@ title: Miss Bloop
  |gender=female
  |size=average
  |age=adult
- |magical=
+ |magical=no
  |lba1=
  |lba2=yes
  |occupation=
