@@ -8,7 +8,7 @@ title: Old Mutant Factory Worker
  |gender=Male
  |size=average
  |age=Adult
- |magical=
+ |magical=no
  |lba1=yes
  |lba2=
  |occupation=
@@ -22,7 +22,7 @@ title: Old Mutant Factory Worker
 }}
 {{Quote
 |quote=From this warehouse we send material to the other hemisphere, we use a shuttle that dates back to the old subway lines. I participated in its construction but I've been waiting for a ferry for two years... Two years!
-|character=The [[Old mutant factory worker]]}}
+|character=Old mutant factory worker}}
 
 The '''old mutant factory worker''' is a [[grobo]] that used to work in the [[mutant factory]]. He tells [[Twinsen]] that he has been waiting outside the factory for a [[ferry]] home, and has apparently been doing so for two years.
 
