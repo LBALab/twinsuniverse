@@ -8,7 +8,7 @@ title: Col. Kroptman
  |gender=Male
  |size=Small
  |age=Adult
- |magical=
+ |magical=no
  |lba1=yes
  |lba2=
  |occupation=
