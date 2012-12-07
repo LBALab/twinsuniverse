@@ -8,7 +8,7 @@ title: Aristide
  |gender=Male
  |size=average
  |age=Adult
- |magical=
+ |magical=no
  |lba1=
  |lba2=yes
  |occupation=
