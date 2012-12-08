@@ -14,7 +14,6 @@ title: Twinsuniverse Wiki
 Welcome to the '''[[Twinsuniverse_Wiki Wiki:About|Twinsuniverse_Wiki Wiki]]'''. This is the product of what once started as the LBA compendium project in December 2000. The goal of this project is to make a complete knowledge base of the worlds of the adventure games [[wikipedia:Little Big Adventure|Little Big Adventure]] (Relentless) and [[wikipedia:Little Big Adventure 2|Little Big Adventure 2]] (Twinsen's Oddysey).
 
 The Twinsuniverse_Wiki Wiki currently contains '''[[Twinsuniverse_Wiki Wiki:Statistics|{{NUMBEROFARTICLES}}]]''' articles.
-
 {{mbox|class=content|This is a complete knowledge base, meaning it is full with spoilers!! It is recommended not to read any further without having both games played. Otherwise, spoilers at your own risk.}}
 |}
 
