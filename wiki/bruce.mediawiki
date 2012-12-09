@@ -8,9 +8,10 @@ title: Bruce
  |gender=Male
  |size=Small
  |age=Adult
- |magical=
+ |magical=no
  |lba1=
  |lba2=yes
+ |alignment=neutral
  |occupation=
  |requires=
  |amount=
