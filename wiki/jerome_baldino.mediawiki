@@ -60,6 +60,7 @@ Jerome Baldino's model is the French showman [http://fr.wikipedia.org/wiki/J%C3%
 ===Fan Art===
 * {{thread|id=3150|title=My first Lba image}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Grobos]]
 [[Category:Male characters]]
 [[Category:Average characters]]
@@ -67,4 +68,4 @@ Jerome Baldino's model is the French showman [http://fr.wikipedia.org/wiki/J%C3%
 [[Category:Proxima Island inhabitants]]
 [[Category:Desert Island inhabitants]]
 [[Category:Good]]
-[[Category:Melee fighters]]
+[[Category:Melee fighters]] -->
