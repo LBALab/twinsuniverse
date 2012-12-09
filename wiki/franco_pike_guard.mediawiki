@@ -8,11 +8,11 @@ title: Franco Pike Guard
  |race=franco
  |gender=male
  |size=average
- |alignment=emperor
- |requires=Green
  |lba1=
  |lba2=yes
+ |alignment=emperor
  |occupation=Guard
+ |requires=Green
  |melee=yes
  |ranged=
  |magic=
