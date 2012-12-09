@@ -10,8 +10,8 @@ title: Supergro
  |lba1=yes
  |lba2=
  |alignment=
- |requires=Fire
  |occupation=
+ |requires=Fire
  |melee=
  |ranged=yes
  |magic=
