@@ -13,7 +13,7 @@ title: Flying Grobo Clone
  |occupation=
  |requires=Red
  |melee=
- |ranged=
+ |ranged=yes
  |magic=
  |explosive=
  |range=Wide
