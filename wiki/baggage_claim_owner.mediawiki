@@ -11,6 +11,7 @@ title: Baggage Claim Owner
  |magical=
  |lba1=
  |lba2=yes
+ |alignment=neutral
  |occupation=
  |requires=
  |amount=
