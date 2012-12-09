@@ -34,8 +34,9 @@ title: Luc
 ===Fan Art===
 * {{post|id=76367|title=Edited Film Pictures}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Grobos]]
 [[Category:Male characters]]
 [[Category:Average characters]]
 [[Category:Adult characters]]
-[[Category:Citadel Island inhabitants]]
+[[Category:Citadel Island inhabitants]] -->
