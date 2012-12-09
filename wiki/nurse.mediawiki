@@ -7,17 +7,21 @@ title: Nurse
  |race=quetch
  |gender=male
  |size=average
- |age=adult
- |magical=no
  |lba1=yes
  |lba2=
+ |alignment=
+ |occupation=
  |requires=none
+ |melee=yes
+ |ranged=
+ |magic=
+ |explosive=
+ |range=
+ |speed=Medium
+ |damage=Little
+ |rate=Slow
  |reaction=Steps backwards
  |recovery=Fast
- |rate=Slow
- |damage=Few
- |range=Melee
- |speed=Medium
 }}
 
 <center>''This article is about [[Quetch]] nurses. For [[Grobo]] nurses equipped with tablet launchers, see [[Supergro]].''</center>
