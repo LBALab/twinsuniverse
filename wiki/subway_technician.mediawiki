@@ -11,6 +11,7 @@ title: Subway Technician
  |magical=
  |lba1=yes
  |lba2=
+ |alignment=
  |occupation=
  |requires=
  |amount=
@@ -22,7 +23,7 @@ title: Subway Technician
 }}
 {{Quote
  |quote=Yes, I know, you also want me to start the transporter. Ok, stand in front of it, I'll start it up.
- |character=The [[Subway technician]]}}
+ |character=Subway technician}}
 
 ==Description==
 A rather grumpy character who plays no major role in LBA1. He is seen in two places: at the [[Subway Station]] where he starts up the subway to the [[Mutant Factory]] for Twinsen. 
