@@ -11,6 +11,7 @@ title: Twinsen
  |magical=yes
  |lba1=yes
  |lba2=yes
+ |alignment=sendell
  |occupation=Hero
  |requires=
  |amount=
