@@ -33,7 +33,7 @@ He is also from then on seen in the Mutant Factor repairing a spare subway shutt
 
 {{Quote
  |quote=Leave me alone! I've got work to do, and no time to play!
- |caracter=The [[Subway technician]]}}
+ |character=Subway technician}}
 
 <!-- remove these category links when they're all automated by categorizers...
 [[Category:Grobos]]
