@@ -11,6 +11,7 @@ title: Leone
  |magical=
  |lba1=
  |lba2=yes
+ |alignment=
  |occupation=
  |requires=
  |amount=
