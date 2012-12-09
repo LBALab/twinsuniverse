@@ -12,7 +12,10 @@ title: Flying Grobo Clone
  |alignment=funfrock
  |requires=Red
  |occupation=
- |style=
+ |melee=
+ |ranged=
+ |magic=
+ |explosive=
  |range=Wide
  |speed=
  |damage=High
