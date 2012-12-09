@@ -21,7 +21,6 @@ title: Valentin
  |island=
  |building=
 }}
-
 {{Quote
  |quote=This Roger de la Fontaine, he used to get pretty close to the gas. Could well be where he hid it, our fragment.
  |character=Valentin}}
