@@ -7,10 +7,10 @@ title: Green Grobo Clone
  |race=grobo
  |gender=male
  |size=
- |alignment=
- |requires=Green
  |lba1=yes
  |lba2=
+ |alignment=funfrock
+ |requires=Green
  |occupation=
  |style=
  |range=Melee
