@@ -10,10 +10,13 @@ title: Green Grobo Clone
  |lba1=yes
  |lba2=
  |alignment=funfrock
- |requires=Green
  |occupation=
- |style=
- |range=Melee
+ |requires=Green
+ |melee=
+ |ranged=yes
+ |magic=
+ |explosive=
+ |range=
  |speed=
  |damage=Medium
  |rate=2 seconds
