@@ -18,4 +18,4 @@ The Twinsuniverse_Wiki Wiki currently contains '''[[Twinsuniverse_Wiki Wiki:Stat
 |}
 
 {{mainnavigation}}
-[[Category:Categories|*]]
+[[Category:Categories| ]]
