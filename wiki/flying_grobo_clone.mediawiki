@@ -7,10 +7,10 @@ title: Flying Grobo Clone
  |race=grobo
  |gender=male
  |size=average
- |alignment=
- |requires=Red
  |lba1=yes
  |lba2=
+ |alignment=funfrock
+ |requires=Red
  |occupation=
  |style=
  |range=Wide
