@@ -11,6 +11,7 @@ title: Col. Kroptman
  |magical=no
  |lba1=yes
  |lba2=
+ |alignment=
  |occupation=
  |requires=
  |amount=
