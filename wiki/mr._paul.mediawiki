@@ -30,8 +30,9 @@ During the [[storm]] in the beginning of [[Little Big Adventure 2]], Paul takes 
 ===General===
 * {{thread|id=3467|title=New quote?}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Grobos]]
 [[Category:Male characters]]
 [[Category:Average characters]]
 [[Category:Adult characters]]
-[[Category:Citadel Island inhabitants]]
+[[Category:Citadel Island inhabitants]] -->
