@@ -11,6 +11,7 @@ title: Roger de la Fontaine's Brother
  |magical=no
  |lba1=
  |lba2=yes
+ |alignment=
  |occupation=
  |requires=
  |amount=
