@@ -11,6 +11,7 @@ title: Aristide
  |magical=no
  |lba1=
  |lba2=yes
+ |alignment=neutral
  |occupation=
  |requires=
  |amount=
