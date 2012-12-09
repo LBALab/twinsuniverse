@@ -11,6 +11,7 @@ title: Ferry Ticket Clerk (Quetch)
  |magical=no
  |lba1=yes
  |lba2=
+ |alignment=neutral
  |occupation=
  |requires=
  |amount=
