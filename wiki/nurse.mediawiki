@@ -16,7 +16,7 @@ title: Nurse
  |ranged=
  |magic=
  |explosive=
- |range=
+ |range=none
  |speed=Medium
  |damage=Little
  |rate=Slow
