@@ -18,7 +18,7 @@ title: Supergro
  |explosive=
  |range=Infinite
  |speed=Fast
- |damage=Very high
+ |damage=huge
  |rate=High
  |reaction=Moves backwards
  |recovery=Fast
