@@ -3,7 +3,7 @@ title: Franco Pike Guard
 ---
 
 {{twinsunica import}}{{mbox|class=move|This article tells about both '''Franco Pike Guards''' and [[Franco Laser Soldier]]s. It should therefor be split and renamed.}}{{Infobox Enemy
- |image=Franco Pike Guard.png
+ |image=Franco Pike Guard.jpg
  |race=franco
  |gender=male
  |size=average
