@@ -2,13 +2,25 @@
 title: Astrid
 ---
 
-{{Character|
-Name=Astrid|
-Image=REINE.jpg|
-Race=[[Mosquibee]]|
-Gender=Female|
-Size=Large|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=The Queen Astrid.jpg
+ |race=Mosquibee
+ |gender=Female
+ |size=Large
+ |age=Adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=Queen
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=undergas
+ |island=Island of the Mosquibees
+ |building=Mosquibee Village
+}}
 
 '''Astrid''' is the queen of the [[mosquibees]]. Not accepting the [[emperor]] of [[Zeelich]], the mosquibees have their own leader. Astrid is much larger than the common mosquibee and is very respected among her fellow mosquibees.
 
@@ -18,8 +30,9 @@ Soon after Twinsen completes the tet, the emperor's soldiers attack the village.
 
 At the end of the game, Astrid seem to amuse herself at the victory-party on [[Twinsun]].
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Mosquibees]]
 [[Category:Female characters]]
 [[Category:Large characters]]
 [[Category:Adult characters]]
-[[Category:Mosquibees Island inhabitants]]
+[[Category:Mosquibees Island inhabitants]] -->
