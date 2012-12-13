@@ -19,7 +19,7 @@ title: Franco Pike Guard
  |range=Short
  |speed=Medium
  |damage=Little
- |rate=Fast
+ |rate=high
  |reaction=Moves sideways
  |recovery=Fast
 }}
