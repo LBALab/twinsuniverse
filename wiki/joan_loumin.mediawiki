@@ -45,10 +45,11 @@ The model for Joan Loumin is the active member of French Resistance during the W
 ===Fan Art===
 * {{post|id=226830|title=Edited Film Pictures}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Mosquibees]]
 [[Category:Male characters]]
 [[Category:Small characters]]
 [[Category:Adult characters]]
 [[Category:Mosquibees Island inhabitants]]
 [[Category:Otringal inhabitants]]
-[[Category:Wannies Island inhabitants]]
+[[Category:Wannies Island inhabitants]] -->
