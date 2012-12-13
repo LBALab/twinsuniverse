@@ -2,13 +2,25 @@
 title: Joan Loumin
 ---
 
-{{Character|
-Name=Joan Loumin|
-Image=MLOUMIN.jpg|
-Race=[[Mosquibee]]|
-Gender=Male|
-Size=Small|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Joan Loumin.jpg
+ |race=Mosquibee
+ |gender=Male
+ |size=Small
+ |age=Adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 '''Joan Loumin''' is a [[mosquibee]] acting as part of the [[dissidents]] group on [[Zeelich]].
 
