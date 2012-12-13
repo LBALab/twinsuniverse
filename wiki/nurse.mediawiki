@@ -19,7 +19,7 @@ title: Nurse
  |range=none
  |speed=Medium
  |damage=Little
- |rate=Slow
+ |rate=low
  |reaction=Steps backwards
  |recovery=Fast
 }}
