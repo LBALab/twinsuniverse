@@ -18,7 +18,7 @@ title: Green Sphero Clone
  |explosive=
  |range=Wide
  |speed=Slow
- |damage=
+ |damage=high, is that correct?
  |rate=high
  |reaction=Spins round on spot
  |recovery=Medium
