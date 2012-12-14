@@ -11,7 +11,7 @@ title: Jerome Baldino
  |magical=no
  |lba1=yes
  |lba2=yes
- |alignment=
+ |alignment=neutral
  |occupation=Inventor
  |requires=
  |amount=
