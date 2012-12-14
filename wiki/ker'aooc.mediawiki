@@ -11,8 +11,8 @@ title: Ker'aooc
  |magical=
  |lba1=
  |lba2=yes
- |alignment=
- |occupation=
+ |alignment=sendell
+ |occupation=Healing Wizard
  |requires=
  |amount=
  |fam1=
