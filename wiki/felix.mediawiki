@@ -2,13 +2,25 @@
 title: Felix
 ---
 
-{{Character|
-Name=Felix|
-Image=Felix.gif|
-Race=[[Rabbibunny]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Felix.png
+ |race=Rabbibunny
+ |gender=Male
+ |size=average
+ |age=Adult
+ |magical=
+ |lba1=
+ |lba2=
+ |alignment=neutral
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 '''Felix''' is a [[rabbibunny]] spotted in the [[Citadel Island Harbour|harbour]] of [[Citadel Island]]. During the beginning of [[Little Big Adventure 2]] he is seen fishing at the harbour, and from time to time catching [[crabs]].
 
@@ -22,8 +34,9 @@ When Twinsen hits Felix, the rabbibunny drops his fishing pole, runs to the wate
 * {{thread|id=1957|title=Felix suicide}}
 * {{thread|id=328|title=Secrets}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Rabbibunnies]]
 [[Category:Male characters]]
 [[Category:Average characters]]
 [[Category:Adult characters]]
-[[Category:Citadel Island inhabitants]]
+[[Category:Citadel Island inhabitants]] -->
