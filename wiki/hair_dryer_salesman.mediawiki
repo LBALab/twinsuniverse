@@ -11,7 +11,7 @@ title: Hair Dryer Salesman
  |magical=no
  |lba1=yes
  |lba2=
- |alignment=
+ |alignment=neutral
  |occupation=Salesman
  |requires=
  |amount=
