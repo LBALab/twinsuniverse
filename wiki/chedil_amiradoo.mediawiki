@@ -2,13 +2,25 @@
 title: Chedil Amiradoo
 ---
 
-{{Character|
-Name=Chedil Amiradoo|
-Image=Chedil Amiradoo.gif|
-Race=[[Rabbibunny]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Chedil Amiradoo.png
+ |race=Rabbibunny
+ |gender=Male
+ |size=average
+ |age=Adult
+ |magical=yes
+ |lba1=
+ |lba2=
+ |alignment=sendell
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 '''Chedil Amiradoo''' is a [[rabbibunny]] who makes living from selling various magic accessories to fully licensed wizards. Throughout Little Big Adventure 2, he circles around the [[White Leaf Desert]] on his magical flying carpet. People who wish to buy goods from him are required to show him their [[wizard's diploma]], as a proof of them being fully licensed.
 
@@ -26,8 +38,9 @@ When Twinsen comes back from [[Zeelich]] for the first time, Chedil is no longer
 * {{post|id=74935|title=Metal Gear Twinsen}}
 * {{post|id=112171|title=Lba3}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Rabbibunnies]]
 [[Category:Male characters]]
 [[Category:Average characters]]
 [[Category:Adult characters]]
-[[Category:Desert Island inhabitants]]
+[[Category:Desert Island inhabitants]] -->
