@@ -2,20 +2,33 @@
 title: Drunk Rabbibunny
 ---
 
-{{Character|
-Name=Drunk rabbibunny|
-Image=Drunk.JPG‎|
-Race=[[Rabbibunny]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Drunk.JPG
+ |race=Rabbibunny
+ |gender=Male
+ |size=average
+ |age=Adult
+ |magical=
+ |lba1=
+ |lba2=
+ |alignment=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 The '''drunk rabbibunny''' is a nameless [[rabbibunny]] who sits in [[Chez Luc]] at the beginning of [[Little Big Adventure 2]]. The rabbibunny is injured, because he once fell down the hall in the pub's cellar.
 
 [[Twinsen]] does not have to talk to this rabbibunny, but he can receive from him a clue about the hole in cellar, leading down to the [[Citadel Island sewers|sewers]], where Twinsen finds [[Sendell's Ball]].
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category: Rabbibunnies]]
 [[Category: Male characters]]
 [[Category: Average characters]]
 [[Category: Adult characters]]
-[[Category: Citadel Island inhabitants]]
+[[Category: Citadel Island inhabitants]] -->
