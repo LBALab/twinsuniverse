@@ -9,7 +9,7 @@ title: Red Grobo Clone
  |size=
  |lba1=yes
  |lba2=
- |alignment=
+ |alignment=funfrock
  |occupation=
  |requires=Red
  |melee=yes
