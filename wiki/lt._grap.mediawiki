@@ -2,20 +2,33 @@
 title: Lt. Grap
 ---
 
-{{Character|
-Name=Grap|
-Image=Rebelbun.gif|
-Race=[[Rabbibunny]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Rebelbun.gif
+ |race=Rabbibunny
+ |gender=Male
+ |size=average
+ |age=Adult
+ |magical=
+ |lba1=yes
+ |lba2=
+ |alignment=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 '''Grap''' is a [[rabbibunny]] serving as the lieutenant of the [[rebels]] on [[Rebellion Island]]. Grap's [[buggy]] serves the rebels as a transportation method between the island's [[Rebellion Island harbour|harbour]] and the [[rebel camp]].
 
 [[Twinsen]] meets Grap in a trench in Rebellion Island, and hears from him that the island is constantly bobmed. Grap tells Twinsen that he can take his buggy to reach the rebel camp.
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Rabbibunnies]]
 [[Category:Male characters]]
 [[Category:Average characters]]
 [[Category:Adult characters]]
-[[Category:Rebellion Island inhabitants]]
+[[Category:Rebellion Island inhabitants]] -->
