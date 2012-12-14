@@ -2,20 +2,32 @@
 title: Baggage Claim Rabbibunny
 ---
 
-{{Character|
-Name=Baggage Claim Rabbibunny|
-Image=Baggageclaimrabbibunny.JPG|
-Race=[[Rabbibunny]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Baggageclaimrabbibunny.JPG
+ |race=Rabbibunny
+ |gender=Male
+ |size=average
+ |age=Adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 The '''baggage claim rabbibunny''' is a nameless [[rabbibunny]] employed at the [[Baggage Claim]] on [[Citadel Island]].
 
 Twinsen meets the rabbibunny when he comes to the baggage claim building to retrieve his [[proto-pack]]. If Twinsen chooses to push the crate himself, he reaches the rabbibunny, who tells him grumpily to go away. Hitting the rabbibunny results in him running away to a conveyor belt that pushes him until he disappears in a hole in the wall.
 
-
+<!-- remove these category links when they're all automated by categorizers...
 [[Category: Citadel Island inhabitants]]
 [[Category:Rabbibunnies]]
 [[Category:Male characters]][[Category:Adult characters]]
-[[Category:Citadel Island inhabitants]]
+[[Category:Citadel Island inhabitants]] -->
