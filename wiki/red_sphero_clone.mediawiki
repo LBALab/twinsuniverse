@@ -2,7 +2,7 @@
 title: Red Sphero Clone
 ---
 
-{{Infobox Enemy
+{{twinsunica import}}{{Infobox Enemy
  |image=Redsphero.gif
  |race=sphero
  |gender=
