@@ -2,13 +2,25 @@
 title: Bersimon
 ---
 
-{{Character|
-Name=Bersimon|
-Image=MAGE.jpg|
-Race=[[Rabbibunny]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Bersimon.jpg
+ |race=Rabbibunny
+ |gender=Male
+ |size=average
+ |age=Adult
+ |magical=yes
+ |lba1=
+ |lba2=yes
+ |alignment=sendell
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 '''Bersimon''', often referred to as '''The Weather Wizard''' is a weather wizard who lives in a [[Weather Wizard tent|tent]] on the [[cliffs]] of [[Citadel Island]]. He is a fully qualified wizard, who graduated from the [[School of Magic]].
 
@@ -24,10 +36,11 @@ Bersimon also once hid [[Sendell's Ball]] in a cage of ice in the [[Citadel Isla
 * {{thread|id=3078|title=The Weather Wizard~}}
 * {{thread|id=155|title=Twinsun - a happy jolly place? I THINK NOT}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Rabbibunnies]]
 [[Category:Male characters]]
 [[Category:Average characters]]
 [[Category:Adult characters]]
 [[Category:Citadel Island inhabitants]]
 [[Category:Good]]
-[[Category:Key characters]]
+[[Category:Key characters]] -->
