@@ -9,7 +9,7 @@ title: Supergro
  |size=large
  |lba1=yes
  |lba2=
- |alignment=
+ |alignment=funfrock
  |occupation=
  |requires=Fire
  |melee=
