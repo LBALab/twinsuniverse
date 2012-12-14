@@ -2,22 +2,34 @@
 title: Yellow Sphero Clone
 ---
 
-{{Enemy|
-Name=Yellow Sphero Clone|
-Image=Yellow_sphero_clone.JPG‎|
-Level=Yellow|
-Reaction=Spins round on spot|
-Recovery=Medium|
-Rate=Fast|
-Damage=Medium|
-Range=Wide|
-Speed=Slow}}
+{{twinsunica import}}{{Infobox Enemy
+ |image=Yellow_sphero_clone.JPG‎
+ |race=sphero
+ |gender=male
+ |size=small
+ |lba1=yes
+ |lba2=
+ |alignment=funfrock
+ |occupation=
+ |requires=Yellow
+ |melee=
+ |ranged=
+ |magic=
+ |explosive=
+ |range=Wide
+ |speed=Slow
+ |damage=Medium
+ |rate=high
+ |reaction=Spins round on spot
+ |recovery=Medium
+}}
 
 Weakest level of Sphero clone, still quite strong though. Less common than grobo-clones or rabbibunny-clones but the most common type of sphero-clone.
 Found in LBA1
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category: Clones]]
 [[Category: Yellow enemies]]
 [[Category: Small characters]]
 [[Category: FunFrock's army]]
-[[Category: Spheroes]]
+[[Category: Spheroes]] -->
