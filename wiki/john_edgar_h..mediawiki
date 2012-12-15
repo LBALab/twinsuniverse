@@ -2,13 +2,27 @@
 title: John Edgar H.
 ---
 
-{{Character|
-Name=John Edgar H.|
-Image=SBI.jpg|
-Race=[[Sup]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Enemy
+ |image=John Edgar H..jpg
+ |race=Sup
+ |gender=Male
+ |size=average
+ |lba1=
+ |lba2=yes
+ |alignment=emperor
+ |occupation=SBI
+ |requires=yellow
+ |melee=
+ |ranged=yes
+ |magic=
+ |explosive=
+ |range=
+ |speed=
+ |damage=
+ |rate=
+ |reaction=
+ |recovery=
+}}
 
 '''John Edgar H.''' is an agent working for the Sup Bureau of Investigation of [[Zeelich]]. He was a spy on [[Twinsun]] during the [[Esmer]] invasion of the planet, often hiding in trash bins and fake cacti.
 
@@ -20,9 +34,10 @@ Twinsen eventually sneaks into an [[esmer shuttle]], and notices John receiving 
 ===General===
 {{thread|id=7614|title=John Edgar H. ?}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Sups]]
 [[Category:Male characters]]
 [[Category:Average characters]]
 [[Category:Adult characters]]
 [[Category:Imperial Legion]]
-[[Category:Gun wielders]]
+[[Category:Gun wielders]] -->
