@@ -2,13 +2,25 @@
 title: Mies van der Rooh's Father
 ---
 
-{{Character|
-Name=Mies van der Rooh's Father|
-Image=Mies_Van_Der_Rooh's_Father.JPG|
-Race=[[Rabbibunny]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Mies van der Rooh's Father.png
+ |race=rabbibunny
+ |gender=male
+ |size=average
+ |age=adult
+ |magical=no
+ |lba1=yes
+ |lba2=yup
+ |alignment=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 '''Mies van der Rooh's father''' is a [[rabbibunny]] whose name is unknown. He is the father of [[Mies van der Rooh]]. In [[Little Big Adventure 1]], they both live in [[Van der Rooh's residence|house]] in [[Bug Street]] on [[Citadel Island]], next to [[Twinsen's house]]. After the death of Mies van der Rooh before [[Little Big Adventure 2]], his father kept living in the house on his own.
 
@@ -16,8 +28,9 @@ In LBA 1, Mies van der Rooh's father has no vital role. He tells Twinsen in the 
 
 In LBA 2, Twinsen finds Mies van der Rooh's father working on some works of his defunct son, among which is a map of the [[Citadel Island sewers]]. He tells Twinsen that in order to restore the map, he needs a flask of [[gallic acid]], which ran out of stock in Citadel Island. After Twinsen brings him such acid, his neighbour can restore the map, and finds out that it mentions a [[pyramid-shaped key]], which he gives to Twinsen. Twinsen uses this key later for opening the room in which [[Sendell's Ball]] is concealed.
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Rabbibunnies]]
 [[Category:Average characters]]
 [[Category:Male characters]]
 [[Category:Adult characters]]
-[[Category:Citadel Island inhabitants]]
+[[Category:Citadel Island inhabitants]] -->
