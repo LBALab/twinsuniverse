@@ -2,17 +2,28 @@
 title: Wadbull
 ---
 
-{{Character|
-Name=Wadbull|
-Image=Wadbull.jpg|
-Race=[[Rabbibunny]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
-
-{{Quote|
-Quote=Welcome dear customer! I don't have any more cherry flavoured syrup, but there is a pharmacy open on Citadel Island.|
-Character=Wadbull}}
+{{twinsunica import}}{{Infobox Character
+ |image=Wadbull.jpg
+ |race=rabbibunny
+ |gender=male
+ |size=average
+ |age=adult
+ |magical=no
+ |lba1=yes
+ |lba2=
+ |alignment=neutral
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+{{Quote
+ |quote=Welcome dear customer! I don't have any more cherry flavoured syrup, but there is a pharmacy open on Citadel Island.
+ |character=Wadbull}}
 
 ==Description==
 '''Wadbull''' is the owner of the [[Old Burg Bazaar]] on [[Principal Island]]. Always referring to his customers as 'dear', He regards them highly. He always tries to be helpful to customers, when item they need is not currently in stock. In his bazaar he stocks [[Gas]] for 30 [[kashes]], [[Meca-Penguins]] for 3 kashes each, and [[life points|life]] and [[magic points]] for 10 kashes each.
@@ -21,15 +32,16 @@ Character=Wadbull}}
 Wadbull runs a bazaar from which [[Twinsen]] could buy items. He also revealed to Twinsen the location of [[LeBorgne]]'s log book.
 
 ==Quotes==
-{{Quote|
-Quote=Haha! You too are looking for his treasure? Well I sure once had a dusty book about LeBorgne, but a customer bought it this morning. It was a rabibunny. I know that he works over at the library.|
-Character=Wadbull}}
-{{Quote|
-Quote=I don't know her. But go and see Wadbull over at the bazaar. And be careful... normally it is forbidden to talk about that.|
-Character=A grobo in the tavern}}
+{{Quote
+ |quote=Haha! You too are looking for his treasure? Well I sure once had a dusty book about LeBorgne, but a customer bought it this morning. It was a rabbibunny. I know that he works over at the library.
+ |character=Wadbull}}
+{{Quote
+ |quote=I don't know her. But go and see Wadbull over at the bazaar. And be careful... normally it is forbidden to talk about that.
+ |character=A grobo in the tavern}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Rabbibunnies]]
 [[Category:Male characters]]
 [[Category:Average characters]]
 [[Category:Adult characters]]
-[[Category:Principal Island inhabitants]]
+[[Category:Principal Island inhabitants]] -->
