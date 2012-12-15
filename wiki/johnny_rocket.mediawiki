@@ -2,13 +2,25 @@
 title: Johnny Rocket
 ---
 
-{{Character|
-Name=Johnny Rocket|
-Image=SJOHNNYR.jpg|
-Race=[[Sup]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Johnny Rocket.jpg
+ |race=sup
+ |gender=male
+ |size=average
+ |age=adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=rebel
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 '''Johnny Rocket''' is a [[Sup]] living on [[Otringal]]. He is one of the [[Esmers]] that come to [[Twinsun]] from [[Zeelich]], and the first one to set foot on Twinsun. Although he helps the [[Emperor]] and [[FunFrock]] this way, he is completely against their acts and ideas, and therefore helps the [[dissidents]] rebelling against them.
 
@@ -26,9 +38,10 @@ When [[Twinsen]] searches for information about [[Island CX]] on his adventure i
 * {{post|id=226830|title=Edited Film Pictures}}
 * {{thread|id=3963|title=Johnny Rocket / Sup Fanart}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Sups]]
 [[Category:Male characters]]
 [[Category:Average characters]]
 [[Category:Adult characters]]
 [[Category:Otringal inhabitants]]
-[[Category:Rebels]]
+[[Category:Rebels]] -->
