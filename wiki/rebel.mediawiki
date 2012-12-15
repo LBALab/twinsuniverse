@@ -2,14 +2,7 @@
 title: Rebel
 ---
 
-{{Character|
-Name=Rebels|
-Image=Rebels.JPG|
-Race=[[Rabbibunny]] and [[Sphero]] |
-Gender=Male|
-Size=Medium|
-Age=Adult}}
-The '''rebels''' are inhabitants of [[Twinsun]] who oppose [[Dr. Funfrock]] with military force. They retreat to an [[Rebellion Island|island]] which is constantly bombed by Funfrock's forces. They wage an ongoing war, tearing down the teleportation pads, destroying all the [[clones]], and vanquishing the presence of FunFrock from its shores. New recruits train in the [[Rebel Camp]]. The rebels primarily seem to be [[rabbibunnies]] and [[spheroes]]
+The '''rebels''' are inhabitants of [[Twinsun]] who oppose [[Dr. FunFrock]] with military force. They retreat to an [[Rebellion Island|island]] which is constantly bombed by Funfrock's forces. They wage an ongoing war, tearing down the teleportation pads, destroying all the [[clones]], and vanquishing the presence of FunFrock from its shores. New recruits train in the [[Rebel Camp]]. The rebels primarily seem to be [[rabbibunnies]] and [[spheroes]]
 
 [[Rebellion Island]] is isolated, and the rebels allow access to their [[Rebellion Island Harbour|harbour]] only to ships bearing a [[pirate flag]].
 
@@ -21,11 +14,4 @@ Twinsen and the rebels take the landing boat from Rebellion Island, and land on 
 
 Once arriving at the fortress where Kroptman is captured, the rebels stay behind to cover Twinsen while he ventures inside to free the colonel. Once the colonel is freed he advises Twinsen to take the back entrance out of the fortress.
 
-[[category:rebels|*]] 
-[[Category:Rabbibunnies]]
-[[Category:Spheroes]]
-[[Category:Male characters]]
-[[Category:Average characters]]
-[[Category:Small characters]]
-[[Category:Adult characters]]
-[[Category:Rebellion Island inhabitants]]
+[[category:Rebels| ]]
