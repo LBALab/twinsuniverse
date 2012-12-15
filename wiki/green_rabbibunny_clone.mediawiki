@@ -2,24 +2,36 @@
 title: Green Rabbibunny Clone
 ---
 
-{{Enemy|
-Name=Green Rabbibunny Clone|
-Image=Green_rabbi_clone.JPG‎|
-Level=Green|
-Reaction=Top half of body knocks backwards|
-Recovery=2 seconds|
-Rate=|
-Damage=|
-Range=Wide|
-Speed=moderate-fast}}
+{{twinsunica import}}{{Infobox Enemy
+ |image=Green_rabbi_clone.JPG‎
+ |race=rabbibunny
+ |gender=male
+ |size=average
+ |lba1=yes
+ |lba2=
+ |alignment=funfrock
+ |occupation=
+ |requires=Green
+ |melee=
+ |ranged=
+ |magic=
+ |explosive=
+ |range=Wide
+ |speed=moderate-fast
+ |damage=
+ |rate=
+ |reaction=Top half of body knocks backwards
+ |recovery=2 seconds
+}}
 
 '''Green [[Rabbibunny]] [[Clone]]s''' hold a control box, which upon sighting an enemy, kneel down and enter buttons on the control box, which then makes them shoot multiple bullets.
 
 A common Green Rabbibunny Clone [[Twinsen]] has to encounter is the one in the [[Military Camp]] on [[Principal Island]], as he goes back and forth from [[Port Belooga]] to the [[Old Burg]].
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category: Clones]]
 [[Category: Green enemies]]
 [[Category: Gun wielders]]
 [[Category: FunFrock's army]]
 [[Category: Rabbibunnies]]
-[[Category: Average characters]]
+[[Category: Average characters]] -->
