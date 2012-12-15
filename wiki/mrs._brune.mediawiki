@@ -2,13 +2,25 @@
 title: Mrs. Brune
 ---
 
-{{Character|
-Name=Mrs Brune|
-Image=Brune.JPG|
-Race=[[Rabbibunny]]|
-Gender=Female|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Mrs. Brune.png
+ |race=rabbibunny
+ |gender=female
+ |size=average
+ |age=adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 '''Mrs. Brune''' is a [[rabbibunny]] working at the [[Ticket office (Citadel Island)|ticket office]] in the [[Citadel Island harbour]]. She has two kids: a child rabbibunny studying in the school, and an older son known in the game as the [[umbrella thief]].
 
@@ -19,9 +31,10 @@ Mrs. Brune has no vital role in the game, and she only gives [[Twinsen]] a small
 * {{thread|id=7972|title=Families}}
 * {{thread|id=3121|title=Another quotes from LBA...}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category: Rabbibunnies]]
 [[Category: Female characters]]
 [[Category: Average characters]]
 [[Category: Adult characters]]
 [[Category: Neutral]]
-[[Category: Citadel Island inhabitants]]
+[[Category: Citadel Island inhabitants]] -->
