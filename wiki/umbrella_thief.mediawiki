@@ -7,7 +7,7 @@ title: Umbrella Thief
  |race=rabbibunny
  |gender=male
  |size=average
- |age=Young adult
+ |age=Young
  |magical=no
  |lba1=
  |lba2=yes
