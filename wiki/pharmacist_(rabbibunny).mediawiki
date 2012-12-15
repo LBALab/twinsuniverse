@@ -2,13 +2,25 @@
 title: Pharmacist (Rabbibunny)
 ---
 
-{{Character|
-Name=The Pharmacist|
-Image=Pharmacist.JPG|
-Race=[[Rabbibunny]]|
-Gender=Female|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Pharmacist.JPG
+ |race=rabbibunny
+ |gender=female
+ |size=average
+ |age=adult
+ |magical=
+ |lba1=
+ |lba2=oui
+ |alignment=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 The '''pharmacist''' is a female [[rabbibunny]] running the [[pharmacy]] on [[Citadel Island]] in [[Little Big Adventure 2]]. She is the sister of [[Raph]], the [[lighthouse]] keeper.
 
@@ -28,8 +40,9 @@ After the storm, in case Twinsen hasn't talked with [[Leone]], the pharmacist te
 * {{thread|id=1413|title=Unsolved mysteries}}
 
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category: Rabbibunnies]]
 [[Category: Female characters]]
 [[Category: Average characters]]
 [[Category: Adult characters]]
-[[Category: Citadel Island inhabitants]]
+[[Category: Citadel Island inhabitants]] -->
