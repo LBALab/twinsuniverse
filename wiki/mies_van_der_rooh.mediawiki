@@ -2,13 +2,25 @@
 title: Mies van der Rooh
 ---
 
-{{Character|
-Name=Mies van der Rooh|
-Image=Mies_Van_Der_Rooh.JPG|
-Race=[[Rabbibunny]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Mies_Van_Der_Rooh.JPG
+ |race=rabbibunny
+ |gender=Male
+ |size=average
+ |age=adult
+ |magical=no
+ |lba1=yes
+ |lba2=
+ |alignment=neutral
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 '''Mies van der Rooh''' is [[Twinsen]]'s neighbour during [[FunFrock]]'s reign. He lives with his [[Mies van der Rooh's father|father]] in a [[Van der Rooh's residence|house]] in [[Bug Street]]. Mies is an architect, and works on maintaining some of FunFrock's buildings, including the [[Teleportation Center]]. He is very loyal to FunFrock, and can't see the tyranny that FunFrock causes, because he is one of the citizens who are better off during FunFrock's reign.
 
@@ -27,8 +39,9 @@ Some time between the events of the two games, Mies van der Rooh died under unkn
 ===Hints\Spoilers===
 * {{thread|id=7260|title=Bit of Help, please??}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Rabbibunnies]]
 [[Category:Average characters]]
 [[Category:Male characters]]
 [[Category:Adult characters]]
-[[Category:Citadel Island inhabitants]]
+[[Category:Citadel Island inhabitants]] -->
