@@ -7,7 +7,7 @@ title: Mies van der Rooh
  |race=rabbibunny
  |gender=Male
  |size=average
- |age=adult
+ |age=young
  |magical=no
  |lba1=yes
  |lba2=
