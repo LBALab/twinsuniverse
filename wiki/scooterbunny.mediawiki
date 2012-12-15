@@ -2,17 +2,29 @@
 title: Scooterbunny
 ---
 
-{{Character|
-Name=Scooterbunny|
-Image=Scooterbunny.JPG|
-Race=[[Rabbibunny]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
-
-"That alien jalopy's easy on the eyes, but it looks difficult to park!
-So for 8 kashes, where do I drop you?"
--Scooterbunny
+{{twinsunica import}}{{Infobox Character
+ |image=Scooter.png
+ |race=rabbibunny
+ |gender=male
+ |size=average
+ |age=adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+{{Quote
+ |quote=That alien jalopy's easy on the eyes, but it looks difficult to park!
+So for 8 kashes, where do I drop you?
+ |character=Scooterbunny}}
 
 ==Description==
 
@@ -23,20 +35,20 @@ In LBA2 the scooterbunny can take you for a ride to the furthest points of Citid
 When it is raining on Citidel Island he provides you with a hint that you can jump while you're running to go further.
 
 ==Additional Quotes==
+{{Quote
+ |quote=Hold on!
+ |character=Scooterbunny}}
+{{Quote
+ |quote=I don't talk to nutcases Mr Twinsen!
+ |character=Scooterbunny}}
+{{Quote
+ |quote=I don't take anyone in the storm, I hate this weather. And why doesn't the Weather Wizard intervene, heh?
+By the way, did you notice that you could jump while you are running?
+ |character=Scooterbunny}}
 
-"Hold on!"
--Scooterbunny
-
-"I don't talk to nutcases Mr Twinsen!"
--Scooterbunny
-
-"I don't take anyone in the storm, I hate this weather. And why doesn't the Weather Wizard intervene, heh?
-By the way, did you notice that you could jump while you are running?"
--Scooterbunny
-
-
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Rabbibunnies]]
 [[Category:Average characters]]
 [[Category:Male characters]]
 [[Category:Adult characters]]
-[[Category:Citadel Island inhabitants]]
+[[Category:Citadel Island inhabitants]] -->
