@@ -2,7 +2,7 @@
 title: Alfred the Miner
 ---
 
-{{twinsunica import}}{{mbox|class=move|It is suggested to rename this article to '''Alfred the Miner'''.}}{{Infobox Character
+{{twinsunica import}}{{Infobox Character
  |image=Alfred the Miner.jpg
  |race=wannie
  |gender=male
