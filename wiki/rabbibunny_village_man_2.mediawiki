@@ -2,17 +2,29 @@
 title: Rabbibunny Village Man 2
 ---
 
-{{Character|
-Name=2nd Additional Rabbibunny Village man|
-Image=Rabbibunny_villager_2.JPG‎|
-Race=[[Rabbibunny]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Rabbibunny_villager_2.JPG
+ |race=rabbibunny
+ |gender=male
+ |size=average
+ |age=adult
+ |magical=
+ |lba1=
+ |lba2=
+ |alignment=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
-{{Quote|
-Quote=Did you know that there is a Clear Water lake very near here. It is located close to the Door of the Sacred Carrot and it has a close connection with a prophecy.|	
-Character=The [[Rabbibunny Village man 2]]}}
+{{Quote
+ |quote=Did you know that there is a Clear Water lake very near here. It is located close to the Door of the Sacred Carrot and it has a close connection with a prophecy.
+ |character=Rabbibunny Village man 2}}
 
 ==Description==
 
@@ -23,16 +35,17 @@ When [[Twinsen]] first reaches the village, he finds this rabbibunny standing at
 After Twinsen destroys the Mutant Factory this villager can be seen walking up and down the carrot garden in the village. He gives Twinsen a clue of the location of the [[Clear Water Lake]] by saying it is very near the village.
 
 ==Additional Quotes==
-{{Quote|
-Quote=Help!|	
-Character=The [[Rabbibunny Village man 2]]}}
+{{Quote
+ |quote=Help!
+ |character=Rabbibunny Village man 2}}
 	
-{{Quote|
-Quote=Phew, thanks!|
-Character=The [[Rabbibunny Village man 2]]}}
+{{Quote
+ |quote=Phew, thanks!
+ |character=Rabbibunny Village man 2}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Rabbibunnies]]
 [[Category:Average characters]]
 [[Category:Male characters]]
 [[Category:Adult characters]]
-[[Category:Hamalayi Mountains inhabitants]]
+[[Category:Hamalayi Mountains inhabitants]] -->
