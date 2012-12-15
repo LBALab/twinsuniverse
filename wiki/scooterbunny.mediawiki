@@ -7,7 +7,7 @@ title: Scooterbunny
  |race=rabbibunny
  |gender=male
  |size=average
- |age=adult
+ |age=young
  |magical=no
  |lba1=
  |lba2=yes
