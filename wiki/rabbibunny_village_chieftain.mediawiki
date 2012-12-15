@@ -2,17 +2,28 @@
 title: Rabbibunny Village Chieftain
 ---
 
-{{Character|
-Name=Rabbibunny Village Chieftain|
-Image=Chieftain.JPG|
-Race=[[Rabbibunny]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
-
-{{Quote|
-Quote=Noble stranger, we will open the Door of the Sacred Carrot for you if you sabotage the mutant factory, from where the monsters that infest this hemisphere emerge. This door leads to the shore, and from there you can access all of this part of the planet..|
-Character=The [[Rabbibunny Village Chieftain]]}}
+{{twinsunica import}}{{Infobox Character
+ |image=Chieftain.JPG
+ |race=rabbibunny
+ |gender=male
+ |size=average
+ |age=Adult
+ |magical=
+ |lba1=aye
+ |lba2=
+ |alignment=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+{{Quote
+ |quote=Noble stranger, we will open the Door of the Sacred Carrot for you if you sabotage the mutant factory, from where the monsters that infest this hemisphere emerge. This door leads to the shore, and from there you can access all of this part of the planet..
+ |character=Rabbibunny Village Chieftain}}
 
 ==Description==
 
@@ -23,32 +34,28 @@ When [[Twinsen]] first enters the [[Rabbibunny Village]], he can see only one or
 As the Rabbibunny Village is infested by mutants from the [[mutants factory]], Twinsen goes there on their request to destroy it. After doing so, the chieftain opens the Door of the [[Sacred Carrot]] for him, which enables him access to the [[Northern Hemisphere]] of [[Twinsun]].
 
 ==Additional Quotes==
-{{Quote|
-Quote=Hey, you, don't touch our kitchen!|	
-Character=The [[Rabbibunny Village Chieftain]]}}
+{{Quote
+ |quote=Hey, you, don't touch our kitchen!
+ |character=Rabbibunny Village Chieftain}}
+{{Quote
+ |quote=Hey, you! Don't touch our k... oh, it's you! Good work, you have disabled the mutant factory! No more new monsters are being produced. By the way, what is your name, brave stranger?
+ |character=Rabbibunny Village Chieftain}}
+{{Quote
+ |quote=New monsters are still coming to the village: the factory has not been completely disabled!
+ |character=Rabbibunny Village Chieftain}}
+{{Quote
+ |quote=And now, brave stranger Twinsen, follow me to the Door of the Sacred Carrot.
+ |character=Rabbibunny Village Chieftain}}
+{{Quote
+ |quote=Carrot, open up!
+ |character=Rabbibunny Village Chieftain}}
+{{Quote
+ |quote=Thank you for saving this village, brave stranger Twinsen.
+ |character=Rabbibunny Village Chieftain}}
 
-{{Quote|	
-Quote=Hey, you! Don't touch our k... oh, it's you! Good work, you have disabled the mutant factory! No more new monsters are being produced. By the way, what is your name, brave stranger?|	
-Character=The [[Rabbibunny Village Chieftain]]}}
-
-{{Quote|		
-Quote=New monsters are still coming to the village: the factory has not been completely disabled!|		
-Character=The [[Rabbibunny Village Chieftain]]}}		
-
-{{Quote|		
-Quote=And now, brave stranger Twinsen, follow me to the Door of the Sacred Carrot.|		
-Character=The [[Rabbibunny Village Chieftain]]}}		
-
-{{Quote|	
-Quote=Carrot, open up!|		
-Character=The [[Rabbibunny Village Chieftain]]}}	
-	
-{{Quote|	
-Quote=Thank you for saving this village, brave stranger Twinsen.|		
-Character=The [[Rabbibunny Village Chieftain]]}}
-
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Rabbibunnies]]
 [[Category:Average characters]]
 [[Category:Male characters]]
 [[Category:Adult characters]]
-[[Category:Hamalayi Mountains inhabitants]]
+[[Category:Hamalayi Mountains inhabitants]] -->
