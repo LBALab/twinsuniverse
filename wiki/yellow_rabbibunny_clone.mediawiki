@@ -2,24 +2,36 @@
 title: Yellow Rabbibunny Clone
 ---
 
-{{Enemy|
-Name=Yellow Rabbibunny Clone|
-Image=Lba ingame yellow rabbibunnyclone.jpg|
-Level=Yellow|
-Reaction=Falls backwards|
-Recovery=5 seconds|
-Rate=1 second|
-Damage=4%|
-Range=32 paces|
-Speed=10.8kph maximum}}
+{{twinsunica import}}{{Infobox Enemy
+ |image=
+ |race=rabbibunny
+ |gender=male
+ |size=average
+ |lba1=yes
+ |lba2=
+ |alignment=funfrock
+ |occupation=
+ |requires=Yellow
+ |melee=
+ |ranged=
+ |magic=
+ |explosive=
+ |range=32 paces
+ |speed=10.8kph maximum
+ |damage=4%
+ |rate=1 second
+ |reaction=Falls backwards
+ |recovery=5 seconds
+}}
 
 '''Yellow Rabbibunny Clones''' are weak clones created by [[Dr. FunFrock]]. They are in use for basic guarding and overseeing activities, but are not capable of fighting a stronger enemy, as they collapse when hit. They can be met patrolling in [[Lupin-Burg]] or the [[Old Burg]], or at the [[Principal Island harbour]]. There is also one at [[FunFrock's Headquarters]], more guarding the nearby street than the fortress.
 
 In order to get the trust of the [[Old Burg]] inhabitants, [[Twinsen]] has to clobber a clone. The only clones in the Old Burg he is capable of fighting against at that time were the patrolling yellow rabbibunny clones. Once he defeats one of them, he is helped by the inhabitants, and eventually reaches [[Bob Vortix's house]].
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category: Clones]]
 [[Category: Yellow enemies]]
 [[Category: Gun wielders]]
 [[Category: FunFrock's army]]
 [[Category: Rabbibunnies]]
-[[Category: Average characters]]
+[[Category: Average characters]] -->
