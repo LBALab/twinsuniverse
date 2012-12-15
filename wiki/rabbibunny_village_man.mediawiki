@@ -2,17 +2,29 @@
 title: Rabbibunny Village Man
 ---
 
-{{Character|
-Name=Additional Rabbibuny Village man|
-Image=Rabbibunny_villager_1.JPG‎|
-Race=[[Rabbibunny]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Rabbibunny_villager_1.JPG
+ |race=rabbibunny
+ |gender=male
+ |size=average
+ |age=adult
+ |magical=
+ |lba1=
+ |lba2=
+ |alignment=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
-{{Quote|
-Quote=Thanks for your help. And, whatever you do, destroy the eggs if you are going in the factory! If you don't, new monsters will be produced and will come and attack the village.|	
-Character=[[Rabbibunny Village man]]}}
+{{Quote
+ |quote=Thanks for your help. And, whatever you do, destroy the eggs if you are going in the factory! If you don't, new monsters will be produced and will come and attack the village.
+ |character=Rabbibunny Village man}}
 
 ==Description==
 
@@ -23,12 +35,13 @@ Every time Twinsen saves the villager from the mutant, he is rewarded with a [[c
 This particular [[rabbibunny]] seems to have a Scottish accent.
 
 ==Additional Quotes==
-{{Quote|	 
-Quote=Good day.|	 
-Character=[[Rabbibunny Village man]]}}
+{{Quote
+ |quote=Good day.
+ |character=Rabbibunny Village man}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Rabbibunnies]]
 [[Category:Average characters]]
 [[Category:Male characters]]
 [[Category:Adult characters]]
-[[Category:Hamalayi Mountains inhabitants]]
+[[Category:Hamalayi Mountains inhabitants]] -->
