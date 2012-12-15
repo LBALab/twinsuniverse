@@ -2,42 +2,54 @@
 title: The Ferryman
 ---
 
-{{Character|
-Name=The Ferryman|
-Image=PASS.jpg|
-Race=[[Wannie]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
-
-{{Quote|
-Quote=Whoever wants to cross the ocean of fire must pay the price. Four gems is the fare. Where do you want to go?|
-Character=The Ferryman}}
+{{twinsunica import}}{{Infobox Character
+ |image=Ferryman.jpg
+ |race=wannie
+ |gender=male
+ |size=average
+ |age=adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=Ferryman
+ |requires=Gem
+ |amount=4
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+{{Quote
+ |quote=Whoever wants to cross the ocean of fire must pay the price. Four gems is the fare. Where do you want to go?
+ |character=The Ferryman}}
 
 ==Description==
 Down under [[Zeelich]]'s gas layer is the [[undergas]], a zone full of lava. The islands of the undergas are isolated from each other, and very few people know how to get from one island to another. The most common myth among the dwellers of the undergas is about a ferryman, who takes people from one island to another for a charge.
-However, very few people know that the ferryman actually exists, and even less people know how to call him. One of the few people who know about the ferryman is a [[Annie|wannie who works as a maid]] at [[Mr. Monk]]'s [[Dark Monk's Priest's house|house]]. She will teach whoever is interested [[The Ferryman's Song]], which is the song required to call the ferryman. The person singing this song at the wharf at [[Ferryman's Lane]] in [[Wannies Island]], the beach at [[Mosquibees Island]] or the edge of the [[Volcano Island]] will be met by the ferryman, who will then charge four [[gems]] for a trip. The ferryman will take whoever can meet the price around the undergas. The traveler can choose between Wannies Island, Mosquibees Island or the Volcano Island.
+However, very few people know that the ferryman actually exists, and even less people know how to call him. One of the few people who know about the ferryman is a [[Annie|wannie who works as a maid]] at [[Mr. Monk]]'s [[Mr. Lemoine's house|house]]. She will teach whoever is interested [[The Ferryman's Song]], which is the song required to call the ferryman. The person singing this song at the wharf at [[Ferryman's Lane]] in [[Island of the Wannies]], the beach at [[Mosquibees Island]] or the edge of the [[Island of the Volcano]] will be met by the ferryman, who will then charge four [[gem]]s for a trip. The ferryman will take whoever can meet the price around the undergas. The traveler can choose between Wannies Island, Mosquibees Island or the Volcano Island.
 However, the ferryman’s character is very obscure. Very few is known about his personality, and it is rumored that he is a rather unfriendly wannie.
 
 ==Role in Twinsen's adventure==
 During his adventure around Zeelich, [[Twinsen]] arrived at the undergas, where his main goal was to reach Mosquibees Island so that he could access [[Island CX]]. Wandering around the Wannies Island, he reached the [[Wannies Village]], where he met Mr. Monk's maid. The maid was friendly, and helped Twinsen by teaching him the Ferryman's Song. Our hero then made his way to the wharf at Ferryman's Lane, where he sang the song. In no time at all, the ferryman arrived, and asked Twinsen for his destination. Twinsen replied he must go to Island CX, and paid the ferryman the required amount of gems- four. The ferryman then took him to the Mosquibees Island, where our hero could continue his adventure. Later on, in his escape from the emperor's attack on the island, Twinsen used the ferryman's services again to get to the Volcano Island, and from there to the Wannies Island.
 
 ==Additional quotes==
-{{Quote|
-Quote=Ferryman if you please,<br>
+{{Quote
+ |quote=Ferryman if you please,<br>
 Take me across the raging seas,<br>
 For a few gems, I take your boat,<br>
-I cannot swim, I cannot float!!|
-Character=The Ferryman's Song}}
+I cannot swim, I cannot float!!
+ |character=The Ferryman's Song}}
 
 ==Related threads==
 ===Fan Art===
 * {{post|id=226830|title=Edited Film Pictures}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Wannies]]
 [[Category:Male characters]]
 [[Category:Average characters]]
 [[Category:Adult characters]]
 [[Category:Wannies Island inhabitants]]
 [[Category:Mosquibees Island inhabitants]]
-[[Category:Volcano Island inhabitants]]
+[[Category:Volcano Island inhabitants]] -->
