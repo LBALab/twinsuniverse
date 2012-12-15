@@ -2,16 +2,28 @@
 title: Umbrella Thief
 ---
 
-"Mr Twinsen! Could you tell me why you're following me?"
--Umbrella Thief
-
-{{Character|
-Name=Umbrella Theif|
-Image=Thief.JPG|
-Race=[[Rabbibunny]]|
-Gender=Male|
-Size=Medium|
-Age=Young Adult}}
+{{twinsunica import}}{{mbox|class=move|For convenience, this article may be renamed to '''Umbrella Thief''', leaving a redirect.}}{{Infobox Character
+ |image=Umbrella Thief.png
+ |race=rabbibunny
+ |gender=male
+ |size=average
+ |age=Young adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+{{Quote
+ |quote=Mr Twinsen! Could you tell me why you're following me?
+ |character=Umbrella Thief}}
 
 ==Description==
 
@@ -22,21 +34,22 @@ A rabbibunny who steals an umbrella from the pharmacy on Citidel Island in LBA2.
 To get information out of the owner of the umbrella about [[Ker'aooc]], Twinsen had to go after the thief, in discreet mode to make him give the umbrella back. Apparently it was just an 'accident.'
 
 ==Additional Quotes==
+{{Quote
+ |quote=Not again! What do you want from me now Mr Twinsen?
+ |character=Umbrella Thief}}
+{{Quote
+ |quote=But Mr Twinsen I assure you I don't have your tunic. Maybe you should look at home.
+ |character=Umbrella Thief}}
+{{Quote
+ |quote=But that's my umb...Oh!!! Excuse me I thought it was mine. Boohooo, I'm so embarrassed... I keep making mistakes...
+ |character=Umbrella Thief}}
+{{Quote
+ |quote=Help!!!
+ |character=Umbrella Thief}}
 
-"Not again! What do you want from me now Mr Twinsen?"
--Umbrella Thief
-
-"But Mr Twinsen I assure ou I don't have your tunic. Maybe you should look at home."
-- Umbrella Thief
-
-"But that's my umb...Oh!!! Excuse me I thought it was mine. Boohooo, I'm so embarrassed... I keep making mistakes..."
--Umbrella Thief
-
-"Help!!!"
--Umbrella Thief
-
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Rabbibunnies]]
 [[Category:Male characters]]
 [[Category:Average characters]]
 [[Category:Adult characters]]
-[[Category:Citadel Island inhabitants]]
+[[Category:Citadel Island inhabitants]] -->
