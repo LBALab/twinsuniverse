@@ -2,13 +2,25 @@
 title: Raph's Fiancée
 ---
 
-{{Character|
-Name=Raph's fiancé|
-Image=Ralph's fiance portrait.jpg|
-Race=[[Rabbibunny]]|
-Gender=Female|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{mbox|class=move|Spelling correction, this article is to be renamed into '''Raph's Fiancée'''}}{{Infobox Character
+ |image=Raph's Fiancée.png
+ |race=rabbibunny
+ |gender=female
+ |size=average
+ |age=adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=Raph
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 '''Raph's fiancé''' is a nameless [[rabbibunny]], who is engaged to [[Raph]], the [[lighthouse]] keeper.
 
@@ -20,8 +32,9 @@ After Twinsen frees Raph from the [[Tralu]], his fiancé thanks him for that. Sh
 === General ===
 * {{thread|id=8382|title=Weird thing in the LBA 2 recorded demo...}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category: Rabbibunnies]]
 [[Category: Female characters]]
 [[Category: Average characters]]
 [[Category: Adult characters]]
-[[Category: Citadel Island inhabitants]]
+[[Category: Citadel Island inhabitants]] -->
