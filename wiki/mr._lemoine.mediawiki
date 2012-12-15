@@ -2,17 +2,29 @@
 title: Mr. Lemoine
 ---
 
-{{Character|
-Name=Dark Monk's Priest|
-Image=Dark_monks_priest.jpg|
-Race=[[Wannie]]|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Dark_monks_priest.jpg
+ |race=wannie
+ |gender=male
+ |size=average
+ |age=adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=dark monk
+ |occupation=Priest
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 '''Mr. Lemoine''' is a [[wannie]] working as a priest in [[Dark Monk's chapel]] at the [[Village of the Wannies]]. He is very dedicated to the case of [[Dark Monk's prophecy]], and attempts to warn anyone to not interfere with their religious ceremonies.
 
-[[Twinsen]] goes to the chapel in a search for a way to reach the [[Mosquibees Island]]. After Mr. Lemoine warns him not to interfere with Dark Monk's ceremony, he tells Twinsen that he should consult his housemaid, [[Annie]], who knows how to reach the mosquibees.
+[[Twinsen]] goes to the chapel in a search for a way to reach the [[Island of the Mosquibees]]. After Mr. Lemoine warns him not to interfere with [[Dark Monk's ceremony]], he tells Twinsen that he should consult his housemaid [[Annie]], who knows how to reach the mosquibees.
 
 ==Related threads==
 ===General===
@@ -21,8 +33,9 @@ Age=Adult}}
 ===Fan Art===
 * {{thread|id=11770|title=Wannie monk}}
 
+<!-- remove these categoryu links when they're all automated by categorizers...
 [[Category:Wannies]]
 [[Category:Male characters]]
 [[Category:Average characters]]
 [[Category:Adult characters]]
-[[Category:Wannies Island inhabitants]]
+[[Category:Wannies Island inhabitants]] -->
