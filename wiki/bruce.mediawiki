@@ -24,7 +24,7 @@ title: Bruce
 
 '''Bruce''' is a [[sphero]] residing in a tent near the shore in an uninhabited area of the [[White Leaf Desert]]. Bruce gives [[Twinsen]] a small hint about treasures buried in the [[Temple of Bù]].
 
-Bruce disappears from his usual location after the invasion of the [[esmers]], and is not seen again in the game.
+Bruce disappears from his usual location after the invasion of the [[esmer]]s, and is not seen again in the game.
 
 <!-- remove these category links when they're all automated by categorizers...
 [[Category:Spheroes]]
