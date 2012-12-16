@@ -2,24 +2,26 @@
 title: Pharmacist (Quetch)
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{twinsunica import}}{{Infobox Enemy
  |image=pharmacistquetch.JPG
  |race=Quetch
  |gender=Male
  |size=average
- |age=Adult
- |magical=no
  |lba1=yes
  |lba2=
- |alignment=
+ |alignment=funfrock
  |occupation=
  |requires=
- |amount=
- |fam1=
- |fam2=
- |planet=
- |island=
- |building=
+ |melee=
+ |ranged=
+ |magic=
+ |explosive=
+ |range=
+ |speed=
+ |damage=
+ |rate=
+ |reaction=
+ |recovery=
 }}
 
 The '''pharmacist''' is a [[quetch]] running the [[Citadel Island]] [[pharmacy]] during the reign of [[FunFrock]].
