@@ -2,28 +2,30 @@
 title: Teleportation Center guard
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{twinsunica import}}{{Infobox Enemy
  |image=
  |race=Quetch
  |gender=Male
  |size=average
- |age=Adult
- |magical=no
  |lba1=yes
  |lba2=
- |alignment=
+ |alignment=funfrock
  |occupation=
  |requires=
- |amount=
- |fam1=
- |fam2=
- |planet=
- |island=
- |building=
+ |melee=
+ |ranged=
+ |magic=
+ |explosive=
+ |range=
+ |speed=
+ |damage=
+ |rate=
+ |reaction=
+ |recovery=
 }}
 {{Quote
-|quote=Let me see some identification please!
-|character=Teleportation Center guard}}
+ |quote=Let me see some identification please!
+ |character=Teleportation Center guard}}
 
 == Description ==
 The entrance of the well protected [[Teleportation Center]] was guarded by a nameless, simple [[Quetch]]. His task was to ask visitors for identification and open the Center's gates for them. He was armed with a simple pistol, but when necessary he was helped by the two shooting robots behind the gates.
@@ -31,8 +33,9 @@ The entrance of the well protected [[Teleportation Center]] was guarded by a nam
 == Role in Twinsen's Adventure ==
 The Teleportation Center guard needed to give [[Twinsen]] access to the Teleportation Center. Twinsen needed to show [[Mies van der Rooh's ID card]] in order to get entrance to the building. Though the guard did not recognize Twinsen, he would have attacked him in case Twinsen had used [[Twinsen's ID Card|his own ID card]].
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category: Quetches]]
 [[Category: Male characters]]
 [[Category: Average characters]]
 [[Category: Adult characters]]
-[[Category: Brundle Island inhabitants]]
+[[Category: Brundle Island inhabitants]] -->
