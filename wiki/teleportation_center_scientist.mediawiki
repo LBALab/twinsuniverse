@@ -2,28 +2,30 @@
 title: Teleportation Center scientist
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{twinsunica import}}{{Infobox Enemy
  |image=
  |race=Quetch
  |gender=Male
  |size=average
- |age=Adult
- |magical=no
  |lba1=yes
  |lba2=
- |alignment=
+ |alignment=funfrock
  |occupation=
  |requires=
- |amount=
- |fam1=
- |fam2=
- |planet=
- |island=
- |building=
+ |melee=
+ |ranged=
+ |magic=
+ |explosive=
+ |range=
+ |speed=
+ |damage=
+ |rate=
+ |reaction=
+ |recovery=
 }}
 {{Quote
-|quote=Get out of here without breaking anything and we’ll take it into consideration.
-|character=Teleportation Center scientist}}
+ |quote=Get out of here without breaking anything and we’ll take it into consideration.
+ |character=Teleportation Center scientist}}
 
 == Description ==
 The '''scientist''' in the main room of [[FunFrock]]'s [[Teleportation Center]] was keeping an eye on the central computer that preserved the Teleportation system all over [[Twinsun]]. Though he politely warned [[Twinsen]] first, he did not have any problems with shooting at him using the pistol that he was armed with. He was killed in the explosion that Twinsen caused by hitting the central computer.
