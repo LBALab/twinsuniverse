@@ -12,7 +12,7 @@ title: Chedil Amiradoo
  |lba1=
  |lba2=
  |alignment=sendell
- |occupation=
+ |occupation=Peddler
  |requires=
  |amount=
  |fam1=
