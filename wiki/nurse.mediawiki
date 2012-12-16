@@ -9,7 +9,7 @@ title: Nurse
  |size=average
  |lba1=yes
  |lba2=
- |alignment=
+ |alignment=funfrock
  |occupation=
  |requires=none
  |melee=yes
