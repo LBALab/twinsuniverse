@@ -2,17 +2,31 @@
 title: Money-Monkey
 ---
 
-{{Character|
-Name=Money-Monkey|
-Image=DVMONEYM.JPG|
-Race=Unknown|
-Gender=Male|
-Size=Large|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Enemy
+ |image=Money-Monkey.jpg
+ |race=creature|label=Monkey
+ |gender=male
+ |size=large
+ |lba1=
+ |lba2=yes
+ |alignment=mercenary
+ |occupation=Assassin
+ |requires=
+ |melee=yes
+ |ranged=yes
+ |magic=
+ |explosive=yes
+ |range=
+ |speed=
+ |damage=
+ |rate=
+ |reaction=
+ |recovery=
+}}
 
 '''Money-Monkey''' is an assassin of an unknown race with four arms.
 
-Money-Monkey was sent by [[FunFrock]] to kill [[Twinsen]], as revealed by him. {{qdb|1666}} Money-Monkey sent spies to follow Twinsen after he visited [[Johnny Rocket]], and thus figured out Twinsen would be coming to the [[Elevator to the Undergas]], where he waited for him. {{qdb|1667}}
+Money-Monkey was sent by [[FunFrock]] to kill [[Twinsen]], as revealed by himself. {{qdb|1666}} Money-Monkey sent spies to follow Twinsen after he visited [[Johnny Rocket]], and thus figured out Twinsen would be coming to the [[Elevator to the Undergas]], where he waited for him. {{qdb|1667}}
 
 When Twinsen has arrived to the elevator platform, he met Money-Monkey there. Entering the elevator requires a [[key]], so Twinsen has to kill the monkey first in order retrieve the key and get in. After killing Money-Monkey, Twinsen could enter the elevator, and reach the [[undergas]] of [[Zeelich]].
 
@@ -28,9 +42,10 @@ When Twinsen has arrived to the elevator platform, he met Money-Monkey there. En
 ===Fan art===
 [http://www.deviantart.com/view/14459059/ Money Monkey]
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Unknown Species]]
 [[Category:Male characters]]
 [[Category:Large characters]]
 [[Category:Adult characters]]
 [[Category:Foe]]
-[[Category:Melee fighters]]
+[[Category:Melee fighters]] -->
