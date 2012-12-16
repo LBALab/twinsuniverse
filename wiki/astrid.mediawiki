@@ -12,7 +12,7 @@ title: Astrid
  |lba1=
  |lba2=yes
  |alignment=neutral
- |occupation=Queen
+ |occupation=Queen of the Mosquibees
  |requires=
  |amount=
  |fam1=
