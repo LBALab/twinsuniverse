@@ -2,24 +2,26 @@
 title: Dr. FunFrock
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{twinsunica import}}{{Infobox Enemy
  |image=Dr. FunFrock.png
  |race=Quetch
  |gender=Male
  |size=Large
- |age=Adult
- |magical=no
  |lba1=yes
  |lba2=yes
- |alignment=neutral
+ |alignment=funfrock
  |occupation=
  |requires=
- |amount=
- |fam1=
- |fam2=
- |planet=
- |island=
- |building=
+ |melee=
+ |ranged=
+ |magic=
+ |explosive=
+ |range=
+ |speed=
+ |damage=
+ |rate=
+ |reaction=
+ |recovery=
 }}
 
 '''Dr. FunFrock''' is the main antagonist of [[Twinsen]] and his allies. He was a rather big [[Quetch]] and the dictator of [[Twinsun]], before Twinsen stopped his influence. He later disguised himself as [[Dark Monk]], the supposedly reincarnated god of [[Zeelich]]. His main goal was to get godlike powers. He beliefed to get them from the power of [[Sendell]] and the [[Stellar Entity]] inside Twinsun.
