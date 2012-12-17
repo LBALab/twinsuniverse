@@ -2,16 +2,27 @@
 title: Tank
 ---
 
-{{Enemy|
-Name=Tank|
-Image=Tank.gif|
-Level=Green|
-Reaction=Doesn't move|
-Recovery=Medium|
-Rate=Slow|
-Damage=High|
-Range=Medium|
-Speed=Fast}}
+{{twinsunica import}}{{Infobox Enemy
+ |image=Tank.gif
+ |race=artillery
+ |gender=none
+ |size=large
+ |lba1=yes
+ |lba2=
+ |alignment=funfrock
+ |occupation=
+ |requires=green
+ |melee=
+ |ranged=yes
+ |magic=
+ |explosive=
+ |range=Medium
+ |speed=Fast
+ |damage=High
+ |rate=low
+ |reaction=Doesn't move
+ |recovery=Medium
+}}
 
 '''Tanks''' are heavy battle tanks in the army of [[FunFrock]].
 
@@ -24,5 +35,3 @@ Twinsen also has to destroy a tank guarding [[FunFrock's secret fortress]], in o
 ==Related Threads==
 ===Hints\Spoilers===
 {{thread|id=6871|title=Tanks Giving!}}
-
-[[Category:FunFrock's army]]
