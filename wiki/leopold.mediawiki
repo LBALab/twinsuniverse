@@ -2,13 +2,25 @@
 title: Leopold
 ---
 
-{{Character|
-Name=Leopold|
-Image=DVLEOPOL.jpg|
-Race=Camel|
-Gender=Male|
-Size=Medium|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Leopold.jpg
+ |race=creature|label=camel
+ |gender=male
+ |size=large
+ |age=adult
+ |magical=no
+ |lba1=
+ |lba2=tes
+ |alignment=neutral
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 '''Leopold''' is a camel living on the [[Island of the White Leaf Desert]]. He is seen near the [[Hacienda]] with his [[grobo]] owner. Leopold claims to be imported. He loves sand roses which he gets from his owner.
 
@@ -18,8 +30,9 @@ Leopold has no role in the game, and talking with him is not vital.
 ===Fan Art===
 * {{post|id=112171|title=Lba3}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Male characters]]
 [[Category:Average characters]]
 [[Category:Adult characters]]
 [[Category:Desert Island inhabitants]]
-[[Category:Animals]]
+[[Category:Animals]] -->
