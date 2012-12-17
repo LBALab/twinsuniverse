@@ -2,30 +2,42 @@
 title: The Tralü
 ---
 
-{{Character|
-Name=Tralü|
-Image=DVTRALU.jpg|
-Race=Tralü|
-Gender=Unknown|
-Size=Large|
-Age=Unknown}}
+{{twinsunica import}}{{Infobox Enemy
+ |image=The Tralü.jpg
+ |race=creature|label=monster
+ |gender=male
+ |size=large
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=
+ |requires=none
+ |melee=yes
+ |ranged=yes
+ |magic=
+ |explosive=
+ |range=
+ |speed=
+ |damage=
+ |rate=
+ |reaction=
+ |recovery=
+}}
 
 ==Description==
 
-The Tralu was a monster who lived in the caves up in the cliffs of Citidel Island, and who no-one was sure actually existed, until it was killed, by Twinsen when he was freeing Raph the Lighthouse keeper.
+'''The Tralü''' was a monster who lived in the caves up in the cliffs of Citidel Island, and who no-one was sure actually existed, until it was killed, by Twinsen when he was freeing Raph the Lighthouse keeper.
 The Tralu has two mini-tralus, possibly offspring, who Twinsen encounters in the cave first.
 
 ==Role in Twinsen's adventure==
 
 When Twinsen discovers Raph captured by the Tralu, about to be turned into his dinner, Twinsen goes through several parts of the cave to reach, and kill the Tralu, and free Raph, so the Weather Wizard can use his Lighthouse for a spell.
 
-
 ==Related threads==
 ===General===
 * {{thread|id=903|title=Poor Tralu...}}
 
-{{Stub}}
-
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Large characters]]
 [[Category:Citadel Island inhabitants]]
-[[Category:Monster]]
+[[Category:Monster]] -->
