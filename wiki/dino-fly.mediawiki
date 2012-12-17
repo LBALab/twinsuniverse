@@ -2,13 +2,25 @@
 title: Dino-Fly
 ---
 
-{{Character|
-Name=Dino-Fly|
-Image=DVDINO.jpg|
-Race=Dino-Fly|
-Gender=Male|
-Size=Large|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Dino-Fly.jpg
+ |race=creature|label=dino
+ |gender=male
+ |size=large
+ |age=adult
+ |magical=no
+ |lba1=yes
+ |lba2=yes
+ |alignment=sendell
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 The '''Dino-Fly''' is a mythical creature, with uncertain origins. He is a green dinosaur-like animal, with the ability to fly. When [[Twinsen]] finds him, he is told that he has been waiting for him for a long time.
 
@@ -42,12 +54,11 @@ In [[Little Big Adventure 2]], Twinsen has taken the Dino-Fly to his home on [[C
 * {{thread|id=4362|title=Returnig to Hamalayi...}}
 * {{thread|id=12254|title=Mech Dinofly !!!}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Male characters]]
 [[Category:Large characters]]
 [[Category:Adult characters]]
 [[Category:Citadel Island inhabitants]]
 [[Category:Tippett Island inhabitants]]
 [[Category:Animals]]
-[[Category:Good]]
-
-__NOTOC__
+[[Category:Good]] -->
