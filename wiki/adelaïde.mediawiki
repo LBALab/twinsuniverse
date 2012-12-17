@@ -2,13 +2,25 @@
 title: Adelaïde
 ---
 
-{{Character|
-Name=Adelaïde|
-Image=DVADELAI.JPG|
-Race=Unknown|
-Gender=Male|
-Size=Small|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Adelaïde.jpg
+ |race=creature|label=ant
+ |gender=male
+ |size=small
+ |age=adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 Adelaïde is a tourist on [[Zeelich]] from an unknown planet. He looks a little like an ant.
 
@@ -21,9 +33,10 @@ Adelaïde just walks around for his vacation on Zeelich. He realizes very soon t
 ===Fan Art===
 * {{post|id=112171|title=Lba3}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Unknown Species]]
 [[Category:Male characters]]
 [[Category:Small characters]]
 [[Category:Adult characters]]
 [[Category:Otringal inhabitants]]
-[[Category:Neutral]]
+[[Category:Neutral]] -->
