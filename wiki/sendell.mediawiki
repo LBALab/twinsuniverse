@@ -2,18 +2,31 @@
 title: Sendell
 ---
 
-{{Character|
-Name=Sendell|
-Image=DVSENDEL.jpg|
-Race=Goddess|
-Gender=Female|
-Size=Large|
-Age=Adult}}
+{{twinsunica import}}{{Infobox Character
+ |image=Sendell.jpg
+ |race=god
+ |gender=female
+ |size=large
+ |age=adult
+ |magical=yes
+ |lba1=yes
+ |lba2=yes
+ |alignment=sendell
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 [[Image:Sendell.gif|right|145px|thumb|Sendell]]
 
 ==Description==
 See [[Legend of Sendell]].
+{{stub}}
 
 ==Related threads==
 == Description ==
@@ -41,8 +54,7 @@ Sendell is one of the god-like creatures called Sendells. As Sendell told Twinse
 * {{thread|id=3785|title=Sendell takes a turning}}
 * {{post|id=297883|title=mystery picture}}
 
-{{Stub}}
-
+<!-- remove these category links when they're all automated by categorizers...
 [[Category:Female characters]]
 [[Category:Large characters]]
-[[Category:Adult characters]]
+[[Category:Adult characters]] -->
