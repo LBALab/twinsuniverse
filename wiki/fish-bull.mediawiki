@@ -2,13 +2,34 @@
 title: Fish-Bull
 ---
 
-[[Image:DVFISHBU.JPG|right|143px|thumb|A Fish-Bull]]
+{{twinsunica import}}{{Infobox Enemy
+ |image=Fish-Bull.jpg
+ |race=creature|label=dog
+ |gender=male
+ |size=small
+ |lba1=
+ |lba2=yes
+ |alignment=emperor
+ |occupation=
+ |requires=green
+ |melee=yes
+ |ranged=
+ |magic=
+ |explosive=
+ |range=none
+ |speed=
+ |damage=
+ |rate=
+ |reaction=Backflips
+ |recovery=
+}}
+[[Image:DVFISHBU.JPG|right|143px|thumb|A Fish-Bull in action]]
 
 '''Fish-Bulls''' are dog-like creatures from [[Zeelich]]. They bite everything that moves. Fish-Bulls can be seen black or brown.
 
 These creatures are used as fighting dogs by the [[Emperor]]'s forces. There is a [[training course]] for them in the [[lower city]] of [[Otringal]]. They can also be found inside the [[Emperor's palace]], in the [[Gazogem Refinery]] and in the [[Wannies]]' [[mines]]. They are also brought to [[Twinsun]] by the [[Esmers]], where they sometimes can be seen with muzzles. However, they go freely around in the [[White Leaf Desert]], and during the [[Esmer invasion]] at several places on [[Citadel Island]] and inside the Turkish bath of the [[Hacienda del Monte-Pelado]].
 
-[[Twinsen]] has to get past these dogs several times in [[Little Big Adventure 2]], for example at the entrance of the [[Temple of Bù]] when it is taken over by the [[Esmers]]. However, the Fish-Bulls are not a big threat to him.
+[[Twinsen]] has to get past these dogs several times in [[Little Big Adventure 2]], for example at the entrance of the [[Temple of Bù]] when it is taken over by the [[Esmer]]s. However, the Fish-Bulls are not a big threat to him.
 
 When stepping into a Fish-Bull's crap in the Gaozgem Refinery, Twinsen is able to find a [[clover leaf]].
 
@@ -19,5 +40,3 @@ When stepping into a Fish-Bull's crap in the Gaozgem Refinery, Twinsen is able t
 
 ===Fan Art===
 * {{post|id=112171|title=Lba3}}
-
-[[Category:Animals]]
