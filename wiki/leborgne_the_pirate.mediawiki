@@ -2,13 +2,32 @@
 title: LeBorgne the Pirate
 ---
 
+{{twinsunica import}}{{Infobox Character
+ |image=
+ |race=
+ |gender=male
+ |size=
+ |age=
+ |magical=
+ |lba1=
+ |lba2=
+ |alignment=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 '''LeBorgne''' was a pirate who roamed the entire [[southern hemisphere]] several hundred years before the events of [[Little Big Adventure 1]], and is now a famous historical character among the [[Twinsun]]ians. It is common knowledge that LeBorgne was almost illiterate and had the captain's log written for him by his cook. It is also he who had killed [[Twinsen]]'s ancestor [[Hégésippe]]. LeBorgne's treasure, of which the location was for long unknown, is an exhibit in the [[Maritime Museum]] on [[Proxima Island]].
 
 ==Name origin==
 "LeBorgne" is not his real name, which remains unknown. The nickname LeBorgne that everyone knows him by is translated as "The One-eyed", which is explained by the following entry from the book about LeBorgne at the [[Principal Island]] [[library]].
-{{Quote|
-Quote=That was his nickname because he was always chewing an old toothpick. One day, during a typhoon, he sneezed: he found his toothpick, but lost an eye!|
-Character=[[Library Grobo]]}}
+{{Quote
+ |quote=That was his nickname because he was always chewing an old toothpick. One day, during a typhoon, he sneezed: he found his toothpick, but lost an eye!
+ |character=Library Grobo}}
 
 ==In the game==
 When Twinsen finds out that he is the current Heir, he has to retrieve the items and information left for him by his ancestors in the room underneath [[Twinsen's house|his house]] on [[Citadel Island]]. The [[Ancestral key|key]] to this room, however, had been lost a few generations before. The last family member to have possession of this key was [[Hégésippe]]. He was killed by LeBorgne, and the key was stolen and kept with his other treasures. Twinsen has to find LeBorgne's treasure to gain entry to the secret room.
@@ -20,5 +39,3 @@ After asking many people around the planet, Twinsen reaches the library in Princ
 ==Related Threads==
 * {{thread|id=7783|title=Strange quote}}
 * {{thread|id=6675|title=LBA has you}}
-
-[[Category:Dead characters]]
