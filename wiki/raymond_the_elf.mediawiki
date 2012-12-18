@@ -2,13 +2,25 @@
 title: Raymond the Elf
 ---
 
-{{Character|
-Name=Raymond the Elf|
-Image=Raymond.gif|
-Race=[[Elf]]|
-Gender=Male|
-Size=Small|
-Age=Kid}}
+{{twinsunica import}}{{Infobox Character
+ |image=Raymond.gif
+ |race=creature|label=elf
+ |gender=male
+ |size=small
+ |age=child
+ |magical=yes
+ |lba1=yes
+ |lba2=
+ |alignment=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
 
 '''Raymond the Elf''' is one of two [[elf|elves]] in [[Little Big Adventure 1]]. He looks just like [[Joe the Elf]], only his clothes are coloured blue.
 
@@ -25,8 +37,9 @@ Raymond later stands on the rocky peak nearby the station, and gives Twinsen 3 c
 === Fan Art ===
 * {{thread|id=3150|title=My first Lba image}}
 
+<!-- remove these category links when they're all automated by categorizers...
 [[Category: Elves]]
 [[Category: Male characters]]
 [[Category: Small characters]]
 [[Category: Infant characters]]
-[[Category: Hamalayi Mountains inhabitants]]
+[[Category: Hamalayi Mountains inhabitants]] -->
