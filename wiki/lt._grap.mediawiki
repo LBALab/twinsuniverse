@@ -11,7 +11,7 @@ title: Lt. Grap
  |magical=
  |lba1=yes
  |lba2=
- |alignment=
+ |alignment=rebel
  |occupation=
  |requires=
  |amount=
