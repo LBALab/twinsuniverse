@@ -23,11 +23,11 @@ title: Zoé
  |building=Twinsen's House
 }}
 {{Quote
-|quote=[[Twinsen]], rush to the downtown pharmacy and find a cure for the [[Dino-Fly]]! He has just crashed in the garden and looks injured.
-|character=Zoé{{!}}Zoé upon greeting Twinsen, the first scene to start LBA2}}
+ |quote=[[Twinsen]], rush to the downtown pharmacy and find a cure for the [[Dino-Fly]]! He has just crashed in the garden and looks injured.
+ |character=Zoé{{!}}Zoé upon greeting Twinsen, the first scene to start LBA2}}
 {{Quote
-|quote=This statue pays tribute to Zoé and me. Without her, I could have never defeated the infamous [[FunFrock]].
-|character=Twinsen}}
+ |quote=This statue pays tribute to Zoé and me. Without her, I could have never defeated the infamous [[FunFrock]].
+ |character=Twinsen}}
 
 [[Image:Zoe mike.gif|right|138px|thumb|Zoé talking to her dear [[Twinsen]] over the radio]]
 
