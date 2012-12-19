@@ -7,12 +7,12 @@ title: LeBorgne the Pirate
  |race=
  |gender=male
  |size=
- |age=
+ |age=dead
  |magical=
  |lba1=
  |lba2=
- |alignment=
- |occupation=
+ |alignment=neutral
+ |occupation=Pirate
  |requires=
  |amount=
  |fam1=
