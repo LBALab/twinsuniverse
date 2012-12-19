@@ -3,7 +3,7 @@ title: Pharmacist (Rabbibunny)
 ---
 
 {{twinsunica import}}{{Infobox Character
- |image=Pharmacist.JPG
+ |image=Pharmacist.png
  |race=rabbibunny
  |gender=female
  |size=average
