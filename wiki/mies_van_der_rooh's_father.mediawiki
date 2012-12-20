@@ -11,8 +11,8 @@ title: Mies van der Rooh's Father
  |magical=no
  |lba1=yes
  |lba2=yup
- |alignment=
- |occupation=
+ |alignment=neutral
+ |occupation=Twinsen's neighbour
  |requires=
  |amount=
  |fam1=
