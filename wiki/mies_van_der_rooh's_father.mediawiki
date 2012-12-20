@@ -15,18 +15,18 @@ title: Mies van der Rooh's Father
  |occupation=Twinsen's neighbour
  |requires=
  |amount=
- |fam1=
+ |fam1=Mies van der Rooh
  |fam2=
- |planet=
- |island=
- |building=
+ |planet=twinsun
+ |island=Citadel Island
+ |building=Neighbour's House
 }}
 
-'''Mies van der Rooh's father''' is a [[rabbibunny]] whose name is unknown. He is the father of [[Mies van der Rooh]]. In [[Little Big Adventure 1]], they both live in [[Van der Rooh's residence|house]] in [[Bug Street]] on [[Citadel Island]], next to [[Twinsen's house]]. After the death of Mies van der Rooh before [[Little Big Adventure 2]], his father kept living in the house on his own.
+'''Mies van der Rooh's father''' is a [[rabbibunny]] whose name is unknown. He is the father of [[Mies van der Rooh]]. During [[FunFrock's Reign]], they both live in [[Van der Rooh's residence|house]] in [[Bug Street]] on [[Citadel Island]], next to [[Twinsen's house]]. After the death of Mies van der Rooh before [[Twinsen's Odyssey]], his father kept living in the house on his own.
 
-In LBA 1, Mies van der Rooh's father has no vital role. He tells Twinsen in the beginning of the game that he and his son are planning to repair his house soon, including putting a fence around the chimney. As Twinsen just escapes from his house through the chimney, he tells the rabbibunny that he is not interested any more.
+During FunFrock's Reign, Mies van der Rooh's father has no vital role. He tells Twinsen in the beginning of the game that he and his son are planning to repair his house soon, including putting a fence around the chimney. As Twinsen just escapes from his house through the chimney, he tells the rabbibunny that he is not interested any more.
 
-In LBA 2, Twinsen finds Mies van der Rooh's father working on some works of his defunct son, among which is a map of the [[Citadel Island sewers]]. He tells Twinsen that in order to restore the map, he needs a flask of [[gallic acid]], which ran out of stock in Citadel Island. After Twinsen brings him such acid, his neighbour can restore the map, and finds out that it mentions a [[pyramid-shaped key]], which he gives to Twinsen. Twinsen uses this key later for opening the room in which [[Sendell's Ball]] is concealed.
+During Twinsen's Odyssey, Twinsen finds Mies van der Rooh's father working on some works of his defunct son, among which is a map of the [[Citadel Island sewers]]. He tells Twinsen that in order to restore the map, he needs a flask of [[gallic acid]], which ran out of stock in Citadel Island. After Twinsen brings him such acid, his neighbour can restore the map, and finds out that it mentions a [[pyramid-shaped key]], which he gives to Twinsen. Twinsen uses this key later for opening the room in which [[Sendell's Ball]] is concealed.
 
 <!-- remove these category links when they're all automated by categorizers...
 [[Category:Rabbibunnies]]
