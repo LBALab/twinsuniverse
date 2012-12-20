@@ -2,7 +2,7 @@
 title: Clone
 ---
 
-'''Clones''' are robots created by [[Dr. FunFrock]], that are designed to look like a representative of one of the [[Twinsun]]ian [[:Category: Twinsunian Species|races]]. They are created in the Cloning Center, which is located in the inside of [[FunFrock's Secret Fortress]]. The clones are then sent to the [[Teleportation Center]] on [[Brundle Island]], where they can be teleported to one of the many [[telepod]]s around the planet.
+{{twinsunica import}}'''Clones''' are robots created by [[Dr. FunFrock]], that are designed to look like a representative of one of the [[Twinsun]]ian [[:Category: Twinsunian Species|races]]. They are created in the Cloning Center, which is located in the inside of [[FunFrock's Secret Fortress]]. The clones are then sent to the [[Teleportation Center]] on [[Brundle Island]], where they can be teleported to one of the many [[telepod]]s around the planet.
 
 Red clones have an unexplainable hatred against [[Meca-Penguin]]s. In Little Big Adventure 2, all clones hated [[Nitro-Meca-Penguin]]s.
 
