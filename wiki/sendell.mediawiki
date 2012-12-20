@@ -25,13 +25,10 @@ title: Sendell
 [[Image:Sendell.gif|right|145px|thumb|Sendell]]
 
 ==Description==
-See [[Legend of Sendell]].
+See [[Legend of Sendell]]. Sendell is one of the god-like creatures called Sendells. As Sendell told Twinsen at the end of his first adventure, they were there to watch over a Stellar Entity.
 {{stub}}
 
 ==Related threads==
-== Description ==
-Sendell is one of the god-like creatures called Sendells. As Sendell told Twinsen at the end of his first adventure, they were there to watch over a Stellar Entity.
-
 ===General===
 * {{thread|id=9558|title=Sendellism}}
 * {{thread|id=7653|title=Is Sendell a Girl?}}
@@ -53,8 +50,3 @@ Sendell is one of the god-like creatures called Sendells. As Sendell told Twinse
 * {{thread|id=3786|title=Sendell's new image}}
 * {{thread|id=3785|title=Sendell takes a turning}}
 * {{post|id=297883|title=mystery picture}}
-
-<!-- remove these category links when they're all automated by categorizers...
-[[Category:Female characters]]
-[[Category:Large characters]]
-[[Category:Adult characters]] -->
