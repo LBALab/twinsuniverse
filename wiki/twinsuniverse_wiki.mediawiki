@@ -5,7 +5,7 @@ title: Twinsuniverse Wiki
 {| class="lastupdate"
 |-
 | class="lastupdate-left" | [[Image:Big_twinsun_with_blurred_atmosphere-cropped.png|240px|Twinsuniverse_Wiki Wiki]]
-| class="lastupdate-right" | {{Lastupdate}}
+| class="lastupdate-right" | {{newslist|mode=latest}}
 |}
 
 {| style="width: 75%; margin: 0px auto; text-align: center;"
