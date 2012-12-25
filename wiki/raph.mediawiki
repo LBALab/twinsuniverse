@@ -15,7 +15,7 @@ title: Raph
  |occupation=Lighthouse Keeper
  |requires=
  |amount=
- |fam1=
+ |fam1=Raph's Fiancée
  |fam2=
  |planet=
  |island=
@@ -24,7 +24,7 @@ title: Raph
 
 '''Raph''' is a [[rabbibunny]] working as the [[lighthouse]] keeper in [[Citadel Island]].
 
-Raph plays a guiat in a band together with his friends, [[Pat]] and [[Fab]]. They all hang out together at [[Chez Luc]] often. Raph is the brother of the [[pharmacist (rabbibunny)|pharmacist]], and the fiancé of [[Raph's fiancé|a rabbibunny]].
+Raph plays a guiat in a band together with his friends, [[Pat]] and [[Fab]]. They all hang out together at [[Chez Luc]] often. Raph is the brother of the [[pharmacist (rabbibunny)|pharmacist]], and the fiancé of [[Raph's fiancée|a rabbibunny]].
 
 When [[Twinsen]] searches for a way to stop the [[storm]], he learns from the [[weather wizard]] that he can stop the storm from the top of the lighthouse, which he cannot enter since Raph, the lighthouse keeper, is missing. Twinsen can then go and ask everyone on the island whether they have seen him, and most people hint him that Raph likes to play his guitar on the [[cliffs]] of Citadel Island.
 
