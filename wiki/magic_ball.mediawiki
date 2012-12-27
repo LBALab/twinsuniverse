@@ -2,16 +2,26 @@
 title: Magic Ball
 ---
 
-{{Weapon|
-Name=Magic Ball|
-Image=Yellowbal.gif|
-Enemy=Yellow~All enemies,<br>
-depending on magic level|
-Rate=Slow|
-Damage=Little~A lot,<br>
-depending on magic level|
-Range=Short~Medium,<br>
-depending on [[magic points]]}}
+{{twinsunica import}}{{Infobox Item
+ |image=Yellowbal.gif
+ |type=weapon
+ |critical=yes
+ |magical=yes
+ |unique=yes
+ |lba1=yes
+ |lba2=yes
+ |upgrades=yes
+ |rowposition=1
+ |columnposition=1
+ |effect=uses magic
+ |effectamount=one
+ |purpose=
+ |combattype=enemies
+ |powerlevel=all
+ |rate=low
+ |range=varies behavior
+ |damage=varies magic
+}}
 
 The '''magic ball''' is a ball that stores a great deal of magic. This ball bounces a couple of times if it doesn't hit any enemy, and then automatically returns to its owner. The magic ball needs the [[Ancestral Tunic]] to function, since it is the primary source of magic. This weapon upgrades along with its owner's magic level.
 
@@ -68,5 +78,3 @@ Image:Firebal.gif|Fire Magic Ball
 ==External links==
 ===Fan Art===
 * [http://www.deviantart.com/deviation/45989513/ Toss the magic ball please]
-
-[[Category:Weapons]]
