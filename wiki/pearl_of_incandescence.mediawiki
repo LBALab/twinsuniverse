@@ -2,7 +2,25 @@
 title: Pearl of Incandescence
 ---
 
-[[Image:Pearl.gif|right|160px|thumb|The Pearl of Incandescence]]
+{{twinsunica import}}{{Infobox Item
+ |image=Pearl.gif
+ |type=quest
+ |critical=yes
+ |magical=no
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=4
+ |columnposition=5
+ |effect=none
+ |effectamount=
+ |combattype=none
+ |powerlevel=none
+ |rate=
+ |range=
+ |damage=
+}}
 
 '''The Pearl of Incandescence''' is a pearl found in the [[Cave of the Pearl of Incandescence]] on the [[Island of the White Leaf Desert]], inside a giant clam. These kind of pearls are highly prized by magicians, and enable to complete certain spells.
 
@@ -16,5 +34,3 @@ The [[Mentor of the School of Magic]] instructs Twinsen to get the Pearl of Inca
 
 ===Hints\Spoilers===
 * {{thread|id=7399|title=How can I get the parl of incandescence before I get to Zeelich?}}
-
-[[Category:Magical items]]
