@@ -18,9 +18,9 @@ title: Ring of Lightning
  |purpose=Free [[Sendell's Ball]]
  |combattype=special
  |powerlevel=all
- |rate=
- |range=
- |damage=
+ |rate=low
+ |range=varies magic
+ |damage=high
 }}
 
 The '''Ring of Lightning''' is a magical ring which possesses the ability to kill all enemies visible in sight. The magic level of this ring upgrades together with its owner's magic level. Accordingly, enemies stronger than the magic level at the time of using the ring do not die from this spell.
