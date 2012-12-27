@@ -11,8 +11,8 @@ title: Ring of Lightning
  |lba1=
  |lba2=yes
  |upgrades=yes
- |rowposition=
- |columnposition=
+ |rowposition=2
+ |columnposition=3
  |effect=uses magic
  |effectamount=all
  |combattype=special
