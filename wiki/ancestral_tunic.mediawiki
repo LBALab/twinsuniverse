@@ -18,9 +18,9 @@ title: Ancestral Tunic
  |purpose=enhance the [[Magic Ball]]
  |combattype=none
  |powerlevel=yellow
- |rate=
- |range=
- |damage=
+ |rate=none
+ |range=none
+ |damage=none
 }}
 
 The '''Ancestral Tunic''', as described in the [[Book of Bu]], was one of the four items required by the Heir to be collected for him to ensure victory against the designated tyrant. This magical tunic was kept for centuries upon centuries in a secret closet at the house of the Heir's acnestors, and kept it safe for the time when the Chosen One will be needing it.
