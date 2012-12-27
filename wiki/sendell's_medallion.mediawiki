@@ -15,6 +15,7 @@ title: Sendell's Medallion
  |columnposition=
  |effect=
  |effectamount=
+ |purpose=
  |combattype=
  |powerlevel=
  |rate=
