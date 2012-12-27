@@ -2,13 +2,26 @@
 title: Nitro-Meca-Penguin
 ---
 
-{{Weapon|
-Name=Nitro-Meca-Penguin|
-Image=Meca.gif|
-Enemy=All enemies|
-Rate=Slow|
-Damage=Medium|
-Range=Short}}
+{{twinsunica import}}{{Infobox Item
+ |image=Meca.gif
+ |type=weapon
+ |critical=no
+ |magical=no
+ |unique=no
+ |lba1=
+ |lba2=yes
+ |upgrades=yes
+ |rowposition=3
+ |columnposition=5
+ |effect=unique
+ |effectamount=
+ |purpose=
+ |combattype=area
+ |powerlevel=all
+ |rate=low
+ |range=short
+ |damage=medium
+}}
 
 '''Nitro-Meca-Penguin''' is a weapon available in [[Little Big Adventure 2]]. Those penguins are similar to the [[Meca-Penguins]] used in [[Little Big Adventure 1]], although slightly different. Once such a penguin is launched, it moves a few inches forward, and explodes 5 seconds after, creating some damage around its explosion point.
 
@@ -32,5 +45,3 @@ Nitro-Meca-Penguins can be found in some shops, as well as in hidden places arou
 ===Fan Art===
 * {{thread|id=11287|title=Twinsen}}
 * {{post|id=112171|title=Lba3}}
-
-[[Category:Weapons]]
