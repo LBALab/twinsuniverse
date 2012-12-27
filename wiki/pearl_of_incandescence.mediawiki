@@ -18,9 +18,9 @@ title: Pearl of Incandescence
  |purpose=Finish the Lightning Spell
  |combattype=none
  |powerlevel=none
- |rate=
- |range=
- |damage=
+ |rate=none
+ |range=none
+ |damage=none
 }}
 
 '''The Pearl of Incandescence''' is a pearl found in the [[Cave of the Pearl of Incandescence]] on the [[Island of the White Leaf Desert]], inside a giant clam. These kind of pearls are highly prized by magicians, and enable to complete certain spells.
