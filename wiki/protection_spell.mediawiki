@@ -15,6 +15,7 @@ title: Protection Spell
  |columnposition=4
  |effect=uses magic
  |effectamount=one
+ |purpose=Temporary Invulnerability
  |combattype=special
  |powerlevel=all
  |rate=
