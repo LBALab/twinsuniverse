@@ -2,6 +2,25 @@
 title: Flask of Clear Water
 ---
 
+{{twinsunica import}}{{Infobox Item
+ |image=
+ |type=
+ |critical=yes
+ |magical=yes
+ |unique=yes
+ |lba1=yes
+ |lba2=
+ |upgrades=no
+ |rowposition=
+ |columnposition=
+ |effect=
+ |effectamount=
+ |combattype=
+ |powerlevel=
+ |rate=
+ |range=
+ |damage=
+}}
 [[Image:11_runestone_clear_warer.gif|right|200px|thumb|Twinsen pouring out the vial of Clear Water]]
 
 The '''Vial of Clear Water''' is one of the four magical items that have to be collected by the Chosen One, if he "hopes to be victorious", according to the [[Book of Bù]]. While the vial itself is of less importance, the water required to posses is of a special kind: water from the [[Clear Water Lake]], which is located at the [[Hamalayi Mountains]]. However, gathering water from this lake during the reign of [[Dr. FunFrock]] is not an easy task. Not only is the access to the lake blocked by soldiers and [[clones]], but also it is frozen throughout the entire year. The Heir, when his time arrives, would need to find ways to overcome the clones, as well as to melt the water.
@@ -15,6 +34,4 @@ The water doesn't have any use until afterwards. When coming to destroy the [[Te
 
 It is alo possible, although not a compulsory part of the game, to pour some water into the water tank at the [[Water Tower]] of [[Principal Island]]. In reward for doing so, the [[librarian]] gives Twinsen three [[clover leaves]].
 
-In [[Liitle Big Adventure 2]], the now-empty vial is a display in [[Miss Bloop's private museum]].
-
-[[Category:Magical items]]
+During [[Twinsen's Odyssey]], the now-empty vial is at display in [[Miss Bloop's private museum]].
