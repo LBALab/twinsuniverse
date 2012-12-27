@@ -15,7 +15,7 @@ title: Horn of the Blue Triton
  |columnposition=4
  |effect=stores life
  |effectamount=all
- |purpose=healing
+ |purpose=Healing
  |combattype=none
  |powerlevel=all
  |rate=
