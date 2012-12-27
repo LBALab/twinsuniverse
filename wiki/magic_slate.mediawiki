@@ -18,9 +18,9 @@ title: Magic Slate
  |purpose=Storing images
  |combattype=none
  |powerlevel=none
- |rate=
- |range=
- |damage=
+ |rate=none
+ |range=none
+ |damage=none
 }}
 
 The '''Magic Slate''' is a slate allowing to store images of any kind, and in no time at all. These slates are given as rewards for completing a specific test in the [[School of Magic]].
