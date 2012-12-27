@@ -18,9 +18,9 @@ title: Magic Flute
  |purpose=
  |combattype=
  |powerlevel=
- |rate=
- |range=
- |damage=
+ |rate=none
+ |range=none
+ |damage=none
 }}
 [[Image:07_clear_water_lake.gif|right|200px|thumb|[[Twinsen]] playing the Magic Flute]]
 [[Image:09_white_leaf_desert.gif|right|200px|thumb|The [[old rabbibunny]] with the Magic Flute]]
