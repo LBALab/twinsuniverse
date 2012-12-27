@@ -15,6 +15,7 @@ title: Magic Slate
  |columnposition=5
  |effect=unique
  |effectamount=
+ |purpose=Storing images
  |combattype=none
  |powerlevel=none
  |rate=
