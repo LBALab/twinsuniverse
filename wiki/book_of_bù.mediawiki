@@ -15,6 +15,7 @@ title: Book of Bù
  |columnposition=
  |effect=
  |effectamount=
+ |purpose=
  |combattype=
  |powerlevel=
  |rate=
