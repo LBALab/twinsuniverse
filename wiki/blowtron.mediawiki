@@ -2,16 +2,27 @@
 title: Blowtron
 ---
 
-{{Weapon|
-Name=Blowtron|
-Image=Blowgun2.gif|
-Enemy=Yello, green<br>& red enemies|
-Rate=Fast|
-Damage=Little|
-Range=Medium}}
+{{twinsunica import}}{{Infobox Item
+ |image=Blowgun2.gif
+ |type=weapon
+ |critical=acquired
+ |magical=no
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=final
+ |rowposition=1
+ |columnposition=3
+ |effect=none
+ |effectamount=
+ |purpose=
+ |combattype=enemies
+ |powerlevel=red
+ |rate=high
+ |range=Medium
+ |damage=Little
+}}
 
 The '''blowtron''' is a weapon firing projectiles. It is quite similar to the [[blowgun]], butis faster and causes more damage. Its widest aperture, as well as it's thicker size, enable it to be loaded with larger berries.
 
 Searching for a way of reaching [[Island CX]], [[Twinsen]] reaches the [[Mosquibees Village]], where he meets [[Queen Astrid]]. To prove to the suspicious queen that his intentions are good, he has to pass the [[Test of Truth]]. Upon passing the challenge, Twinsen receives the blowtron, a symbol for him being an equal of the mosquibees.
-
-[[Category:Weapons]]
