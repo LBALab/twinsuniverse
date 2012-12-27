@@ -18,9 +18,9 @@ title: Sendell's Ball
  |purpose=Contact [[Sendell]] in case of emergency
  |combattype=none
  |powerlevel=red
- |rate=
- |range=
- |damage=
+ |rate=none
+ |range=none
+ |damage=none
 }}
 
 {{Quote
