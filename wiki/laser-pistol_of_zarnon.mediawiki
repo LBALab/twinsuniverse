@@ -2,13 +2,26 @@
 title: Laser-Pistol of Zarnon
 ---
 
-{{Weapon|
-Name=Laser-pistol|
-Image=Laser.gif|
-Enemy=Red enemies and lower|
-Rate=Slow|
-Damage=A lot|
-Range=Infinite}}
+{{twinsunica import}}{{Infobox Item
+ |image=Laser.gif
+ |type=weapon
+ |critical=yes
+ |magical=no
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=final
+ |rowposition=1
+ |columnposition=6
+ |effect=none
+ |effectamount=
+ |purpose=
+ |combattype=area
+ |powerlevel=red
+ |rate=low
+ |range=infinite
+ |damage=high
+}}
 
 The '''laser pistol of Zarnon''', usually referred to as '''laser-pistol''', is a pistol loaded with [[rock crystal]]. This pistol fires short, perfectly horizontal and slow moving laser rays that explode upon impact. It causes lots of damage, and due to the horizontal rays it has a very long range. However, it reloads very slowly.
 
@@ -25,5 +38,3 @@ The laser pistol also serves as an effective weapon, especially against far away
 
 === Fan Art ===
 * {{thread|id=11287|title=Twinsen}}
-
-[[Category: Weapons]]
