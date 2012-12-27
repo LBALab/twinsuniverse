@@ -4,13 +4,13 @@ title: Sendell's Medallion
 
 {{twinsunica import}}{{Infobox Item
  |image=sendells_medallion.png
- |type=
- |critical=
+ |type=equipment
+ |critical=yes
  |magical=yes
- |unique=
+ |unique=yes
  |lba1=yes
  |lba2=
- |upgrades=
+ |upgrades=no
  |rowposition=
  |columnposition=
  |effect=
