@@ -2,7 +2,25 @@
 title: Ring of Lightning
 ---
 
-[[Image:Lightning.gif|right|105px|thumb|The Ring of Lightning, level Fire.]]
+{{twinsunica import}}{{Infobox Item
+ |image=Lightning.gif
+ |type=weapon
+ |critical=yes
+ |magical=yes
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=yes
+ |rowposition=
+ |columnposition=
+ |effect=uses magic
+ |effectamount=all
+ |combattype=special
+ |powerlevel=all
+ |rate=
+ |range=
+ |damage=
+}}
 
 The '''Ring of Lightning''' is a magical ring which possesses the ability to kill all enemies visible in sight. The magic level of this ring upgrades together with its owner's magic level. Accordingly, enemies stronger than the magic level at the time of using the ring do not die from this spell.
 
@@ -22,5 +40,3 @@ Twinsen can use the Ring of Lightning in the rest of his adventure, especially t
 
 ===Fan Art===
 * {{thread|id=11287|title=Twinsen}}
-
-[[Category:Magical items]]
