@@ -5,7 +5,7 @@ title: Blowgun
 {{twinsunica import}}{{Infobox Item
  |image=Blowgun1.gif
  |type=weapon
- |critical=aquired
+ |critical=acquired
  |magical=no
  |unique=yes
  |lba1=
@@ -19,8 +19,8 @@ title: Blowgun
  |combattype=enemies
  |powerlevel=green
  |rate=high
- |range=Little
- |damage=Medium
+ |range=Medium
+ |damage=Little
 }}
 
 The '''blowgun''' is a small metallic tube used as a weapon. By reloading it with various projectiles, such as berries, it is possible to fire fast and accurate shots. These weapons are given as rewards to any pupil of the [[School of Magic]] who successfully passes the [[Magic Ball]] test. The blowgun is long and thin, and is coloured red and grey.
