@@ -2,11 +2,29 @@
 title: Sendell's Ball
 ---
 
-[[Image:Sendbal.gif|right|155px|thumb|Sendell's Ball]]
+{{twinsunica import}}{{Infobox Item
+ |image=Sendbal.gif
+ |type=tool
+ |critical=yes
+ |magical=yes
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=2
+ |columnposition=2
+ |effect=unique
+ |effectamount=
+ |combattype=none
+ |powerlevel=red
+ |rate=
+ |range=
+ |damage=
+}}
 
-{{Quote|
-Quote=Thanks to Sendell's Ball, you just reached your third level of magic: red ball. With its help, Sendell can come and talk to you in case of danger.|
-Character=Official description}}
+{{Quote
+ |quote=Thanks to Sendell's Ball, you just reached your third level of magic: red ball. With its help, Sendell can come and talk to you in case of danger.
+ |character=Official description}}
 
 ==Description==
 '''The Ball of Sendell''' enables the person who possesses it to be contacted by [[Sendell]]. It also promotes the level of magic, presenting the possessor with the [[Magic Ball|red ball]].
@@ -18,12 +36,12 @@ Before he met [[Jerome Baldino]] on [[Emerald Moon]], [[Twinsen]] first had to r
 It is possible that Sendell's Ball also appeared in Twinsen's first adventure. The last room of the [[Well of Sendell]], where Twinsen battled [[FunFrock]] for the second time, had a ball in which Twinsen could watch some of the milestones of his odyssey. This sphere that was included in the room could have possibly also been Sendell's Ball from his second adventure.
 
 ==Additional quotes==
-{{Quote|
-Quote=You just found Sendell's Ball. Now you have reached a new level of magic: Red Ball. It will also enable Sendell to contact you in case of danger.|
-Character=A voice Twinsen heard when finding the ball}}
-{{Quote|
-Quote=Twinsen...Oh Twinsen, it's me, Sendell<nowiki>!!!</nowiki> Twinsen, a cosmic cataclysm is on its way<nowiki>!!!</nowiki> The moon has started to move<nowiki>!</nowiki> Soon, it is going to hurl itself against Twinsun, destroying our planet<nowiki>!!!</nowiki> You must stop Dark Monk and prevent him from using that infernal machine he built inside the statue. With it, he could attract and steal the energy that we could use to stop the moon<nowiki>!!!</nowiki> You must get the four key fragments, which are used in the ceremony and are protected by the Esmer races. With these fragments the statue of Dark Monk will emerge from the crater<nowiki>!!</nowiki> Once you stop Dark Monk, you will have to come back to Twinsun and, in the Well of the Sendells, I will help you stop the moon<nowiki>!!</nowiki>|
-Character=Sendell, talking to Twinsen through the ball}}
+{{Quote
+ |quote=You just found Sendell's Ball. Now you have reached a new level of magic: Red Ball. It will also enable Sendell to contact you in case of danger.
+ |character=A voice Twinsen heard when finding the ball}}
+{{Quote
+ |quote=Twinsen...Oh Twinsen, it's me, Sendell<nowiki>!!!</nowiki> Twinsen, a cosmic cataclysm is on its way<nowiki>!!!</nowiki> The moon has started to move<nowiki>!</nowiki> Soon, it is going to hurl itself against Twinsun, destroying our planet<nowiki>!!!</nowiki> You must stop Dark Monk and prevent him from using that infernal machine he built inside the statue. With it, he could attract and steal the energy that we could use to stop the moon<nowiki>!!!</nowiki> You must get the four key fragments, which are used in the ceremony and are protected by the Esmer races. With these fragments the statue of Dark Monk will emerge from the crater<nowiki>!!</nowiki> Once you stop Dark Monk, you will have to come back to Twinsun and, in the Well of the Sendells, I will help you stop the moon<nowiki>!!</nowiki>
+ |character=Sendell, talking to Twinsen through the ball}}
 
 ==Related threads==
 ===General===
@@ -38,5 +56,3 @@ Character=Sendell, talking to Twinsen through the ball}}
 
 ===Fan Art===
 * {{post|id=38821|title=another......}}
-
-[[Category:Magical items]]
