@@ -2,11 +2,29 @@
 title: Sendell's Medallion
 ---
 
-[[Image:sendells_medallion.png|right|200px|thumb|Close up of Sendell's Medallion]]
+{{twinsunica import}}{{Infobox Item
+ |image=sendells_medallion.png
+ |type=
+ |critical=
+ |magical=yes
+ |unique=
+ |lba1=yes
+ |lba2=
+ |upgrades=
+ |rowposition=
+ |columnposition=
+ |effect=
+ |effectamount=
+ |combattype=
+ |powerlevel=
+ |rate=
+ |range=
+ |damage=
+}}
 
-{{Quote|
-Quote=Sendell's Medallion. With this magical symbol, you have just earned the third level of power.|
-Character=Official description, Twinsen's first adventure}}
+{{Quote
+ |quote=Sendell's Medallion. With this magical symbol, you have just earned the third level of power.
+ |character=Official description, Twinsen's first adventure}}
 
 ==Description==
 As described in the sacred [[Book of Bù]], '''Sendell's Medallion''' is one of the four important magical symbols that have to be collected by the Heir, along with the [[flask of Clear Water]], the [[Ancestral Tunic]], and the book itself. Upon gathering and uniting those four magical symbols, the Heir's victory would be much more certain. Furthermore, this medallion also enables upgrading the level of magic, depending on the previous level the Chosen One had.
@@ -24,21 +42,21 @@ At the end of his first adventure, Twinsen has contributed the medallion, as wel
 The origins of the medallion are unknown. It was most likely created in some magical way, perhaps by Sendell, and was stored for generations by Twinsen's ancestors in the Heir's Room behind his house.
 
 ==Additional quotes==
-{{Quote|
-Quote=You have just found your ancestral Tunic and Sendell's Medallion. By storing Magic, it will enable you to bounce your ball at your enemies.|
-Character=When Teinsen grabbed the medallion from the museum}}
-{{Quote|
-Quote=The day will come when someone from the present or future species will rise up and say, 'This world is mine from now on, and the key to all powers belongs to me!' This day will surely come because avarice and violence harbor in the hearts of all species of the universe. If the peril on this day is too great, the Chosen One will come forth. He will rise up against the tyrant and overthrow him. He will free and reunite the people, because throughout the years, the Chosen One's ancestors will have prepared him for his victory. They will have left information and weapons in his dwelling. The Chosen One, also known as the Heir, will, however, have to gather together four magical symbols if he hopes to be victorious: the Tunic, the Book of Bש, Sendell's Medallion and a Flask of Clear Water. On the day of peril Sendell will visit the Heir in his sleep and announce the coming of the final combat. The Heir will then have to go to the Well of Sendell where the goddess will endow her powers on him!|
-Character=The Book of Bù}}
-{{Quote|
-Quote=Good day. Let's see, you can talk to me and you're wearing the Medallion of Sendell: you must be the Heir! I've been waiting for you for centuries and I've got a backache so we'll go carefully. The Hamalayi mountains are too high for me but I can lead you through this entire hemisphere, except for Polar island: it is too well guarded by FunFrock. Where do you want to go?|
-Character=Dino-Fly}}
-{{Quote|
-Quote=I know that symbol on your medallion. Virgul, our sorcerer, told us about your coming, and we have often prayed in front of the Runic Stone, which carries the same symbol. Unfortunately, Dr. FunFrock found it and built his fortress right over it, although the Rock was supposed to be indestructible! I would dig a tunnel for you so that you could enter the building, but you must first sabotage the Teleportation Center. Go find the plans of this center, I can dig only after all the telepods have been neutralized!|
-Character=A [[rabbibunny]] at [[Fortress Island]]}}
-{{Quote|
-Quote=To my future descendants: I have lent to Miss Bloop's private museum, the Medallion and the Ancestral Tunic which rightfully belong to you. Signed: Twinsen.|
-Character=A sign at Twinsen's house}}
+{{Quote
+ |quote=You have just found your ancestral Tunic and Sendell's Medallion. By storing Magic, it will enable you to bounce your ball at your enemies.
+ |character=When Teinsen grabbed the medallion from the museum}}
+{{Quote
+ |quote=The day will come when someone from the present or future species will rise up and say, 'This world is mine from now on, and the key to all powers belongs to me!' This day will surely come because avarice and violence harbor in the hearts of all species of the universe. If the peril on this day is too great, the Chosen One will come forth. He will rise up against the tyrant and overthrow him. He will free and reunite the people, because throughout the years, the Chosen One's ancestors will have prepared him for his victory. They will have left information and weapons in his dwelling. The Chosen One, also known as the Heir, will, however, have to gather together four magical symbols if he hopes to be victorious: the Tunic, the Book of Bש, Sendell's Medallion and a Flask of Clear Water. On the day of peril Sendell will visit the Heir in his sleep and announce the coming of the final combat. The Heir will then have to go to the Well of Sendell where the goddess will endow her powers on him!
+ |character=The Book of Bù}}
+{{Quote
+ |quote=Good day. Let's see, you can talk to me and you're wearing the Medallion of Sendell: you must be the Heir! I've been waiting for you for centuries and I've got a backache so we'll go carefully. The Hamalayi mountains are too high for me but I can lead you through this entire hemisphere, except for Polar island: it is too well guarded by FunFrock. Where do you want to go?
+ |character=Dino-Fly}}
+{{Quote
+ |quote=I know that symbol on your medallion. Virgul, our sorcerer, told us about your coming, and we have often prayed in front of the Runic Stone, which carries the same symbol. Unfortunately, Dr. FunFrock found it and built his fortress right over it, although the Rock was supposed to be indestructible! I would dig a tunnel for you so that you could enter the building, but you must first sabotage the Teleportation Center. Go find the plans of this center, I can dig only after all the telepods have been neutralized!
+ |character=A rabbibunny at Fortress Island}}
+{{Quote
+ |quote=To my future descendants: I have lent to Miss Bloop's private museum, the Medallion and the Ancestral Tunic which rightfully belong to you. Signed: Twinsen.
+ |character=A sign at Twinsen's house}}
 
 ==Related threads==
 ===General===
@@ -63,5 +81,3 @@ Character=A sign at Twinsen's house}}
 ===Fan art===
 * [http://www.deviantart.com/view/12986693/ LBA 2 Picture]
 * [http://www.deviantart.com/view/1047280/ Twinsen and Zoe]
-
-[[Category:Magical items]]
