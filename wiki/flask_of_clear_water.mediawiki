@@ -15,6 +15,7 @@ title: Flask of Clear Water
  |columnposition=
  |effect=
  |effectamount=
+ |purpose=
  |combattype=
  |powerlevel=
  |rate=
