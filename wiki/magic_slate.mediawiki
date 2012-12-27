@@ -2,7 +2,25 @@
 title: Magic Slate
 ---
 
-[[Image:Slate.gif|right|147px|thumb|The Magic Slate]]
+{{twinsunica import}}{{Infobox Item
+ |image=Slate.gif
+ |type=reward
+ |critical=acquired
+ |magical=yes
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=2
+ |columnposition=5
+ |effect=unique
+ |effectamount=
+ |combattype=none
+ |powerlevel=none
+ |rate=
+ |range=
+ |damage=
+}}
 
 The '''Magic Slate''' is a slate allowing to store images of any kind, and in no time at all. These slates are given as rewards for completing a specific test in the [[School of Magic]].
 
@@ -14,7 +32,7 @@ Using the slate is not a compulsory part of the game, although it can come in ha
 
 ==Images stored in the slate==
 <gallery>
-Image:Slate2.gif|The slate without any images stored
+ImageSlate2.gif|The slate without any images stored
 Image:Sewers_slate.gif|The sewers of Citadel Island
 Image:Island_cx_map_slate.gif|Island CX
 Image:Emerald_moon_base_slate.gif|Emerald Moon Base
@@ -24,5 +42,3 @@ Image:Dome_of_the_slate_slate.gif|Dome of the Slate
 ==Related threads==
 ===Hints\Spoilers===
 * {{thread|id=4398|title=Is it just me or...}}
-
-[[Category:Magical items]]
