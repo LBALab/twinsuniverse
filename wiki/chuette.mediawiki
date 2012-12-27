@@ -5,7 +5,7 @@ title: Chuette
 {{twinsunica import}}{{Infobox Character
  |image=Chuette.jpg
  |race=creature|label=owl
- |gender=
+ |gender=none
  |size=small
  |age=
  |magical=no
