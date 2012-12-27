@@ -2,13 +2,26 @@
 title: Blowgun
 ---
 
-{{Weapon|
-Name=Blowgun|
-Image=Blowgun1.gif|
-Enemy=Yellow & green enemies|
-Rate=Fast|
-Damage=Little|
-Range=Medium}}
+{{twinsunica import}}{{Infobox Item
+ |image=Blowgun1.gif
+ |type=weapon
+ |critical=aquired
+ |magical=no
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=yes
+ |rowposition=1
+ |columnposition=3
+ |effect=none
+ |effectamount=
+ |purpose=
+ |combattype=enemies
+ |powerlevel=green
+ |rate=high
+ |range=Little
+ |damage=Medium
+}}
 
 The '''blowgun''' is a small metallic tube used as a weapon. By reloading it with various projectiles, such as berries, it is possible to fire fast and accurate shots. These weapons are given as rewards to any pupil of the [[School of Magic]] who successfully passes the [[Magic Ball]] test. The blowgun is long and thin, and is coloured red and grey.
 
@@ -28,5 +41,3 @@ At the [[Mosquibees Village]], Twinsen has to pass the [[Test of Truth]] as a pr
 ===Fan Art===
 * {{thread|id=11287|title=Twinsen}}
 * {{thread|id=4645|title=pictures!}}
-
-[[Category:Weapons]]
