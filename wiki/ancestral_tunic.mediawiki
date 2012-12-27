@@ -2,7 +2,25 @@
 title: Ancestral Tunic
 ---
 
-[[Image:Tunic.gif|right|90px|thumb|Ancestral Tunic]]
+{{twinsunica import}}{{Infobox Item
+ |image=Tunic.gif
+ |type=equipment
+ |critical=yes
+ |magical=yes
+ |unique=yes
+ |lba1=yes
+ |lba2=yes
+ |upgrades=yes
+ |rowposition=2
+ |columnposition=1
+ |effect=stores magic
+ |effectamount=all
+ |combattype=none
+ |powerlevel=yellow
+ |rate=
+ |range=
+ |damage=
+}}
 
 The '''Ancestral Tunic''', as described in the [[Book of Bu]], was one of the four items required by the Heir to be collected for him to ensure victory against the designated tyrant. This magical tunic was kept for centuries upon centuries in a secret closet at the house of the Heir's acnestors, and kept it safe for the time when the Chosen One will be needing it.
 
@@ -18,9 +36,9 @@ Escaping from the [[Citadel]] at the beginning of the game, [[Twinsen]] makes it
 
 ==In Little Big Adventure 2==
 Some time between the plot of the two games, Twinsen contributed the tunic to [[Miss Bloop's Private Museum]]. He left a note in his house to his future descendants:
-{{Quote|
-Quote=To my future descendants: I have lent to Miss Bloop's private museum, the Medallion and the Ancestral Tunic which rightfully belong to you.|
-Character=Signed: Twinsen.}}
+{{Quote
+ |quote=To my future descendants: I have lent to Miss Bloop's private museum, the Medallion and the Ancestral Tunic which rightfully belong to you.
+ |character=Twinsen}}
 
 However, having to free [[Raph]] the [[lighthouse]] keeper, and, later on, the entire planet, Twinsen quickly finds the tunic necessary again. Going to the museum to reclaim the tunic, he finds out that the room at which the button that opens the tunic's safe is locked. To get in, Twinsen has to sneak in through the museum's window, and thus opening the tunic's safe.
 
@@ -48,5 +66,3 @@ Like in LBA 1, the tunic is Twinsen's primary object, along with the magic ball.
 ===Fan art===
 * [http://www.deviantart.com/view/12986693/ LBA 2 Picture]
 * [http://www.deviantart.com/view/1047280/ Twinsen and Zoe]
-
-[[Category:Magical items]]
