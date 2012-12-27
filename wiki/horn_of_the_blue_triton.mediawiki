@@ -2,17 +2,35 @@
 title: Horn of the Blue Triton
 ---
 
-[[Image:Triton.gif|right|185px|thumb|The Horn of the Blue Triton]]
+{{twinsunica import}}{{Infobox Item
+ |image=Triton.gif
+ |type=reward
+ |critical=yes
+ |magical=yes
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=1
+ |columnposition=4
+ |effect=stores life
+ |effectamount=all
+ |combattype=none
+ |powerlevel=all
+ |rate=
+ |range=
+ |damage=
+}}
 
 '''The Horn of the Blue Triton''' is a horn storing [[life candies]]. This horn enables the owner to store a higher amount of life candies, as well as use those candies to heal other people.
 
 [[Twinsen]]'s very first object in [[Little Big Adventure 2]] is to find a way to cure [[Dino-Fly]]. During his studies at the [[School of Magic]], he has to undergo the [[Garden Balsam Flower]] test. As a reward for completing the test, Twinsen receives the Horn of the Blue Triton, which is half-empty when he receives it. Twinsen can fill the horn using life candies he finds around the planet, as well as with a [[clover leaf]]. With this horn, Twinsen can finally cure Dino-Fly, and thus complete the third test of the School of Magic- the [[Dome of the Slate]] test.
 
-Twinsen can also use the horn to cure other people, though none of them are necessarry tasks in the game. He can use it on [[Joe the Elf]] at the [[cemetery]], after the elf accidentally turned himself into a shell. In return he receives 3 clover leaves. Additionally, Twinsen can use the horn to cure an injured [[Wannie]] in the [[Island of the Wannies]]. In return, the wannie gives Twinsen a [[gem]], and tells him about an easier access to the [[Queen of the Mosquibees]]' cell.
+Twinsen can also use the horn to cure other people, though none of them are necessarry tasks in the game. He can use it on [[Joe the Elf]] at the [[cemetery]], after the elf accidentally turned himself into a shell. In return he receives 3 clover leaves. Additionally, Twinsen can use the horn to cure an injured [[Wannie]] in the [[Island of the Wannies]]. In return, the wannie gives Twinsen a [[gem]], and tells him about an easier access to the [[Astrid|Queen of the Mosquibees]]' cell.
 
 The Horn also comes in handy when Twinsen wishes to renew a certain amount of life points. By using the horn, Twinsen can store these life points, and then extract them from the item whenever he needs to restore his health status.
 
-It is also possible to use the horn for cheating in the [[Gloum Casino]] in [[Otringal]]. By dispensing a life candy on a course in the [[Duams]] race, the Duam who touches the candy is more likely to win the race.
+It is also possible to use the horn for cheating in the [[Gloum Casino]] in [[Otringal]]. By dispensing a life candy on a course in the [[Duam]] race, the Duam who touches the candy is more likely to win the race.
 
 ==Related threads==
 ===General===
@@ -23,5 +41,3 @@ It is also possible to use the horn for cheating in the [[Gloum Casino]] in [[Ot
 * {{thread|id=10385|title=every point of interest i could find (lba2) that isnt on this site, that needs to be!}}
 * {{thread|id=2522|title=Otringal Casino}}
 * {{thread|id=2534|title=Dog races.}}
-
-[[Category:Magical items]]
