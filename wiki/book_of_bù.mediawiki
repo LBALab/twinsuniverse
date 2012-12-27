@@ -18,9 +18,9 @@ title: Book of Bù
  |purpose=
  |combattype=
  |powerlevel=
- |rate=
- |range=
- |damage=
+ |rate=none
+ |range=none
+ |damage=none
 }}
 [[Image:Screenshot-lba1-movies-04_temple_of_bu-01.jpg|right|200px|thumb|Twinsen holding the Book of Bù]]
 
