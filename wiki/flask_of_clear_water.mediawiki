@@ -18,9 +18,9 @@ title: Flask of Clear Water
  |purpose=
  |combattype=
  |powerlevel=
- |rate=
- |range=
- |damage=
+ |rate=none
+ |range=none
+ |damage=none
 }}
 [[Image:11_runestone_clear_warer.gif|right|200px|thumb|Twinsen pouring out the vial of Clear Water]]
 
