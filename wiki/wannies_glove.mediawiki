@@ -2,17 +2,30 @@
 title: Wannies Glove
 ---
 
-{{Weapon|
-Name=Wannie's glove|
-Image=Glove.gif|
-Enemy=Fire balls|
-Rate=Fast|
-Damage=None|
-Range=Melee}}
+{{twinsunica import}}{{Infobox Item
+ |image=Glove.gif
+ |type=weapon
+ |critical=yes
+ |magical=no
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=1
+ |columnposition=5
+ |effect=unique
+ |effectamount=
+ |purpose=
+ |combattype=special
+ |powerlevel=fire
+ |rate=high
+ |range=none
+ |damage=none
+}}
 
-{{Quote|
-Quote=With this Wannie's glove, you can now touch the fire. This will allow you to throw back the fireballs that the monsters from the gas hurl at you.|
-Character=Official description}}
+{{Quote
+ |quote=With this Wannie's glove, you can now touch the fire. This will allow you to throw back the fireballs that the monsters from the gas hurl at you.
+ |character=Official description}}
 
 ==Description==
 The '''wannie's glove''' isn't actually meant to be a weapon. It gives the person who wears it protection against fire or lava. It is commonly used by the [[wannies]] inside the [[mines]] on the [[Island of the Wannies]]. It allows them to pick up [[gems]] from the lava.
@@ -28,15 +41,15 @@ The glove itself had only one role in Twinsen's adventure. To receive the [[Mosq
 The Wannie's Glove was found in two different locations: inside the home of one wannie family, and somewhere within the mines.
 
 ==Additional quotes==
-{{Quote|
-Quote=You just found a Wannie's Glove. Use it to repel the fireballs your enemies throw at you.|
-Character=When Twinsen found the glove}}
-{{Quote|
-Quote=Hmmf! Lost my glove somewhere in the mine. Now I can't reach into the lava to grab up the gems.|
-Character=A miner}}
-{{Quote|
-Quote=I'm in a bind, I've lost my glove somewhere in the mine. With it, I can catch the pieces of lava and the balls of fire, I can even pitch them back. Everybody has one, to extract gems.|
-Character=A miner}}
+{{Quote
+ |quote=You just found a Wannie's Glove. Use it to repel the fireballs your enemies throw at you.
+ |character=When Twinsen found the glove}}
+{{Quote
+ |quote=Hmmf! Lost my glove somewhere in the mine. Now I can't reach into the lava to grab up the gems.
+ |character=A miner}}
+{{Quote
+ |quote=I'm in a bind, I've lost my glove somewhere in the mine. With it, I can catch the pieces of lava and the balls of fire, I can even pitch them back. Everybody has one, to extract gems.
+ |character=A miner}}
 
 ==Related threads==
 ===General===
@@ -44,5 +57,3 @@ Character=A miner}}
 
 ===Hints\Spoilers===
 * {{thread|id=9292|title=Wannie's glove}}
-
-[[Category:Weapons]]
