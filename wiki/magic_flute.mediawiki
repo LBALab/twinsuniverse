@@ -2,6 +2,25 @@
 title: Magic Flute
 ---
 
+{{twinsunica import}}{{Infobox Item
+ |image=
+ |type=
+ |critical=yes
+ |magical=yes
+ |unique=yes
+ |lba1=yes
+ |lba2=
+ |upgrades=no
+ |rowposition=
+ |columnposition=
+ |effect=
+ |effectamount=
+ |combattype=
+ |powerlevel=
+ |rate=
+ |range=
+ |damage=
+}}
 [[Image:07_clear_water_lake.gif|right|200px|thumb|[[Twinsen]] playing the Magic Flute]]
 [[Image:09_white_leaf_desert.gif|right|200px|thumb|The [[old rabbibunny]] with the Magic Flute]]
 
@@ -14,5 +33,3 @@ Later on, Twinsen has to bring a [[space guitar]] to a band playing in the [[Twi
 ==Related threads==
 ===General===
 * {{thread|id=12249|title=Use Magic Flute instead of Horn of Gawley?}}
-
-[[Category:Magical items]]
