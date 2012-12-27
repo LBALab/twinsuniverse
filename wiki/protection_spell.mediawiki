@@ -2,7 +2,25 @@
 title: Protection Spell
 ---
 
-[[Image:Protect.gif|right|155px|thumb|The Protection Spell]]
+{{twinsunica import}}{{Infobox Item
+ |image=Protect.gif
+ |type=tool
+ |critical=no
+ |magical=yes
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=2
+ |columnposition=4
+ |effect=uses magic
+ |effectamount=one
+ |combattype=special
+ |powerlevel=all
+ |rate=
+ |range=
+ |damage=
+}}
 
 '''The Protection Spell''' gives its owner the ability to become completely immune towards virtually any attack. The spell consumes plenty of [[magic points]] while being used, and does not work any more as soon as the person runs out of magic points. The only harm this spell doesn't protect against is falling into water, lava or gas.
 
@@ -17,5 +35,3 @@ While obtaining the protection spell is not a compulsory task in the completion 
 ===Hints\Spoilers===
 * {{thread|id=10415|title=LBA 2 Goofs}}
 * {{thread|id=5509|title=Protection Spell?}}
-
-[[Category:Magical items]]
