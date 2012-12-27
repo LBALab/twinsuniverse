@@ -2,8 +2,6 @@
 title: Bob
 ---
 
-<center>''This article is about the grobo. For the astronomer sphero, see [[Bob Vortix]].''</center>
-
 {{twinsunica import}}{{Infobox Character
  |image=Bob.png
  |race=Grobo
@@ -23,6 +21,7 @@ title: Bob
  |island=
  |building=
 }}
+<center>''This article is about the grobo. For the astronomer sphero, see [[Bob Vortix]].''</center>
 
 '''Bob''' is a [[grobo]] living in [[Citadel Island]]. Throughout most of LBA 2 he is seen patrolling the western part of [[Lupin-Burg]], for no visible reason. He is quite grumpy, and complains a lot. Bob has a little brother, studying at the [[school]] of Citadel Island.
 
