@@ -15,6 +15,7 @@ title: Pearl of Incandescence
  |columnposition=5
  |effect=none
  |effectamount=
+ |purpose=Finish the Lightning Spell
  |combattype=none
  |powerlevel=none
  |rate=
