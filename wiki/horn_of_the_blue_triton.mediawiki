@@ -18,9 +18,9 @@ title: Horn of the Blue Triton
  |purpose=Healing
  |combattype=none
  |powerlevel=all
- |rate=
- |range=
- |damage=
+ |rate=medium
+ |range=short
+ |damage=none
 }}
 
 '''The Horn of the Blue Triton''' is a horn storing [[life candies]]. This horn enables the owner to store a higher amount of life candies, as well as use those candies to heal other people.
