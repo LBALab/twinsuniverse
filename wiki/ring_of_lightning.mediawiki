@@ -15,6 +15,7 @@ title: Ring of Lightning
  |columnposition=3
  |effect=uses magic
  |effectamount=all
+ |purpose=Free Sendell's Ball
  |combattype=special
  |powerlevel=all
  |rate=
