@@ -2,13 +2,26 @@
 title: Darts
 ---
 
-{{Weapon|
-Name=Dart|
-Image=Darts.gif|
-Enemy=Yellow enemies|
-Rate=Medium|
-Damage=Little|
-Range=Medium}}
+{{twinsunica import}}{{Infobox Item
+ |image=Darts.gif
+ |type=weapon
+ |critical=no
+ |magical=no
+ |unique=no
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=1
+ |columnposition=2
+ |effect=none
+ |effectamount=
+ |purpose=
+ |combattype=enemies
+ |powerlevel=yellow
+ |rate=Medium
+ |range=Medium
+ |damage=little
+}}
 
 '''Darts''' are one of the weapons in [[Little Big Adventure 2]]. They do little damage, and only on very weak enemies, such as [[snake]]s and [[crab]]s. Three darts are usually available for the price of 4 [[kashes]], but they can also be found for free at some places. After throwing a dart, it can be retrieved by simply walking over it.
 
@@ -27,7 +40,3 @@ The darts come in more use at [[Temple Park]], where Twinsen uses them at the du
 
 ===Fan Art===
 * {{thread|id=4645|title=pictures!}}
-
-[[Category:Weapons]]
-
-__NOTOC__
