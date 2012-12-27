@@ -2,6 +2,25 @@
 title: Book of Bù
 ---
 
+{{twinsunica import}}{{Infobox Item
+ |image=
+ |type=
+ |critical=
+ |magical=yes
+ |unique=yes
+ |lba1=yes
+ |lba2=
+ |upgrades=no
+ |rowposition=
+ |columnposition=
+ |effect=
+ |effectamount=
+ |combattype=
+ |powerlevel=
+ |rate=
+ |range=
+ |damage=
+}}
 [[Image:Screenshot-lba1-movies-04_temple_of_bu-01.jpg|right|200px|thumb|Twinsen holding the Book of Bù]]
 
 The '''Book of Bù''' is one of the four magic items that were needed to be collected by [[Twinsen]] to fullfill the [[prophecy of Sendell]].
@@ -12,9 +31,9 @@ After getting through all the obstacles of the Temple, Twinsen finally makes it 
 
 The book tells the exact [[prophecy of Sendell]], and describes clearly the events that post factum did happen at Twinsen's adventure:
 
-{{Quote|
-Quote=The day will come when someone from the present or future species will rise up and say, 'This world is mine from now on, and the key to all powers belongs to me!' This day will surely come because avarice and violence harbor in the hearts of all species of the universe. If the peril on this day is too great, the Chosen One will come forth. He will rise up against the tyrant and overthrow him. He will free and reunite the people, because throughout the years, the Chosen One's ancestors will have prepared him for his victory. They will have left information and weapons in his dwelling. The Chosen One, also known as the Heir, will, however, have to gather together four magical symbols if he hopes to be victorious: the Tunic, the Book of Bש, Sendell's Medallion and a Flask of Clear Water. On the day of peril Sendell will visit the Heir in his sleep and announce the coming of the final combat. The Heir will then have to go to the Well of Sendell where the goddess will endow her powers on him!|
-Character=Book of Bù}}
+{{Quote
+ |quote=The day will come when someone from the present or future species will rise up and say, 'This world is mine from now on, and the key to all powers belongs to me!' This day will surely come because avarice and violence harbor in the hearts of all species of the universe. If the peril on this day is too great, the Chosen One will come forth. He will rise up against the tyrant and overthrow him. He will free and reunite the people, because throughout the years, the Chosen One's ancestors will have prepared him for his victory. They will have left information and weapons in his dwelling. The Chosen One, also known as the Heir, will, however, have to gather together four magical symbols if he hopes to be victorious: the Tunic, the Book of Bש, Sendell's Medallion and a Flask of Clear Water. On the day of peril Sendell will visit the Heir in his sleep and announce the coming of the final combat. The Heir will then have to go to the Well of Sendell where the goddess will endow her powers on him!
+ |character=Book of Bù}}
 
 From this book, Twinsen learned his actual destiny: to overthrow the tyrant - Dr. FunFrock.
 
@@ -34,5 +53,3 @@ During Little Big Adventure 2, the book is held at [[Miss Bloop's Private Museum
 
 ===Hints\Spoilers===
 * {{thread|id=1611|title=LBA 1 Help!!!!!!!}}
-
-[[Category:Magical items]]
