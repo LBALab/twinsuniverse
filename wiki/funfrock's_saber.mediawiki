@@ -2,13 +2,26 @@
 title: FunFrock's Saber
 ---
 
-{{Weapon|
-Name=Magic Saber|
-Image=Funfrock's saber.png|
-Enemy=All enemies|
-Rate=Slow/Fast,<br>depending on behaviour|
-Damage=A lot|
-Range=Melee}}
+{{twinsunica import}}{{Infobox Item
+ |image=Funfrock's saber.png
+ |type=weapon
+ |critical=yes
+ |magical=yes
+ |unique=yes
+ |lba1=yes
+ |lba2=
+ |upgrades=no
+ |rowposition=
+ |columnposition=
+ |effect=
+ |effectamount=
+ |purpose=
+ |combattype=enemies
+ |powerlevel=
+ |rate=varies behavior
+ |range=none
+ |damage=high
+}}
 
 The '''Magic Saber''' is a saber that once belonged to [[Dr. FunFrock]], although he does not actually use it in the game. This saber is considered the most powerful weapon on [[Twinsun]], and is capable of killing most creatures.
 
@@ -32,5 +45,3 @@ Using the sword, Twinsen is able to defeat some enemies he couldn't beforehand, 
 ===Fan Art===
 * {{thread|id=11291|title=The Heir}}
 * {{thread|id=1264|title=My version of twinsens sword:)}}
-
-[[Category:Weapons]]
