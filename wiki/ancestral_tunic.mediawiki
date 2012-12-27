@@ -15,6 +15,7 @@ title: Ancestral Tunic
  |columnposition=1
  |effect=stores magic
  |effectamount=all
+ |purpose=enhance the [[Magic Ball]]
  |combattype=none
  |powerlevel=yellow
  |rate=
