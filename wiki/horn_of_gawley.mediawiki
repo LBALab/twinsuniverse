@@ -15,6 +15,7 @@ title: Horn of Gawley
  |columnposition=
  |effect=
  |effectamount=
+ |purpose=
  |combattype=
  |powerlevel=
  |rate=
