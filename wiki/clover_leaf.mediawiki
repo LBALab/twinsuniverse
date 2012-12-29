@@ -2,7 +2,7 @@
 title: Clover Leaf
 ---
 
-{{twinsunica import}}{{mbox|class=move|This article talks about both '''clover leafs''' and [[clover box]]es, so it should be split.}}{{Infobox Item
+{{twinsunica import}}{{mbox|class=move|This article talks about both '''clover leafs''' and [[clover box]]es, so it is suggested to be split.}}{{Infobox Item
  |image=Clover_leaf.png
  |type=bonus
  |critical=no
