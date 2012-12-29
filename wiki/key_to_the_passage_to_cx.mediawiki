@@ -2,7 +2,26 @@
 title: Key to the Passage to CX
 ---
 
-[[Image:Key_to_the_passage_to_CX.png|right|96px|thumb|The Key to the passage which leads to Island CX]]
+{{twinsunica import}}{{Infobox Item
+ |image=Key_to_the_passage_to_CX.png
+ |type=key
+ |critical=yes
+ |magical=no
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=4
+ |columnposition=3
+ |effect=grants access
+ |effectamount=one
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
 
 The '''key to the passage which leads to Island CX''' is a key opening a door at the [[throne room]] in the [[Village of the Mosquibees]], leading to a passage which eventually leads to [[Island CX]]. The key is guarded by [[Astrid]] the queen of the [[Mosquibees]].
 
