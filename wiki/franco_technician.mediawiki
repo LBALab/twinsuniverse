@@ -10,7 +10,7 @@ title: Franco Technician
  |lba1=
  |lba2=yes
  |alignment=emperor
- |occupation=
+ |occupation=Repairman, Scientist and Technician
  |requires=
  |melee=
  |ranged=yes
