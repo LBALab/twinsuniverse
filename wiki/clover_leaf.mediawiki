@@ -2,12 +2,31 @@
 title: Clover Leaf
 ---
 
-[[Image:Clover_leaf.png|right|71px|thumb|A clover leaf]]
+{{twinsunica import}}{{mbox|class=move|This article talks about both '''clover leafs''' and [[clover box]]es, so it should be split.}}{{Infobox Item
+ |image=Clover_leaf.png
+ |type=bonus
+ |critical=no
+ |magical=no
+ |unique=no
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=none
+ |columnposition=none
+ |effect=restores both
+ |effectamount=all
+ |purpose=
+ |combattype=special
+ |powerlevel=all
+ |rate=none
+ |range=none
+ |damage=none
+}}
 [[Image:Clover_box.jpg|right|139px|thumb|A clover box]]
 
 '''Clover boxes''' and '''clover leaves''' are used as the lives system in the [[Little Big Adventure]] games. Each clover leaf represents one life, and one leaf is subtracted when the [[life points]] meter reaches zero, or when [[Twinsen]] falls into water, lava or gas. If Twinsen runs out of clover leaves, he dies. Each leaf is stored in its own clover box, limiting the number of possible clover leaves. Clover boxes are found in various places in the games, and finidng one means another opportunity of lives.
 
-==In Little Big Adventure 1==
+==During FunFrock's Reign==
 By completing a non-compulsory task in the game, Twinsen receives a [[list with clover boxes locations]].
 
 At the following places clover boxes can be found in the game:
@@ -17,7 +36,7 @@ At the following places clover boxes can be found in the game:
 
 In the first game, clover leaves have their own [[inventory]] box. Selecting the leaf in the inventory subtracts one leaf, and fills the life points meter.
 
-==In Little Big Adventure 2==
+==During Twinsen's Odyssey==
 At the following places clover boxes can be found in LBA 2:
 *At the [[Desert Island]] [[oasis]] on a small island that Twinsen can reach on [[Moya]]'s back or using the [[proto-pack]]
 *In the [[Citadel Island sewers]]
@@ -40,5 +59,3 @@ Clover leaves also fill the [[Horn of Gawley]] with life candies.
 
 ===Fan Art===
 * {{post|id=112171|title=Lba3}}
-
-[[Category:Consumables]]
