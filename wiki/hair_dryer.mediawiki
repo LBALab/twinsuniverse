@@ -2,7 +2,26 @@
 title: Hair Dryer
 ---
 
-[[Image:Hairdryer.png|right|52px|frame|Hair dryer]]
+{{twinsunica import}}{{Infobox Item
+ |image=Hairdryer.png
+ |type=quest
+ |critical=yes
+ |magical=no
+ |unique=yes
+ |lba1=yes
+ |lba2=
+ |upgrades=no
+ |rowposition=
+ |columnposition=
+ |effect=
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
 
 The '''hair dryer''' in [[Little Big Adventure 1]] is a common hair dryer, used to dry one's hair by blowing hot air. A [[hair dryer salesman]] sells these hair dryers in several islands around the [[Southern Hemisphere]] of [[Twinsun]].
 
