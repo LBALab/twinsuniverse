@@ -2,10 +2,27 @@
 title: Burgermaster's Key
 ---
 
-[[Image:Burgermasters_key.png|right|83px|frame|Burgermaster's Key]]
+{{twinsunica import}}{{Infobox Item
+ |image=Burgermasters_key.png
+ |type=key
+ |critical=no
+ |magical=no
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=5
+ |columnposition=6
+ |effect=grants access
+ |effectamount=one
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
 
-The '''Burgermaster's Key''' is a key used to open the [[Burgermaster]]'s cupboard at the [[Roger de la Fontaine's house|house of Roger de la Fontaine's brother]]. This cupboard contained the [[Burgermaster's notes|instructions]] on how to find the [[Francos' Key Fragment]].
+The '''Burgermaster's Key''' is a key used to open the [[Roger de la Fontaine|burgermaster]]'s cupboard at [[Roger de la Fontaine's house|his house]]. This cupboard contained the [[Burgermaster's Notes|instructions]] on how to find the [[Francos Fragment]].
 
 In a search for the Francos fragment, Twinsen goes to the [[Island of the Francos]], wwhere he learns that the key was hidden, and that no one knows where it is now. Twinsen discovers a key in the den of a clockwork [[owl]], that enables him to open the cupboard at the house of Roger de la Fontaine's brother. There, he finds descriptive instructions about how to find the fragment. After following the instructions correctly and accordingly, the Francos Fragment was successfully discovered by the [[quetch]].
-
-[[Category:Objects]]
