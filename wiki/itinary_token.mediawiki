@@ -2,7 +2,26 @@
 title: Itinary Token
 ---
 
-[[Image:Itinary_token.png|right|157px|thumb|An Itinary token]]
+{{twinsunica import}}{{Infobox Item
+ |image=Itinary_token.png
+ |type=key
+ |critical=yes
+ |magical=no
+ |unique=no
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=4
+ |columnposition=5
+ |effect=grants access
+ |effectamount=some
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
 
 '''Itinary tokens''' are used by [[Zeelich]]ians for operating [[Esmer shuttle]]s. Without these tokens, the shuttles can't take off. These disc-shaped tokens have to be placed inside a device placed on any common Esmers shuttle in order to launch them.
 
