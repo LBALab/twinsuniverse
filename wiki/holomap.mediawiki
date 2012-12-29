@@ -2,7 +2,26 @@
 title: Holomap
 ---
 
-[[Image:Holomap.gif|right|170px|thumb|The Holomap]]
+{{twinsunica import}}{{Infobox Item
+ |image=Holomap.gif
+ |type=tool
+ |critical=no
+ |magical=no
+ |unique=yes
+ |lba1=yes
+ |lba2=yes
+ |upgrades=no
+ |rowposition=3
+ |columnposition=1
+ |effect=unique
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
 
 The '''Holomap''' is a 3-Dimensional map that shows [[Twinsen]]'s exact position. While in [[Little Big Adventure 1]] it can only show the entire island, [[Little Big Adventure 2]] also has the option of zooming in to the island Twinsen is currently visiting. The holomap also shows arrows pointing to places Twinsen needs to go to in order to complete tasks in the game.
 
