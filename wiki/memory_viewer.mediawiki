@@ -2,7 +2,26 @@
 title: Memory Viewer
 ---
 
-[[Image:Viewer.gif|right|140px|thumb|Memory viewer]]
+{{twinsunica import}}{{Infobox Item
+ |image=Viewer.gif
+ |type=reward
+ |critical=no
+ |magical=no
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=5
+ |columnposition=4
+ |effect=unique
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
 
 The '''memory viewer''' is an object showing videos seen in the game previously. This viewer is a small, red, binocular-like device.
 
