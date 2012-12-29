@@ -11,7 +11,7 @@ title: The Tralü
  |lba2=yes
  |alignment=neutral
  |occupation=
- |requires=none
+ |requires=yellow
  |melee=yes
  |ranged=yes
  |magic=
