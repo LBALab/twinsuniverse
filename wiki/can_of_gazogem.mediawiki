@@ -2,16 +2,33 @@
 title: Can of Gazogem
 ---
 
-[[Image:Can of gazogem.gif|right|200px|thumb|[[Twinsen]] finding a can of gazogem in the inner structures of the [[Gazogem Refinery]]]]
+{{twinsunica import}}{{Infobox Item
+ |image=Can of gazogem.gif
+ |type=quest
+ |critical=yes
+ |magical=no
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=5
+ |columnposition=1
+ |effect=none
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
 
-The '''Can of Gazogem''' is an ineventory item in Little Big Adventure 2, a container holding the [[Zeelich]]ian fuel gazogem. The fuel is refined by the [[Francos]] at the [[Gazogem Refinery]], on [[Francos Island]] using [[gems]] mined by the [[Wannies]] in the [[Undergas]]. The fuel is sold in the [[Otringal]] [[gas station]], and delivered to the other Zeelichian islands by tankers.
+The '''Can of Gazogem''' is an ineventory item in Little Big Adventure 2, a container holding the [[Zeelich]]ian fuel gazogem. The fuel is refined by the [[Franco]]s at the [[Gazogem Refinery]], on [[Francos Island]] using [[gems]] mined by the [[Wannies]] in the [[Undergas]]. The fuel is sold in the [[Otringal]] [[gas station]], and delivered to the other Zeelichian islands by tankers.
 
 The name "gazogem" derives from the French term "gaz au gemmes", meaning "made of gems".
 
-Twinsen goes to search for the gazogem in [[Baldino]]'s order, after they crash on Otringal. Baldino needs the fuel in order to feel his spaceship's gas tank, as well as improving Twinsen's [[proto-pack]] into a [[super jetpack]]. Twinsen goes to the local gas station, where he is told by a nearby salesman that no more of this fuel is available at the station, and that a tanker would later arrive from the [[Island of the Francos]] to refill the bunker, but would not do so for a while. Twinsen then goes to the Island of the Francos, and takes a gazogem can from the refinery. After bringing the can of gazogem to Jerome, he is able to fix his space shuttle, and power up Twinsen's proto-pack to a super jet-pack.
+Twinsen goes to search for the gazogem in [[Jerome Baldino]]'s order, after they crash on Otringal. Baldino needs the fuel in order to feel his spaceship's gas tank, as well as improving Twinsen's [[Proto-pack]] into a [[Super Jetpack]]. Twinsen goes to the local gas station, where he is told by a nearby salesman that no more of this fuel is available at the station, and that a tanker would later arrive from the [[Island of the Francos]] to refill the bunker, but would not do so for a while. Twinsen then goes to the Island of the Francos, and takes a gazogem can from the refinery. After bringing the can of gazogem to Jerome, he is able to fix his space shuttle, and power up Twinsen's proto-pack to a super jet-pack.
 
 ==Related threads==
 ===General===
 * {{thread|id=540|title=I just played LBA2 again.... (C)}}
-
-[[Category:Objects]]
