@@ -2,6 +2,26 @@
 title: Piece of Rock Crystal
 ---
 
+{{twinsunica import}}{{Infobox Item
+ |image=
+ |type=component
+ |critical=yes
+ |magical=no
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=yes
+ |rowposition=1
+ |columnposition=6
+ |effect=none
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
 [[Image:Screenshot-lba2-ingame-island_of_the_celebration-getting_rock_crystal_3.gif|right|thumb|200px|[[Twinsen]] standing in front of a bunch of rock crystals]]
 
 '''Rock crystal''' is a mineral used to operate [[Laser Pistol]]s. This element can mainly be found in the northern part of the [[Island of Celebration]].
