@@ -30,5 +30,3 @@ The '''memory viewer''' is an object showing videos seen in the game previously.
 ==Related threads==
 ===General===
 * {{thread|id=3820|title=I finished LBA2 yesterday}}
-
-[[Category:Objects]]
