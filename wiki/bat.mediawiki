@@ -10,7 +10,7 @@ title: Bat
  |lba1=
  |lba2=yes
  |alignment=neutral
- |occupation=
+ |occupation=Flies around
  |requires=none
  |melee=yes
  |ranged=
