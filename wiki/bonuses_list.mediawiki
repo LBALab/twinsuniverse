@@ -2,14 +2,31 @@
 title: Bonuses List
 ---
 
-[[Image:List_with_clover_boxes_locations.png|right|49px|frame|The list]]
-
-
+{{twinsunica import}}{{Infobox Item
+ |image=List_with_clover_boxes_locations.png
+ |type=reward
+ |critical=no
+ |magical=no
+ |unique=yes
+ |lba1=yes
+ |lba2=
+ |upgrades=no
+ |rowposition=
+ |columnposition=
+ |effect=
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
 
 The '''Bonuses List''' is a small note listing some of the locations of [[clover box]] and clover leaves in [[Twinsun]]. The note is as follows:
-{{Quote|
-Quote=Locations of several clover leaves and boxes: There is a box for clover leaves in the sewers of Citadel island, and another in the basement of the tavern; one clover leaf is guarded by a soldier who is located behind sandbags. Another is guarded by a clone in the middle of the ruins on Principal island. Another one is on the roof of the Maritime Museum. Another is guarded by a groboclone to the right of the Teleportation Center's entrance. Another is guarded by a soldier in front of FunFrock's fortress.|
-Character=The list.}}
+{{Quote
+ |quote=Locations of several clover leaves and boxes: There is a box for clover leaves in the sewers of Citadel island, and another in the basement of the tavern; one clover leaf is guarded by a soldier who is located behind sandbags. Another is guarded by a clone in the middle of the ruins on Principal island. Another one is on the roof of the Maritime Museum. Another is guarded by a groboclone to the right of the Teleportation Center's entrance. Another is guarded by a soldier in front of FunFrock's fortress.
+ |character=The list.}}
 
 This list is owned by [[Lanktir]], a [[grobo]] residing near the [[Proxima Island bazaar|bazaar]] in [[Proxim-City]].
 
@@ -18,5 +35,3 @@ By returning Lanktir the [[coffee pot]] on behalf of the [[sphero]] he meets nea
 ==Related threads==
 ===General===
 * {{thread|id=536|title=yet another unknown quote....}}
-
-[[Category:Objects]]
