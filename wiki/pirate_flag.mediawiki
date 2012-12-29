@@ -2,7 +2,26 @@
 title: Pirate Flag
 ---
 
-[[Image:Pirate_flag.png|right|49px|frame|A pirate flag]]
+{{twinsunica import}}{{Infobox Item
+ |image=Pirate_flag.png
+ |type=component
+ |critical=yes
+ |magical=no
+ |unique=yes
+ |lba1=yes
+ |lba2=
+ |upgrades=no
+ |rowposition=
+ |columnposition=
+ |effect=none
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
 
 The '''pirate flag''' is an emblem used by the [[rabbibunnies]] [[rebels|rebelling]] against [[FunFrock]] as a sign of trustworthiness. Whoever wishes to show his good wills, must carry a pirate flag on his ship's mast. Without this flag, anyone who dares approaching the island is encountered by a fusillade from the rebels, eventually scaring him away. However, carrying this flag on a ship is highly approved by the rebels, who realize the good wills of the visitor.
 
