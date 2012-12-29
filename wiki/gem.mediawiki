@@ -2,16 +2,33 @@
 title: Gem
 ---
 
-[[Image:Gem.gif|right|75px|thumb|Gem]]
+{{twinsunica import}}{{Infobox Item
+ |image=Gem.gif
+ |type=currency
+ |critical=yes
+ |magical=no
+ |unique=no
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=4
+ |columnposition=4
+ |effect=none
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
 
-'''Gems''' are found in the [[Gems Mine]] in the [[Island of the Wannies]]. The [[Wannies]] mine them, and the [[Francos]] extract them into the [[Zeelich]]ian fuel, [[gazogem]].
+'''Gems''' are found in the [[Gem Mine]]s in the [[Island of the Wannies]]. The [[Wannie]]s mine them, and the [[Franco]]s extract them into the [[Zeelich]]ian fuel, [[gazogem]].
 
-[[Twinsen]], however, uses the gems for something else; needing to travel between the islands of the [[Undergas]], he calls the services of the [[Ferryman]], who charges passengers four gems a trip. Twinsen collects the gems in the Wannies mines, where there is a total of 8 gems. There are also 4 gems in the [[Island of the Mosquibees]], and 4 in the [[Volcano Island]].
+[[Twinsen]], however, uses the gems for something else; needing to travel between the islands of the [[Undergas]], he calls the services of the [[Ferryman]], who charges passengers four gems a trip. Twinsen collects the gems in the Wannies mines, where there is a total of 8 gems. There are also 4 gems in the [[Island of the Mosquibees]], and 4 in the [[Island below the Volcano]].
 
 ==Related threads==
 ===Hints\Spoilers===
 * {{thread|id=11469|title=help}}
 * {{thread|id=7446|title=Not enough gems to go back to the Island of the Mosquibees after speaking to queen}}
 * {{thread|id=768|title=really really need help}}
-
-[[Category:Currencies]]
