@@ -19,7 +19,7 @@ title: Franco Army Soldier
  |range=
  |speed=
  |damage=
- |rate=
+ |rate=high
  |reaction=
  |recovery=
 }}
