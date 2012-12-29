@@ -2,7 +2,26 @@
 title: Keypad
 ---
 
-[[Image:Keypad.png|73px|right|frame|The keypad]]
+{{twinsunica import}}{{Infobox Item
+ |image=Keypad.png
+ |type=key
+ |critical=no
+ |magical=no
+ |unique=yes
+ |lba1=yes
+ |lba2=
+ |upgrades=no
+ |rowposition=
+ |columnposition=
+ |effect=
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
 
 The '''keypad controlling a digital locking system''' is a special object that acts as a key to a secret room in the [[Teleportation Center]]. [[Twinsen]] gets it from [[Lanktir]], a [[grobo]] living in [[Proxim-City]], in [[Little Big Adventure 1]]. Lanktir had recieved the keypad by accident.
 
