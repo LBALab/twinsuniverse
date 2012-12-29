@@ -1,32 +1,5 @@
 ---
-title: Memory Viewer
+title: Memory viewer
 ---
 
-{{twinsunica import}}{{Infobox Item
- |image=Viewer.gif
- |type=reward
- |critical=no
- |magical=no
- |unique=yes
- |lba1=
- |lba2=yes
- |upgrades=no
- |rowposition=5
- |columnposition=4
- |effect=unique
- |effectamount=
- |purpose=
- |combattype=none
- |powerlevel=none
- |rate=none
- |range=none
- |damage=none
-}}
-
-The '''memory viewer''' is an object showing videos seen in the game previously. This viewer is a small, red, binocular-like device.
-
-[[Twinsen]] can pick up the memory viewer in [[Jerome Baldino's residence (Port-Ludo)|Jerome Baldino's house]], although he doesn't have to use it at any specific point of the game. This viewer can be found there only after the [[Esmer]]s take control of [[Twinsun]], and Baldino leaves for [[Emerald Moon]]. Subsequently, Twinsen can buy one at the [[Twinsunian Souvenir Shop]] in [[Otringal]], for 30 [[zlito]]s.
-
-==Related threads==
-===General===
-* {{thread|id=3820|title=I finished LBA2 yesterday}}
+#REDIRECT [[Memory Viewer]]
