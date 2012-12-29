@@ -2,7 +2,26 @@
 title: Coffee Pot
 ---
 
-[[Image:Coffee_pot.png|right|38px|frame|Coffee pot]]
+{{twinsunica import}}{{Infobox Item
+ |image=Coffee_pot.png
+ |type=quest
+ |critical=
+ |magical=no
+ |unique=yes
+ |lba1=yes
+ |lba2=
+ |upgrades=no
+ |rowposition=
+ |columnposition=
+ |effect=none
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
 
 The '''coffee pot''' is a machine used to make coffee. It is owned by [[Lanktir]], a [[grobo]] residing in [[Proxim-City]] at [[Proxima Island]].
 
@@ -21,5 +40,3 @@ Nor this puzzle neither the list are compulsory parts in completing the game.
 * {{thread|id=85|title=The cofee can}}
 * {{thread|id=4463|title=coffeecan or something}}
 * {{thread|id=1218|title=Coffee pot?}}
-
-[[Category:Objects]]
