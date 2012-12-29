@@ -16,11 +16,11 @@ title: Horn of Gawley
  |effect=
  |effectamount=
  |purpose=
- |combattype=
- |powerlevel=
- |rate=
- |range=
- |damage=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
 }}
 
 '''Gawley's Horn''' is an object left for [[Legend of Sendell|The Heir]] by his ancestors in a secret cave behind his house. It enables breaking open the seals of [[Sendell]], thus leading to new places. To use the horn, the person should blow it towards a Seal of Sendell.
