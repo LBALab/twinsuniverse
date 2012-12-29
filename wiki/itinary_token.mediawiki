@@ -36,5 +36,3 @@ The third time Twinsen needs an itinary token is when leaving [[Island CX]] and 
 * {{thread|id=11110|title=LBA2 Bug - Itinerary Token}}
 * {{thread|id=11011|title=Disc in Zeelich}}
 * {{thread|id=10415|title=LBA 2 Goofs}}
-
-[[Category:Objects]]
