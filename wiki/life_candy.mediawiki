@@ -2,6 +2,26 @@
 title: Life Candy
 ---
 
+{{twinsunica import}}{{Infobox Item
+ |image=
+ |type=bonus
+ |critical=no
+ |magical=no
+ |unique=no
+ |lba1=yes
+ |lba2=yes
+ |upgrades=no
+ |rowposition=none
+ |columnposition=none
+ |effect=restores life
+ |effectamount=some
+ |purpose=
+ |combattype=special
+ |powerlevel=all
+ |rate=none
+ |range=none
+ |damage=none
+}}
 [[Image:Tridna.jpg|right|200px|thumb|Fan Art illustrating the concept of life candy]]
 
 '''Life candies''' are a part of the lives system in the [[Little Big Adventure]] games. They are made to look like hearts, and contain a special genetic stimulant that triggers the regeneration of any damaged part of the body. Because the stimulant is used up as it works, each capsule only allows a slight recovery of health. As such, they are used to heal minor injuries, and generally increase a person's stamina. When a person's life points meter reaches zero, he loses one [[clover leaf]].
@@ -13,5 +33,3 @@ The life candies are used by [[Twinsen]] whenever he needs to recover health. He
 ==Related threads==
 ===Fan Art===
 * {{post|id=112171|title=Lba3}}
-
-[[Category:Consumables]]
