@@ -2,7 +2,26 @@
 title: Portable Radio
 ---
 
-[[Image:Radio.gif|right|70px|frame|The portable radio]]
+{{twinsunica import}}{{Infobox Item
+ |image=Radio.gif
+ |type=tool
+ |critical=yes
+ |magical=no
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=3
+ |columnposition=3
+ |effect=unique
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
 
 The '''portable radio''' is a device enabling contact between two people, if they are within range. The portable radio used in [[Little Big Adventure 2]] was created by [[Jerome Baldino]].
 
