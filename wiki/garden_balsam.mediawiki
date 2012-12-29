@@ -2,20 +2,37 @@
 title: Garden Balsam
 ---
 
-[[Image:Flower.gif|right|160px|thumb|The Garden Balsam Flower]]
+{{twinsunica import}}{{Infobox Item
+ |image=Flower.gif
+ |type=quest
+ |critical=yes
+ |magical=no
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=4
+ |columnposition=3
+ |effect=none
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
 
-The '''Garden Balsam Flower''' is a rare flower that grows in the [[White Leaf Desert]], especially in rocky areas. The [[School of Magic]] uses those flowers for their tests, in which the students of the school must fetch the [[Mentor of the School of Magic|mentor]] such a flower.
+The '''Garden Balsam''' flower is a rare flower that grows in the [[White Leaf Desert]], especially in rocky areas. The [[School of Magic]] uses those flowers for their tests, in which the students of the school must fetch the [[Rector of the School of Magic|rector]] such a flower.
 
-As part of his studies in the School of Magic, [[Twinsen]] has to bring the mentor of the school a Graden Balsam Flower. After the mentor instructs Twinsen about this test, the location of such flower is pointed on him [[holomap]]- on top of a rocky mountain in the desert. To reach the mountain's top, Twinsen needs his [[Twinsen's car|car]], which he can use after [[Zoé]] fixes it. Twinsen is able complete the test by climbing with the car on a nearby mountain, and then jumping to the mountain across, where the flower is.
+As part of his studies in the School of Magic, [[Twinsen]] has to bring the mentor of the school a Graden Balsam Flower. After the rector instructs Twinsen about this test, the location of such a flower is revealed to him on the [[holomap]]- on top of a rocky mountain in the desert. To reach the mountain's top, Twinsen needs his [[Twinsen's car|car]], which he can use after [[Zoé]] fixes it. Twinsen is able to complete the test by climbing with the car on a nearby mountain, and then jumping to the mountain across, where the flower is.
 
 In return for the garden balsam, the mentor gives Twinsen the [[Horn of the Blue Triton]], which enables him to heal others, as well as himself. With this horn, Twinsen can finally heal [[Dino-Fly]], and thus complete the third and last test for the School of Magic- the [[Dome of the Slate]] test.
 
-Dispensing a [[life candy]] from the Horn of the Blue Triton on the place where the flower grew results in another flower growing there. The mentor of the school then pops up, and, congratulating Twinsen for the idea, awards him with a couple of [[clover leaves]].
+Dispensing a [[life candy]] from the Horn of the Blue Triton on the place where the flower grew results in another flower growing there. The mentor of the school then pops up, and, congratulating Twinsen for the idea, awards him with a couple of [[clover leaf|clover leaves]].
 
 ==Related threads==
 ===Hints\Spoilers===
 * {{thread|id=8993|title=Secend Test !}}
 * {{thread|id=8892|title=How do I get the balsam plant?}}
 * {{thread|id=7181|title=ı imagined they are easy but ı can't}}
-
-[[Category:Objects]]
