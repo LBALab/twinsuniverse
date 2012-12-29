@@ -28,5 +28,3 @@ title: Mies van der Rooh's Pass
 When [[Twinsen]] goes to Mies van der Rooh in his search for the plans of the Teleportation Center, he receives this pass from him. When Twinsen reaches the Teleportation Center, a [[nurse]] guarding the site asks for his identification. By showing him the architect's pass, Twinsen is able to safely pass through the gate and enter the building.
 
 The [[inventory]] description of the architect's pass gives a hint, saying that the [[Horn of Gawley]] is needed to enter the building.
-
-[[Category:Objects]]
