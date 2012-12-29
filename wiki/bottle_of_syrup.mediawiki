@@ -2,7 +2,26 @@
 title: Bottle of Syrup
 ---
 
-[[Image:Bottle of Syrup.png|right|55px|frame|Bottle of Syrup]]
+{{twinsunica import}}{{Infobox Item
+ |image=Bottle of Syrup.png
+ |type=quest
+ |critical=yes
+ |magical=no
+ |unique=yes
+ |lba1=yes
+ |lba2=
+ |upgrades=yes
+ |rowposition=
+ |columnposition=
+ |effect=
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
 
 The '''Bottle of Syrup''' is a bottle containing 1/2 liter of cherry-flavored syrup, used for either curing purposes, or just for flavour.
 
@@ -13,5 +32,3 @@ Later in the game, Twinsen fills the now empty flask with the [[Flask of Clear W
 == Related threads ==
 === Hints\Spoilers ===
 * {{thread|id=2714|title=Somehow, i got Lba working, now i need a little help ^_^}}
-
-[[Category:Objects]]
