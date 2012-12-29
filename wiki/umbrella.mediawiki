@@ -2,34 +2,52 @@
 title: Umbrella
 ---
 
-[[Image:Umbrella.png|right|131px|thumb|An umbrella]]
-
-{{Quote|
-Quote=This umbrella belongs to a pharmacy customer.|
-Character=Official description}}
+{{twinsunica import}}{{Infobox Item
+ |image=Umbrella.png
+ |type=quest
+ |critical=no
+ |magical=no
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=5
+ |columnposition=3
+ |effect=none
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
+{{Quote
+ |quote=This umbrella belongs to a pharmacy customer.
+ |character=Official description}}
 
 ==Description==
 This is just a common '''umbrella''', coloured beige. It belongs to [[Leone]], the cleaner of the Healing Wizard, [[Ker'aooc]].
 
 ==Role in Twinsen's adventure==
-Looking for a way to treat his [[Dino-Fly]], [[Twinsen]] went to the [[pharmacy]], where he witnessed the stealing of this umbrella. Leone, the rightful owner of the umbrella, was willing to help Twinsen find a cure for Dino-Fly, if the [[quetch]] would bring her the umbrella back. To retrieve the umbrella, Twinsen had to sneak to the rabbibunny thief, thus being able to scare him and get the umbrella from him. Once returning the umbrella to Leone, the sphero advised Twinsen to go meet the [[healing wizard]] at [[Desert Island]].
+Looking for a way to treat his [[Dino-Fly]], [[Twinsen]] went to the [[pharmacy]], where he witnessed the stealing of this umbrella. Leone, the rightful owner of the umbrella, was willing to help Twinsen find a cure for Dino-Fly, if the [[quetch]] would bring her the umbrella back. To retrieve the umbrella, Twinsen had to sneak to the rabbibunny thief, thus being able to scare him and get the umbrella from him. Once returning the umbrella to Leone, the sphero advised Twinsen to go meet the [[Ker'aooc|healing wizard]] at [[Desert Island]].
 
 ==Trivia==
-Twinsen was able to sell the umbrella at the [[Twinsunian Souvenir Shop]], for the decent price of 20 [[zlitos]].
+Twinsen was able to sell the umbrella at the [[Twinsunian Souvenir Shop]], for the decent price of 20 [[zlito]]s.
 
 ==Additional quotes==
-{{Quote|
-Quote=Here's the deal. I will tell you how to treat your Dino-Fly, if you would bring back my umbrella. Use your smarts but remember that, in life, haste makes waste...|
-Character=Leone}}
-{{Quote|
-Quote=The umbrella please.|
-Character=Twinsen}}
-{{Quote|
-Quote=But that's my umb...Oh<nowiki>!!!</nowiki> excuse me...I thought it was mine. Boohooo, I'm so embarrassed...I keep making mistakes.|
-Character=The umbrella thief}}
-{{Quote|
-Quote=You just found the customer's umbrella.|
-Character=When Twinsen received the umbrella}}
+{{Quote
+ |quote=Here's the deal. I will tell you how to treat your Dino-Fly, if you would bring back my umbrella. Use your smarts but remember that, in life, haste makes waste...
+ |character=Leone}}
+{{Quote
+ |quote=The umbrella please.
+ |character=Twinsen}}
+{{Quote
+ |quote=But that's my umb...Oh<nowiki>!!!</nowiki> excuse me...I thought it was mine. Boohooo, I'm so embarrassed...I keep making mistakes.
+ |character=Umbrella thief}}
+{{Quote
+ |quote=You just found the customer's umbrella.
+ |character=When Twinsen received the umbrella}}
 
 ==Related threads==
 ===General===
@@ -39,5 +57,3 @@ Character=When Twinsen received the umbrella}}
 
 ===Fan Art===
 * {{post|id=112171|title=Lba3}}
-
-[[Category:Objects]]
