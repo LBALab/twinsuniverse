@@ -2,19 +2,35 @@
 title: Sups Fragment
 ---
 
-[[Image:Sups fragment.png|right|162px|thumb|The Sups Fragment]]
+{{twinsunica import}}{{Infobox Item
+ |image=Sups fragment.png
+ |type=component
+ |critical=yes
+ |magical=no
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=yes
+ |rowposition=3
+ |columnposition=7
+ |effect=none
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
 
-{{Quote|
-Quote=This fragment of the Sups' key is one of the elements which will permit you to piece together the key to Dark Monk's temple.|
-Character=Official description}}
+{{Quote
+ |quote=This fragment of the Sups' key is one of the elements which will permit you to piece together the key to Dark Monk's temple.
+ |character=Official description}}
 
 ==Description==
-The '''Sups Fragment''' was one of the four fragments which together summoned [[Dark Monk's statue]] to complete the ceremony. This turned back [[Zeelich]] to its original look after 10,000 ceremonies. The Sups Fragment is the blue "under" piece of [[Dark Monk's key]].
+The '''Sups Fragment''' was one of the four fragments which together summoned [[Dark Monk's Statue]] to complete the ceremony. This turned back [[Zeelich]] to its original look after 10,000 ceremonies. The Sups Fragment is the blue "under" piece of [[Dark Monk's Key]].
 
 The fragment was located in the back room of the [[Emperor's Palace]], heavily guarded by [[Hussars]] and an unidentified monster.
 
 ==Role in Twinsen's adventure==
-As a part of his quest of uniting the four key fragments, [[Twinsen]] had to find the Sups Fragment. However, he wasn't able to reach it, as it was located in the heavily-guarded Emperor's Palace. After killing the [[emperor]], Twinsen took his [[Emperor's sword|sword]], with which he was able to fight his way to the fragment. Once defeating 3 guards in the back room of the palace, Twinsen had only to defeat a two-headed monster in order to get the key to the fragment. Twinsen took the fragment, and had to fight his way back outside in order to complete [[Dark Monk's prophecy|the prophecy]].
-
-[[Category:Objects]]
-[[Category:Dark Monk's key]]
+As a part of his quest of uniting the four key fragments, [[Twinsen]] had to find the Sups Fragment. However, he wasn't able to reach it, as it was located in the heavily-guarded Emperor's Palace. After killing the [[emperor]], Twinsen took his [[Emperor's Sword|sword]], with which he was able to fight his way to the fragment. Once defeating 3 guards in the back room of the palace, Twinsen had only to defeat a two-headed monster in order to get the key to the fragment. Twinsen took the fragment, and had to fight his way back outside in order to complete [[Dark Monk's prophecy|the prophecy]].
