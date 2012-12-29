@@ -2,7 +2,26 @@
 title: Ancestral Key
 ---
 
-[[Image:Key to the heirs room.png|right|59px|frame|Key to the Heir's room]]
+{{twinsunica import}}{{Infobox Item
+ |image=Key to the heirs room.png
+ |type=
+ |critical=yes
+ |magical=
+ |unique=yes
+ |lba1=yes
+ |lba2=
+ |upgrades=no
+ |rowposition=
+ |columnposition=
+ |effect=
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=
+ |rate=none
+ |range=none
+ |damage=none
+}}
 
 The '''Ancestral Key''' is a key that opens the locked room in the cave behind [[Twinsen's house]].
 
@@ -13,5 +32,3 @@ After finding the [[Book of Bù]] in the [[Temple of Bù]], [[Twinsen]] hears fr
 Eventually, Twinsen reaches [[Maritime Museum]] in [[Proxima Island]]. By getting the museum shut and then sneaking into it, Twinsen is able to steal the Ancestral Key from LeBorgne's chest.
 
 Twinsen then goes back to his house, and opens the locked room with the key. Inside, he finds [[Gawley's Horn]] and [[Sendell's Medallion]], as well as a sign telling him about the locations of the three [[Runic Stones]] around the planet.
-
-[[Category:Objects]]
