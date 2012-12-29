@@ -1,0 +1,28 @@
+---
+title: Franco Technician
+---
+
+{{Infobox Enemy
+ |image=Franco Technician.jpg
+ |race=franco
+ |gender=male
+ |size=average
+ |lba1=
+ |lba2=yes
+ |alignment=emperor
+ |occupation=
+ |requires=
+ |melee=
+ |ranged=yes
+ |magic=
+ |explosive=
+ |range=
+ |speed=
+ |damage=
+ |rate=
+ |reaction=
+ |recovery=
+}}
+
+The '''Franco Technician''' is
+{{stub}}
