@@ -1,0 +1,28 @@
+---
+title: Franco Army Soldier
+---
+
+{{Infobox Enemy
+ |image=Franco Army Soldier.jpg
+ |race=franco
+ |gender=male
+ |size=average
+ |lba1=
+ |lba2=yes
+ |alignment=emperor
+ |occupation=Franco Army
+ |requires=red
+ |melee=yes
+ |ranged=yes
+ |magic=
+ |explosive=
+ |range=
+ |speed=
+ |damage=
+ |rate=
+ |reaction=
+ |recovery=
+}}
+
+The '''Franco Army Soldier''' is
+{{stub}}
