@@ -2,22 +2,39 @@
 title: Ferryman's Song
 ---
 
-[[Image:Song.gif|right|65px|frame|The [[wikipedia:Quaver|Quaver]] symbol which represents The Ferryman's Song in the [[inventory]]]]
+{{twinsunica import}}{{Infobox Item
+ |image=Song.gif
+ |type=tool
+ |critical=yes
+ |magical=no
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=4
+ |columnposition=1
+ |effect=grants access
+ |effectamount=some
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
 
-'''The Ferryman's Song''' is a song used for calling [[The Ferryman]] in the [[Undergas]] of [[Zeelich]].
+The '''Ferryman's Song''' is a song used for calling [[The Ferryman]] in the [[Undergas]] of [[Zeelich]].
 
 The lyrics of the song are as follows:
-{{Quote|
-Quote=Ferryman if you please,<br>
+{{Quote
+ |quote=Ferryman if you please,<br>
 Take me across the raging seas,<br>
 For a few gems, I take your boat,<br>
-I cannot swim, I cannot float!!|
-Character=The Ferryman's Song}}
+I cannot swim, I cannot float!!
+ |character=Ferryman's Song}}
 
 [[Twinsen]] learns this song from [[Annie]], who tells him to sing it at [[Ferryman's lane]] in order to call the ferryman. After doing so, the ferryman arrives and takes Twinsen on his ferry. Twinsen later uses the song to call the ferryman in the [[Island of the Mosquibees]] and in [[Volcano Island]].
 
 ==Related threads==
 ===Fan Creations===
 * {{thread|id=12511|title=Finally the Ferry man song!}}
-
-[[Category:Objects]]
