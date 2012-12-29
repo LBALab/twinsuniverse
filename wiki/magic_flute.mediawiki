@@ -16,7 +16,7 @@ title: Magic Flute
  |effect=
  |effectamount=
  |purpose=
- |combattype=
+ |combattype=none
  |powerlevel=
  |rate=none
  |range=none
