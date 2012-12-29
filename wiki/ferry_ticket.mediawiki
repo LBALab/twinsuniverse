@@ -2,9 +2,28 @@
 title: Ferry Ticket
 ---
 
-[[Image:Ticket.gif|right|115px|thumb|A ferry ticket, as issued between [[Citadel Island]] and [[Island of the White Leaf Desert]]]]
+{{twinsunica import}}{{Infobox Item
+ |image=Ticket.gif
+ |type=currency
+ |critical=yes
+ |magical=no
+ |unique=no
+ |lba1=yes
+ |lba2=yes
+ |upgrades=no
+ |rowposition=5
+ |columnposition=5
+ |effect=grants access
+ |effectamount=some
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
 
-'''Ferry Tickets''' is used for travelling from one island to another around [[Twinsun]]'s [[Southern Hemisphere]] in a [[ferry]]. It can be bought in shops near the islands' harbours, and once shown to the [[ferry captain]] in [[Little Big Adventure 1]] or to [[Mr. Paul]] in [[Little Big Advetnreu 2]], one may board and travel to another island.
+'''Ferry Tickets''' are used for travelling from one island to another around [[Twinsun]]'s [[Southern Hemisphere]] in a [[ferry]]. It can be bought in shops near the islands' harbours, and once shown to the [[ferry captain]] in [[Little Big Adventure 1]] or to [[Mr. Paul]] in [[Little Big Adventure 2]], one may board and travel to another island.
 
 The ticket is coloured red and yellow, with the letters IIF on it, standing for Inter-Island Ferries.
 
@@ -12,7 +31,7 @@ The ticket is coloured red and yellow, with the letters IIF on it, standing for 
 
 In the two games, [[Twinsen]] has to travel from island to island a lot. Until buying the [[catamaran]], or finding/healing [[Dino-Fly]], his way to travel is by ferry. The cost of the ticket varies, depending on where Twinsen buys it.
 
-At the beginning LBA 1, Twinsen escapes the [[citadel]], and therefore when he speaks to the [[Ferry ticket clerk (rabbibunny)|ticket]] seller, the latter calls a [[grobo clone]]. The only way Twinsen can recieve a ticket then is by completing a sokoban-like puzzle for a sailor [[grobo]], who in return gives Twinsen a counterfeit ticket. Similarly, travelling between Principal and Citadel Island costs Twinsen 30 kashes instead of the usual 10, as the tickets seller there recognizes his face from the Wanted posters.
+At the beginning LBA 1, Twinsen escapes the [[citadel]], and therefore when he speaks to the [[Ferry ticket clerk (rabbibunny)|ticket seller]], the latter calls a [[grobo clone]]. The only way Twinsen can recieve a ticket then is by completing a sokoban-like puzzle for a sailor [[grobo]], who in return gives Twinsen a counterfeit ticket. Similarly, travelling between Principal and Citadel Island costs Twinsen 30 kashes instead of the usual 10, as the tickets seller there recognizes his face from the Wanted posters.
 
 In case Twinsen has a ticket with him when arriving on [[Zeelich]], he can sell it at the [[Twinsunian Souvenir Shop]].
 
@@ -44,5 +63,3 @@ In case Twinsen has a ticket with him when arriving on [[Zeelich]], he can sell 
 * {{thread|id=2543|title=Dinofly Maddness}}
 * {{thread|id=1312|title=Do you know this one?}}
 * {{thread|id=673|title=Rain}}
-
-[[Category:Objects]]
