@@ -31,8 +31,4 @@ title: Bunny
 * {{post|id=271795|title=Edited Film Pictures}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Rabbibunnies]]
-[[Category:Female characters]]
-[[Category:Average characters]]
-[[Category:Adult characters]]
 [[Category:Desert Island inhabitants]] -->
