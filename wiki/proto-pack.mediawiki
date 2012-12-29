@@ -2,11 +2,30 @@
 title: Proto-Pack
 ---
 
-[[Image:Protopack.gif|right|120px|thumb|The Proto-Pack, another one of those extraordinary inventions by [[Jerome Baldino]]]]
+{{twinsunica import}}{{Infobox Item
+ |image=Protopack.gif
+ |type=equipment
+ |critical=yes
+ |magical=no
+ |unique=yes
+ |lba1=yes
+ |lba2=yes
+ |upgrades=yes
+ |rowposition=3
+ |columnposition=2
+ |effect=grants access
+ |effectamount=some
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
 
 The '''Proto-Pack''' is a small reactor that goes upon a person's back, and practically enables the person to fly a few inches above the ground.
 
-==In Little Big Adventure 1==
+==During FunFrock's Reign==
 The Proto-Pack was built by [[Jerome Baldino]] in [[Jerome Baldino's residence (Proxim-City)|his laboratory]] in [[Proxim-City]]. When [[Twinsen]] reaches his house, Baldino is just about to finish working on it. He tells Twinsen that to fine tune the motor's power, he needs a rehostat like the ones found in [[hairdryer]]s. After Twinsen gets Baldino a hairdryer, he is able to finish working on it, and even pays Twinsen 10 [[kash]]es to test it.
 
 The main use Twinsen has for the Proto-Pack in [[LBA 1]] is at the [[Maritime Museum]] of [[Proxima Island]]. Since the alarm of the museum is on, Twinsen must use the Proto-Pack, as the slightest step on the floor would sound the alarm. After flying his way to [[LeBorgne]]'s treasure at the end of the museum, Twinsen is eventually able to steal the [[Ancestral Key]], and exit the museum before anyone notices.
@@ -15,7 +34,7 @@ Another use for the Proto-Pack in the first game is on [[Peg-Leg street]] at [[P
 
 Another two useful places for the Proto-Pack are the mooring point of [[Desert Island]], where Twinsen can use it in order to get straight to the mainland and back (as opposed to jumping from rock to rock), and on [[Dino-Fly Street]] at [[Tippett Island]], trying to avoid the giant [[crab]] swimming in the water.
 
-==In Little Big Adventure 2==
+==During Twinsen's Odyssey==
 Some time between the events of the two games, Twinsen gave the Proto-Pack back to Baldino, who started working on improving it. Before Baldino leaves to [[Emerald Moon]], he leaves the Proto-Pack for Twinsen in the [[baggage claim]] building in [[Citadel Island]].
 
 In the baggage claim, Twinsen has to solve a couple of puzzles that include directing a crate-mover and pushing the Proto-Pakc's crate along the lane, before the [[Baggage Claim Owner|grobo in charge of the Baggage Claim]] can open the box for him.
