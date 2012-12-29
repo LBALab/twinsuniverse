@@ -31,5 +31,3 @@ The keypard is not an integral part of the game, but Twinsen can use it to open 
 ==Related Threads==
 ===Hints\Spoilers===
 * {{thread|id=1672|title=LBA Keypad?}}
-
-[[Category:Objects]]
