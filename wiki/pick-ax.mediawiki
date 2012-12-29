@@ -23,8 +23,8 @@ title: Pick-ax
  |damage=none
 }}
 
-'''Pick-ax''' is an object used to dig in grassy areas or to extract a piece from a hard object. It is mainly used by the [[Wannies]], to mine [[gems]]. Additionally, the [[Francos]] use them to search for their lost [[Francos fragment|fragment]]. Such axes are available for sale at the local [[Francos bazaar|bazaar]] for 20 [[Zlito]]s.
+'''Pick-ax''' is an object used to dig in grassy areas or to extract a piece from a hard object. It is mainly used by the [[Wannie]]s, to mine [[gem]]s. Additionally, the [[Franco]]s use them to search for their lost [[Francos fragment|fragment]]. Such axes are available for sale at the local [[Francos bazaar|bazaar]] for 20 [[Zlito]]s.
 
 In his search for the Francos Fragment, [[Twinsen]] buys a pick-ax from the bazaar at the [[Island of the Francos]]. He uses it in order to dig for the fragment, after finding it following the instructions on the [[Burgermaster's notes]].
 
-The second time Twinsen needs the pick-ax is after the [[Dissidents]] give him with a [[Laser Pistol]]. For the pistol to work, Twinsen charge it with [[rock crystal]]. After digging in the northern part of the [[Island of Celebration]], Twinsen charges the pistol with rock crystal, making it workable. Without the pistol, Twinsen can not advance in his adventure, as the pistol is needed to access the [[harbor of the Francos]].
+The second time Twinsen needs the pick-ax is after the [[Dissident]]s give him with a [[Laser Pistol]]. For the pistol to work, Twinsen charge it with [[rock crystal]]. After digging in the northern part of the [[Island of Celebration]], Twinsen charges the pistol with rock crystal, making it workable. Without the pistol, Twinsen can not advance in his adventure, as the pistol is needed to access the [[harbor of the Francos]].
