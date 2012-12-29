@@ -2,13 +2,29 @@
 title: Francos Fragment
 ---
 
-[[Image:Francos_fragment.png|right|165px|thumb|The Francos Fragment]]
+{{twinsunica import}}{{Infobox Item
+ |image=Francos_fragment.png
+ |type=component
+ |critical=yes
+ |magical=no
+ |unique=no
+ |lba1=
+ |lba2=yes
+ |upgrades=yes
+ |rowposition=2
+ |columnposition=7
+ |effect=none
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
 
 The '''Francos Fragment''' is one of the four fragments which together summon [[Dark Monk's statue]] to complete [[Dark Monk's prophecy|his ceremony]]. This should turn [[Zeelich]] back in its original look after 10,000 ceremonies. The Francos Fragment is the red right piece of [[Dark Monk's key]].
 
 The fragment itself was lost years before the events of [[Little Big Adventure 2]], as the franco who hid it, [[Roger de la Fontaine]], was eaten by a [[gas monster]]. Due to that, most of the inhabitants of the [[Island of the Francos]] are searching for it.
 
-As part of his quest to unite the four key fragments into Dark Monk's key, Twinsen has to find the Francos Fragment. Using the tips he hears from the people of the island, Twinsen manages to find the [[burgermaster's key]], which he uses to get the [[burgermaster's notes]]. Following the instructions on the notes, Twinsen reaches a place behind the [[Francos Island bazaar|local bazaar]]. Once digging there by using a [[pick-ax]] he buys from the bazaar, the fragment is in his possession.
-
-[[Category:Objects]]
-[[Category:Dark Monk's key]]
+As part of his quest to unite the four key fragments into Dark Monk's key, Twinsen has to find the Francos Fragment. Using the tips he hears from the people of the island, Twinsen manages to find the [[Franco Burgermaster's Key]], which he uses to get the [[Franco Burgermaster's Notes]]. Following the instructions on the notes, Twinsen reaches a place behind the [[Francos Island bazaar|local bazaar]]. Once digging there by using a [[pick-ax]] he buys from the bazaar, the fragment is in his possession.
