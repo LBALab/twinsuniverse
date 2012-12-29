@@ -2,16 +2,35 @@
 title: Zlito
 ---
 
-[[Image:Zlito.gif|right|78px|thumb|Zlito, the [[currency]] of [[Zeelich]]]]
+{{twinsunica import}}{{Infobox Item
+ |image=Zlito.gif
+ |type=bonus
+ |critical=yes
+ |magical=no
+ |unique=no
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=3
+ |columnposition=6
+ |effect=stores money
+ |effectamount=all
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
 
-{{Quote|
-Quote=It is the exchange currency of planet Zeelich. With it, you can buy the articles you are interested in on planet Zeelich.|
-Character=Official description}}
+{{Quote
+ |quote=It is the exchange currency of planet Zeelich. With it, you can buy the articles you are interested in on planet Zeelich.
+ |character=Official description}}
 
 ==Description==
-'''Zlitos''' are the [[currency]] of [[Zeelich]], planet of the [[esmers]]. The esmers use them to buy anything they're interested in.
+'''Zlitos''' are the currency of [[Zeelich]], planet of the [[esmer]]s. The esmers use them to buy anything they're interested in.
 
-However, unlike the [[kashes]] on [[Twinsun]], it is much less likely to find Zlitos by searching rubbish bins and plants.
+However, unlike the [[kash]]es on [[Twinsun]], it is much less likely to find Zlitos by searching rubbish bins and plants.
 
 ==Role in Twinsen's adventure==
 With the Zlitos, [[Twinsen]] bought anything he was interested in on Zeelich.
@@ -24,5 +43,3 @@ With the Zlitos, [[Twinsen]] bought anything he was interested in on Zeelich.
 
 ===Hints\Spoilers===
 * {{thread|id=7721|title=Found a way to modify the GOLD cheat to give more money...}}
-
-[[Category:Currencies]]
