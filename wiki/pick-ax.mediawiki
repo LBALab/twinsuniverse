@@ -2,7 +2,26 @@
 title: Pick-ax
 ---
 
-[[Image:Pickax.gif|right|140px|thumb|A pick-ax]]
+{{twinsunica import}}{{Infobox Item
+ |image=Pickax.gif
+ |type=tool
+ |critical=yes
+ |magical=no
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=4
+ |columnposition=6
+ |effect=none
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
 
 '''Pick-ax''' is an object used to dig in grassy areas or to extract a piece from a hard object. It is mainly used by the [[Wannies]], to mine [[gems]]. Additionally, the [[Francos]] use them to search for their lost [[Francos fragment|fragment]]. Such axes are available for sale at the local [[Francos bazaar|bazaar]] for 20 [[Zlito]]s.
 
