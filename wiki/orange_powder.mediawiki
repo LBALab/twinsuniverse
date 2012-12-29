@@ -2,6 +2,26 @@
 title: Orange Powder
 ---
 
+{{twinsunica import}}{{Infobox Item
+ |image=
+ |type=bonus
+ |critical=no
+ |magical=yes
+ |unique=no
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=none
+ |columnposition=none
+ |effect=restores both
+ |effectamount=all
+ |purpose=
+ |combattype=none
+ |powerlevel=all
+ |rate=none
+ |range=none
+ |damage=none
+}}
 [[Image:Chedil Amiradoo.gif|right|thumb|[[Chedil Amiradoo]], peddler of the Orange Powder]]
 
 '''Orange Powder''' is a powder that allows recharging [[magic points|magic]] and [[life points]] to full capacity. Only fully qualified wizards are able to buy this powder. It is sold by [[Chedil Amiradoo]], who also sells various wizards' accessories. The price of one powder is 10 [[kash]]es.
@@ -11,5 +31,3 @@ After [[Twinsen]] finishes his studies in the [[School of Magic]] and becomes a 
 == Related Threads ==
 === General ===
 * {{thread|id=5663|title=Orange Powder}}
-
-[[Category: Consumables]]
