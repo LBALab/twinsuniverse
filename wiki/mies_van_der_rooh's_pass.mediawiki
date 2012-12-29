@@ -2,7 +2,26 @@
 title: Mies van der Rooh's Pass
 ---
 
-[[Image:Architects_pass.png|right|62px|frame|[[Mies van der Rooh]]'s pass]]
+{{twinsunica import}}{{Infobox Item
+ |image=Architects_pass.png
+ |type=key
+ |critical=
+ |magical=no
+ |unique=yes
+ |lba1=yes
+ |lba2=
+ |upgrades=no
+ |rowposition=
+ |columnposition=
+ |effect=
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
 
 '''Mies van der Rooh's pass''' is a card which [[Mies van der Rooh]] uses to enter the [[Teleportation Center]] in [[Brundle Island]].
 
