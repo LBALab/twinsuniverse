@@ -11,7 +11,7 @@ title: Undead Skeleton
  |lba2=yes
  |alignment=neutral
  |occupation=
- |requires=yellow
+ |requires=green
  |melee=yes
  |ranged=
  |magic=
