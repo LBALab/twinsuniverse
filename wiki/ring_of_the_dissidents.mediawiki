@@ -2,15 +2,34 @@
 title: Ring of the Dissidents
 ---
 
-[[Image:Ring.gif|right|100px|thumb|Ring of the Dissidents]]
+{{twinsunica import}}{{Infobox Item
+ |image=Ring.gif
+ |type=quest
+ |critical=yes
+ |magical=no
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=5
+ |columnposition=2
+ |effect=none
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
 
-The '''Ring of the Dissidents''' is a ring used as an identification sign of the [[Zeelich]]ian [[dissidents]], the small group opossing the [[Emperor]] and [[Dark Monk]]. This ring is a proof that the owner is to be trusted by them.
+The '''Ring of the Dissidents''' is a ring used as an identification sign of the [[Zeelich]]ian [[dissident]]s, the small group opossing the [[Emperor]] and [[Dark Monk]]. This ring is a proof that the owner is to be trusted by them.
 
 In the conversation with [[Johnny Rocket]] in the [[Imperial Hotel]], [[Twinsen]] receives from him the Dissidents Ring, which Johnny instructs him to show to the seller at the [[Twinsunian Souvenir Shop]]. After Twinsen shows him the ring, the seller opens a secret door in his shop, which leads down to the basement. There, Twinsen meets the dissidents, who instruct him about finding [[Island CX]].
 
-Later, in the [[Island of the Mosquibees]], [[Queen Astrid]] asks Twinsen for a proof of his good intentions. Twinsen does so by showing her the ring.
+Later, in the [[Island of the Mosquibees]], [[Astrid]] asks Twinsen for a proof of his good intentions. Twinsen does so by showing her the ring.
 
-If [[Twinsen]] shows the ring to the clerk of the [[Twinsunian Souvenir Shop]] after returning from [[Island CX]], the Clerk turns out to be an imposter, and shouts for the [[Franco guard]]s.
+If [[Twinsen]] shows the ring to the clerk of the [[Twinsunian Souvenir Shop]] after returning from [[Island CX]], the Clerk turns out to be an imposter, and shouts for the [[Franco Laser Soldier|guards]].
 
 ==Related threads==
 ===General===
@@ -18,5 +37,3 @@ If [[Twinsen]] shows the ring to the clerk of the [[Twinsunian Souvenir Shop]] a
 
 ===Fan Art===
 * {{post|id=112171|title=Lba3}}
-
-[[Category:Objects]]
