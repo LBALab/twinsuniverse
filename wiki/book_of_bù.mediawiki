@@ -5,7 +5,7 @@ title: Book of Bù
 {{twinsunica import}}{{Infobox Item
  |image=
  |type=
- |critical=
+ |critical=yes
  |magical=yes
  |unique=yes
  |lba1=yes
