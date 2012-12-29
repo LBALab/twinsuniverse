@@ -2,11 +2,30 @@
 title: Elves Club Blue Card
 ---
 
-[[Image:Elves blue card.png|right|59px|frame|Elves Club Blue Card]]
+{{twinsunica import}}{{Infobox Item
+ |image=Elves blue card.png
+ |type=key
+ |critical=yes
+ |magical=no
+ |unique=yes
+ |lba1=yes
+ |lba2=
+ |upgrades=no
+ |rowposition=
+ |columnposition=
+ |effect=
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=
+ |rate=none
+ |range=none
+ |damage=none
+}}
 
-The '''Elves Club Blue Card''' is a blue card coated with star powder. It is a proof that the owner is officially a part of the [[Elves]] Club. It also enables opening some gates around [[Twinsun]].
+The '''Elves Club Blue Card''' is a blue card coated with star powder. It is a proof that the owner is officially a part of the [[Elf|Elves]] Club. It also enables opening some gates around [[Twinsun]].
 
-[[Twinsen]] receives the card from [[Joe the Elf]], after finding him in a labyrinth in [[Desert Island]]. The card guarantees him an entrance to the Elves Club, as the fourth member there. Later on, after finding and releasing [[Raymond the Elf]], Twinsen receives from him some [[clovers]] as gratitude when showing him the card. Twinsen also needs the card in order to open specific gates around Twinsun, especially in the [[Hamalayi Mountains]] area.
+[[Twinsen]] receives the card from [[Joe the Elf]], after finding him in a labyrinth in [[Desert Island]]. The card guarantees him an entrance to the Elves Club, as the fourth member there. Later on, after finding and releasing [[Raymond the Elf]], Twinsen receives from him some [[clover leaf]]s as gratitude when showing him the card. Twinsen also needs the card in order to open specific gates around Twinsun, especially in the [[Hamalayi Mountains]] area.
 
 ==Related threads==
 ===General===
@@ -19,5 +38,3 @@ The '''Elves Club Blue Card''' is a blue card coated with star powder. It is a p
 ===Hints\Spoilers===
 * {{thread|id=443|title=IMPORTANT! Q ABOUT THE ELVES}}
 * {{thread|id=4946|title=Problem with blue card in LBA....}}
-
-[[Category:Objects]]
