@@ -11,9 +11,9 @@ title: Dr. FunFrock
  |lba2=yes
  |alignment=funfrock
  |occupation=
- |requires=
+ |requires=fire
  |melee=
- |ranged=
+ |ranged=yes
  |magic=
  |explosive=
  |range=
