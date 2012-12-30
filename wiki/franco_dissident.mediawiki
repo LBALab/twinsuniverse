@@ -1,0 +1,27 @@
+---
+title: Franco Dissident
+---
+
+{{Infobox Character
+ |image=Franco Dissident.png
+ |race=franco
+ |gender=male
+ |size=average
+ |age=adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=rebel
+ |occupation=Dissident
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+
+The '''Franco Dissident''' is
+
+{{stub}}
