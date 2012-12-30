@@ -3,7 +3,7 @@ title: Lt. Grap
 ---
 
 {{twinsunica import}}{{Infobox Character
- |image=Rebelbun.gif
+ |image=Lieutenant Grap1.png
  |race=Rabbibunny
  |gender=Male
  |size=average
@@ -27,8 +27,4 @@ title: Lt. Grap
 [[Twinsen]] meets Grap in a trench in Rebellion Island, and hears from him that the island is constantly bobmed. Grap tells Twinsen that he can take his buggy to reach the rebel camp.
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Rabbibunnies]]
-[[Category:Male characters]]
-[[Category:Average characters]]
-[[Category:Adult characters]]
 [[Category:Rebellion Island inhabitants]] -->
