@@ -3,7 +3,7 @@ title: FunFrock's Saber
 ---
 
 {{twinsunica import}}{{Infobox Item
- |image=Funfrock's saber.png
+ |image=Funfrock's saber1.png
  |type=weapon
  |critical=yes
  |magical=yes
