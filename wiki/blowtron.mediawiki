@@ -3,7 +3,7 @@ title: Blowtron
 ---
 
 {{twinsunica import}}{{Infobox Item
- |image=Blowgun2.gif
+ |image=Blowtron.gif
  |type=weapon
  |critical=acquired
  |magical=no
