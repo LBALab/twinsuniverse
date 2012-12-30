@@ -2,11 +2,15 @@
 title: The Zeelich Gazette
 ---
 
-{{Quote|
-Quote="THE ZEELICH GAZETTE: ...Johnny Rocket at the Imperial! Zeelich's brightest star, the first explorer to set foot on Twinsun, now lives on Otringal..."|
-Character=Headline of an issue of The Zeelich Gazette}}
+{{twinsunica import}}{{Infobox Story
+ |image=
+ |type=newspaper
+ |lba1=
+ |lba2=yes
+}}
+{{Quote
+ |quote=THE ZEELICH GAZETTE: ...Johnny Rocket at the Imperial! Zeelich's brightest star, the first explorer to set foot on Twinsun, now lives on Otringal...
+ |character=The Zeelich Gazette}}
 
 == Description ==
-'''The Zeelich Gazette''' is a newspaper published on [[Zeelich]]. Unlike other newspapers like [[The Inquirer]], it is not a serious newspaper, but most likely a paper of the yellow press, as it was not focussing on [[Twinsen]] like all other newspapers did after Twinsen was recognized by a [[Franco guard]] on the [[Island of the Celebration]], but rather tells about the life of [[Johnny Rocket]].
-
-[[Category: Newspapers]]
+'''The Zeelich Gazette''' is a newspaper published on [[Zeelich]]. Unlike other newspapers like [[The Inquirer]], it is not a serious newspaper. Most likely it is a paper of the yellow press, as it was not focussing on [[Twinsen]] like the other newspapers did after [[Twinsen]] was recognized by a [[Franco guard]] on the [[Island of the Celebration]], but rather tells about the life of [[Johnny Rocket]].
