@@ -3,7 +3,7 @@ title: Bob Vortix
 ---
 
 {{twinsunica import}}{{Infobox Character
- |image=Bob Vortix.gif
+ |image=Bob Vortix1.png
  |race=Sphero
  |gender=Male
  |size=Small
