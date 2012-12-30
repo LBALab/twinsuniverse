@@ -26,7 +26,7 @@ title: Bersimon
 
 The Weather Wizard is the only one capable of chasing the [[storm]] that prevents [[Twinsen]] from going to [[Desert Island]]. However, he has to stand at a high point in order to utter a conjuration, and the [[lighthouse]] is the only available place at the island. After Twinsen freed [[Raph]], the lighthouse keeper, Bersimon is able to stop the storm. Then, finally capable of landing, the [[Esmer]]s come.
 
-Bersimon also once hid [[Sendell's Ball]] in a cage of ice in the [[Citadel Island sewers|sewers]]. He already made a potion, which only needed a [[pearl of incandescence]] to become ready for use, for freeing the ball.
+Bersimon also once hid [[Sendell's Ball]] in a cage of ice in the [[Citadel Island sewers|sewers]]. He already made a potion, which only needed a [[Pearl of Incandescence]] to become ready for use, for freeing the ball.
 
 ==Related threads==
 ===General===
@@ -37,10 +37,5 @@ Bersimon also once hid [[Sendell's Ball]] in a cage of ice in the [[Citadel Isla
 * {{thread|id=155|title=Twinsun - a happy jolly place? I THINK NOT}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Rabbibunnies]]
-[[Category:Male characters]]
-[[Category:Average characters]]
-[[Category:Adult characters]]
 [[Category:Citadel Island inhabitants]]
-[[Category:Good]]
 [[Category:Key characters]] -->
