@@ -3,7 +3,7 @@ title: Gas
 ---
 
 {{twinsunica import}}{{Infobox Item
- |image=Gas_inventory.png
+ |image=Gas_inventory1.png
  |type=tool
  |critical=yes
  |magical=no
