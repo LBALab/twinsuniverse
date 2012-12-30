@@ -2,24 +2,27 @@
 title: Dark Monk's Prophecy
 ---
 
-[[Image:DARK.JPG|right|thumb|Dark Monk]]
+{{twinsunica import}}{{Infobox Story
+ |image=DARK.JPG
+ |type=legend
+ |lba1=
+ |lba2=yes
+}}
 
 '''Dark Monk's prophecy''' is a [[Zeelich]]ian prophecy which tells about the origin of the planet Zeelich and Dark Monk, and how one day Zeelich will become a beautiful planet again.
 
 ==The prophecy==
-The prophecy is scribed on a wall in [[Dark Monk's temple]] at the [[Island of Celebration]]:
+The prophecy is scribed on a wall in [[Dark Monk's Temple]] at the [[Island of Celebration]]:
+{{Quote
+ |quote=In the beginning, the 2 mother planets, Zeer (the sun) and Lich (the cold) met one another during the Oogh: the great cataclysm. From this Zeelich was born. Life appeared and the brotherhood of the Gods sent there the youngest son of the light, who was called Kard N'kom. Alas, some deleterious fumes emanating from the Great Sulfur Mine disfigured him. His horribly mutilated face escaped the Gods, and it was decided that Kard N'kom would have to forever hide his face and never again appear in front of the noble assembly. Condemned to roam the cosmos forever, Kard N'kom saw his Name erased from the divine law. He who wanders without a face became then known as Dark Monk... Zeelich was populated with 4 different races, condemned by the Gods to fight each other forever. But, life being stronger, the divine brotherhood hurled Zeelich into the first sun of the Novae system. This shock created the planet such as we know it: a blanket of clouds isolating the rocky summits from the melting ground.'''
 
-{{Quote|
-Quote=In the beginning, the 2 mother planets, Zeer (the sun) and Lich (the cold) met one another during the Oogh: the great cataclysm. From this Zeelich was born. Life appeared and the brotherhood of the Gods sent there the youngest son of the light, who was called Kard N'kom. Alas, some deleterious fumes emanating from the Great Sulfur Mine disfigured him. His horribly mutilated face escaped the Gods, and it was decided that Kard N'kom would have to forever hide his face and never again appear in front of the noble assembly. Condemned to roam the cosmos forever, Kard N'kom saw his Name erased from the divine law. He who wanders without a face became then known as Dark Monk... Zeelich was populated with 4 different races, condemned by the Gods to fight each other forever. But, life being stronger, the divine brotherhood hurled Zeelich into the first sun of the Novae system. This shock created the planet such as we know it: a blanket of clouds isolating the rocky summits from the melting ground.'''
+Then Dark Monk came back and announced the latest verdict from the Gods. The races were to fraternize and share the task of returning Zeelich to its former beauty. He unveiled a great wonder: from the deadly cloud, hideous monsters were born and threatened to invade the planet. But, thanks to his Key, Dark Monk also gave rise to a volcano which erupted and sculpted in basalt a gigantic statue in his image, holding the Stone Book of the 10,000 Names. At each ceremony, lightning would henceforth inscribe once more the Name of God, Dark Monk. Before disappearing, Dark Monk broke his Key into 4 pieces and thus revealed the Great Prophecy. On the day when the 10,000th Name of God is engraved the reunion of the 4 fragments of the Key will make the monsters and the gas disappear, and will give back to Zeelich the heavenly appearance of its origin. Life will then be reborn as it was in the time of Eden.
+ |character=Dark Monk's prophecy}}
 
-Then Dark Monk came back and announced the latest verdict from the Gods. The races were to fraternize and share the task of returning Zeelich to its former beauty. He unveiled a great wonder: from the deadly cloud, hideous monsters were born and threatened to invade the planet. But, thanks to his Key, Dark Monk also gave rise to a volcano which erupted and sculpted in basalt a gigantic statue in his image, holding the Stone Book of the 10,000 Names. At each ceremony, lightning would henceforth inscribe once more the Name of God, Dark Monk. Before disappearing, Dark Monk broke his Key into 4 pieces and thus revealed the Great Prophecy. On the day when the 10,000th Name of God is engraved the reunion of the 4 fragments of the Key will make the monsters and the gas disappear, and will give back to Zeelich the heavenly appearance of its origin. Life will then be reborn as it was in the time of Eden.|
-Character=The prophecy, from the walls inside Dark Monk's temple.}}
-
-A partial third part appears inside [[Dark Monk's statue]]:
-
-{{Quote|
-Quote=... and when the stranger appears, alone capable of reuniting the four keys, Dark Monk will oppose... ...in the ultimate celebration the monsters and the gas will disappear... in forgetfulness Dark Monk will go... ... and life will Zeelich regain...|
-Character=This is (partially) the third and final piece of the prophecy, which can be found inside the statue of Dark Monk.}}
+A partial third part appears inside [[Dark Monk's Statue]]:
+{{Quote
+ |quote=... and when the stranger appears, alone capable of reuniting the four keys, Dark Monk will oppose... ...in the ultimate celebration the monsters and the gas will disappear... in forgetfulness Dark Monk will go... ... and life will Zeelich regain...
+ |character=Dark Monk's prophecy}}
 
 ==In the game==
 [[Dr. FunFrock]], or a [[clone]] of him, somehow escaped from [[Twinsun]] after his fight with [[Twinsen]] and arrived on Zeelich, a grey planet surrounded with a thick layer of gas in which monsters float freely about and seas of lava flow underneath it. FunFrock, up for more evil plans, made a pact with the [[Emperor of Zeelich]], and disguised himself as Dark Monk, the God of Zeelich. The religious [[Esmers]] believed everything he said and prepared a plan to destroy Twinsun, because "Dark Monk" instructed them to do so. [[Jerome Baldino]] is right on time to find this out and calls in the help of Twinsen, now the well known savior of Twinsun.
@@ -41,5 +44,3 @@ Although FunFrock took the role of Dark Monk, the prophecy of Dark Monk must hav
 
 ===Fan Art===
 * {{thread|id=5533|title=Dark Monk}}
-
-[[Category:Legends]]
