@@ -3,7 +3,7 @@ title: Col. Kroptman
 ---
 
 {{twinsunica import}}{{Infobox Character
- |image=Kroptman.gif
+ |image=Colonel Kroptman1.png
  |race=Sphero
  |gender=Male
  |size=Small
