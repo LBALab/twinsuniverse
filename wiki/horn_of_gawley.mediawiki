@@ -3,8 +3,8 @@ title: Horn of Gawley
 ---
 
 {{twinsunica import}}{{Infobox Item
- |image=Horn_of_Gawley.png
- |type=
+ |image=Horn_of_Gawley1.png
+ |type=tool
  |critical=yes
  |magical=yes
  |unique=yes
