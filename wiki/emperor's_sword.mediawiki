@@ -25,14 +25,14 @@ title: Emperor's Sword
 
 The '''emperor's sword''' is the sword of the [[Emperor of Zeelich]]. It is one of the strongest weapons available on either [[Zeelich]] or [[Twinsun]].
 
-After killing the emperor, [[Twinsen]] gets his sword by openning the chest in the middle of the room using the [[key]] the emperor left behind him. The sword's behaviour, just like the [[magic ball]], changes according to Twinsen's behavior:
+After killing the emperor, [[Twinsen]] gets his sword by openning the chest in the middle of the room using the [[key]] the emperor left behind him. The sword's behaviour, just like the [[Magic Ball]], changes according to Twinsen's behavior:
 
 * '''Normal''': Twinsen hits the enemy by walking forward and cutting.
 * '''Sporty''': Twinsen jumpes back once and then forwards to hit the enemy.
 * '''Agressive''': Twinsen actes extremer than in Normal mode, and also jumps and turns a couple of times at the enemy.
 * '''Discreet''': Twinsen uses the sword as silent as possible. He also acts the least aggresive.
 
-Twinsen can immediately test the sword, as an [[hussars guard]] comes down the elevator as soon as the sword is in his possession. This is the only weapon which can defeat the guards at the palace, [[ring of lightning]] inclusive. Without it, Twinsen is not able to enter the [[Emperor's Palace]] in his search for the [[Sups Fragment]].
+Twinsen can immediately test the sword, as an [[hussars guard]] comes down the elevator as soon as the sword is in his possession. This is the only weapon which can defeat the guards at the palace, [[Ring of Lightning]] inclusive. Without it, Twinsen is not able to enter the [[Emperor's Palace]] in his search for the [[Sups Fragment]].
 
 ==Related threads==
 ===General===
