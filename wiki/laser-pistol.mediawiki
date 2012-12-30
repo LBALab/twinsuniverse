@@ -1,5 +1,5 @@
 ---
-title: Laser-pistol
+title: Laser-Pistol
 ---
 
 #REDIRECT [[Laser-Pistol of Zarnon]]
