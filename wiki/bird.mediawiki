@@ -1,0 +1,28 @@
+---
+title: Bird
+---
+
+{{Infobox Enemy
+ |image=
+ |race=creature|label=bird
+ |gender=
+ |size=small
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=
+ |requires=none
+ |melee=yes
+ |ranged=
+ |magic=
+ |explosive=
+ |range=none
+ |speed=
+ |damage=little
+ |rate=none
+ |reaction=
+ |recovery=
+}}
+
+'''Birds''' are
+{{stub}}
