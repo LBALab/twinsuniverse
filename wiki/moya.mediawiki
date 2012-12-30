@@ -26,6 +26,10 @@ title: Moya
 
 When [[Twinsen]] rings these bells, Moya comes and invites him to jump on her back to go somewhere. At the oasis, she brings Twinsen to a rock in the water where he can find a [[clover box]]. Near the harbour, she brings him to the [[Cave of the Pearl of Incandescence]].
 
+{{spoiler|
+*The Oasis ride leads to a clover box and the Beach ride leads to the cave with the [[Pearl of Incandescence]].
+}}
+
 ==Related threads==
 ===Hints\Spoilers===
 * {{thread|id=3823|title=Have you tried to give Moya the turtle your car on White Leaf Desert?}}
