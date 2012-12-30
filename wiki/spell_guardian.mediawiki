@@ -10,7 +10,7 @@ title: Spell Guardian
  |lba1=
  |lba2=yes
  |alignment=neutral
- |occupation=
+ |occupation=Guards the area
  |requires=green
  |melee=yes
  |ranged=yes
