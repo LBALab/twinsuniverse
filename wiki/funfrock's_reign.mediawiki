@@ -2,6 +2,12 @@
 title: FunFrock's Reign
 ---
 
+{{twinsunica import}}{{Infobox Story
+ |image=
+ |type=adventure
+ |lba1=yes
+ |lba2=
+}}
 {{Quote
  |quote=Meanwhile, a young [[quetch]] named [[Twinsen]] has been having strange dreams...
  |character=FunFrock's Reign{{!}}Relentless: Twinsen's Adventure (introduction)}}
@@ -15,7 +21,7 @@ title: FunFrock's Reign
 {{Quote
  |quote=Stop squirming, prisoner Twinsen!
  |character=Nurse}}
-Twinsen woke up in a small prison cell inside the [[Citadel]]. By drawing the attention of the [[quetch]] [[nurse]] who guards the jail cells, he managed to get close enough to the nurse to beat him up, and escape from the cell using the his elevator. Twinsen then managed to kill a [[doctor]], just before he could reach the alarm button, which would summon a [[Super-Grobo clone]] who would capture Twinsen and put him back in his cell.
+Twinsen woke up in a small prison cell inside the [[Citadel]]. By drawing the attention of the [[quetch]] [[nurse]] who guards the jail cells, he managed to get close enough to the nurse to beat him up, and escape from the cell using the his elevator. Twinsen then managed to kill a [[doctor]], just before he could reach the alarm button, which would summon a [[Supergro|Super-Grobo clone]] who would capture Twinsen and put him back in his cell.
 
 Exploring the facility for a bit (and killing a few other doctors who got in his), Twinsen was able to find a [[nurse's uniform]]. This disguise helped him get close enough to one of the doctors, so he could kill him before the doctor sounded the alarm.
 
@@ -25,9 +31,9 @@ After escaping from the Citadel, Twinsen faced another obstacle - the exit was g
 {{Quote
  |quote=I'm looking for a young girl. She is being escorted by two groboclones.
  |character=Twinsen}}
-Quickly, Twinsen ran across [[Citadel Island]], carefully avoiding several [[clones]] who were guarding the path, and looking after him. Finally, he reached [[Twinsen's house|his house]], where he was reunited with his girlfriend, [[Zoé]], but not for long... While Twinsen was hiding from the clones inside his home, a pair of [[Grobo clone]]s came to search for him. When they couldn't find him, they arrested Zoé, possibly so that Twinsen would come looking for her.
+Quickly, Twinsen ran across [[Citadel Island]], carefully avoiding several [[clone]]s who were guarding the path, and looking after him. Finally, he reached [[Twinsen's house|his house]], where he was reunited with his girlfriend, [[Zoé]], but not for long... While Twinsen was hiding from the clones inside his home, a pair of [[Grobo clone]]s came to search for him. When they couldn't find him, they arrested Zoé, possibly so that Twinsen would come looking for her.
 
-Twinsen left his house to search for Zoé, but remembered to take the [[Magic Ball]] and the [[Ancestral Tunic]] left by his ancestors, as they would undoubtedly help him fight the clones. While exploring Citadel Island, and asking people about Zoé, Twinsen ran into an old "friend" of his - the local [[Pharmacist (Quetch)|pharmacist]]. The pharmacist was quite scared when he saw Twinsen out of prison, as he was possibly the one to inform the authorities about Twinsen's dreams. In response to seeing Twinsen, he tried to raise the alarm, which forced Twinsen to kill him and the clone who came to arrest him. Seizing the opportunity, Twinsen also searched the [[pharmacy]] for any useful items, only to find a [[bottle of cherry syrup]], and some [[kashes]]. 
+Twinsen left his house to search for Zoé, but remembered to take the [[Magic Ball]] and the [[Ancestral Tunic]] left by his ancestors, as they would undoubtedly help him fight the clones. While exploring Citadel Island, and asking people about Zoé, Twinsen ran into an old "friend" of his - the local [[Pharmacist (Quetch)|pharmacist]]. The pharmacist was quite scared when he saw Twinsen out of prison, as he was possibly the one to inform the authorities about Twinsen's dreams. In response to seeing Twinsen, he tried to raise the alarm, which forced Twinsen to kill him and the clone who came to arrest him. Seizing the opportunity, Twinsen also searched the [[pharmacy]] for any useful items, only to find a [[Bottle of Syrup]], and some [[kashes]]. 
 
 Eventually, Twinsen found a [[grobo]] in [[Chez Luc]], who told him (in exchange for a drink) that he had seen Zoé and the grobos heading to [[Citadel Island Harbour|the port]]. Twinsen went to the port, and requested a [[ferry ticket]] - only to be recognized as an escapee, causing the ticket seller to sound the alarm. He quickly ran out, and found a rather disgruntled grobo sailor. The sailor was upset with his job, and offered Twinsen a ticket, if Twinsen could help him arrange the boxes in the [[warehouse]], [[wikipedia:Sokoban|Sokoban]] style. Of course, Twinsen agreed, and performed the job perfectly.
 
@@ -37,10 +43,10 @@ Eventually, Twinsen found a [[grobo]] in [[Chez Luc]], who told him (in exchange
 ===Desert Island and The Temple of Bù===
 {{Quote
  |quote=The secret of [[The Legend]] can still be learned somewhere in the [[White Leaf Desert]].
- |character=A book in the [[library]] at [[Principal Island]]}}
+ |character=A book in the library at Principal Island}}
 When he reached [[Desert Island]], Twinsen had to face many dangers. The only access to the island was through a beach, surrounded by a set of islets, which Twinsen had to carefully jump between (as Twinsen doesn't know how to swim). After avoiding several [[mines]] and [[machine gun]]s, Twinsen managed to grab a [[key]] from one of the [[Terrain soldier|soldier]]s, and access the restricted inner-area of Desert Island.
 
-There, Twinsen found an [[old rabbibunny]], sitting by a small well. The rabbibunny told him about the [[Temple of Bù]], an ancient temple buried under the sand. He informed Twinsen that the small well is in fact a ventilation shaft which leads inside the temple, which contained a [[Book of Bù|sacred book]]. The rabbibunny promised Twinsen that if he got him the book, he would tell him all he knows about The Legend.
+There, Twinsen found an [[Old Wiseman|old rabbibunny]], sitting by a small well. The rabbibunny told him about the [[Temple of Bù]], an ancient temple buried under the sand. He informed Twinsen that the small well is in fact a ventilation shaft which leads inside the temple, which contained a [[Book of Bù|sacred book]]. The rabbibunny promised Twinsen that if he got him the book, he would tell him all he knows about The Legend.
 
 The Temple of Bù was possibly the hardest part of Twinsen's adventure. Twinsen had to solve several difficult puzzles (such as pushing a statue from one end of the room to another, assisted by a series of elevators), all while avoiding numerous traps and enemies, such as spikes, fireball-shooting statues, [[skeleton]]s and strange [[bouncing rock]]s.
 
@@ -53,12 +59,12 @@ Strangely enough, the [[fisherman]] who transported Twinsen to [[Desert Island]]
 
 ===The Museum break-in===
 {{Quote
- |quote=[[the Heir's room|This room]] contains information and weapons that were amassed for generations to help the Heir who will, one day, be chosen from our descendants. The [[Key to the Heir's room|key]] to the room was passed down from generation to generation, but our ancestor [[Hégésippe]] was the last family member to retain the key. He was attacked and killed by the ruthless pirate [[LeBorgne]] during a sea voyage. Nobody knows where [[Leborgne's treasure]], which undoubtedly contains the golden key to the room, is today.
- |character=[[runes]] outside [[the Heir's room]]}}
+ |quote=[[the Heir's room|This room]] contains information and weapons that were amassed for generations to help the Heir who will, one day, be chosen from our descendants. The [[Ancestral Key|key]] to the room was passed down from generation to generation, but our ancestor [[Hégésippe]] was the last family member to retain the key. He was attacked and killed by the ruthless pirate [[LeBorgne]] during a sea voyage. Nobody knows where [[Leborgne's treasure]], which undoubtedly contains the golden key to the room, is today.
+ |character=runes outside the Heir's room}}
 
 After returning to [[Port-Belooga]], Twinsen met a [[sphero]] decided to sell his [[Catamaran|boat]]. Even though it was a bit pricey (at 200 [[kashes]]), Twinsen decided to buy the boat, thinking he is probably be better off traveling independently, knowing that a wanted poster with his picture is hung all around the main islands. Also, because of the numerous treasures he found in the [[Temple of Bù]], he could easily afford it.
 
-With his brand new sail-boat, Twinsen traveled back to [[Citadel Island]], to find more information regarding [[the Legend]] in [[Twinsen's house|his home]]. Twinsen remembered there was a cave underneath his home, with a [[the Heir's room|locked room]] and some strange runes he could not read. Now that he had the [[Book of Bù]] he was able to read them. According to the runes, the [[Key to the Heir's room|key to the room]] was taken a long time ago by a pirate named [[LeBorgne]], whose treasure's location is unknown. Twinsen soon went to seek information regarding LeBorgne and his treasure.
+With his brand new sail-boat, Twinsen traveled back to [[Citadel Island]], to find more information regarding [[Legend of Sendell|the Legend]] in [[Twinsen's house|his home]]. Twinsen remembered there was a cave underneath his home, with a [[the Heir's room|locked room]] and some strange runes he could not read. Now that he had the [[Book of Bù]] he was able to read them. According to the runes, the [[Ancestral Key|key to the room]] was taken a long time ago by a pirate named [[LeBorgne]], whose treasure's location is unknown. Twinsen soon went to seek information regarding LeBorgne and his treasure.
 
 After questioning several people around [[Principal Island]] and [[Citadel Island]], Twinsen found information regarding LeBorgne in the Principal Island [[library]]. According to a [[secret map of LeBorgne's treasure|secret map]], the treasure could be found somewhere on [[Proxima Island]]. Following the (very specific) instructions on the map, Twinsen found himself at the doorstep of the [[Maritime Museum]].
 
