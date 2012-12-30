@@ -1,0 +1,28 @@
+---
+title: Snake
+---
+
+{{Infobox Enemy
+ |image=
+ |race=creature|label=snake
+ |gender=
+ |size=small
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=
+ |requires=none
+ |melee=yes
+ |ranged=
+ |magic=
+ |explosive=
+ |range=none
+ |speed=
+ |damage=little
+ |rate=low
+ |reaction=
+ |recovery=
+}}
+
+'''Snakes''' live in
+{{stub}}
