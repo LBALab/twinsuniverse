@@ -13,9 +13,9 @@ __NOTOC__
 |-
 | style="vertical-align:top" |
 Welcome to the '''[[Twinsuniverse_Wiki Wiki:About|Twinsuniverse_Wiki Wiki]]'''. This is the product of what once started as the LBA compendium project in December 2000, and various other projects developed separately. The goal of this project is to make a complete knowledge base of the universe around the adventure games:<br>
-[[Little Big Adventure 1]] (Relentless){{superlink|article=wikipedia:Little Big Adventure|label=wikipedia}}{{superlink|article=FunFrock's Reign|label=the story}}<br>
-[[Little Big Adventure 2]] (Twinsen's Oddysey){{superlink|article=wikipedia:Little Big Adventure 2|label=wikipedia}}{{superlink|article=Twinsen's Odyssey|label=the story}}<br>
-[[Little Big Adventure 3]] (Stellar Entity Genesis){{superlink|article=wikipedia:Little Big Adventure 3|label=wikipedia}}{{superlink|article=Stellar Entity Genesis|label=the story}}
+[[Little Big Adventure 1]] (Relentless){{superlink|article=FunFrock's Reign|label=the story}}{{superlink|article=wikipedia:Little Big Adventure|label=wikipedia}}<br>
+[[Little Big Adventure 2]] (Twinsen's Oddysey){{superlink|article=Twinsen's Odyssey|label=the story}}{{superlink|article=wikipedia:Little Big Adventure 2|label=wikipedia}}<br>
+[[Little Big Adventure 3]] (Stellar Entity Genesis){{superlink|article=Stellar Entity Genesis|label=the story}}{{superlink|article=wikipedia:Little Big Adventure 3|label=wikipedia}}
 
 The Twinsuniverse_Wiki Wiki currently contains '''[[Twinsuniverse_Wiki Wiki:Statistics|{{NUMBEROFARTICLES}}]]''' articles.
 {{mbox|class=content|This is a complete knowledge base, so it is full with spoilers!! It is recommended not to read any further without having both games played. Otherwise, spoilers at your own risk.}}
