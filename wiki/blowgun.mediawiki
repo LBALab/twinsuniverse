@@ -3,7 +3,7 @@ title: Blowgun
 ---
 
 {{twinsunica import}}{{Infobox Item
- |image=Blowgun1.gif
+ |image=Blowgun.gif
  |type=weapon
  |critical=acquired
  |magical=no
