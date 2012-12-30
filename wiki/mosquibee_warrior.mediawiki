@@ -1,0 +1,28 @@
+---
+title: Mosquibee Warrior
+---
+
+{{Infobox Enemy
+ |image=Mosquibee Warrior.jpg
+ |race=mosquibee
+ |gender=male
+ |size=large
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=Test of Truth Opponent
+ |requires=green
+ |melee=
+ |ranged=yes
+ |magic=
+ |explosive=
+ |range=long
+ |speed=
+ |damage=
+ |rate=
+ |reaction=
+ |recovery=
+}}
+
+The '''Mosquibee Warrior''' is
+{{stub}}
