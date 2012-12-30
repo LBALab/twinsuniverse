@@ -3,7 +3,7 @@ title: Red Magnetic Card
 ---
 
 {{twinsunica import}}{{Infobox Item
- |image=Red card.png
+ |image=Red card1.png
  |type=key
  |critical=yes
  |magical=no
