@@ -3,7 +3,7 @@ title: Book of Bù
 ---
 
 {{twinsunica import}}{{Infobox Item
- |image=
+ |image=Book of bu1.png
  |type=
  |critical=yes
  |magical=yes
