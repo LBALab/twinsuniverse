@@ -3,7 +3,7 @@ title: Can of Gazogem
 ---
 
 {{twinsunica import}}{{Infobox Item
- |image=Gas inventory1.png
+ |image=
  |type=quest
  |critical=yes
  |magical=no
