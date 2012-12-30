@@ -3,7 +3,7 @@ title: Elves Club Blue Card
 ---
 
 {{twinsunica import}}{{Infobox Item
- |image=Elves blue card.png
+ |image=Elves blue card1.png
  |type=key
  |critical=yes
  |magical=no
