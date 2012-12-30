@@ -3,7 +3,7 @@ title: Piece of Rock Crystal
 ---
 
 {{twinsunica import}}{{Infobox Item
- |image=
+ |image=rockcrystal.png
  |type=component
  |critical=yes
  |magical=no
@@ -26,7 +26,7 @@ title: Piece of Rock Crystal
 
 '''Rock crystal''' is a mineral used to operate [[Laser-Pistol]]s. This element can mainly be found in the northern part of the [[Island of Celebration]].
 
-In order to reach the [[Under-Gas]], [[Twinsen]] first has to go to the [[Francos Harbour]], from which he can take a ship that brings him to the [[elevator to the Under-Gas]]. However, since the lifts that control the opening of the doors are too far to reach with the [[magic ball]], Twinsen needs a long-range weapon, such as the laser pistol.
+In order to reach the [[Under-Gas]], [[Twinsen]] first has to go to the [[Francos Harbour]], from which he can take a ship that brings him to the [[elevator to the Under-Gas]]. However, since the lifts that control the opening of the doors are too far to reach with the [[Magic Ball]], Twinsen needs a long-range weapon, such as the laser pistol.
 
 When Twinsen meets the [[dissidents]] in the [[Twinsunian Souvenir Shop]], they give him a laser pistol, and instruct him to find a piece of rock crystal in order to load it. Twinsen then goes to Celebration Island, and after circling the whole island, passing dangerous obstacles and escaping deadly lava balls, he eventually reaches the place where rock crystal is found. Once digging there using his [[pick-ax]], he obtains the rock crystal he needs, and is able to use the pistol.
 ==Related threads==
