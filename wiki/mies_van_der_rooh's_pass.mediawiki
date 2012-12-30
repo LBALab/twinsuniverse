@@ -1,30 +1,5 @@
 ---
-title: Mies van der Rooh's Pass
+title: Mies van der Rooh's pass
 ---
 
-{{twinsunica import}}{{Infobox Item
- |image=Architects_pass.png
- |type=key
- |critical=
- |magical=no
- |unique=yes
- |lba1=yes
- |lba2=
- |upgrades=no
- |rowposition=
- |columnposition=
- |effect=
- |effectamount=
- |purpose=
- |combattype=none
- |powerlevel=none
- |rate=none
- |range=none
- |damage=none
-}}
-
-'''Mies van der Rooh's pass''' is a card which [[Mies van der Rooh]] uses to enter the [[Teleportation Center]] in [[Brundle Island]].
-
-When [[Twinsen]] goes to Mies van der Rooh in his search for the plans of the Teleportation Center, he receives this pass from him. When Twinsen reaches the Teleportation Center, a [[nurse]] guarding the site asks for his identification. By showing him the architect's pass, Twinsen is able to safely pass through the gate and enter the building.
-
-The [[inventory]] description of the architect's pass gives a hint, saying that the [[Horn of Gawley]] is needed to enter the building.
+#REDIRECT [[Mies van der Rooh's Pass]]
