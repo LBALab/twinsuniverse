@@ -3,7 +3,7 @@ title: Raymond the Elf
 ---
 
 {{twinsunica import}}{{Infobox Character
- |image=Raymond.gif
+ |image=Raymond1.png
  |race=creature|label=elf
  |gender=male
  |size=small
@@ -39,7 +39,4 @@ Raymond later stands on the rocky peak nearby the station, and gives Twinsen 3 c
 
 <!-- remove these category links when they're all automated by categorizers...
 [[Category: Elves]]
-[[Category: Male characters]]
-[[Category: Small characters]]
-[[Category: Infant characters]]
 [[Category: Hamalayi Mountains inhabitants]] -->
