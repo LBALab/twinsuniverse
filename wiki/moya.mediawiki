@@ -22,7 +22,7 @@ title: Moya
  |building=
 }}
 
-'''Moya''' is a turtle residing inside the sea surrounding the [[Island of the White Leaf Desert]]. She is mostly seen around the southern beach of the island, either near the [[oasis]] or near the west side of [[Port-Ludo]]. Moya is willing to take people on her back for sea trips. To use her services, one should ring the bells located near either of those two places.
+'''Moya''' is a giant Sea Turtle residing inside the sea surrounding the [[Island of the White Leaf Desert]]. She is mostly seen around the southern beach of the island, either near the [[oasis]] or near the west side of [[Port-Ludo]]. Moya is willing to take people on her back for sea trips. To use her services, one should ring the bells located near either of those two places.
 
 When [[Twinsen]] rings these bells, Moya comes and invites him to jump on her back to go somewhere. At the oasis, she brings Twinsen to a rock in the water where he can find a [[clover box]]. Near the harbour, she brings him to the [[Cave of the Pearl of Incandescence]].
 
@@ -36,8 +36,5 @@ When [[Twinsen]] rings these bells, Moya comes and invites him to jump on her ba
 * {{thread|id=3696|title=>>!real Lba3 Screenshot!<<}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Female characters]]
-[[Category:Small characters]]
-[[Category:Adult characters]]
 [[Category:Desert Island inhabitants]]
 [[Category:Animals]] -->
