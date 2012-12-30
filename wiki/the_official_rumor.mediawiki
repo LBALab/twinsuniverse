@@ -2,18 +2,20 @@
 title: The Official Rumor
 ---
 
-[[Image:News.gif|right|55px|thumb|The Official Rumor]]
-
-{{Quote|
-Quote="THE OFFICIAL RUMOR: The Emperor asserts: Dark Monk will fulfill the prophecy, whether or not the mosquibees are willing to bring their fragment<nowiki>!!!</nowiki>"|
-Character=Headline of an issue of The Official Rumor}}
+{{twinsunica import}}{{Infobox Story
+ |image=News.gif
+ |type=newspaper
+ |lba1=
+ |lba2=yes
+}}
+{{Quote
+ |quote=THE OFFICIAL RUMOR: The Emperor asserts: Dark Monk will fulfill the prophecy, whether or not the mosquibees are willing to bring their fragment<nowiki>!!!</nowiki>
+ |character=Headline of an issue of The Official Rumor}}
 
 ==Description==
 '''The Official Rumor''' is a newspaper published on [[Zeelich]]. It is unknown whether it is a serious newspaper, calling itself a "rumor". It was focusing on [[Dark Monk]]'s ceremony as well as on [[Twinsen]] during Twinsen's second adventure.
 
 ==Additional Quotes==
-{{Quote|
-Quote="THE OFFICIAL RUMOR: Emperor Reveals: Dark Monk Warned Me! He predicted a Twinsunian dressed in blue would try to prevent our ceremony..."|
-Character=Another headline}}
-
-[[Category:Newspapers]]
+{{Quote
+ |quote=THE OFFICIAL RUMOR: Emperor Reveals: Dark Monk Warned Me! He predicted a Twinsunian dressed in blue would try to prevent our ceremony...
+ |character=Another headline}}
