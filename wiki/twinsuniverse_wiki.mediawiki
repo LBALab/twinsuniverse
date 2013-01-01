@@ -2,6 +2,7 @@
 title: Twinsuniverse Wiki
 ---
 
+__NOTOC__
 {| class="lastupdate"
 |-
 | class="lastupdate-left" | [[Image:Big_twinsun_with_blurred_atmosphere-cropped.png|240px|Twinsuniverse_Wiki Wiki]]
