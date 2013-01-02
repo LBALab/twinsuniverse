@@ -3,7 +3,7 @@ title: Magic Ball
 ---
 
 {{twinsunica import}}{{Infobox Item
- |image=Yellowbal.gif
+ |image=Yellowball.gif
  |type=weapon
  |critical=yes
  |magical=yes
@@ -27,9 +27,9 @@ The '''magic ball''' is a ball that stores a great deal of magic. This ball boun
 
 The color of the magic ball indicates the possessor's current level of magic. The magic levels are, from weakest to strongest: yellow, green, red and fire. To increase the magic level, one needs to recover magical items, one for each level.
 
-Every time one throws the magic ball, it uses some [[magic points]]. If the person is out of magic points, the ball can still be thrown, but it won't bounce any more, which dramatically decreases the ball range and functionality.
+Every time Twinsen throws his magic ball, it uses some [[Flask of Magic Powder|magic points]]. If the person is out of magic points, the ball can still be thrown, but it won't bounce any more, which dramatically decreases the ball range and functionality.
 
-The magic ball can be used for some special functions. Firstly, the trajectory of the ball can be altered by changing the [[behaviour mode]]. In discreet mode, for example, the ball is thrown higher instead of far. This is handy for reaching switches or enemies that can't be reached otherwise. Second, the magic ball can retrieve [[keys]]; if there is a key somewhere in the current scene, throwing the magic ball at it will pick it up and return it to the owner.
+The magic ball can be used for some special functions. Firstly, the trajectory of the ball can be altered by changing the [[behaviour mode]]. In discreet mode, for example, the ball is thrown higher instead of far. This is handy for reaching switches or enemies that can't be reached otherwise. Second, the magic ball can retrieve [[key]]s; if there is a key somewhere in the current scene, throwing the magic ball at it will pick it up and return it to the owner.
 
 The magic ball is [[Twinsen]]'s primary ranged weapon in his two adventures. Due to its great functionality and powerful shots, this weapon is most used by Twinsen in both his adventures, not only as a weapon, but also to reach switches and retrieve keys.
 
@@ -39,19 +39,19 @@ The four items Twinsen has to obtain in the two games in order to get a higher l
 * [[Ancestral Tunic]]
 * [[Book of Bù]]
 * [[Sendell's Medallion]]
-* [[Flask with Clear Water]]
+* [[Flask of Clear Water]]
 
 '''[[Little Big Adventure 2]]''':
-* [[Ancestral Tunic]] + [[Sendell's Medallion]]
-* [[Wizard's diploma]]
+* [[Ancestral Tunic]] + [[Sendell's Medallion]] (these are now one and the same)
+* [[Wizard's Diploma]]
 * [[Sendell's Ball]]
-* [[Dark Monk's key]]
+* [[Dark Monk's Key]]
 
 <gallery>
-Image:Yellowbal.gif|Yellow Magic Ball
-Image:Greenbal.gif|Green Magic Ball
-Image:Redbal.gif|Red Magic Ball
-Image:Firebal.gif|Fire Magic Ball
+Image:Yellowball.gif|Yellow Magic Ball
+Image:Greenball.gif|Green Magic Ball
+Image:Redball.gif|Red Magic Ball
+Image:Fireball.gif|Fire Magic Ball
 </gallery>
 
 ==Related threads==
