@@ -3,7 +3,7 @@ title: Beatrice
 ---
 
 {{twinsunica import}}{{Infobox Character
- |image=eatrice.jpg
+ |image=Rabbibrunette1.png
  |race=Rabbibunny
  |gender=Female
  |size=average
