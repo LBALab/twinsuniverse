@@ -11,7 +11,7 @@ title: Franco Army Bomber
  |lba2=yes
  |alignment=emperor
  |occupation=Franco Army
- |requires=green
+ |requires=red
  |melee=yes
  |ranged=yes
  |magic=
