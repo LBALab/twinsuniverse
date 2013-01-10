@@ -2,13 +2,17 @@
 title: Baldino's Spaceship
 ---
 
+{{Infobox Transport
+ |image=
+}}
+
 [[Image:Lba2 DECOLAG1.preview.jpg|right|200px|thumb|Baldino and his spaceship]]
 
 '''Baldino's Spaceship''' is a spaceship created by [[Jerome Baldino]]. It is a long, grey ship. It has some windows on its sides. Its side door automatically opens when someone approaches it.
 
-It can run with [[Gas|Twinsunian fuel]] or [[Gazogem]].
+It can run with [[Gas|Twinsunian fuel]] or [[Can of Gazogem|gazogem]].
 
-The spaceship is the first spacecraft created by a [[Twinsun]]ian. It was developed secretly by Baldino at his home in [[Port Ludo]] and stored under a giant tarpaulin next to his [[Jerome Baldino's residence|house]]. Baldino created the plans for it on his blackboard.
+The spaceship is the first spacecraft created by a [[Twinsun]]ian. It was developed secretly by Baldino at his home in [[Port-Ludo]] and stored under a giant tarpaulin next to his [[Jerome Baldino's residence|house]]. Baldino created the plans for it on his blackboard.
 
 [[Image:Lba2 ASTEROI.preview.jpg|left|200px|thumb|Baldino's Spaceship in space]]
 Baldino's Spaceship serves several times during Little Big Adventure 2.
@@ -22,7 +26,5 @@ However, the ship runs out of fuel, so Twinsen and Baldino crash-land on [[Otrin
 
 With his technical skills and probably the help of the Twinsunian wizards, Baldino finishes the repairs on his ship just in time when Twinsen is facing [[FunFrock]]. He manueveres the ship into [[Dark Monk's statue]] through a hole on its back. When FunFrock releases the cage with the children inside, attempting to throw it into the lava, it is caught by Baldino's Spaceship hovering above the lava.
 
-[[Image:Screenshot-lba2-movies-25-ending_1-END0450.gif|right|200px|thumb|The ship inside Dark Monk's statue]]
+[[Image:Screenshot-lba2-movies-25-ending_1-END0450.gif|right|200px|thumb|The ship inside Dark Monk's Statue]]
 After FunFrock's defeat, Twinsen and Baldino use the spaceship to emerge from Zeelich and head back to Twinsun, which is still threatened by the Emerald Moon.
-
-[[Category:Vehicles]]
