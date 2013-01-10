@@ -11,7 +11,7 @@ title: Money-Monkey
  |lba2=yes
  |alignment=mercenary
  |occupation=Assassin
- |requires=
+ |requires=red
  |melee=yes
  |ranged=yes
  |magic=
@@ -24,11 +24,11 @@ title: Money-Monkey
  |recovery=
 }}
 
-'''Money-Monkey''' is an assassin of an unknown race with four arms.
+'''Money-Monkey''' is an assassin of an unknown race with four arms, who receives orders from [[FunFrock]] to track [[Twinsen]] down and kill him, as revealed by himself{{gamequote|1666}}. He sents his spies after Twinsen. As Twinsen may notice they are eavesdropping at a conversation between him and [[Johnny Rocket]] at the [[Imperial Hotel]], from which he figured out Twinsen would be coming to the [[Elevator Platform]] to the [[Undergas]], where he waited for him{{gamequote|1667}}.
 
-Money-Monkey was sent by [[FunFrock]] to kill [[Twinsen]], as revealed by himself ({{gamequote|1666}}). Money-Monkey sent spies to follow Twinsen after he visited [[Johnny Rocket]], and thus figured out Twinsen would be coming to the [[Elevator to the Undergas]], where he waited for him ({{gamequote|1667}}).
+His two attacks both will hit Twinsen very hard (8-10 lifepoints). He throws explosive wooden crates at him from a distance as well, causing extra damage.
 
-When Twinsen has arrived to the elevator platform, he met Money-Monkey there. Entering the elevator requires a [[key]], so Twinsen has to kill the monkey first in order retrieve the key and get in. After killing Money-Monkey, Twinsen could enter the elevator, and reach the [[undergas]] of [[Zeelich]].
+When Twinsen has arrived to the elevator platform, he met the Money-Monkey for the first time. Entering the elevator requires a [[key]], so Twinsen had to kill the assassin first in order to retrieve the key and get in.
 
 ==Related threads==
 ===General===
