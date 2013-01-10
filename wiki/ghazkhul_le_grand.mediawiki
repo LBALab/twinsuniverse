@@ -24,19 +24,23 @@ title: Ghazkhul le Grand
  |recovery=
 }}
 
-'''Ghazkhul le Grand''' is an Orc, a Mercenary sent by Dark Monk (really [[Dr. FunFrock]]) to kill [[Twinsen]] before he could get to [[Island CX]]. He guards the [[Astrid|Queen of the Mosquibees']] throne, which is the secret entrance to Island CX. However, Twinsen is strong enough to be able to beat him and reach the island.
+'''Ghazkhul le Grand''' is an Orc, a [[:Category:Mercenaries|Mercenary]], assumably also an Assassin (like the [[Money-Monkey]]) sent by Dark Monk (really [[Dr. FunFrock]]) to kill [[Twinsen]] before he could get to [[Island CX]].
 
-The name "Ghazkul le Grand" is not mentioned in the actual game, only in the Little Big Adventure 2 website [http://www.littlebigadventure2.com/lba2/FAMILLE/OTHERSZ.HTM]
+The Orc is a monster larger than [[Twinsen]]. He carries a huge sword and can hit him very hard with multiple attacks (... lifepoints). He also has a considerable amount of lifepoints and that's why he is hard to kill.
+
+He guards the [[Astrid|Queen of the Mosquibees']] throne. However, Twinsen is strong enough to be able to beat him.
+
+The name "Ghazkul le Grand" is not mentioned in the actual game, only in the Little Big Adventure 2 website [http://www.littlebigadventure2.com/lba2/FAMILLE/OTHERSZ.HTM].
+
+{{stub}}
+
+{{spoiler
+ |The Orc is guarding the Secret Passage to Island CX, waiting for Twinsen to arrive.
+}}
 
 ==Related threads==
 ===General===
 * {{thread|id=7988|title=Ghazkhul le Grand}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Unknown Species]]
-[[Category:Male characters]]
-[[Category:Large characters]]
-[[Category:Adult characters]]
-[[Category:Mosquibees Island inhabitants]]
-[[Category:Foe]]
-[[Category:Melee fighters]] -->
+[[Category:Mosquibees Island inhabitants]] -->
