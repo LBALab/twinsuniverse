@@ -2,16 +2,18 @@
 title: Catamaran
 ---
 
+{{twinsunica import}}{{Infobox Transport
+ |image=
+}}
+
 [[Image:Catamara.gif|right|199px|thumb|The catamaran with the [[pirate flag]] attached.]]
 
 The '''catamaran''' is a yellow boat owned by [[Twinsen]] in Little Big Adventure 1. He uses it to get from one island to another on [[Twinsun]]'s [[Southern Hemisphere]].
 
 Twinsen buys the catamaran from a [[sphero]] sailor at [[Port-Belooga]] for 200 [[Kash]]es. He needs it to get to islands that are not available via [[ferry]] or the [[Fisherman]]'s boat, such as [[Proxima Island]] or the [[Hamalayi Mountains]].
 
-By attaching a [[pirate flag]] he stole from the [[Maritime Museum]] on [[Proxim-City]] to the catamaran, Twinsen gives a proof of his good intentions to the [[rebels]] on [[Rebellion Island]], and is thus able to dock there.
+By attaching a [[pirate flag]] he stole from the [[Maritime Museum]] on [[Proxim-City]] to the catamaran, Twinsen gives a proof of his good intentions to the [[rebel]]s on [[Rebellion Island]], and is thus able to dock there.
 
 ==Related threads==
 * {{thread|id=12620|title=buying the boat thing}}
 * {{thread|id=12743|title=where's my catamaran :(}}
-
-[[Category:Vehicles]]
