@@ -22,9 +22,9 @@ title: Adelaïde
  |building=
 }}
 
-Adelaïde is a tourist on [[Zeelich]] from an unknown planet. He looks a little like an ant.
+Adelaïde is an ant-like tourist on [[Zeelich]] from the Red Planet. He likes the planet of Zeelich at first, believing that it has good law and order and clean streets and he highly respects the Esmers, but he soon changes his mind.
 
-Adelaïde just walks around for his vacation on Zeelich. He realizes very soon that the Zeelichians are worth less than they say, and can thus warn [[Twinsen]] about the [[casino]].
+Adelaïde just walks around for his vacation on Zeelich. Very soon he realizes that the Zeelichians are worth less than they say, and warns [[Twinsen]] about the [[casino]].
 
 ==Related threads==
 ===General===
@@ -34,9 +34,4 @@ Adelaïde just walks around for his vacation on Zeelich. He realizes very soon t
 * {{post|id=112171|title=Lba3}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Unknown Species]]
-[[Category:Male characters]]
-[[Category:Small characters]]
-[[Category:Adult characters]]
-[[Category:Otringal inhabitants]]
-[[Category:Neutral]] -->
+[[Category:Otringal inhabitants]] -->
