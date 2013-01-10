@@ -2,11 +2,15 @@
 title: Esmer shuttle
 ---
 
+{{twinsunica import}}{{Infobox Transport
+ |image=
+}}
+
 [[Image:Screenshot-lba2-movies-07-esmers_shuttle-VOYAGEZ43.gif|right|thumb|200px|Esmer shuttle in-flight through space]]
 
 The '''Esmer shuttle''' is a flying ship used for transportations of persons and goods. It's most remarkable for being able to make inter-planetary flights, but can also be used for flights within the atmosphere of a planet.
 
-This shuttle was developed by and is most frequently used by [[Esmers]], particularly the [[Sups]]. It was first spotted on [[Twinsun]] not long before the [[Esmer#The_Esmer_invasion|Esmer invasion]].
+This shuttle was developed by and is most frequently used by [[Esmer]]s, particularly the [[Sup]]s. It was first spotted on [[Twinsun]] not long before the [[Esmer#The_Esmer_invasion|Esmer invasion]].
 
 There is just one standardized model of the shuttle, allowing the use of efficient space ports, standard sized landing pads, and it eases maintenance and production. The [[Emperor of Zeelich]] had his [[#The_Emperor\'s_shuttle|personal shuttle]] customized slightly.
 
@@ -45,7 +49,7 @@ The esmer shuttles have a big role in [[Twinsen]]'s second adventure. Not only d
 Twinsen first encounters the Esmer shuttle among with many other Twinsunians, when [[Johnny Rocket]]'s shuttle lands on [[Citadel Island]] and others on [[Desert Island]]. During his journeys, Twinsen travels in a shuttle several times:
 
 <ol><li>When traveling to [[Otringal]], [[Zeelich]] while disguised as a Twinsunian wizard;</li>
-<li>When escaping the [[Otringal prison|prison]] there and returning to Twinsun. This time he crashes his shuttle in the [[Flower Circle]] on the [[Citadel Island cliffs]];</li>
+<li>When escaping the [[Otringal prison|prison]] there and returning to Twinsun. This time he crashes his shuttle in the [[Ridge of the Flowers Circle]] on the [[Citadel Island cliffs]];</li>
 <li>When traveling to the [[moon base]] on [[Emerald Moon]], departing from the [[secret esmers base]] on [[Desert Island]];</li>
 <li>Using the Emperor's shuttle, to get from [[Island CX]]</li> to [[Upper city|upper-town]] Otringal, right outside the [[Emperor's palace]].</li>
 </ol>
