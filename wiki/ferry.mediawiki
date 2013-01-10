@@ -2,6 +2,10 @@
 title: Ferry
 ---
 
+{{twinsunica import}}{{Infobox Transport
+ |image=
+}}
+
 [[Image:02_ferry.gif|right|200px|thumb|The old ferry.]]
 
 '''Ferries''' in the [[Little Big Adventure]] games are used as services between [[Citadel Island]], [[Principal Island]] and later the [[Island of the White Leaf Desert]]. Passengers have to buy a [[ferry ticket]] to board.
@@ -20,5 +24,3 @@ In LBA 2, Twinsen uses the ferry to get to the [[Island of the White Leaf Desert
 
 ===Fan Art===
 * {{thread|id=9675|title=The ferry}}
-
-[[Category:Vehicles]]
