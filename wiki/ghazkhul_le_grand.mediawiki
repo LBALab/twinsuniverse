@@ -11,7 +11,7 @@ title: Ghazkhul le Grand
  |lba2=yes
  |alignment=mercenary
  |occupation=
- |requires=
+ |requires=red
  |melee=yes
  |ranged=
  |magic=
