@@ -9,7 +9,7 @@ title: Beatrice
  |size=average
  |age=Adult
  |magical=
- |lba1=
+ |lba1=yes
  |lba2=
  |alignment=
  |occupation=
@@ -27,8 +27,4 @@ title: Beatrice
 Beatrice tells [[Twinsen]] about the [[clover box]] on the island across her house, and about him needing to fly in order to reach it, hinting about the [[proto-pack]].
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Rabbibunnies]]
-[[Category:Female characters]]
-[[Category:Average characters]]
-[[Category:Adult characters]]
 [[Category:Principal Island inhabitants]] -->
