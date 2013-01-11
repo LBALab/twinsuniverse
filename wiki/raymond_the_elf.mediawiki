@@ -11,7 +11,7 @@ title: Raymond the Elf
  |magical=yes
  |lba1=yes
  |lba2=
- |alignment=
+ |alignment=sendell
  |occupation=
  |requires=
  |amount=
@@ -24,7 +24,7 @@ title: Raymond the Elf
 
 '''Raymond the Elf''' is one of two [[elf|elves]] in [[Little Big Adventure 1]]. He looks just like [[Joe the Elf]], only his clothes are coloured blue.
 
-[[Twinsen]] finds Raymond locked in a cell in the subway station at the [[Hamalayi Mountains]]. A [[nurse]] in the station tells Twinsen that he captured the elf, but now does not know what to do with it, as officially it does not exist. By killing the nurse, Twinsen gets the [[key]] to the cell, and is thus able to free Raymond. As a gratitude, Raymond shows Twinsen on his [[holomap]] the location of [[Clear Water Lake]]. By showing him the [[Elves club blue card]], Twinsen also receives from Raymond 3 [[clover leaves]].
+[[Twinsen]] finds Raymond locked in a cell in the subway station at the [[Hamalayi Mountains]]. A [[nurse]] in the station tells Twinsen that he captured the elf, but now does not know what to do with it, as officially it does not exist. By killing the nurse, Twinsen gets the [[key]] to the cell, and is thus able to free Raymond. As a gratitude, Raymond shows Twinsen on his [[holomap]] the location of [[Clear Water Lake]]. By showing him the [[Elves Club Blue Card]], Twinsen also receives from Raymond 3 [[clover leaves]].
 
 Raymond later stands on the rocky peak nearby the station, and gives Twinsen 3 clover leaves every time he shows him the card again.
 
@@ -38,5 +38,4 @@ Raymond later stands on the rocky peak nearby the station, and gives Twinsen 3 c
 * {{thread|id=3150|title=My first Lba image}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category: Elves]]
-[[Category: Hamalayi Mountains inhabitants]] -->
+[[Category:Hamalayi Mountains inhabitants]] -->
