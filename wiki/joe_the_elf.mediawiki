@@ -11,7 +11,7 @@ title: Joe the Elf
  |magical=yes
  |lba1=yes
  |lba2=yes
- |alignment=
+ |alignment=sendell
  |occupation=
  |requires=
  |amount=
@@ -61,9 +61,5 @@ In prison, Joe teleports himself into Twinsen's cell. He tells Twinsen about the
 * {{thread|id=3150|title=My first Lba image}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Elves]]
-[[Category:Male characters]]
-[[Category:Small characters]]
-[[Category:Infant characters]]
 [[Category:Desert Island inhabitants]]
 [[Category:Citadel Island inhabitants]] -->
