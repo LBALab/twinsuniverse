@@ -11,7 +11,7 @@ title: Funky Rabbibunny
  |magical=no
  |lba1=yes
  |lba2=
- |alignment=
+ |alignment=neutral
  |occupation=
  |requires=
  |amount=
@@ -26,11 +26,7 @@ The '''funky rabbibunny''' is a nameless [[rabbibunny]] patrolling in [[Funky-To
 
 Following the advice of a [[sphero]] he meets when arriving to Tippett Island, [[Twinsen]] goes to talk with the rabbibunny, who for 10 kashes on each item sells him the information he knows regarding the [[Cloning Center]], the [[Teleportation Center]] and the [[Mutant Factory]].
 
-The rabbibunny hints Twinsen that it is possible to jump on the [[crabs]] in the [[sewers]] as a way of crossing the water, and that he needs a proper ID card to enter the Teleportation Center.
+The rabbibunny hints Twinsen that it is possible to jump on the [[crab]]s in the [[sewers]] as a way of crossing the water, and that he needs a proper ID card to enter the Teleportation Center.
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Rabbibunnies]]
-[[Category:Male characters]]
-[[Category:Average characters]]
-[[Category:Adult characters]]
 [[Category:Tippett Island inhabitants]] -->
