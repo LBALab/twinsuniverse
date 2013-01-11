@@ -8,11 +8,11 @@ title: Bob Vortix
  |gender=Male
  |size=Small
  |age=Adult
- |magical=
+ |magical=no
  |lba1=yes
  |lba2=
  |alignment=neutral
- |occupation=
+ |occupation=Astronomer
  |requires=
  |amount=
  |fam1=
