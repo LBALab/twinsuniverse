@@ -8,10 +8,10 @@ title: Drunk Rabbibunny
  |gender=Male
  |size=average
  |age=Adult
- |magical=
+ |magical=no
  |lba1=
- |lba2=
- |alignment=
+ |lba2=yes
+ |alignment=neutral
  |occupation=
  |requires=
  |amount=
@@ -27,8 +27,4 @@ The '''drunk rabbibunny''' is a nameless [[rabbibunny]] who sits in [[Chez Luc]]
 [[Twinsen]] does not have to talk to this rabbibunny, but he can receive from him a clue about the hole in cellar, leading down to the [[Citadel Island sewers|sewers]], where Twinsen finds [[Sendell's Ball]].
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category: Rabbibunnies]]
-[[Category: Male characters]]
-[[Category: Average characters]]
-[[Category: Adult characters]]
 [[Category: Citadel Island inhabitants]] -->
