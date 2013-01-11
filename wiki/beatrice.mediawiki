@@ -8,10 +8,10 @@ title: Beatrice
  |gender=Female
  |size=average
  |age=Adult
- |magical=
+ |magical=no
  |lba1=yes
  |lba2=
- |alignment=
+ |alignment=neutral
  |occupation=
  |requires=
  |amount=
