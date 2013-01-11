@@ -11,7 +11,7 @@ title: Ferry Ticket Clerk (Rabbibunny)
  |magical=no
  |lba1=yes
  |lba2=
- |alignment=
+ |alignment=neutral
  |occupation=
  |requires=
  |amount=
@@ -24,7 +24,7 @@ title: Ferry Ticket Clerk (Rabbibunny)
 
 {{quote
  |quote="Sound the alarm! It's the escapee!"
- |character=Ticket Clerk (Rabbibunny)
+ |character=Ferry Ticket Clerk (Rabbibunny)
 }}
 
 ==Description==
