@@ -8,11 +8,11 @@ title: Felix
  |gender=Male
  |size=average
  |age=Adult
- |magical=
+ |magical=no
  |lba1=
- |lba2=
+ |lba2=yes
  |alignment=neutral
- |occupation=
+ |occupation=Fisherman
  |requires=
  |amount=
  |fam1=
@@ -35,8 +35,4 @@ When Twinsen hits Felix, the rabbibunny drops his fishing pole, runs to the wate
 * {{thread|id=328|title=Secrets}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Rabbibunnies]]
-[[Category:Male characters]]
-[[Category:Average characters]]
-[[Category:Adult characters]]
 [[Category:Citadel Island inhabitants]] -->
