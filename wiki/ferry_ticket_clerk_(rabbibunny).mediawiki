@@ -1,5 +1,39 @@
 ---
-title: Ferry ticket clerk (rabbibunny)
+title: Ferry Ticket Clerk (Rabbibunny)
 ---
 
-#REDIRECT [[Ferry Ticket Clerk (Rabbibunny)]]
+{{twinsunica import}}{{Infobox Character
+ |image=Ticket_clerk_rabbibunny.JPG
+ |race=Rabbibunny
+ |gender=Male
+ |size=average
+ |age=Adult
+ |magical=no
+ |lba1=yes
+ |lba2=
+ |alignment=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+
+{{quote
+ |quote="Sound the alarm! It's the escapee!"
+ |character=Ticket Clerk (Rabbibunny)
+}}
+
+==Description==
+
+A rabbibunny ticket Clerk for the ferry on Citadel Island in LBA1.
+
+==Role in Twinsen's adventure==
+
+He calls securities when he recognizes Twinsen is wanting to get a ferry ticket.
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category: Citadel Island inhabitants]] -->
