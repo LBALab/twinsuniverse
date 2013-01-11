@@ -14,7 +14,7 @@ title: Chedil Amiradoo
  |alignment=sendell
  |occupation=Peddler
  |requires=Wizard's Diploma
- |amount=
+ |amount=1
  |fam1=
  |fam2=
  |planet=
