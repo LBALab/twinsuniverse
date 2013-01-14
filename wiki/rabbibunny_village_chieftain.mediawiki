@@ -8,10 +8,10 @@ title: Rabbibunny Village Chieftain
  |gender=male
  |size=average
  |age=Adult
- |magical=
+ |magical=no
  |lba1=aye
  |lba2=
- |alignment=
+ |alignment=neutral
  |occupation=
  |requires=
  |amount=
