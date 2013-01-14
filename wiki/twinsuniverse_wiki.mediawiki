@@ -9,7 +9,7 @@ __NOTOC__
 | class="lastupdate-right" | {{newslist|mode=latest}}
 |}
 
-{| style="width: 75%; margin: 0px auto; text-align: center;"
+{| style="width: 95%; margin: 0px auto; text-align: center;"
 |-
 | style="vertical-align:top" |
 Welcome to the '''[[Twinsuniverse_Wiki Wiki:About|Twinsuniverse_Wiki Wiki]]'''. This is the product of what once started as the LBA compendium project in December 2000, and various other projects developed separately. The goal of this project is to make a complete knowledge base of the universe around the adventure games:<br>
