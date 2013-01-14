@@ -18,7 +18,7 @@ Welcome to the '''[[Twinsuniverse_Wiki Wiki:About|Twinsuniverse_Wiki Wiki]]'''. 
 [[Little Big Adventure 3]] (Stellar Entity Genesis){{superlink|article=Stellar Entity Genesis|label=the story}}{{superlink|article=wikipedia:Little Big Adventure 3|label=wikipedia}}
 
 The Twinsuniverse_Wiki Wiki currently contains '''{{NUMBEROFARTICLES}}''' articles and '''{{NUMBEROFFILES}}''' files. [[Special:Statistics|More numbers]]
-{{mbox|class=content|This is a complete knowledge base, so it is full with spoilers!! It is recommended not to read any further without having both games played. Otherwise, spoilers at your own risk.}}
+{{mbox|class=content|This knowledge base is full with spoilers! It is recommended not to read any further without having both games played. Otherwise, spoilers at your own risk!}}
 |}
 
 {{mainnavigation}}
