@@ -8,10 +8,10 @@ title: Pharmacist (Rabbibunny)
  |gender=female
  |size=average
  |age=adult
- |magical=
+ |magical=no
  |lba1=
  |lba2=oui
- |alignment=
+ |alignment=neutral
  |occupation=
  |requires=
  |amount=
