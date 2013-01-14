@@ -5,7 +5,7 @@ title: Undead Skeleton
 {{Infobox Enemy
  |image=Skeleton.png
  |race=rabbibunny
- |gender=
+ |gender=none
  |size=average
  |lba1=yes
  |lba2=yes
