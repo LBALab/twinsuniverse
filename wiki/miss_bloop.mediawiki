@@ -11,7 +11,7 @@ title: Miss Bloop
  |magical=no
  |lba1=
  |lba2=yes
- |alignment=
+ |alignment=neutral
  |occupation=
  |requires=
  |amount=
