@@ -5,7 +5,7 @@ title: Spell Guardian
 {{Infobox Enemy
  |image=Spell Guardian.png
  |race=creature
- |gender=
+ |gender=none
  |size=large
  |lba1=
  |lba2=yes
