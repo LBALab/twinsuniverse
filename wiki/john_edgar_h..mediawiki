@@ -10,7 +10,7 @@ title: John Edgar H.
  |lba1=
  |lba2=yes
  |alignment=emperor
- |occupation=SBI
+ |occupation=SBI Agent
  |requires=yellow
  |melee=
  |ranged=yes
@@ -35,9 +35,4 @@ Twinsen eventually sneaks into an [[esmer shuttle]], and notices John receiving 
 {{thread|id=7614|title=John Edgar H. ?}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Sups]]
-[[Category:Male characters]]
-[[Category:Average characters]]
-[[Category:Adult characters]]
-[[Category:Imperial Legion]]
 [[Category:Gun wielders]] -->
