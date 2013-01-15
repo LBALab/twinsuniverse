@@ -17,8 +17,8 @@ title: Sendell
  |amount=
  |fam1=
  |fam2=
- |planet=
- |island=
+ |planet=Twinsun
+ |island=Well of Sendell
  |building=
 }}
 
