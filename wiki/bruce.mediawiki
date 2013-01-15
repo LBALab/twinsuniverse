@@ -12,7 +12,7 @@ title: Bruce
  |lba1=
  |lba2=yes
  |alignment=neutral
- |occupation=
+ |occupation=Plays guitar
  |requires=
  |amount=
  |fam1=
@@ -27,8 +27,4 @@ title: Bruce
 Bruce disappears from his usual location after the invasion of the [[esmer]]s, and is not seen again in the game.
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Spheroes]]
-[[Category:Male characters]]
-[[Category:Small characters]]
-[[Category:Adult characters]]
 [[Category:Desert Island inhabitants]] -->
