@@ -12,7 +12,7 @@ title: Franckie
  |lba1=
  |lba2=yes
  |alignment=neutral
- |occupation=
+ |occupation=Barkeeper
  |requires=
  |amount=
  |fam1=
@@ -27,8 +27,4 @@ title: Franckie
 Franckie gives Twinsen a small hint, to search for clues about the lost fragment in [[Roger de la Fontaine]]'s [[Roger de la Fontaine's house|house]].
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category: Francos]]
-[[Category: Male characters]]
-[[Category: Average characters]]
-[[Category: Adult characters]]
 [[Category: Francos Island inhabitants]] -->
