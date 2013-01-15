@@ -25,8 +25,10 @@ title: Sendell
 [[Image:Sendell.gif|right|145px|thumb|Sendell]]
 
 ==Description==
-See [[Legend of Sendell]]. Sendell is one of the god-like creatures called Sendells. As Sendell told Twinsen at the end of his first adventure, they were there to watch over a Stellar Entity.
+'''Sendell''' is one of the god-like creatures of the planet [[Twinsun]], called Sendells, who gives [[Twinsen]] his magical powers (see [[Legend of Sendell]]). As Sendell told Twinsen at the end of his first adventure, they were there to watch over a [[Stellar Entity Genesis|Stellar Entity]].
 {{stub}}
+
+{{spoiler|After Twinsen returns to Twinsun, Sendell comes to his rescue to help him push the Emerald Moon back into orbit.}}
 
 ==Related threads==
 ===General===
