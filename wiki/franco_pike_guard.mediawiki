@@ -2,7 +2,7 @@
 title: Franco Pike Guard
 ---
 
-{{twinsunica import}}{{mbox|class=move|This article tells about both '''Franco Pike Guards''' and [[Franco Laser Soldier]]s. It should therefor be split and renamed.}}{{Infobox Enemy
+{{twinsunica import}}{{Infobox Enemy
  |image=Franco Pike Guard.jpg
  |race=franco
  |gender=male
@@ -24,19 +24,15 @@ title: Franco Pike Guard
  |recovery=Fast
 }}
 
-'''Franco guards''' are omnipresent soldiers of the [[Emperor]]'s army on [[Zeelich]]. They can be seen with different weapons, from long pikes to big laser guns. They are seen at any place needing guarding, like the [[astroport]], the [[gazogem refinery]], and on many streets throughout the entire planet. Together with [[franco]] technicancs they build the crew of the [[Emerald Moon base]].
+'''Franco Pike Guards''' are omnipresent guards of the [[Emperor]]'s [[:category:Imperial Legion|army]] on [[Zeelich]]. They wield a long pike. They are seen at any place needing minor guarding, like the [[astroport]], the [[gazogem refinery]], and on many streets throughout the entire planet. Together with [[Franco Technician]]s they build the crew of the [[Emerald Moon base]].
 
-Along with the [[Esmer]] invasion on [[Twinsun]] they can be seen in the streets of [[Lupin-Burg]] and [[Port-Ludo]] and the [[secret esmer base]].
+Along with the [[Esmer invasion]] on [[Twinsun]] they can be seen in the streets of [[Lupin-Bourg]], [[Port-Ludo]] and the [[secret esmer base]].<sup>[move to [[Franco Skater Green|skaters]] article]</sup>
 
-They are guarding the little harbour at the [[Island of the Celebration]], and are stationed on [[Island CX]].
+They are guarding the little harbour at the [[Island of the Celebration]], and are stationed next to [[Otringal Prison]].
 
-The military troops of the Emperor attacking the [[village of the mosquibees]] was mainly consiting of franco guards and paratroopers.
+The military troops of the Emperor attacking the [[village of the mosquibees]] was mainly consiting of franco guards and paratroopers.<sup>[move to [[Franco Army Soldier|army soldier]] article]</sup>
 
-Due to their omnipresence, [[Twinsen]] often can not make a way around the franco guards. Particulary at the [[astroport]], the [[Island of the Wannies]], and [[Island CX]], he has to battle them, sometimes to get a [[key]].
-
-With his rising strength, Twinsen can defeat them more easily, though they are still a threat by their number. For instance, the small streets of the [[Island of the Wannies]] are guarded by at least eight guards.
-
-When setting of an alarm in an airlock of the [[Emerald Moon base]], Twinsen is able to lure a guard into it. He quickly takes on his space suit and opens the outer doors. Thus the franco guard, not wearing a space suit, is sucked out of the room into space.
+When setting off an alarm in an airlock of the [[Emerald Moon base]], Twinsen is able to lure a guard into it. He quickly takes on his space suit and opens the outer doors. Thus the franco guard, not wearing a space suit, is sucked out of the room into space.
 
 ==Related Threads==
 ===General===
@@ -47,7 +43,5 @@ When setting of an alarm in an airlock of the [[Emerald Moon base]], Twinsen is 
 * {{thread|id=4682|title=Do you think that Fraco guards are Clones?}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Imperial Legion]]
-[[Category:Melee fighters]]
 [[Category:Gun wielders]]
 [[Category:Francos]] -->
