@@ -12,7 +12,7 @@ title: Valentin
  |lba1=
  |lba2=yes
  |alignment=neutral
- |occupation=
+ |occupation=Miner
  |requires=
  |amount=
  |fam1=
@@ -26,15 +26,10 @@ title: Valentin
  |character=Valentin}}
 
 ==Description==
-Valentine is just one of the many inhabitants on the [[Island of the Francos]], who is searching for the lost [[Franco Key Fragment]]. He uses a dowsing pendulum to find it.
+Valentin is a [[Franco]] Miner, one of the many inhabitants on the [[Island of the Francos]]. Just like all the other Francos on the island, Valentin is searching for their lost [[Francos Fragment|Key Fragment]]. He uses a dowsing pendulum to find it.
 
 ==Role in Twinsen's adventure==
 Valentin gave [[Twinsen]] a clue, that the fragment might be buried near the gas.
 
 <!-- remove these category link when they're all automated by categorisers...
-[[Category:Francos]]
-[[Category:Male characters]]
-[[Category:Average characters]]
-[[Category:Adult characters]]
-[[Category:Francos Island inhabitants]]
-[[Category:Neutral]] -->
+[[Category:Francos Island inhabitants]] -->
