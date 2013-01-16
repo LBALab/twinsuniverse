@@ -22,11 +22,11 @@ title: Roger de la Fontaine's Brother
  |building=
 }}
 
-'''Roger de la Fontaine's brother''' is [[Franco]] whose name is unknown. He was the brother of [[Roger de la Fontaine]], the late Burgermaster of the [[Island of the Francos]].
+'''Roger de la Fontaine's Brother''' is [[Franco]] whose name is unknown. He was the brother of [[Roger de la Fontaine]], the late Burgermaster of the [[Island of the Francos]].
 
-Even though the rest of the island is caught up in the treasure hunt for the lost [[Francos fragment]], Roger's brother does nothing to help try and find it.
+Even though the rest of the island is caught up in the treasure hunt for the lost [[Francos Fragment]], Roger's brother doesn't seem too interested in finding the fragment. He does nothing to help try and find it, and is sceptical that anyone will.
 
-[[Twinsen]] learns from Roger's brother about Roger and what happened to him. He revelas that there are [[burgermaster's notes|notes]] in the house with clues about finding the lost fragment, but that he lost the [[burgermaster's key|key]] to the closet holding them.
+[[Twinsen]] learns from Roger's brother about Roger and what happened to him. He reveals that there are [[Burgermaster's Notes|notes]] in the house with clues about finding the lost fragment, but that he lost the [[Burgermaster's Key|key]] to the closet holding them.
 
 Even after Twinsen finds the francos fragment and shows it to Roger's brother, he does not believe that it is the true fragment.
 
@@ -35,8 +35,4 @@ Even after Twinsen finds the francos fragment and shows it to Roger's brother, h
 * {{thread|id=2580|title=It's the good ol' "Where's That Quote From?"}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category: Francos]]
-[[Category: Male characters]]
-[[Category: Average characters]]
-[[Category: Adult characters]]
 [[Category: Francos Island inhabitants]] -->
