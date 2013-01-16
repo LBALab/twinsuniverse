@@ -12,7 +12,7 @@ title: Tabata
  |lba1=
  |lba2=yes
  |alignment=sendell
- |occupation=
+ |occupation=Wizard
  |requires=
  |amount=
  |fam1=
@@ -23,10 +23,10 @@ title: Tabata
 }}
 
 ==Description==
-Tabata is a quetch wizard, and is one of the wizards kidnapped by the [[esmer]]s.
+Tabata is a [[quetch]], and the only female Wizard of [[Twinsun]]. She's extremely friendly and flirtatious, especially with [[Twinsen]]. She is one of the wizards kidnapped by the [[esmer]]s.
 
 ==Role in Twinsen's adventure==
-Being a wizard, Tabata was also kidnapped by [[FunFrock]]. She was the only girl among the wizards he kidnapped. After the wizards were freed, she was the one talking to [[Twinsen]]. She also sat in one of shuttles which destroyed the lunar reactors.
+After the wizards were freed, she was the one speaking to [[Twinsen]], and seemed to lead the group of wizards eventhough the [[Rector of the School of Magic]] was with them. She also sat in one of the shuttles which destroyed the lunar reactor.
 
 ==Related threads==
 ===General===
@@ -37,8 +37,4 @@ Being a wizard, Tabata was also kidnapped by [[FunFrock]]. She was the only girl
 * {{thread|id=11051|title=My Tabata sketch!}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Quetches]]
-[[Category:Female characters]]
-[[Category:Average characters]]
-[[Category:Adult characters]]
 [[Category:Desert Island inhabitants]] -->
