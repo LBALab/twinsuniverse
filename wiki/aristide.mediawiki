@@ -12,7 +12,7 @@ title: Aristide
  |lba1=
  |lba2=yes
  |alignment=neutral
- |occupation=
+ |occupation=Student of Magic
  |requires=
  |amount=
  |fam1=
@@ -22,18 +22,15 @@ title: Aristide
  |building=
 }}
 
-'''Aristide''' is a [[grobo]] studying at the [[School of Magic]]. He is a rather bad pupil, unable to complete any of the tests.
+Aristide is located in the lobby of the School of Magic. He is either looking at the bulletin board or sitting on the bench. He complains about not being able to pass the blowgun test and wonders whether or not he should even continue trying to become a wizard.
 
-Twinsen meets him several times at the school's entrance.
 
-He might be studying at the School of Magic, but he's yet to show any magical powers.
+'''Aristide''' is a [[grobo]] studying at the [[School of Magic]]. He is either looking at the bulletin board or sitting on the bench. He is a rather bad pupil, unable to complete any of the tests, as revealed by his complaining about not even being able to pass the [[Blowgun Test]]. He wonders whether or not he should even continue trying to become a wizard.
+
+Twinsen meets him several times at the school's entrance. He hasn't shown any sign of posessing magical powers.
 
 ==Related threads==
 * {{thread|id=5918|title=Stupid Aristide...}}
 
 <!-- remvoe these category links when they're all automated by categorizers...
-[[Category:Grobos]]
-[[Category:Male characters]]
-[[Category:Average characters]]
-[[Category:Adult characters]]
 [[Category:Desert Island inhabitants]] -->
