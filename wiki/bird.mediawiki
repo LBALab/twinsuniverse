@@ -2,7 +2,7 @@
 title: Bird
 ---
 
-{{#tag:includeonly|I don't want to display this text}}{{Infobox Enemy
+{{Infobox Enemy
  |image=
  |race=creature|label=bird
  |gender=
