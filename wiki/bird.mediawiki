@@ -2,7 +2,7 @@
 title: Bird
 ---
 
-<onlyinclude>This is just a test, for Location magic!</onlyinclude>{{Infobox Enemy
+{{Infobox Enemy
  |image=
  |race=creature|label=bird
  |gender=
