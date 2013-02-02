@@ -12,9 +12,9 @@ title: Mr. Paul
  |lba1=
  |lba2=yes
  |alignment=neutral
- |occupation=
- |requires=
- |amount=
+ |occupation=Inter-Island Ferry Sailor
+ |requires=Ferry Ticket
+ |amount=1
  |fam1=
  |fam2=
  |planet=
@@ -22,17 +22,13 @@ title: Mr. Paul
  |building=
 }}
 
-'''Mr. Paul''' is a sailor [[grobo]] living in the [[Citadel Island harbour|harbour]] of [[Citadel Island]]. He is responsible for operating the [[ferry|ferries]] sailing from Citadel Island to Desert Island, as well as conducting passengers' [[ferry ticket|tickets]] upon boarding.
+'''Mr. Paul''' is an Inter-Island Ferry sailor [[grobo]] living in the [[Citadel Island harbour|harbour]] of [[Citadel Island]]. He is responsible for operating the [[ferry|ferries]] sailing from Citadel Island to [[Desert Island]], as well as conducting passengers' [[ferry ticket|tickets]] upon boarding.
 
-During the [[storm]] in the beginning of [[Little Big Adventure 2]], Paul takes cover in [[Mr. Paul's house|his house]]. When [[Twinsen]] comes to his house, he hears from him that all maritime service is ceased until the end of the storm. Later, when the storm is over, Mr. Paul conducts Twinsen's ferry ticket, and sails the ferry taking him from Citadel to Desert Island and back. While Twinsen is on Desert Island, Mr. Pauls awaits near the ferry in [[Port Ludo]].
+During the [[storm]] at the beginning of [[Twinsen's Odyssey]], Paul takes cover in [[Mr. Paul's house|his house]]. When [[Twinsen]] comes in, he hears from him that all maritime service is cancelled until the end of the storm. Later, when the storm is over, Mr. Paul conducts Twinsen's ferry ticket, and sails the ferry taking him from Citadel to Desert Island and back. While Twinsen is on Desert Island, Mr. Pauls awaits near the ferry at the harbour near [[Port Ludo]].
 
 ==Related threads==
 ===General===
 * {{thread|id=3467|title=New quote?}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Grobos]]
-[[Category:Male characters]]
-[[Category:Average characters]]
-[[Category:Adult characters]]
 [[Category:Citadel Island inhabitants]] -->
