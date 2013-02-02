@@ -22,13 +22,13 @@ title: Leone
  |building=
 }}
 
-'''Leone''' is a sphero working for the healing wizard [[Ker'aooc]] as his housemaid. During most of the time in [[Little Big Adventure 2]] she is seen cleaning [[Ker'aooc's house|his house]] in [[Port-Ludo]].
+'''Leone''' is a sphero working for the healing wizard [[Ker'aooc]] as his housemaid. During most of [[Twinsen's Odyssey]] she is seen cleaning [[Ker'aooc's house|his house]] in [[Port-Ludo]].
 
-[[Twinsen]] first meets Leone in the [[pharmacy]] on [[Citadel Island]], when she tells him she has an idea how to help [[Dino-Fly]]. Just then, her [[umbrella]] is stolen by a [[Umbrella thief|thief]] [[rabbibunny]]. Giving her back the umbrella, Twinsen learns from Leone that he can go visit the healing wizard for assistance.
+[[Twinsen]] first meets Leone as a customer shopping in the [[pharmacy]] on [[Citadel Island]], when she tells him she has an idea how to help [[Dino-Fly]]. Just then, her [[umbrella]] is stolen by a [[Umbrella thief|thief]] [[rabbibunny]]. Giving her back the umbrella, Twinsen learns from Leone that he can go visit the healing wizard for assistance.
 
 When Twinsen goes to [[Desert Island]] to look for the wizard, he finds Leone in the wizard's house, where she tells him that Ker'aooc would be gone for a while. She suggests Twinsen to search for the [[School of Magic]] in case it's an emergency.
 
-Twinsen can also take the [[Flask of gallic acid]] from Ker'aooc's house. Leone says that he can take, as Ker'aooc doesn't use it.
+Twinsen can also take the [[Gallic Acid]] from Ker'aooc's house. Leone says that he can take, as Ker'aooc doesn't use it.
 
 ==Related threads==
 ===General===
@@ -39,8 +39,4 @@ Twinsen can also take the [[Flask of gallic acid]] from Ker'aooc's house. Leone 
 * {{post|id=112171|title=Lba3}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Spheroes]]
-[[Category:Female characters]]
-[[Category:Small characters]]
-[[Category:Adult characters]]
 [[Category:Desert Island inhabitants]] -->
