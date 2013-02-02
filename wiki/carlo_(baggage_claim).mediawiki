@@ -24,10 +24,13 @@ title: Carlo (Baggage Claim)
 
 '''Carlo''' is a [[Quetch]] working as a porter in the [[Baggage Claim]] of [[Citadel Island]]. His job is to carry packages from the storage room to the reception.
 
-[[Twinsen]] meets Carlo at the baggage claim storage room, when he comes there in order to collect his [[proto-pack]]. Carlo suggests Twinsen to carry the crate for him, for the fee of 102 [[kashes]]. Twinsen can choose whether to pay him, or to push the crate himself.
+[[Twinsen]] meets Carlo at the baggage claim storage room, when he comes there in order to collect his [[proto-pack]]. Carlo offers to take [[Twinsen]]'s crate up to the entrance if he is paid a fee of 102 [[kashes]]. Twinsen can choose whether to pay him, or to push the crate himself.
 
-A secret room in the building holds a crate containing 102 kashes, exactly the sum required to pay Carlo.
+A secret room in the building holds a box containing 102 kashes, exactly the sum required to pay Carlo.
 
 ==Related threads==
 ===General===
 * {{thread|id=11086|title=Is it possible to get the box out without paying the guy?}}
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category:Citadel Island inhabitants]] -->
