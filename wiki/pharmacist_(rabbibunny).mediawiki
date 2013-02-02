@@ -15,18 +15,20 @@ title: Pharmacist (Rabbibunny)
  |occupation=
  |requires=
  |amount=
- |fam1=
+ |fam1=Raph
  |fam2=
  |planet=
  |island=
  |building=
 }}
 
-The '''pharmacist''' is a female [[rabbibunny]] running the [[pharmacy]] on [[Citadel Island]] in [[Little Big Adventure 2]]. She is the sister of [[Raph]], the [[lighthouse]] keeper.
+The '''pharmacist''' is a female [[rabbibunny]] running the [[pharmacy]] in [[Lupin-Bourg East]] on [[Citadel Island]], during [[Twinsen's Odyssey]]. She is the sister of [[Raph]], the [[lighthouse]] keeper.
 
-After [[Dino-Fly]] is hit by a lightning during the [[storm]], [[Zoe]] sends [[Twinsen]] to the pharmacy to find a cure for him. The pharmacist tells Twinsen that she doesn't have anything for a Dino-Fly.
+After [[Dino-Fly]] is hit by a lightning during the [[storm]], [[Zoé]] sends [[Twinsen]] to the pharmacy to find a cure for him. The pharmacist tells Twinsen that she doesn't have anything for a Dino-Fly.
 
-After the storm, in case Twinsen hasn't talked with [[Leone]], the pharmacist tells him that the healing wizard [[Ker'aooc]] might be able to help him.
+After the storm, in case Twinsen hadn't talked with [[Leone]] earlier, the pharmacist tells him that the healing wizard [[Ker'aooc]] might be able to help him.
+
+The [[quetch guy]] behind the [[Weather Wizard's Tent]] has a big crush on the Pharmacist.
 
 == Related Threads ==
 === General ===
@@ -41,8 +43,4 @@ After the storm, in case Twinsen hasn't talked with [[Leone]], the pharmacist te
 
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category: Rabbibunnies]]
-[[Category: Female characters]]
-[[Category: Average characters]]
-[[Category: Adult characters]]
 [[Category: Citadel Island inhabitants]] -->
