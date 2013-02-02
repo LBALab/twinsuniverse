@@ -22,9 +22,9 @@ title: Carlo (Port-Ludo)
  |building=
 }}
 
-The '''quetch pétanque player''' is an old [[Quetch]] plays pétanque together with his friend, [[Anatole]], on the pétanque field in [[Port-Ludo]].
+'''Carlo''' is a [[Quetch]] pétanque player together with his friend [[Anatole]], in the pétanque pitch in [[Port-Ludo]].
 
-This quetch does not help [[Twinsen]] with anything. If Twinsen walks in the middle of the field, the player continuously shouts "cheater!".
+He does not help [[Twinsen]] with anything. If Twinsen walks in the middle of the pitch, he continuously shouts "cheater!".
 
 ==Related threads==
 ===General===
@@ -32,8 +32,4 @@ This quetch does not help [[Twinsen]] with anything. If Twinsen walks in the mid
 * {{thread|id=845|title=Who and Where}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Quetches]]
-[[Category:Male characters]]
-[[Category:Average characters]]
-[[Category:Adult characters]]
 [[Category:Desert Island inhabitants]] -->
