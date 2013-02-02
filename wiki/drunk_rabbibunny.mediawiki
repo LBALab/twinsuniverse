@@ -3,7 +3,7 @@ title: Drunk Rabbibunny
 ---
 
 {{twinsunica import}}{{Infobox Character
- |image=Drunk.JPG
+ |image=
  |race=Rabbibunny
  |gender=Male
  |size=average
