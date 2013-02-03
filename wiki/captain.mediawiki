@@ -13,8 +13,8 @@ title: Captain
  |lba2=yes
  |alignment=neutral
  |occupation=
- |requires=
- |amount=
+ |requires=zlito
+ |amount=10
  |fam1=
  |fam2=
  |planet=
@@ -24,17 +24,15 @@ title: Captain
 
 The '''Captain''' is a nameless [[Franco]] who transports people around the islands of [[Zeelich's Surface]] for the price of 10 [[Zlitos]]. He calls his boat "Leontine".
 
-When [[Twinsen]] crashes on [[Otringal]], his main objective is to find a way to reach [[Island CX]]. In the [[Otringal harbour|harbour]] he finds the captain, who in return for 100 zlitos tells Twinsen about a franco on [[Celebration Island]] who went to the island and came back alive. He then takes him to the island for free.
+When [[Twinsen]] crashes on [[Otringal]], his main objective is to find a way to reach [[Island CX]]. At the [[Otringal harbour|harbour]] he finds the captain, and as all other ferries refuse to take Twinsen to Island CX, the Captain thinks he can help him, for an unusual fee of 100 Zlito's. He's the only one who is able to help Twinsen, so Twinsen doesn't have much choice. Twinsen pays him the 100 Zlito's, and the captan tells Twinsen about a franco on [[Celebration Island]] who went to the island and came back alive. He then takes Twinsen to the island for free.
 
-It's possible to use the captain's services afterwards, although he charges twice as much as the other captain in the harbour.
+When coming back from Celebration Island, Twinsen discovers why he was attacked by the guards, and the captain charged such a high fee, as Dark Monk has put Twinsen on the wanted list.
+
+It's possible to use the captain's services afterwards, although he charges twice as much for journeys as the other captains in the harbour.
 
 ==Related threads==
 ===General===
 * {{thread|id=674|title=Another quote..}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Francos]]
-[[Category:Male characters]]
-[[Category:Average characters]]
-[[Category:Adult characters]]
 [[Category:Otringal inhabitants]] -->
