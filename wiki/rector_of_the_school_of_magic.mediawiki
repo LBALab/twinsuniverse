@@ -12,7 +12,7 @@ title: Rector of the School of Magic
  |lba1=
  |lba2=yes
  |alignment=sendell
- |occupation=
+ |occupation=Wizard of Twinsun
  |requires=kashes
  |amount=120
  |fam1=
