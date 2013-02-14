@@ -25,7 +25,7 @@ title: Coffee Pot
 
 The '''coffee pot''' is a machine used to make coffee. It is owned by [[Lanktir]], a [[grobo]] residing in [[Proxim-City]] at [[Proxima Island]].
 
-Looking for information about [[LeBorgne]] the pirate, [[Twinsen]] comes across the [[library]], where he hears from a grobo parts from LeBorgne's log book. Asking about LeBorgne's lost treasure, Twinsen receives instructive information about how to find it. Upon following the exact steps as described in the log book, Twinsen finds himself just next to the [[Proxima Museum]]. Once there, a [[sphero]] appears, handing Twinsen the coffee pot. By giving it to Lanktir, Twinsen receives as a reward [[List with clover boxes locations|a list of all places where he can find clover boxes]].
+Looking for information about [[LeBorgne]] the pirate, [[Twinsen]] comes across the [[library]], where he hears from a grobo parts from LeBorgne's log book. Asking about LeBorgne's lost treasure, Twinsen receives instructive information about how to find it. Upon following the exact steps as described in the log book, Twinsen finds himself just next to the [[Proxima Museum]]. Once there, a [[sphero]] appears, handing Twinsen the coffee pot. By giving it to Lanktir, Twinsen receives as a reward [[Bonuses List|a list of all places where he can find clover boxes]].
 
 Nor this puzzle neither the list are compulsory parts in completing the game.
 
