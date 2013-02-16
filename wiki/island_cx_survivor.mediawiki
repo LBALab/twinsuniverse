@@ -1,0 +1,28 @@
+---
+title: Island CX Survivor
+---
+
+{{Infobox Character
+ |image=
+ |race=franco
+ |gender=male
+ |size=average
+ |age=adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=Souvenir Seller
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+
+The '''Island CX Survivor''' is the only person who ever went to [[Island CX]] and made it back alive. He's in pretty bad shape since his return and is covered in bandages. He spends his time now selling souveniers on [[Celebration Island]].
+
+He tells [[Twinsen]] how dangerous Island CX is and that he should go see [[Rick]] if he wants to get there.
+{{stub}}
