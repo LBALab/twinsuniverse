@@ -22,19 +22,13 @@ title: Mr. Kurtz
  |building=
 }}
 
-'''Kurtz''' is a [[franco]] living on the [[Village of the Francos]], in [[Mr. Kurtz's house|a house]] where he made sure no sunlight can come in. His flowers are the proof of that.
+'''Kurtz''' is a [[franco]] living in [[Franco Village]] on the [[Island of the Francos]], in [[Mr. Kurtz's house|a house]] where he made sure no sunlight can come in. His flowers are the proof of that. According to the sign outside his house, Mr. Kurtz is a retired colonel. He currently works as a scientist.
 
-According to the sign outside his house, Mr. Kurtz is a retired colonel. He currently works as a scientist. Like most of the francos, Mr. Kurtz is also in a treasure hunt after the lost [[Francos fragment|fragment]].
-
-Mr. Kurtz has no vital role in the game. He tells [[Twinsen]] that he concoted a potion which should allow him to determine the location of the lost fragment, but he lost the vial.
+Kurtz is one of the many Francos searching for their [[Francos Fragment|fragment]] which is lost on the island. He spends his time in his house concocting a potion which he believes will lead him directly to the fragments location. Unfortunately, he lost the vial which contained the potion.
 
 ==Related threads==
 ===Hints\Spoilers===
 * {{thread|id=1413|title=Unsolved mysteries}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Francos]]
-[[Category:Male characters]]
-[[Category:Average characters]]
-[[Category:Adult characters]]
 [[Category:Francos Island inhabitants]] -->
