@@ -22,9 +22,9 @@ title: Rosa-Marie
  |building=
 }}
 
-'''Rosa-Marie''' is a cow eating grass on the [[cliffs]] of [[Citadel Island]], near the ruins of the old [[Citadel]].
+'''Rosa-Marie''' is a cow eating grass on the [[cliffs]] of [[Citadel Island]], near the [[Ruins of the Old Citadel]].
 
-[[Twinsen]] can ask Rosa-Marie whether she has seen [[Raph]], the [[lighthouse]] keeper, and she replies she saw him with his guitar, heading to the cliffs. Later, when the [[esmers]] land on [[Twinsun]], Rosa-Marie warns Twinsen that one armed [[sup]] is hiding behind the trees.
+[[Twinsen]] can ask Rosa-Marie whether she has seen [[Raph]], the [[lighthouse]] keeper, and she replies she saw him with his guitar, heading to the cliffs. Later, when the [[esmer]]s land on [[Twinsun]], Rosa-Marie warns Twinsen that one armed [[sup]] is hiding behind the trees.
 
 If Twinsen goes behind Rosa-Marie and paces forward for a while, he gets a [[clover leaf]] from her. This can be done an unlimited number of times.
 
@@ -49,8 +49,4 @@ If Twinsen goes behind Rosa-Marie and paces forward for a while, he gets a [[clo
 * {{post|id=112171|title=Lba3}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Female characters]]
-[[Category:Large characters]]
-[[Category:Adult characters]]
-[[Category:Citadel Island inhabitants]]
-[[Category:Animals]] -->
+[[Category:Citadel Island inhabitants]] -->
