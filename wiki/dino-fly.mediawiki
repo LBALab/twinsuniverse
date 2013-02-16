@@ -22,11 +22,11 @@ title: Dino-Fly
  |building=
 }}
 
-The '''Dino-Fly''' is a mythical creature, with uncertain origins. He is a green dinosaur-like animal, with the ability to fly. When [[Twinsen]] finds him, he is told that he has been waiting for him for a long time.
+The '''Dino-Fly''' is a mythical creature, with uncertain origins. He is a green dinosaur-like animal, with the ability to fly. When [[Twinsen]] finds him, he is told that he has been waiting for him for a long time. The Dino-Fly is an asset to both of Twinsen's Adventures.
 
-The Dino-Fly is an asset to both of Twinsen's Adventure. On his first trip around [[Twinsun]], Twinsen is adviced by a [[sphero]] upon arriving on [[Tippet Island]] that he would need the services of a dino-fly in order to reach some of the planet's islands. Twinsen meets the Dino-Fly at the cliff peak of Tippet Island's surface. At this point, the Dino-Fly is only able to fly around the [[northern hemisphere]] of the planet, due to his soar back. Twinsen uses the Dino-Fly to reach some of the hemisphere's islands unreachable with a [[hydroglider]], such as [[Brundle Island]] and [[Fortress Island]].
+During [[FunFrock's Reign]], Twinsen is advised by a [[sphero]] upon arriving on [[Tippett Island]] that he would need the services of a dino-fly in order to reach some of the planet's islands. Twinsen meets the Dino-Fly at the cliff peak of Tippett Island's surface. At this point, the Dino-Fly is only able to fly around the [[northern hemisphere]] of the planet, due to his soar back. Twinsen uses the Dino-Fly to reach some of the hemisphere's islands unreachable with a [[hydroglider]], such as [[Brundle Island]] and [[Fortress Island]].
 
-In [[Little Big Adventure 2]], Twinsen has taken the Dino-Fly to his home on [[Citadel Island]]. The game starts with a cutscene of Dino-Fly injured in a [[Great Storm|lightning storm]], and curing him is Twinsen's first main goal in the game. He is eventually able to do so by using the [[Horn of the Blue Triton]], which he receives as part of his studies in the [[School of Magic]]. Dino-Fly's main use in the second game is taking Twinsen to the [[Island of the Dome of the Slate]], which Twinsen can't reach with a [[ferry]].
+During [[Twinsen's Odyssey]], Twinsen has taken the Dino-Fly to his home on [[Citadel Island]]. The adventure starts with a cutscene of Dino-Fly injured in a [[Storm|lightning storm]], and curing him is Twinsen's first main goal. He is eventually able to do so by using the [[Horn of the Blue Triton]], which he receives as part of his studies at the [[School of Magic]]. Dino-Fly's main use in the second game is taking Twinsen to the [[Island of the Dome of the Slate]], which Twinsen can't reach with a [[ferry]].
 
 ==Related threads==
 ===General===
@@ -55,10 +55,5 @@ In [[Little Big Adventure 2]], Twinsen has taken the Dino-Fly to his home on [[C
 * {{thread|id=12254|title=Mech Dinofly !!!}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Male characters]]
-[[Category:Large characters]]
-[[Category:Adult characters]]
 [[Category:Citadel Island inhabitants]]
-[[Category:Tippett Island inhabitants]]
-[[Category:Animals]]
-[[Category:Good]] -->
+[[Category:Tippett Island inhabitants]] -->
