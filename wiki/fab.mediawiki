@@ -22,17 +22,12 @@ title: Fab
  |building=
 }}
 
-'''Fab''' is a [[sphero]] musician. He is best friends with [[Pat]] and [[Raph]]. Just like them, he likes hanging out in [[Chez Luc]].
+'''Fab''' is a [[sphero]] musician. He is best friends with [[Pat]] and [[Raph]]. Just like them, he likes hanging out in [[Chez Luc]]. The three of them started a band and they are seen in Chez Luc wondering where their buddy, Raph has dissappeared to. Fab does hint to [[Twinsen]] as to the location of where Raph is usually seen practicing his guitar.
 
-Talking with Fab is not a necessary part of the game, although he is able to give [[Twinsen]] a small hint about Raph's whereabouts when Twinsen is looking for him.
 
 ==Related threads==
 ===General===
 * {{thread|id=8829|title=When We Was Fab}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Spheroes]]
-[[Category:Male characters]]
-[[Category:Small characters]]
-[[Category:Adult characters]]
 [[Category:Citadel Island inhabitants]] -->
