@@ -12,7 +12,7 @@ title: Johnny Rocket
  |lba1=
  |lba2=yes
  |alignment=rebel
- |occupation=
+ |occupation=Twinsun Pioneer
  |requires=
  |amount=
  |fam1=
@@ -26,9 +26,9 @@ title: Johnny Rocket
 
 Johnny lives in the [[Imperial Hotel]], at the [[upper city]] of Otringal. He also seems to be the only Esmer who can speak the Twinsunian language, possibly with the aid of a [[translator]].
 
-When the Esmers land on [[Citadel Island]], Johhny gives a speach about how they come in peace. He later goes back to Zeelich, although this is not seen in the game.
+When the Esmers land on [[Citadel Island]], Johhny gives a speach about how they come in peace. He later goes back to Zeelich, although this is not witnessed.
 
-When [[Twinsen]] searches for information about [[Island CX]] on his adventure in Zeelich, he meets [[Rick]], who sends him to meet Johnny Rocket at the Imperial Hotel. When Twinsen meets him there, he absent-mindedly mentions the dissidents out loud. Johnny yells at him, and asks him to come to his room where they can talk without danger. In his room, Johnny tells Twinsen that he is unable to help him, and sends him to talk with the dissidents in the [[Twinsunian Souvenir Shop]]. He also gives Twinsen the [[Ring of the Dissidents]], which is their identification sign.
+When [[Twinsen]] searches for information about [[Island CX]] on his adventure on Zeelich, he meets [[Rick]], who sends him to meet Johnny Rocket at the Imperial Hotel. When Twinsen meets him there, he absent-mindedly mentions the dissidents out loud. Johnny yells at him, and asks him to come to his room where they can talk without danger. In his room, Johnny tells Twinsen that he is unable to help him, and sends him to talk with the dissidents in the [[Twinsunian Souvenir Shop]]. He also gives Twinsen the [[Ring of the Dissidents]], which is their identification sign.
 
 ==Related threads==
 ===General===
@@ -39,9 +39,4 @@ When [[Twinsen]] searches for information about [[Island CX]] on his adventure i
 * {{thread|id=3963|title=Johnny Rocket / Sup Fanart}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Sups]]
-[[Category:Male characters]]
-[[Category:Average characters]]
-[[Category:Adult characters]]
-[[Category:Otringal inhabitants]]
-[[Category:Rebels]] -->
+[[Category:Otringal inhabitants]] -->
