@@ -27,7 +27,9 @@ title: Umbrella Thief
 
 ==Description==
 
-A rabbibunny who steals an umbrella from the pharmacy on Citidel Island in LBA2. He has a little sister and a mother on the Island whom you can visit aswell.
+The '''Umbrella Thief''' is a rabbibunny who steals an [[umbrella]] from the [[pharmacy]] on [[Citadel Island]] during [[Twinsen's Odyssey]]. He has a little sister at the [[Schoolhouse]] and a [[Mrs. Brune|mother]] who works at the [[Inter-Islands Ferry]].
+
+[[Twinsen]] is asked to retrieve the umbrella back from the rabbibunny thief, by the [[Leone|owner of the umbrella]], who was a customer at the pharmacy.
 
 ==Role in Twinsen's Adventure==
 
@@ -48,8 +50,4 @@ To get information out of the owner of the umbrella about [[Ker'aooc]], Twinsen 
  |character=Umbrella Thief}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Rabbibunnies]]
-[[Category:Male characters]]
-[[Category:Average characters]]
-[[Category:Adult characters]]
 [[Category:Citadel Island inhabitants]] -->
