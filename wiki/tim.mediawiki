@@ -12,7 +12,7 @@ title: Tim
  |lba1=
  |lba2=yes
  |alignment=neutral
- |occupation=
+ |occupation=Waiter at Chez Luc
  |requires=
  |amount=
  |fam1=
