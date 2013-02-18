@@ -26,7 +26,9 @@ title: Tim
  |character=Tim}}
 
 ==Description==
-Tim is a pretty reckless rabbibunny working as a waiter in [[Chez Luc]] at [[Citadel Island]]. He seems to be a very dedicated waiter, always willing to happily serve the demanding cutsomers. It seems he would work in any conditions, even in the [[storm]] or in hot days. Additionally, it is recommended not to sneak into the basement of the pub, as an unpleasant experience would be Tim trying to kick you out of there. Tim seems to be the only worker at Chez Luc, except for [[Luc]] himself, of course. Luc, the manager and the bartender of the pub, seems to be pretty fond of Tim.
+'''Tim''' is a pretty reckless [[rabbibunny]] working as a waiter in [[Chez Luc]] at [[Citadel Island]]. He seems to be a very dedicated waiter, always willing to happily serve the demanding cutsomers. It seems he would work in any conditions, even in the [[storm]] or in hot days. Additionally, it is recommended not to sneak into the basement of the pub, as an unpleasant experience would be Tim trying to kick you out of there. Tim seems to be the only worker at Chez Luc, except for [[Luc]] himself, of course. Luc, the manager and the bartender of the pub, seems to be pretty fond of Tim.
+
+He is seen running around the pub, waiting on his customers. Occasionally, he loses his balance on the stairs and falls over onto his back.
 
 ==Role in Twinsen's adventure==
 Perhaps due to him being a bit busy with the demanding customers of the pub, who especially came in during the storm, Tim was not able to help [[Twinsen]] very much. Unlike most of the characters the quetch met during his adventures, Tim was not able to give Twinsen any useful hints, not even about [[Raph]]'s whereabouts.
@@ -45,8 +47,4 @@ It is unknown why, but every time Tim ran up or down the stairs of the pub, he d
 * {{thread|id=6090|title=Cartoon Tim}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Rabbibunnies]]
-[[Category:Male characters]]
-[[Category:Average characters]]
-[[Category:Adult characters]]
 [[Category:Citadel Island inhabitants]] -->
