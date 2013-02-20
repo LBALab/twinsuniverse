@@ -22,17 +22,13 @@ title: Miss Bloop
  |building=
 }}
 
-'''Miss Bloop''' is a femal [[grobo]] owning a [[Miss Bloop's Private Museum|musem]] on [[Citadel Island]]. This museum is dedicated to [[Twinsen]] and his first adventure.
+'''Miss Bloop''' is a female [[grobo]] owning a [[Miss Bloop's Private Museum|musem]] on [[Citadel Island]]. This museum is dedicated to [[Twinsen]] and his [[FunFrock's Reign|first adventure]]. She keeps [[Ancestral Tunic|Twinsen's tunic]] and [[Sendell's Medallion]] in a safe display stand.
 
-After the events of [[Little Big Adventure 1]], Twinsen landed his [[Ancestral Tunic]] and [[Sendell's Medallion]] to Miss Bloop's museum. When he needs them again in the beginning of [[Little Big Adventure 2]], he goes to the museum to fetch them. There, he learns from Miss Bloop that the door to the control room of the museum is locked, and thus the tunic and the medallion cannot be reached. After Twinsen manages to open the door and take his belongings, Miss Bloop gives him a hint regarding the tunic, saying that the trajectory of the [[magic ball]] changes with his [[behaviour]].
+After the events of FunFrock's Reign, Twinsen lent his Tunic and Medallion to Miss Bloop's museum. When he needs them again at the start of [[Twinsen's Odyssey]], he goes to the museum to fetch them. There, he learns from Miss Bloop that the door to the control room of the museum is jammed, and thus the tunic and the medallion cannot be reached. After Twinsen manages to open the door and take his belongings, Miss Bloop gives him a hint regarding the tunic, saying that the trajectory of the [[Magic Ball]] changes with his [[behaviour]].
 
 ==Related threads==
 ===General===
 * {{thread|id=7972|title=Families}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Grobos]]
-[[Category:Female characters]]
-[[Category:Average characters]]
-[[Category:Adult characters]]
 [[Category:Citadel Island inhabitants]] -->
