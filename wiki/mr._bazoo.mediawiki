@@ -12,7 +12,7 @@ title: Mr. Bazoo
  |lba1=
  |lba2=yes
  |alignment=neutral
- |occupation=
+ |occupation=Shopkeeper
  |requires=
  |amount=
  |fam1=
