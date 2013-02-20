@@ -12,7 +12,7 @@ title: Miss Bloop
  |lba1=
  |lba2=yes
  |alignment=neutral
- |occupation=
+ |occupation=Museum Owner
  |requires=
  |amount=
  |fam1=
