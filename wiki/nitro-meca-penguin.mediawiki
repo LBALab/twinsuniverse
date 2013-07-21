@@ -15,7 +15,7 @@ title: Nitro-Meca-Penguin
  |columnposition=5
  |effect=unique
  |effectamount=
- |purpose=
+ |purpose=Mobile Explosive
  |combattype=area
  |powerlevel=all
  |rate=low
