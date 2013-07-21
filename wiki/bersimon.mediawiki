@@ -12,7 +12,7 @@ title: Bersimon
  |lba1=
  |lba2=yes
  |alignment=sendell
- |occupation=
+ |occupation=Weather Wizard
  |requires=
  |amount=
  |fam1=
@@ -24,9 +24,15 @@ title: Bersimon
 
 '''Bersimon''', often referred to as '''The Weather Wizard''' is a weather wizard who lives in a [[Weather Wizard tent|tent]] on the [[cliffs]] of [[Citadel Island]]. He is a fully qualified wizard, who graduated from the [[School of Magic]].
 
-The Weather Wizard is the only one capable of chasing the [[storm]] that prevents [[Twinsen]] from going to [[Desert Island]]. However, he has to stand at a high point in order to utter a conjuration, and the [[lighthouse]] is the only available place at the island. After Twinsen freed [[Raph]], the lighthouse keeper, Bersimon is able to stop the storm. Then, finally capable of landing, the [[Esmer]]s come.
+The Weather Wizard spends most of his time, frantic about the missing lighthouse keeper and his boiling cauldron. He informs [[Twinsen]] that he cannot stop the storm until he gains access to the lighthouse but the lighthouse keeper is nowhere to be found.
 
-Bersimon also once hid [[Sendell's Ball]] in a cage of ice in the [[Citadel Island sewers|sewers]]. He already made a potion, which only needed a [[Pearl of Incandescence]] to become ready for use, for freeing the ball.
+A poster on his wall says Bersimon has reached the rank of Grand Master of sea winds and tornadoes. The Weather Wizard is thereby the only one capable of dispursing the [[storm]] that prevents [[Twinsen]] from going to [[Desert Island]]. However, he has to stand at a high point in order to utter a conjuration, and the [[lighthouse]] is the only available place at the island. After Twinsen frees [[Raph]], the lighthouse keeper, Bersimon will be able to stop the storm. Then, finally capable of landing, the [[Esmer]]s will land on the planet.
+
+Bersimon also once hid [[Sendell's Ball]] in a cage of ice in the [[Citadel Island sewers|sewers]]. He already made a potion, which only needs a [[Pearl of Incandescence]] to become ready for use, for freeing the ball.
+
+{{spoiler|{{list
+ |After Raph is rescued, the Weather Wizard takes Twinsen and [[Zoé]] to the top of the lighthouse and disperses the storm.
+ |Later, when Twinsen seeks his advice, he's gone from his tent and leaves Twinsen a note with instructions to finish the [[Ring of Lightning|spell]] he is working on.}}}}
 
 ==Related threads==
 ===General===
