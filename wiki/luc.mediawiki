@@ -12,7 +12,7 @@ title: Luc
  |lba1=
  |lba2=yes
  |alignment=neutral
- |occupation=
+ |occupation=Bartender
  |requires=
  |amount=
  |fam1=
@@ -22,9 +22,14 @@ title: Luc
  |building=
 }}
 
-'''Luc''' is a [[grobo]] owning the pub [[Chez Luc]] in [[Citadel Island]].
+'''Luc''' is a [[grobo]] and owner of the pub [[Chez Luc]] on [[Citadel Island]].
 
-[[Twinsen]] doesn't have to talk with Luc in the game, and thus he has no vital role.
+He works behind the counter and tells [[Twinsen]] that he can purchase Life and Magic Points from the bar.
+Twinsen doesn't have to talk with Luc, thus he has no vital role.
+
+{{spoiler
+  |If Twinsen turns on the second music song on the jukebox, called "LBA Theme", Luc will remove the chain from the bar, and starts dancing on the music. This enables Twinsen to get behind the bar to retrieve the key to the cellar. This is how he gets in the center of the sewers, where he can find the magically protected [[Sendell's Ball]].
+}}
 
 ==Related threads==
 ===General===
