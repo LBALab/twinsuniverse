@@ -12,7 +12,7 @@ title: Scooterbunny
  |lba1=
  |lba2=yes
  |alignment=neutral
- |occupation=
+ |occupation=Scooter driver
  |requires=
  |amount=
  |fam1=
@@ -29,6 +29,8 @@ So for 8 kashes, where do I drop you?
 ==Description==
 
 A rabbibunny who taxi's citizens around [[Citadel Island]] for a small fare.
+
+He is found in a garage during the rain complaining about the storm. After the rain stops, he drives around the town square. If [[Twinsen]] stops him, he will offer to give him a ride up to the [[Ridge of the Flowers Circle‏‎|Flower Circle]].
 
 ==Role in Twinsen's adventure==
 In LBA2 the scooterbunny can take you for a ride to the furthest points of Citidel Island ([[Weather Wizard tent]] and [[Lighthouse]]) aswell as [[Lupin-Burg]] City for only 8 kashes. He only drives his scooter when it is sunny.
