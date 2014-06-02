@@ -4,7 +4,7 @@ title: Flask of Clear Water
 
 {{twinsunica import}}{{Infobox Item
  |image=Flask of clear water1.png
- |type=
+ |type=reward
  |critical=yes
  |magical=yes
  |unique=yes
