@@ -4,7 +4,7 @@ title: Ancestral Key
 
 {{twinsunica import}}{{Infobox Item
  |image=Key to the heirs room1.png
- |type=
+ |type=key
  |critical=yes
  |magical=
  |unique=yes
