@@ -4,7 +4,7 @@ title: Book of Bù
 
 {{twinsunica import}}{{Infobox Item
  |image=Book of bu1.png
- |type=
+ |type=reward
  |critical=yes
  |magical=yes
  |unique=yes
