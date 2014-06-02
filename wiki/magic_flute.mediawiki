@@ -4,7 +4,7 @@ title: Magic Flute
 
 {{twinsunica import}}{{Infobox Item
  |image=
- |type=
+ |type=tool
  |critical=yes
  |magical=yes
  |unique=yes
