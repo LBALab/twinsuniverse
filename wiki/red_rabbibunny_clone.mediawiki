@@ -13,7 +13,7 @@ title: Red Rabbibunny Clone
  |occupation=
  |requires=Red
  |melee=
- |ranged=
+ |ranged=yes
  |magic=
  |explosive=
  |range=Wide
@@ -25,11 +25,3 @@ title: Red Rabbibunny Clone
 }}
 
 '''Red [[Rabbibunny]] [[Clone]]''', is one of the least common clones in [[LBA 1]]. It is quite strong, but not extremely difficult to defeat. A few are found in the [[Okojo Pass]] Fort.
-
-<!-- remove these category links when they're all automated by categorizers...
-[[Category: Clones]]
-[[Category: Red enemies]]
-[[Category: Gun wielders]]
-[[Category: FunFrock's army]]
-[[Category: Rabbibunnies]]
-[[Category: Average characters]] -->
