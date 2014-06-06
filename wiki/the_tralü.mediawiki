@@ -39,5 +39,4 @@ When Twinsen discovers Raph captured by the Tralü, about to be turned into his 
 * {{thread|id=903|title=Poor Tralu...}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Monster]]
 [[Category:Citadel Island inhabitants]] -->
