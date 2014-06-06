@@ -39,7 +39,3 @@ When setting off an alarm in an airlock of the [[Emerald Moon base]], Twinsen is
 * {{thread|id=6222|title=For those interested to see what a cell-shaded LBA would look like}}
 * {{thread|id=4683|title=Franco Guards, hey they are diffrent!}}
 * {{thread|id=4682|title=Do you think that Fraco guards are Clones?}}
-
-<!-- remove these category links when they're all automated by categorizers...
-[[Category:Gun wielders]]
-[[Category:Francos]] -->
