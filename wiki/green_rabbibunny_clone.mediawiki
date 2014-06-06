@@ -13,7 +13,7 @@ title: Green Rabbibunny Clone
  |occupation=
  |requires=Green
  |melee=
- |ranged=
+ |ranged=yes
  |magic=
  |explosive=
  |range=Wide
@@ -27,11 +27,3 @@ title: Green Rabbibunny Clone
 '''Green [[Rabbibunny]] [[Clone]]s''' hold a control box, which upon sighting an enemy, kneel down and enter buttons on the control box, which then makes them shoot multiple bullets.
 
 A common Green Rabbibunny Clone [[Twinsen]] has to encounter is the one in the [[Military Camp]] on [[Principal Island]], as he goes back and forth from [[Port Belooga]] to the [[Old Burg]].
-
-<!-- remove these category links when they're all automated by categorizers...
-[[Category: Clones]]
-[[Category: Green enemies]]
-[[Category: Gun wielders]]
-[[Category: FunFrock's army]]
-[[Category: Rabbibunnies]]
-[[Category: Average characters]] -->
