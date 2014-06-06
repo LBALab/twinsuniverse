@@ -1,5 +1,59 @@
 ---
-title: Terrain soldier
+title: Terrain Soldier
 ---
 
-#REDIRECT [[Terrain Soldier]]
+{{twinsunica import}}{{Infobox Enemy
+ |image=
+ |race=quetch
+ |gender=male
+ |size=average
+ |lba1=yes
+ |lba2=
+ |alignment=funfrock
+ |occupation=Guard
+ |requires=none
+ |melee=yes
+ |ranged=yes
+ |magic=
+ |explosive=
+ |range=30 paces
+ |speed=14.4kph average; 18kph maximum
+ |damage=11%
+ |rate=1 second
+ |reaction=Doesn't move
+ |recovery=0.3 seconds
+}}
+
+[[Image:Lba ingame terrain soldier.jpg|thumb|Soldier in action]]
+[[Image:Whtsoldier.gif|thumb|Soldier with a white camouflage]]
+[[Image:Soldier2.gif|thumb|Soldier with a cannon]]
+'''Terrain soldiers''' are the basic soldiers in [[FunFrock]]'s army. They can be seen with a yellow suit on the [[Island of the White Leaf Desert]], with a white suit in the [[Hamalayi Mountains]], and with a green one everywhere else. They're omnipresent. They are patrolling in nearly every public place, like [[Lupin Burg]], the [[Old Burg]] and the rest of [[Principal Island]], the [[Maritime Museum]] on [[Proxima Island]], in the [[Hamalayi Mountains]] and at all fortresses and factories of FunFrock. There's a [[military camp]] on Principal and Desert Island.
+
+The terrain soldiers are major enemies of [[Twinsen]]. He encounters them at many different places in his adventure, and has to fight them in various fortresses and factories, sometimes to get a [[key]]. However, they are easy to defeat most of the time.
+
+In [[Peg Leg street]], Twinsen encounters a terrain soldier having a pee at nearby trees. While the soldier is absent, Twinsen is able to steal his bike to get to the [[water tower]].
+
+In the [[Old Burg]], there is a soldier standing in front of a poster. When Twinsen pays 10 [[kashes]], he is allowed to look at it:
+
+{{Quote
+ |quote=Young male quetch seeks young female rabbibunny for friendship (and maybe more...)
+ |character=The poster in Old Burg}}
+
+The average soldier seems to be quite lazy. A few soldiers are seen sleeping on the grass when on duty. Also, their level of intelligence does not appear to be very high. When Twinsen emerges from the [[Principal Island prison]], he is stopped by a soldier, but is able to pass by saying he is Santa Claus.
+
+Though the soldiers have human attributes, it is speculated that they are in fact [[Quetch]] clones.
+
+==Related Threads==
+===General===
+* {{thread|id=6796|title=Quetch soldiers: the ultimate theory}}
+* {{thread|id=6845|title=Zzzzoldierz, kill that wife!}}
+* {{thread|id=1128|title=There are NO quetchclones}}
+* {{thread|id=4474|title=Eureeka!!}}
+* {{thread|id=587|title=hmm...}}
+* {{thread|id=250|title=The funny and rude bits in LBA...}}
+===Fan Art===
+* {{thread|id=10468|title=1997 LBA drawings done when I still a schoolboy}}
+* {{thread|id=10242|title=Random collection}}
+* {{thread|id=9129|title=First attempt in 2D animation :D}}
+* {{post|id=112171|title=Lba3}}
+* {{thread|id=6816|title=Hamalayi Soldier}}
