@@ -25,10 +25,3 @@ title: Green Sphero Clone
 }}
 
 '''Green level of [[Sphero]] [[clone]]s''' are not very common. One can be seen in the [[Mutant Factory]] in the [[Hamalayi Mountains]].
-
-<!-- remove these category links when they're all automated by categorizers...
-[[Category: Clones]]
-[[Category: Green enemies]]
-[[Category: Small characters]]
-[[Category: FunFrock's army]]
-[[Category: Spheroes]] -->
