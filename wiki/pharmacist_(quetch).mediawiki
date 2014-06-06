@@ -35,8 +35,4 @@ When Twinsen comes to the pharmacy to get a bottle of [[cherry syrup]], it is ob
 * {{thread|id=4111|title=Pharmacist's relation in the telling of the dream.}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category: Quetches]]
-[[Category: Male characters]]
-[[Category: Average characters]]
-[[Category: Adult characters]]
 [[Category: Citadel Island inhabitants]] -->
