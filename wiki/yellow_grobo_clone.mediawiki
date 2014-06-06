@@ -34,11 +34,3 @@ In [[Funky Town]], [[Twinsen]] encounters a yellow grobo clone without a helmet.
 Though the clones are present on other places, they are not important in the game most of the time.
 
 A portrait of a yellow grobo clone is found in [[Miss Bloop's Private Museum]]. It has a safe hidden behind it.
-
-<!-- remove these category links when they're all automated by categorizers...
-[[Category: Clones]]
-[[Category: Yellow enemies]]
-[[Category: Melee fighters]]
-[[Category: Average characters]]
-[[Category: FunFrock's army]]
-[[Category: Grobos]] -->
