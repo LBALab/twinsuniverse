@@ -6,7 +6,7 @@ title: Red Grobo Clone
  |image=Red_grobo_clone.JPG‎
  |race=grobo
  |gender=male
- |size=
+ |size=average
  |lba1=yes
  |lba2=
  |alignment=funfrock
@@ -25,11 +25,3 @@ title: Red Grobo Clone
 }}
 
 '''Red [[Grobo]] [[Clone]]''' is the strongest Grobo-clone in [[LBA 1]], apart from the [[supergro]]. It can shoot out sparks from its baton that inflict damage. They are usually found in more protected areas.
-
-<!-- remove these category links when they're all automated by categorizers...
-[[Category: Clones]]
-[[Category: Red enemies]]
-[[Category: Melee fighters]]
-[[Category: Average characters]]
-[[Category: FunFrock's army]]
-[[Category: Grobos]] -->
