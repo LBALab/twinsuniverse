@@ -29,10 +29,3 @@ title: Red Sphero Clone
 [[Twinsen]] has to defeat a Red Sphero Clone guarding the entrance to the secret fortress in order to access it. He needs the clone's [[key]] to open the locked door.
 
 On the Construction site, Twinsen runs into them on several occasions, but he never has to defeat one of them there. One Red Sphero Clone on the construction site is, however, holding a [[Clover leaf]].
-
-<!-- remove these category links when they're all automated by categorizers...
-[[Category: Clones]]
-[[Category: Red enemies]]
-[[Category: Small characters]]
-[[Category: FunFrock's army]]
-[[Category: Spheroes]] -->
