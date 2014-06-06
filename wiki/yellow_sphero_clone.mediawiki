@@ -26,10 +26,3 @@ title: Yellow Sphero Clone
 
 Weakest level of Sphero clone, still quite strong though. Less common than grobo-clones or rabbibunny-clones but the most common type of sphero-clone.
 Found in LBA1
-
-<!-- remove these category links when they're all automated by categorizers...
-[[Category: Clones]]
-[[Category: Yellow enemies]]
-[[Category: Small characters]]
-[[Category: FunFrock's army]]
-[[Category: Spheroes]] -->
