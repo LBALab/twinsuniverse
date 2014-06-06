@@ -25,11 +25,3 @@ title: Flying Grobo Clone
 }}
 
 '''Flying [[Grobo]] [[Clone]]s''' are found in one part of [[LBA 1]]. They are very fast, as they fly around with a sort of jet-pack. They cause a lot of damage and are hard to escape. They are found in a room rather like a large empty swimming pool, underground at [[Fortress Island]].
-
-<!-- remove these category links when they're all automated by categorizers...
-[[Category: Clones]]
-[[Category: Red enemies]]
-[[Category: Gun Wielders]]
-[[Category: Average characters]]
-[[Category: FunFrock's army]]
-[[Category: Grobos]] -->
