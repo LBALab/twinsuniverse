@@ -13,7 +13,7 @@ title: Franco Pike Guard
  |occupation=Guard
  |requires=Green
  |melee=yes
- |ranged=
+ |ranged=yes
  |magic=
  |explosive=
  |range=Short
