@@ -6,7 +6,7 @@ title: Supergro
  |image=Whiteclone.gif
  |race=grobo
  |gender=male
- |size=large
+ |size=average
  |lba1=yes
  |lba2=
  |alignment=funfrock
@@ -39,10 +39,3 @@ Twinsen has to fight a supergro in the entrance of [[FunFrock's Headquarters]], 
 * {{thread|id=1421|title=Super 4th level magic ball protects you too?}}
 ===Fan Art===
 * {{thread|id=10774|title=Smilies}}
-
-<!-- remove these category links when they're all automated by categorizers...
-[[Category:Clones]]
-[[Category:Gun wielders]]
-[[Category:Average characters]]
-[[Category:FunFrock's army]]
-[[Category:Grobos]] -->
