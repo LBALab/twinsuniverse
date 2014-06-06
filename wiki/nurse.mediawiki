@@ -43,10 +43,3 @@ In order to escape from the [[Citadel]], Twinsen has to take on a nurse's clothi
 ===Fan Art===
 * {{thread|id=10242|title=Random collection}}
 * {{post|id=67043|title=Lba3}}
-
-<!-- remove these category links when they're all automated by categorizers...
-[[Category:Quetches]]
-[[Category:Melee fighters]]
-[[Category:Adult characters]]
-[[Category:Average characters]]
-[[Category:FunFrock's army]] -->
