@@ -1,0 +1,62 @@
+---
+title: Twinsuniverse Wiki/Section 2
+---
+
+<div class="fpbox mobilecollapsible" id="fpsubject1"><!-- BEGIN Content links -->
+<div class="heading desktopleft mobileleft">Content</div>
+<!-- For proper mobile styling, wrap list item text in a <div> *unless* it's a link. -->
+<div class="body columns bigmobilelinks"><div class="leftcol">
+* <div>'''Left column subheading 1'''</div>
+** [[Content item 1]]
+** [[Content item 2]]
+** [[Content item 3]]
+** [[Content item 4]]
+* '''[[Left column subheading 2]]'''
+** <div>TBA</div>
+
+</div><div class="rightcol">
+* <div>'''Right column subheading 1'''</div>
+** [[Content item 6]]
+** [[Content item 7]]
+** [[Content item 8]]
+* '''[[Right column subheading 2]]'''
+** <div>TBA</div>
+
+</div></div></div><!--END Content links -->
+
+<div class="fpbox mobilecollapsible" id="fpsubject2"><!-- BEGIN Heading B links -->
+<div class="heading desktopleft mobileleft">Heading B links</div>
+<div class="body columns bigmobilelinks"><div class="leftcol">
+* <div>'''Left column subheading A'''</div>
+** [[Subject B item 1]]
+** [[Subject B item 2]]
+** [[Subject B item 3]]
+** [[Subject B item 4]]
+** [[Subject B item 5]]
+* <div>'''Left column subheading B'''</div>
+** [[Subject B item 6]]
+** [[Subject B item 7]]
+* <div>'''Left column subheading C'''</div>
+** [[Subject B item 8]]
+** [[Subject B item 9]]
+** [[Subject B item 10]]
+** [[Subject B item 11]]
+* '''[[Left column subheading D]]'''
+** [[Subject B item 12]]
+</div><div class="rightcol">
+* '''[[Right column subheading A]]'''
+** [[Subject B item 13]]
+** [[Subject B item 14]]
+** [[Subject B item 15]]
+** [[Subject B item 16]]
+* '''[[Right column subheading B]]'''
+** [[Subject B item 17]]
+** [[Subject B item 18]]
+** [[Subject B item 19]]
+* '''[[Right column subheading C]]'''
+** [[Subject B item 20]]
+** [[Subject B item 21]]
+** [[Subject B item 22]]
+</div></div></div><!--END Heading B links --><noinclude>
+
+[[Category:Front page sections]]</noinclude>
