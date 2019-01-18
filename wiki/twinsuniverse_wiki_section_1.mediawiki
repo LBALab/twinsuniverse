@@ -1,0 +1,19 @@
+---
+title: Twinsuniverse Wiki/Section 1
+---
+
+<div class="fpbox plain desktopright mobilecenter"><!-- BEGIN Welcome box-->
+<div class="nomobile" style="float:left;">[[File:Book light transparent.png|100px]]</div><div class="mobileonly">[[File:Book light transparent.png|100px|center]]</div>
+<div class="mainheading nomobile">Welcome to the {{Gamename}} Wiki</div><div class="heading mobileonly">Welcome to the {{Gamename}} Wiki</div>
+<div>The {{Gamename}} guide for [[Keyword1]], [[Keyword2]], [[Keyword3]] and more written and maintained by the players.</div>
+<div>Please feel free to contribute by creating new articles or expanding on existing ones.</div>
+</div><!--END Welcome box-->
+
+<div class="fpbox mobilecollapsible"><!-- BEGIN Spotlight box-->
+<div class="heading desktopcenter mobileleft">About {{Gamename}}</div>
+<div class="body">
+Add a description of the game which covers topics of interest and has links.<div style="float: right;"><nowiki>[</nowiki>[[{{Gamename}}|Read more...]]<nowiki>]</nowiki></div>
+</div>
+</div><!--END Welcome and Description Spotlight box--><noinclude>
+
+[[Category:Front page sections]]</noinclude>
