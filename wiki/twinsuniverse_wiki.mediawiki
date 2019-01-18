@@ -2,24 +2,55 @@
 title: Twinsuniverse Wiki
 ---
 
-__NOTOC__
-{| class="lastupdate"
-|-
-| class="lastupdate-left" | [[Image:Big_twinsun_with_blurred_atmosphere-cropped.png|240px|Twinsuniverse_Wiki Wiki]]
-| class="lastupdate-right" | {{newslist|mode=latest}}
-|}
+<!-- This is a responsive front page design that adapts to the available width 
+     of the browser by showing content in 1, 2, or 3 columns.
 
-{| style="width: 95%; margin: 0px auto; text-align: center;"
-|-
-| style="vertical-align:top" |
-Welcome to the '''[[Twinsuniverse_Wiki Wiki:About|Twinsuniverse_Wiki Wiki]]'''. This is the product of what once started as the LBA compendium project in December 2000, and various other projects developed separately. The goal of this project is to make a complete documentation of the universe around the games and alternate versions of:<br>
-[[Little Big Adventure 1]] (Relentless){{superlink|article=FunFrock's Reign|label=storyline}}{{superlink|article=wikipedia.org/wiki/Little_Big_Adventure|label=wikipedia|external=yes}}<br>
-[[Little Big Adventure 2]] (Twinsen's Oddysey){{superlink|article=Twinsen's Odyssey|label=storyline}}{{superlink|article=wikipedia.org/wiki/Little_Big_Adventure_2|label=wikipedia|external=yes}}<br>
-[[Little Big Adventure 3]] (Stellar Entity Genesis){{superlink|article=Stellar Entity Genesis|label=storyline}}{{superlink|article=wikipedia.org/wiki/Little_Big_Adventure_3|label=wikipedia|external=yes}}
+     This is done by dividing the main content of the page into four numbered sections.
+     When the window is narrow, as on low-res displays, the content is displayed in a
+     single column in order: 1, 2, 3, 4
 
-The Twinsuniverse_Wiki Wiki currently contains '''{{NUMBEROFARTICLES}}''' articles and '''{{NUMBEROFFILES}}''' files. [[Special:Statistics|More numbers]]
-{{mbox|class=content|This knowledge base is full with spoilers! It is recommended not to read any further without having the games played. Otherwise, spoilers at your own risk!}}
-|}
+     When the window is medium, as on medium-res displays, there are two columns.
+     Section 1 and 2 are on top with 1 on the left and 2 on the right. 
+     Sections 3 and 4 are on the bottom with 4 at the left and 3 at the right.
 
-{{mainnavigation}}
-[[Category:Categories| ]]
+     When the window is wide, as on high-res displays, there are three columns.
+     Sections 1 and 4 take up the left column, with section 1 on top.
+     Section 2 takes up the middle column.
+     Section 3 takes up the right column.
+
+     Or, visually...
+       Narrow        Medium         Wide
+        |1|          |1| |2|        |1| | | | |
+        |2|          |4| |3|        | | |2| |3|
+        |3|                         |4| | | | |
+        |4|
+-->
+<div id="mf-home" class="fpmain">
+
+<div class="fpsection1"><!-- BEGIN SECTION 1 -->
+{{:{{SITENAME}}/Section 1}}
+</div><!--END SECTION 1-->
+
+<div class="fpmidsections"><!--BEGIN LAYOUT WRAPPER FOR SECTIONS 2 and 3-->
+
+<div class="fpsection2"><!-- BEGIN SECTION 2 -->
+{{:{{SITENAME}}/Section 2}}
+</div><!--END SECTION 2-->
+
+<div class="fpsection3"><!-- BEGIN SECTION 3 -->
+{{:{{SITENAME}}/Section 3}}
+</div><!--END SECTION 3-->
+
+</div><!--END LAYOUT WRAPPER FOR SECTIONS 2 and 3 -->
+
+<div class="fpsection4"><!-- BEGIN SECTION 4 -->
+{{:{{SITENAME}}/Section 4}}
+</div><!--END SECTION 4-->
+
+</div>
+
+<div class="nomobile" style="text-align: right;"><small>Main page sections: [[/Section 1|1]] &#183; [[/Section 2|2]] &#183; [[/Section 3|3]] &#183; [[/Section 4|4]]. Changes for the main page can be proposed [[Talk:{{SITENAME}}|here]]. </small></div>
+
+<metadesc>The comprehensive wiki resource for the game</metadesc>
+__NOTITLE__
+[[Category:{{SITENAME}}| ]]
