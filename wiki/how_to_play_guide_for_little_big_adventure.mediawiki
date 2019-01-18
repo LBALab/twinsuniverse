@@ -1,0 +1,18 @@
+---
+title: How to play guide for Little Big Adventure
+---
+
+{{Stub}}
+This page will serve as a basic '''how to play guide for ''{{Gamename}}'''''. While there is very little information available at this time, we urge you to check back often, as new information is being added all the time! Feel free to edit this guide with any tips, tricks, and suggestions.
+
+==Basic gameplay==
+
+==Controls==
+
+==Tips and tricks==
+
+==See also==
+* [[Release date]]
+* [[System requirements]]
+
+[[Category:Guides]]
