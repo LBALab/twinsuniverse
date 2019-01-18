@@ -1,0 +1,22 @@
+---
+title: Twinsuniverse Wiki/Section 4
+---
+
+<div class="fpbox mobilecollapsible" id="fpwiki"><!-- BEGIN Wiki box-->
+<div class="heading desktopleft mobileleft">Wiki Community</div>
+<div class="body">
+We are currently maintaining [[Special:Statistics|{{NUMBEROFPAGES}} pages ({{NUMBEROFARTICLES}} articles)]]!<br>
+<small style="margin-left:2em;">[[Special:Recentchanges|Recent changes]] {{!}} [[Special:Newpages|New pages]] {{!}} [[Special:Wantedpages|Missing pages]]</small>
+;[[Project:Community portal|How to help]]
+: See how you can help contribute to {{Gamename}} Wiki! Remember to maintain a standard for grammar and punctuation in your contributions, please.
+<inputbox>
+type= create
+width= 30
+placeholder=Title of your article
+</inputbox>
+;[[Special:Userlogin|Register]]
+: Register an account to keep track of your contributions.
+</div>
+</div><!--END Wiki box--><noinclude>
+
+[[Category:Front page sections]]</noinclude>
