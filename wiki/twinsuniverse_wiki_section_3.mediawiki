@@ -1,0 +1,30 @@
+---
+title: Twinsuniverse Wiki/Section 3
+---
+
+<div class="fpbox mobilecollapsible" id="fpguides"><!-- BEGIN Guides box-->
+<div class="heading desktopleft mobileleft">Guides</div>
+<div class="body bigmobilelinks">
+* [[How to play guide for {{gamename}}]]
+* [[System requirements]]
+* [[Release date]]
+* [[Support|Game support]]
+</div>
+</div><!--END Guides box-->
+
+<div class="fpbox mobilecollapsible" id="fpvideos"><!-- BEGIN Videos box-->
+<div class="heading desktopcenter mobileleft">Videos</div>
+<div class="body" style="text-align: center;">
+{{#ev:twitchvod|v146686933|480||||autoplay=false}}
+''See [[:Category:Videos|more videos]]''
+</div>
+</div><!--END Videos box-->
+
+<div class="fpbox mobilecollapsible" id="fptwitter"><!-- BEGIN Twitter box-->
+<div class="heading desktopcenter mobileleft">Twitter</div>
+<div class="body" style="height: 310px; text-align: center;">
+{{Twitter}}
+</div>
+</div><!--END Twitter box--><noinclude>
+
+[[Category:Front page sections]]</noinclude>
