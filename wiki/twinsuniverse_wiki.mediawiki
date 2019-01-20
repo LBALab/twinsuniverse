@@ -51,6 +51,6 @@ title: Twinsuniverse Wiki
 
 <div class="nomobile" style="text-align: right;"><small>Main page sections: [[/Section 1|1]] &#183; [[/Section 2|2]] &#183; [[/Section 3|3]] &#183; [[/Section 4|4]]. Changes for the main page can be proposed [[Talk:{{SITENAME}}|here]]. </small></div>
 
-<metadesc>The comprehensive wiki resource for the game</metadesc>
+<metadesc>The comprehensive wiki resource for the Little Big Adventure games</metadesc>
 __NOTITLE__
 [[Category:{{SITENAME}}| ]]
