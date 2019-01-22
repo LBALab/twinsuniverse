@@ -3,13 +3,13 @@ title: System requirements
 ---
 
 {{Stub}}
-The following are the minimum and recommended '''system requirements''' for ''{{Gamename}}''. While these requirements do not represent a guaranteed working configuration, meeting the minimum requirements should ensure at least a launch-able environment.
+The following are the minimum and recommended '''system requirements''' for ''Little Big Adventure''. While these requirements do not represent a guaranteed working configuration, meeting the minimum requirements should ensure at least a launch-able environment.
 
 ==Recommended requirements==
 
 ==Minimum requirements==
 
 ==See also==
-* [[How to play guide for {{Gamename}}]]
+* [[How to play guide for Twinsuniverse]]
 
 [[Category:Guides]]
