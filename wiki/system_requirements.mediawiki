@@ -11,6 +11,5 @@ The following are the minimum and recommended '''system requirements''' for ''{{
 
 ==See also==
 * [[How to play guide for {{Gamename}}]]
-* [[Release date]]
 
 [[Category:Guides]]
