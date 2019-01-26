@@ -14,7 +14,7 @@ title: Twinsuniverse Wiki/Section 3
 <div class="fpbox mobilecollapsible" id="fpvideos"><!-- BEGIN Videos box-->
 <div class="heading desktopcenter mobileleft">Videos</div>
 <div class="body" style="text-align: center;">
-{{#ev:twitchvod|v146686933|480||||autoplay=false}}
+{{#ev:youtube|umneyaFmb6U|480||||autoplay=false}}
 ''See [[:Category:Videos|more videos]]''
 </div>
 </div><!--END Videos box-->
