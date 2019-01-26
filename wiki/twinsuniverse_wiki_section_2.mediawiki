@@ -82,6 +82,7 @@ title: Twinsuniverse Wiki/Section 2
 * <div>'''Fansites'''</div>
 ** [[Subject B item 6]]
 ** [[Subject B item 7]]
+<div class="rightcol">
 * <div>'''LBA Modifications'''</div>
 ** [[Subject B item 8]]
 ** [[Subject B item 9]]
@@ -93,7 +94,7 @@ title: Twinsuniverse Wiki/Section 2
 * <div>'''LBA Modification Tools Sites'''</div>
 ** [[Subject B item 8]]
 ** [[Subject B item 9]]
-** [[Subject B item 10]]
+** [[Subject B item 10]]</div>
 </div></div></div><!--END Items links --><noinclude>
 
 [[Category:Front page sections]]</noinclude>
