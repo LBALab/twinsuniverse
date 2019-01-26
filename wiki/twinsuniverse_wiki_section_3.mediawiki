@@ -11,14 +11,6 @@ title: Twinsuniverse Wiki/Section 3
 </div>
 </div><!--END Guides box-->
 
-<div class="fpbox mobilecollapsible" id="fpvideos"><!-- BEGIN Videos box-->
-<div class="heading desktopcenter mobileleft">Videos</div>
-<div class="body" style="text-align: center;">
-{{#ev:youtube|umneyaFmb6U|480||||autoplay=false}}
-''See [[:Category:Videos|more videos]]''
-</div>
-</div><!--END Videos box-->
-
 <div class="fpbox mobilecollapsible" id="fptwitter"><!-- BEGIN Twitter box-->
 <div class="heading desktopcenter mobileleft">Twitter</div>
 <div class="body" style="height: 310px; text-align: center;">
