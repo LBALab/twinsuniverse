@@ -1,0 +1,23 @@
+---
+title: Little Big Adventure 2
+---
+
+{{stub}}
+{{Infobox game
+|title = Little Big Adventure 2
+|image = 
+|size = //optional
+|developer = Adeline Software International
+|publisher = Electronic Arts, Activision
+|engine = 
+|version = 
+|platform = MS-DOS, Windows
+|releasedate = June 1997
+|genre = Action-Adventure
+|mode = Single Player
+|rating = 
+|media = 
+|requirements = 
+}}
+
+[[Category:Twinsuniverse_Wiki]]
