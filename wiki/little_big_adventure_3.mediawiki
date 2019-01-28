@@ -1,0 +1,23 @@
+---
+title: Little Big Adventure 3
+---
+
+{{stub}}
+{{Infobox game
+|title = Little Big Adventure 3
+|image = 
+|size = //optional
+|developer = 
+|publisher = 
+|engine = 
+|version = 
+|platform = 
+|releasedate = 
+|genre = 
+|mode = 
+|rating = 
+|media = 
+|requirements = 
+}}
+
+[[Category:Twinsuniverse_Wiki]]
