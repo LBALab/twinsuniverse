@@ -12,7 +12,7 @@ title: Twinsuniverse Wiki/Section 1
 <div class="fpbox mobilecollapsible"><!-- BEGIN Spotlight box-->
 <div class="heading desktopcenter mobileleft">About Little Big Adventure</div>
 <div class="body">
-Little Big Adventure are a series of action-adventure games featuring the spell-wielding [[Twinsen]]. <div style="float: right;"><nowiki>[</nowiki>[[Little Big Adventure|Read more...]]<nowiki>]</nowiki></div>
+Little Big Adventure is a series of action-adventure games featuring the spell-wielding hero called [[Twinsen]]. <div style="float: right;"><nowiki>[</nowiki>[[Little Big Adventure|Read more...]]<nowiki>]</nowiki></div>
 </div>
 </div><!--END Welcome and Description Spotlight box--><noinclude>
 
