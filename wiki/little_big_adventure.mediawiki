@@ -1,0 +1,23 @@
+---
+title: Little Big Adventure
+---
+
+{{stub}}
+{{Infobox game
+|title = Little Big Adventure
+|image = 
+|size = //optional
+|developer = Adeline Software International
+|publisher = Electronic Arts
+|engine = 
+|version = 
+|platform = MS-DOS, PC-98, FM Towns, PlayStation, Android, iOS
+|releasedate = October 1994
+|genre = Action-Adventure
+|mode = Single Player
+|rating = 
+|media = 
+|requirements = 
+}}
+
+[[Category:Twinsuniverse_Wiki]]
