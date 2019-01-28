@@ -5,7 +5,7 @@ title: Little Big Adventure 2
 {{stub}}
 {{Infobox game
 |title = Little Big Adventure 2
-|image = 
+|image = Little_Big_Adventure_2.jpg
 |size = //optional
 |developer = Adeline Software International
 |publisher = Electronic Arts, Activision
@@ -19,5 +19,5 @@ title: Little Big Adventure 2
 |media = 
 |requirements = 
 }}
-
+'''Little Big Adventure 2''', or ''Twinsen's Odysey'', is the second in the series of Little Big Adventure games featuring [[Twinsen]].
 [[Category:Twinsuniverse_Wiki]]
