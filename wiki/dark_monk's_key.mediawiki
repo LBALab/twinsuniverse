@@ -1,5 +1,40 @@
 ---
-title: Dark Monk's key
+title: Dark Monk's Key
 ---
 
-#REDIRECT [[Dark Monk's Key]]
+{{twinsunica import}}{{Infobox Item
+ |image=Darkkey.gif
+ |type=key
+ |critical=yes
+ |magical=no
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=final
+ |rowposition=2
+ |columnposition=7
+ |effect=grants access
+ |effectamount=one
+ |purpose=
+ |combattype=none
+ |powerlevel=fire
+ |rate=none
+ |range=none
+ |damage=none
+}}
+
+'''Dark Monk's Key''' is the key required to commence the celebration of [[Dark Monk]]. According to the [[Zeelich]]ian prophecy, this key should be placed on an altar in [[Dark Monk's Temple]] at [[Celebration Island]], which would cause [[Dark Monk's Statue]] to rise out of the volcano.
+
+The key is comprised of the four fragments of the four [[Esmer]] races: the [[Sups Fragment|Sups]], the [[Francos Fragment|Francos]], the [[Wannies Fragment|Wannies]] and the [[Mosquibees Fragment|Mosquibees]].
+
+After [[Twinsen]] retrieves all four key fragments, he unites them to obtain Dark Monk's key. Upon completing this quest, he also receives the last level of magic, [[Magic Ball|fire ball]]. Following Dark Monk's prophecy and other rumors that he heard, Twinsen travels to the Island of the Celebration. Once there, he enters the Temple of Dark Monk and places the key on an alter that is surrounded by the four statues of the Esmer races. The giant statue of the God then rises up from the volcano.
+
+When Twinsen exits the temple, he encounters [[Dr. FunFrock]], who turns out to having been impersonating Dark Monk.
+
+==Related threads==
+===General===
+* {{thread|id=9859|title=just finished LBA2, again}}
+* {{thread|id=9436|title=The 4 fragments}}
+
+===Fan Art===
+* {{post|id=226830|title=Edited Film Pictures}}
