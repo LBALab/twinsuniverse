@@ -1,34 +1,5 @@
 ---
-title: Piece of Rock Crystal
+title: Piece of rock crystal
 ---
 
-{{twinsunica import}}{{Infobox Item
- |image=rockcrystal.png
- |type=component
- |critical=yes
- |magical=no
- |unique=yes
- |lba1=
- |lba2=yes
- |upgrades=yes
- |rowposition=1
- |columnposition=6
- |effect=none
- |effectamount=
- |purpose=
- |combattype=none
- |powerlevel=none
- |rate=none
- |range=none
- |damage=none
-}}
-[[Image:Screenshot-lba2-ingame-island_of_the_celebration-getting_rock_crystal_3.gif|right|thumb|200px|[[Twinsen]] standing in front of a bunch of rock crystals]]
-
-'''Rock crystal''' is a mineral used to operate [[Laser-Pistol]]s. This element can mainly be found in the northern part of the [[Island of Celebration]].
-
-In order to reach the [[Under-Gas]], [[Twinsen]] first has to go to the [[Francos Harbour]], from which he can take a ship that brings him to the [[elevator to the Under-Gas]]. However, since the lifts that control the opening of the doors are too far to reach with the [[Magic Ball]], Twinsen needs a long-range weapon, such as the laser pistol.
-
-When Twinsen meets the [[dissidents]] in the [[Twinsunian Souvenir Shop]], they give him a laser pistol, and instruct him to find a piece of rock crystal in order to load it. Twinsen then goes to Celebration Island, and after circling the whole island, passing dangerous obstacles and escaping deadly lava balls, he eventually reaches the place where rock crystal is found. Once digging there using his [[pick-ax]], he obtains the rock crystal he needs, and is able to use the pistol.
-==Related threads==
-===Hints\Spoilers===
-* {{thread|id=7105|title=LBA2, Questions}}
+#REDIRECT [[Piece of Rock Crystal]]
