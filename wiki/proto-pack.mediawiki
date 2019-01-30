@@ -1,5 +1,63 @@
 ---
-title: Proto-pack
+title: Proto-Pack
 ---
 
-#REDIRECT [[Proto-Pack]]
+{{twinsunica import}}{{Infobox Item
+ |image=Protopack.gif
+ |type=equipment
+ |critical=yes
+ |magical=no
+ |unique=yes
+ |lba1=yes
+ |lba2=yes
+ |upgrades=yes
+ |rowposition=3
+ |columnposition=2
+ |effect=grants access
+ |effectamount=some
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
+
+The '''Proto-Pack''' is a small reactor that goes upon a person's back, and practically enables the person to fly a few inches above the ground.
+
+==During FunFrock's Reign==
+The Proto-Pack was built by [[Jerome Baldino]] in [[Jerome Baldino's residence (Proxim-City)|his laboratory]] in [[Proxim-City]]. When [[Twinsen]] reaches his house, Baldino is just about to finish working on it. He tells Twinsen that to fine tune the motor's power, he needs a rehostat like the ones found in [[hair dryer]]s. After Twinsen gets Baldino a hairdryer, he is able to finish working on it, and even pays Twinsen 10 [[kash]]es to test it.
+
+The main use Twinsen has for the Proto-Pack in [[LBA 1]] is at the [[Maritime Museum]] of [[Proxima Island]]. Since the alarm of the museum is on, Twinsen must use the Proto-Pack, as the slightest step on the floor would sound the alarm. After flying his way to [[LeBorgne]]'s treasure at the end of the museum, Twinsen is eventually able to steal the [[Ancestral Key]], and exit the museum before anyone notices.
+
+Another use for the Proto-Pack in the first game is on [[Peg-Leg street]] at [[Principal Island]]. As [[Julia]] and [[Beatrice]] explain to him, Twinsen has to fly to the small island nearby the street, and thus get the [[clover box]] that is there.
+
+Another two useful places for the Proto-Pack are the mooring point of [[Desert Island]], where Twinsen can use it in order to get straight to the mainland and back (as opposed to jumping from rock to rock), and on [[Dino-Fly Street]] at [[Tippett Island]], trying to avoid the giant [[crab]] swimming in the water.
+
+==During Twinsen's Odyssey==
+Some time between the events of the two games, Twinsen gave the Proto-Pack back to Baldino, who started working on improving it. Before Baldino leaves to [[Emerald Moon]], he leaves the Proto-Pack for Twinsen in the [[baggage claim]] building in [[Citadel Island]].
+
+In the baggage claim, Twinsen has to solve a couple of puzzles that include directing a crate-mover and pushing the Proto-Pakc's crate along the lane, before the [[Baggage Claim Owner|grobo in charge of the Baggage Claim]] can open the box for him.
+
+Twinsen first needs the Proto-Pack in order to reach the [[Pearl of Incandescence]], as the spikes in the [[Cave of the Pearl of Incandescence|cave where the pearl is]] do not enable him to reach it. Twinsen also uses the Proto-Pack in the [[Esmer Base]] on Desert Island, to hover over an electrical conveyor there, that fries him otherwise.
+
+When Twinsen and Baldino crash on [[Zeelich]], Baldino asks Twinsen to get him a [[can of gazogem]], so that he can upgrade the Proto-Pack into a [[Super-Jetpack]]. Even though he is displeased with the request, as he is in a hurry to reach [[Island CX]], Twinsen eventually needs the improved Jetpack, and thus goes get the gazogem.
+
+After Baldino improves the Proto-Pack into a Super Jetpack, Twinsen can still use the normal Proto-Pack, although it is no longer necessary.
+
+==Related threads==
+===General===
+* {{thread|id=10867|title=That dam...darned protopack!}}
+* {{thread|id=9496|title=Does any1 no about protopack}}
+* {{thread|id=8380|title=Proto-pack in LBA 1}}
+* {{thread|id=5647|title=Relentless protopack?}}
+* {{thread|id=2131|title=LBA 2 Otringal}}
+* {{thread|id=540|title=I just played LBA2 again.... (C)}}
+
+===Hints\Spoilers===
+* {{thread|id=9100|title=Proto-pack help, lba1}}
+* {{thread|id=7431|title=Found a way to make your protopack faster in LBA1}}
+* {{thread|id=7584|title=Stuck- Jet Pack}}
+
+===Fan Art===
+* {{thread|id=3150|title=My first Lba image}}
