@@ -1,5 +1,30 @@
 ---
-title: Pyramid shaped key
+title: Pyramid Shaped Key
 ---
 
-#REDIRECT [[Pyramid Shaped Key]]
+{{twinsunica import}}{{Infobox Item
+ |image=Pyramid.gif
+ |type=key
+ |critical=yes
+ |magical=no
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=5
+ |columnposition=6
+ |effect=grants access
+ |effectamount=one
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
+
+The '''Pyramid shaped key''' is a key the shape of a pyramid openning the secret room in the [[Citadel Island sewers|sewers of Citadel Island]], where [[Sendell's Ball]] is surrounded by a cage of ice.
+
+The key was kept by [[Mies van der Rooh's father]], the old [[rabbibunny]] who lives next to [[Twinsen]] on [[Bug Street]]. After Twinsen gives his neighbour a [[Gallic Acid]], he is able to use it to restore a map of the sewers. This map turns out to mention the key, which the rabbibunny gives to Twinsen.
+
+Twinsen uses this key with the keyhole on the floor in [[Green Corulla Street]], which makes the door to the secret room open.
