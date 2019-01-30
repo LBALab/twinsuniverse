@@ -1,5 +1,35 @@
 ---
-title: Life candy
+title: Life Candy
 ---
 
-#REDIRECT [[Life Candy]]
+{{twinsunica import}}{{Infobox Item
+ |image=
+ |type=bonus
+ |critical=no
+ |magical=no
+ |unique=no
+ |lba1=yes
+ |lba2=yes
+ |upgrades=no
+ |rowposition=none
+ |columnposition=none
+ |effect=restores life
+ |effectamount=some
+ |purpose=
+ |combattype=special
+ |powerlevel=all
+ |rate=none
+ |range=none
+ |damage=none
+}}
+[[Image:Tridna.jpg|right|200px|thumb|Fan Art illustrating the concept of life candy]]
+
+'''Life candies''' are a part of the lives system in the [[Little Big Adventure]] games. They are made to look like hearts, and contain a special genetic stimulant that triggers the regeneration of any damaged part of the body. Because the stimulant is used up as it works, each capsule only allows a slight recovery of health. As such, they are used to heal minor injuries, and generally increase a person's stamina. When a person's life points meter reaches zero, he loses one [[clover leaf]].
+
+Because of the cheap, widely available nature of the medicine, which is found in most garbage cans and plants, there is little sickness or disability on [[Twinsun]].
+
+The life candies are used by [[Twinsen]] whenever he needs to recover health. He can either find them in plants or garbage cans, or buy them in the bazaars around the planet. In [[Little Big Adventure 2]], as part of his studies in the [[School of Magic]], he receives the [[Horn of the Blue Triton]], which enables him storing a greater amount of life points, as well as using them to heal others.
+
+==Related threads==
+===Fan Art===
+* {{post|id=112171|title=Lba3}}
