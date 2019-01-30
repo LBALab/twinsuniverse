@@ -1,28 +1,5 @@
 ---
-title: Hair Dryer
+title: Hair dryer
 ---
 
-{{twinsunica import}}{{Infobox Item
- |image=Hairdryer1.png
- |type=quest
- |critical=yes
- |magical=no
- |unique=yes
- |lba1=yes
- |lba2=
- |upgrades=no
- |rowposition=
- |columnposition=
- |effect=
- |effectamount=
- |purpose=
- |combattype=none
- |powerlevel=none
- |rate=none
- |range=none
- |damage=none
-}}
-
-The '''hair dryer''' in [[Little Big Adventure 1]] is a common hair dryer, used to dry one's hair by blowing hot air. A [[hair dryer salesman]] sells these hair dryers in several islands around the [[Southern Hemisphere]] of [[Twinsun]].
-
-In a search for a way to walk around the [[Maritime Museum]] safely, [[Twinsen]] comes across [[Jerome Baldino's residence (Proxim-City)|Jerome Baldino's residence]], where he hears from [[Jerome Baldino]] about his plans of building a [[Proto-Pack]]. Baldino explains Twinsen that to complete the proto-pack, he needs a rheostat like the one found in hair dryer, and asks him to get one for him. Twinsen finds the hair dryer salesman patrolling around [[Proxima Island]], and buys a hair dryer from him for 30 [[kashes]]. He then gives the hair dryer to Baldino, who completes the proto-pack. Baldino also offers Twinsen 10 kashes to test the proto-pack.
+#REDIRECT [[Hair Dryer]]
