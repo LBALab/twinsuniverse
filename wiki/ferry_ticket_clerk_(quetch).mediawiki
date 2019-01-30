@@ -1,35 +1,5 @@
 ---
-title: Ferry Ticket Clerk (Quetch)
+title: Ferry ticket clerk (Quetch)
 ---
 
-{{twinsunica import}}{{Infobox Character
- |image=
- |race=Quetch
- |gender=Male
- |size=average
- |age=Adult
- |magical=no
- |lba1=yes
- |lba2=
- |alignment=neutral
- |occupation=
- |requires=
- |amount=
- |fam1=
- |fam2=
- |planet=
- |island=
- |building=
-}}
-
-The '''ferry ticket clerk''' is a [[quetch]] working as a [[ferry ticket|ticket]] seller for the Inter-Island Ferries in the [[Citadel Island harbour|Harbour]] of [[Citadel Island]].
-
-Every time [[Twinsen]] wants to board a [[ferry]] from Citidel Island in [[Little Big Adventure 2]], he must go into the Ferry building, and buy a ticket from the seller. If Twinsen goes to the tickets office before learning from [[Leone]] that he should go to [[Desert Island]], then the clerk recommends him to read the poster advertising the [[Temple of Bu]]. Before reading the poster, it's not possible to choose to buy a ferry ticket.
-
-The clerk has an assisitant behind the counter with him, named [[Mrs. Brune]].
-
-<!-- remove these category links when they're all automated by categorizers...
-[[Category: Quetches]]
-[[Category: Male characters]]
-[[Category: Adult characters]]
-[[Category: Citadel Island inhabitants]] -->
+#REDIRECT [[Ferry Ticket Clerk (Quetch)]]
