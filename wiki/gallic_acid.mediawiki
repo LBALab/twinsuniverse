@@ -1,35 +1,5 @@
 ---
-title: Gallic Acid
+title: Gallic acid
 ---
 
-{{twinsunica import}}{{Infobox Item
- |image=Gallic.gif
- |type=quest
- |critical=yes
- |magical=no
- |unique=yes
- |lba1=
- |lba2=yes
- |upgrades=no
- |rowposition=4
- |columnposition=6
- |effect=none
- |effectamount=
- |purpose=Restore Documents
- |combattype=none
- |powerlevel=none
- |rate=none
- |range=none
- |damage=none
-}}
-
-The Flask with '''Gallic Acid''' is used to restore ancient documents that have been faded away. This bottle is coloured yellow, blue and red.
-
-[[Twinsen]] first hears about gallic acid from [[Mies van der Rooh's father|his elderly neighbour]], when he tells him he needs such acid in order to restore a map of the [[Citadel Island sewers]]. He also tells him that none is left on the island. Twinsen can get the acid from either [[Ker'aooc]]'s [[Ker'aooc's house|house]] in [[Port Ludo]], or from the nearby [[Port Ludo bazaar|bazaar]] for 50 [[kash]]es. After Twinsen's neighbour receives the acid, he uses it to restore the map, which reveals a [[pyramid-shaped key]]. He then gives the key to Twinsen, who later uses it to enter the room in the sewers where [[Sendell's Ball]] is concealed in an icy cage.
-
-Additionally, Twinsen learns from the [[racer]] in [[Von Kournil Tour]] that it is possible to boost his [[Twinsen's car|car]] with gallic acid, although this does not appear in the game.
-
-==Related threads==
-===Hints\Spoilers===
-* {{thread|id=5279|title=Free Galic Acid}}
-* {{thread|id=1437|title=If...}}
+#REDIRECT [[Gallic Acid]]
