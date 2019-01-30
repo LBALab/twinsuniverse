@@ -1,37 +1,5 @@
 ---
-title: Pearl of Incandescence
+title: Pearl of incandescence
 ---
 
-{{twinsunica import}}{{Infobox Item
- |image=Pearl.gif
- |type=quest
- |critical=yes
- |magical=no
- |unique=yes
- |lba1=
- |lba2=yes
- |upgrades=no
- |rowposition=4
- |columnposition=5
- |effect=none
- |effectamount=
- |purpose=Finish the Lightning Spell
- |combattype=none
- |powerlevel=none
- |rate=none
- |range=none
- |damage=none
-}}
-
-'''The Pearl of Incandescence''' is a pearl found in the [[Cave of the Pearl of Incandescence]] on the [[Island of the White Leaf Desert]], inside a giant clam. These kind of pearls are highly prized by magicians, and enable to complete certain spells.
-
-In order to release [[Sendell's Ball]], that was locked by [[Bersimon]] inside a frozen sphere, [[Twinsen]] has to obtain the [[Ring of Lightning]]. To do that, he needs to drop a Pearl of Incandescence into the cauldron in [[Bersimon's tent]].
-
-The [[Rector of the School of Magic]] instructs Twinsen to get the Pearl of Incandescence from the cave in the cliffs at the Island of the White Leaf Desert. Twinsen reaches to the cave using [[Moya]]'s services, and gets the pearl using his [[proto-pack]]. He then drops the pearl in the cauldron at Bersimon's tent, which gives him the Ring of Lightning. He can then use it to release Sendell's Ball.
-
-==Related threads==
-===General===
-* {{thread|id=11230|title=Inspired by Pearl Bugging}}
-
-===Hints\Spoilers===
-* {{thread|id=7399|title=How can I get the parl of incandescence before I get to Zeelich?}}
+#REDIRECT [[Pearl of Incandescence]]
