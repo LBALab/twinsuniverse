@@ -1,5 +1,5 @@
 ---
-title: Weather wizard
+title: Weather Wizard
 ---
 
 #REDIRECT [[Bersimon]]
