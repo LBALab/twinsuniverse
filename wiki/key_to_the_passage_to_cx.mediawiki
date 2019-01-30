@@ -1,5 +1,32 @@
 ---
-title: Key to the passage to CX
+title: Key to the Passage to CX
 ---
 
-#REDIRECT [[Key to the Passage to CX]]
+{{twinsunica import}}{{Infobox Item
+ |image=Key_to_the_passage_to_CX.png
+ |type=key
+ |critical=yes
+ |magical=no
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=4
+ |columnposition=3
+ |effect=grants access
+ |effectamount=one
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
+
+The '''key to the passage which leads to Island CX''' is a key opening a door at the [[throne room]] in the [[Mosquibee Village]], leading to a passage which eventually leads to [[Island CX]]. The key is guarded by [[Astrid]] the queen of the [[Mosquibee]]s.
+
+In search for an access to [[Island CX]], [[Twinsen]] learns from the [[dissidents]] that it is possible to reach it from the [[Island of the Mosquibees]]. When he arrives to the island, he learns that the way to Island CX is blcoked by the throne of Queen Astrid. After Twinsen proves his loyalty to her, she promises to open the door for him using the key. But soon after that, the village is attacked by the [[Emperor]]'s soldiers, and Astrid is captured.
+
+Twinsen finds Astrid imprisoned in the [[Building Company]] at the [[Island of the Wannies]]. She gives him the key to Island CX, and tells him to go save his planet.
+
+Twinsen returns to the Mosquibees Island to open the door, but when he arrivs in the throne room he finds that a mercenary named [[Ghazkhul le Grand]] is waiting for him. After Twinsen defeats him, he can safely enter the open the throne with the key, and finally reach Island CX.
