@@ -1,5 +1,30 @@
 ---
-title: Flask of magic powder
+title: Flask of Magic Powder
 ---
 
-#REDIRECT [[Flask of Magic Powder]]
+{{twinsunica import}}{{Infobox Item
+ |image=
+ |type=bonus
+ |critical=no
+ |magical=yes
+ |unique=no
+ |lba1=yes
+ |lba2=yes
+ |upgrades=no
+ |rowposition=none
+ |columnposition=none
+ |effect=restores magic
+ |effectamount=some
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
+
+'''Flasks of magic powder''' are flasks increasing [[Twinsen]]'s magic level. Those flasks are found in plants and garbage cans around [[Twinsun]] and [[Zeelich]], and they are also available for sale in most shops.
+
+Twinsen's magic level often decreases, mainly by using the [[magic ball]], but also with the [[protection spell]] or the [[ring of lightning]]. To replenish his magic supply, Twinsen has to retrieve the magic flasks from time to time. Once completely running out of magic powder, Twinsen is not able to bounce his magic ball, or use the protection spell. For the ring of lightning, it is required to have a full magic capacity.
+
+The amount of magic Twinsen can store increases among with his level of magic.
