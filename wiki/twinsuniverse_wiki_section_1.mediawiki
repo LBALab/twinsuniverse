@@ -4,7 +4,7 @@ title: Twinsuniverse Wiki/Section 1
 
 <div class="fpbox plain desktopright mobilecenter"><!-- BEGIN Welcome box-->
 <div class="nomobile" style="float:left;">[[File:Twinsen.jpg|100px]]</div><div class="mobileonly">[[File:Book light transparent.png|100px|center]]</div>
-<div class="mainheading nomobile">Welcome to the Twinsuniverse&nbsp;Wiki</div><div class="heading mobileonly">Welcome to the Twinsuniverse Wiki</div>
+<div class="mainheading nomobile">Welcome to the Twinsuniverse&nbsp;Wiki</div><div class="heading mobileonly">Welcome to the Twinsuniverse&nbsp;Wiki</div>
 <div>The guide for [[Little Big Adventure]], [[Little Big Adventure 2]], [[Little Big Adventure 3]], and more written and maintained by the players.</div>
 <div>Please feel free to contribute by creating new articles or expanding on existing ones.</div>
 </div><!--END Welcome box-->
