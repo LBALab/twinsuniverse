@@ -18,13 +18,13 @@ title: Twinsuniverse Wiki/Section 3
 {{Featured images}}
 </div>
 </div>
-<!-- END Images box-->
+<!-- END Images box--
 
-<div class="fpbox mobilecollapsible" id="fptwitter"><!-- BEGIN Twitter box-->
+<div class="fpbox mobilecollapsible" id="fptwitter"><-- BEGIN Twitter box--
 <div class="heading desktopcenter mobileleft">Twitter</div>
 <div class="body" style="height: 310px; text-align: center;">
 {{Twitter}}
 </div>
-</div><!--END Twitter box--><noinclude>
+</div><--END Twitter box--><noinclude>
 
 [[Category:Front page sections]]</noinclude>
