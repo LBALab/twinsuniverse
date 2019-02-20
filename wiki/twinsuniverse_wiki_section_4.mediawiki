@@ -27,4 +27,4 @@ placeholder=Title of your article
 </div>
 </div><!--END Wiki box--><noinclude>
 
-[[Category:Front page sections]]</noinclude>
+[[Category:Front page]]</noinclude>
