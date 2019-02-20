@@ -16,4 +16,4 @@ Little Big Adventure is a series of action-adventure games featuring the spell-w
 </div>
 </div><!--END Welcome and Description Spotlight box--><noinclude>
 
-[[Category:Front page sections]]</noinclude>
+[[Category:Front page]]</noinclude>
