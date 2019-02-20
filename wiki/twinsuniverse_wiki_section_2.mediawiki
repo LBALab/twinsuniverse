@@ -61,4 +61,4 @@ title: Twinsuniverse Wiki/Section 2
 ** <div>TBA</div></div>
 </div></div><!--END External links --><noinclude>
 
-[[Category:Front page sections]]</noinclude>
+[[Category:Front page]]</noinclude>
