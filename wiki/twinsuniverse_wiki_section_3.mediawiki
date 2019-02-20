@@ -27,4 +27,4 @@ title: Twinsuniverse Wiki/Section 3
 </div>
 </div><--END Twitter box--><noinclude>
 
-[[Category:Front page sections]]</noinclude>
+[[Category:Front page]]</noinclude>
