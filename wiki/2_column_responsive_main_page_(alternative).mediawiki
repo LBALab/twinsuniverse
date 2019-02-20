@@ -36,4 +36,4 @@ title: 2 column responsive main page (alternative)
 
 <metadesc>The #1 community generated wiki resource for the game</metadesc>
 __NOTITLE__
-[[Category:{{SITENAME}}| ]]
+[[Category:Front page|*]]
