@@ -22,9 +22,11 @@ title: Scooterbunny
  |building=
 }}
 {{Quote
- |quote=That alien jalopy's easy on the eyes, but it looks difficult to park!
-So for 8 kashes, where do I drop you?
- |character=Scooterbunny}}
+ |That alien jalopy's easy on the eyes, but it looks difficult to park!
+ |character=Scooterbunny
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1293}}
 
 ==Description==
 
@@ -38,19 +40,23 @@ When it is raining on Citidel Island he provides you with a hint that you can ju
 
 ==Additional Quotes==
 {{Quote
- |quote=Hold on!
- |character=Scooterbunny}}
+ |Hang on!
+ |character=Scooterbunny
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1297}}
 {{Quote
- |quote=I don't talk to nutcases Mr Twinsen!
- |character=Scooterbunny}}
+ |I don't talk to nutcases Mr Twinsen!
+ |character=Scooterbunny
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1300}}
 {{Quote
- |quote=I don't take anyone in the storm, I hate this weather. And why doesn't the Weather Wizard intervene, heh?
-By the way, did you notice that you could jump while you are running?
- |character=Scooterbunny}}
+ |I don't take anyone in the storm, I hate this weather. And why doesn't the Weather Wizard intervene, heh? By the way, did you notice that you could jump while you are running?
+ |character=Scooterbunny
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1294}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Rabbibunnies]]
-[[Category:Average characters]]
-[[Category:Male characters]]
-[[Category:Adult characters]]
 [[Category:Citadel Island inhabitants]] -->
