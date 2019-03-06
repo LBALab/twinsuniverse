@@ -24,8 +24,9 @@ title: Sendell's Medallion
 }}
 
 {{Quote
- |quote=Sendell's Medallion. With this magical symbol, you have just earned the third level of power.
- |character=Official description, Twinsen's first adventure}}
+ |Sendell's Medallion. With this magical symbol, you have just earned the third level of power.
+ |Inventory, Sendell's Medallion
+ |quoteid=406}}
 
 ==Description==
 As described in the sacred [[Book of Bù]], '''Sendell's Medallion''' is one of the four important magical symbols that have to be collected by the Heir, along with the [[flask of Clear Water]], the [[Ancestral Tunic]], and the book itself. Upon gathering and uniting those four magical symbols, the Heir's victory would be much more certain. Furthermore, this medallion also enables upgrading the level of magic, depending on the previous level the Chosen One had.
@@ -44,20 +45,40 @@ The origins of the medallion are unknown. It was most likely created in some mag
 
 ==Additional quotes==
 {{Quote
- |quote=You have just found your ancestral Tunic and Sendell's Medallion. By storing Magic, it will enable you to bounce your ball at your enemies.
- |character=When Teinsen grabbed the medallion from the museum}}
+ |You have just found your ancestral Tunic and Sendell's Medallion. By storing Magic, it will enable you to bounce your ball at your enemies.
+ |Narrator, when [[Twinsen]] grabbed the tunic and medallion
+ |building=Ms. Bloop's museum
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1751}}
+
 {{Quote
- |quote=The day will come when someone from the present or future species will rise up and say, 'This world is mine from now on, and the key to all powers belongs to me!' This day will surely come because avarice and violence harbor in the hearts of all species of the universe. If the peril on this day is too great, the Chosen One will come forth. He will rise up against the tyrant and overthrow him. He will free and reunite the people, because throughout the years, the Chosen One's ancestors will have prepared him for his victory. They will have left information and weapons in his dwelling. The Chosen One, also known as the Heir, will, however, have to gather together four magical symbols if he hopes to be victorious: the Tunic, the Book of Bש, Sendell's Medallion and a Flask of Clear Water. On the day of peril Sendell will visit the Heir in his sleep and announce the coming of the final combat. The Heir will then have to go to the Well of Sendell where the goddess will endow her powers on him!
- |character=Book of Bù}}
+ |The day will come when someone from the present or future species will rise up and say, 'This world is mine from now on, and the key to all powers belongs to me!' This day will surely come because avarice and violence harbor in the hearts of all species of the universe. If the peril on this day is too great, the Chosen One will come forth. He will rise up against the tyrant and overthrow him. He will free and reunite the people, because throughout the years, the Chosen One's ancestors will have prepared him for his victory. They will have left information and weapons in his dwelling. The Chosen One, also known as the Heir, will, however, have to gather together four magical symbols if he hopes to be victorious: the Tunic, the Book of Bù, Sendell's Medallion and a Flask of Clear Water. On the day of peril Sendell will visit the Heir in his sleep and announce the coming of the final combat. The Heir will then have to go to the Well of Sendell where the goddess will endow her powers on him!
+ |Inventory, [[Book of Bù]]
+ |quoteid=434}}
+
 {{Quote
- |quote=Good day. Let's see, you can talk to me and you're wearing the Medallion of Sendell: you must be the Heir! I've been waiting for you for centuries and I've got a backache so we'll go carefully. The Hamalayi mountains are too high for me but I can lead you through this entire hemisphere, except for Polar island: it is too well guarded by FunFrock. Where do you want to go?
- |character=Dino-Fly}}
+ |Good day. Let's see, you can talk to me and you're wearing the Medallion of Sendell: you must be the Heir! I've been waiting for you for centuries and I've got a backache so we'll go carefully. The Hamalayi mountains are too high for me but I can lead you through this entire hemisphere, except for Polar island: it is too well guarded by FunFrock. Where do you want to go?
+ |character=Dino-Fly
+ |island=Tippett Island
+ |planet=twinsun
+ |quoteid=914}}
+
 {{Quote
- |quote=I know that symbol on your medallion. Virgul, our sorcerer, told us about your coming, and we have often prayed in front of the Runic Stone, which carries the same symbol. Unfortunately, Dr. FunFrock found it and built his fortress right over it, although the Rock was supposed to be indestructible! I would dig a tunnel for you so that you could enter the building, but you must first sabotage the Teleportation Center. Go find the plans of this center, I can dig only after all the telepods have been neutralized!
- |character=A rabbibunny at Fortress Island}}
+ |I know that symbol on your medallion. Virgul, our sorcerer, told us about your coming, and we have often prayed in front of the Runic Stone, which carries the same symbol. Unfortunately, Dr. FunFrock found it and built his fortress right over it, although the Rock was supposed to be indestructible! I would dig a tunnel for you so that you could enter the building, but you must first sabotage the Teleportation Center. Go find the plans of this center, I can dig only after all the telepods have been neutralized!
+ |A rabbibunny
+ |island=Fortress Island
+ |planet=twinsun
+ |quoteid=278}}
+
 {{Quote
- |quote=To my future descendants: I have lent to Miss Bloop's private museum, the Medallion and the Ancestral Tunic which rightfully belong to you. Signed: Twinsen.
- |character=A sign at Twinsen's house}}
+ |To my future descendants: I have lent to Miss Bloop's private museum, the Medallion and the Ancestral Tunic which rightfully belong to you. Signed: Twinsen.
+ |character=Twinsen
+ |reading a note
+ |building=Twinsen's house
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1073}}
 
 ==Related threads==
 ===General===
