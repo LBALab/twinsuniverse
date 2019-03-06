@@ -1,5 +1,39 @@
 ---
-title: Ski-lift rabbibunny
+title: Ski-lift Rabbibunny
 ---
 
-#REDIRECT [[Ski-lift Rabbibunny]]
+{{twinsunica import}}{{Infobox Character
+ |image=Ski-lift_rabbibunny.JPG
+ |race=rabbibunny
+ |gender=Male
+ |size=average
+ |age=Adult
+ |magical=no
+ |lba1=yes
+ |lba2=
+ |alignment=neutral
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+{{Quote
+ |Use your red card to use the skilift.
+ |character=Ski-lift Rabbibunny
+ |island=Hamalayi Mountains
+ |planet=twinsun
+ |quoteid=326}}
+
+The Rabbibunny who operates the ski-lift at the ski summit of the Hamalayi Mountains in LBA1. 
+Not much is known about this character, including where he lives. It could be assumed he lives in the nearby [[Rabbibunny village]] but his clothes are a lot neater than those of the rabbibunnies in the village, which suggests he doesn't as he probably would have ripped clothing also if he lived in the village with the mutants running around.
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category:Rabbibunnies]]
+[[Category:Average characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Hamalayi Mountains inhabitants]] -->
