@@ -38,12 +38,13 @@ Escaping from the [[Citadel]] at the beginning of the game, [[Twinsen]] makes it
 ==During Twinsen's Odyssey==
 Some time between the plot of the two games, Twinsen contributed the tunic to [[Miss Bloop's Private Museum]]. He left a note in his house to his future descendants:
 {{Quote
- |To my future descendants: I have lent to Miss Bloop's private museum, the Medallion and the Ancestral Tunic which rightfully belong to you.
+ |To my future descendants: I have lent to Miss Bloop's private museum, the Medallion and the Ancestral Tunic which rightfully belong to you. Signed: Twinsen.
  |character=Twinsen
  |reading the note
  |building=Twinsen's House
  |island=Citadel Island
- |planet=twinsun}}
+ |planet=twinsun
+ |quoteid=1073}}
 
 However, having to free [[Raph]] the [[lighthouse]] keeper, and, later on, the entire planet, Twinsen quickly finds the tunic necessary again. Going to the museum to reclaim the tunic, he finds out that the room at which the button that opens the tunic's safe is locked. To get in, Twinsen has to sneak in through the museum's window, and thus opening the tunic's safe.
 
