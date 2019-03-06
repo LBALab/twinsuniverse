@@ -23,8 +23,9 @@ title: Super Jet-pack
  |damage=none
 }}
 {{Quote
- |quote=It was put together by Jerome Baldino. It now allows you to access new locations and to follow some grades that were impracticable with the proto-pack.
- |character=Official description}}
+ |It was put together by Jerome Baldino. It now allows you to access new locations and to follow some grades that were impracticable with the proto-pack.
+ |Inventory, [[Super Jet-pack]]
+ |quoteid=1898}}
 
 ==Description==
 With the [[gazogem]] as fuel, the [[Proto-Pack]] transforms into a '''Super Jet-pack'''. This enables flying higher and faster than with the proto-pack, as well as boarding from less shallow locations.
@@ -34,20 +35,37 @@ Since the elevators to the [[Upper City]] were temporarily out of order, [[Twins
 
 ==Additional quotes==
 {{Quote
- |quote=Jerome just gave you the super jet-pack. It will allow you to reach places you couldn't get to using the proto-pack.
- |character=When Twinsen received the upgraded jet-pack}}
+ |Jerome just gave you the super jet-pack. It will allow you to reach places you couldn't get to using the proto-pack.
+ |Narrator, when [[Twinsen]] received the upgraded jet-pack
+ |quoteid=1791}}
+
 {{Quote
- |quote=Of course, but I will need this gazogem sooner or later. Besides it allows me to transform your proto-pack and increase its performance.
- |character=Jerome Baldino}}
+ |Of course, but I will need this gazogem sooner or later. Besides it allows me to transform your proto-pack and increase its performance.
+ |character=Jerome Baldino
+ |island=Otringal
+ |planet=zeelich
+ |quoteid=2118}}
+
 {{Quote
- |quote=You must go get me some gazogem so that I can finish to repair our vessel and make your protopack more powerful!!
- |character=Jerome Baldino}}
+ |You must go get me some gazogem so that I can finish to repair our vessel and make your protopack more powerful!!
+ |character=Jerome Baldino
+ |island=Otringal
+ |planet=zeelich
+ |quoteid=2119}}
+
 {{Quote
- |quote=Hey there, don't forget my gazogem. I really need it to repair the vessel. And I think you'll appreciate what it does to your protopack.
- |character=Jerome Baldino}}
+ |Hey there, don't forget my gazogem. I really need it to repair the vessel. And I think you'll appreciate what it does to your protopack.
+ |character=Jerome Baldino
+ |island=Otringal
+ |planet=zeelich
+ |quoteid=2121}}
+
 {{Quote
- |quote=Thank you, Twinsen. Now I can make a ship that can race the comets! Anyway, here's something to turn your protopack into a super jetpack. And from now on, you can fly higher.
- |character=Jerome Baldino}}
+ |Thank you, Twinsen. Now I can make a ship that can race the comets! Anyway, here's something to turn your protopack into a super jetpack. And from now on, you can fly higher.
+ |character=Jerome Baldino
+ |island=Otringal
+ |planet=zeelich
+ |quoteid=2122}}
 
 ==Related threads==
 ===General===
