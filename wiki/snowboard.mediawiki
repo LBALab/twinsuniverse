@@ -23,8 +23,9 @@ title: Snowboard
  |damage=none
 }}
 {{Quote
- |quote=Snowboard. Can only be used in the Hamalayi, near the ski lift. Place yourself in between any two flags before using.
- |character=Official description}}
+ |Snowboard. Can only be used in the Hamalayi, near the ski lift. Place yourself in between any two flags before using.
+ |Inventory, [[Snowboard]]
+ |quoteid=415}}
 
 ==Description==
 The '''snowboard''' can be used in the [[Hamalayi Mountains]] to slide down from snowy mountains. An excellent place for this is the [[ski summit]], which also has a ski lift and marked routes for convenience.
@@ -34,8 +35,9 @@ Exhausting in the high ranges of the Hamalayi Mountains, [[Twinsen]] received a 
 
 ==Additional quotes==
 {{Quote
- |quote=The Kamis have given you a Snowboard.
- |character=When Twinsen received the snowboard}}
+ |The Kamis have given you a Snowboard.
+ |Narrator, when [[Twinsen]] received the snowboard
+ |quoteid=386}}
 
 ==Related threads==
 ===General===
