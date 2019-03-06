@@ -1,5 +1,47 @@
 ---
-title: Rabbibunny Village lady
+title: Rabbibunny Village Lady
 ---
 
-#REDIRECT [[Rabbibunny Village Lady]]
+{{twinsunica import}}{{Infobox Character
+ |image=Rabbibunny_Village_lady.JPG
+ |race=rabbibunny
+ |gender=female
+ |size=average
+ |age=adult
+ |magical=no
+ |lba1=yes
+ |lba2=
+ |alignment=neutral
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+
+{{Quote
+ |The passage that I'm opening for you leads to a port, where the old subway that crossed the Hamalayi used to leave from.
+ |character=Rabbibunny Village Lady
+ |island=Hamalayi Mountains
+ |planet=twinsun
+ |quoteid=295}}
+
+==Description==
+
+The '''Rabbibunny Village lady''' only known lady in the [[Rabbibunny Village]]. She assists [[Twinsen]] by opening up a passage to the [[Subway Station]] which he can then use to reach the [[Mutant Factory]].
+
+After Twinsen destroys the [[Mutant Factory]], she gives him a life-[[heart]], if he goes over to her standing by the washing line.
+
+==Additional Quotes==
+{{Quote
+ |It's so much calmer since you've come, do you really have to leave?
+ |character=Rabbibunny Village Lady
+ |island=Hamalayi Mountains
+ |planet=twinsun
+ |quoteid=308}}
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category:Hamalayi Mountains inhabitants]] -->
