@@ -25,8 +25,9 @@ title: Bonuses List
 
 The '''Bonuses List''' is a small note listing some of the locations of [[clover box]] and clover leaves in [[Twinsun]]. The note is as follows:
 {{Quote
- |quote=Locations of several clover leaves and boxes: There is a box for clover leaves in the sewers of Citadel island, and another in the basement of the tavern; one clover leaf is guarded by a soldier who is located behind sandbags. Another is guarded by a clone in the middle of the ruins on Principal island. Another one is on the roof of the Maritime Museum. Another is guarded by a groboclone to the right of the Teleportation Center's entrance. Another is guarded by a soldier in front of FunFrock's fortress.
- |character=Bonuses List}}
+ |Locations of several clover leaves and boxes: There is a box for clover leaves in the sewers of Citadel island, and another in the basement of the tavern; one clover leaf is guarded by a soldier who is located behind sandbags. Another is guarded by a clone in the middle of the ruins on Principal island. Another one is on the roof of the Maritime Museum. Another is guarded by a groboclone to the right of the Teleportation Center's entrance. Another is guarded by a soldier in front of FunFrock's fortress.
+ |Inventory
+ |quoteid=435}}
 
 This list is owned by [[Lanktir]], a [[grobo]] residing near the [[Proxima Island bazaar|bazaar]] in [[Proxim-City]].
 
