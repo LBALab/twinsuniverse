@@ -22,8 +22,11 @@ title: Warehouse Grobo
  |building=
 }}
 {{Quote
- |quote=I've had it up to my trunk! There are 4 crates in the warehouse that I cannot seem to arrange on the 4 crosses painted on the ground. I would gladly give a ferry ticket to anyone who could help me out of this mess.
- |character=Warehouse Grobo}}
+ |I've had it up to my trunk! There are 4 crates in the warehouse that I cannot seem to arrange on the 4 crosses painted on the ground. I would gladly give a ferry ticket to anyone who could help me out of this mess.
+ |character=Warehouse Grobo
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=56}}
 
 ==Description==
 
@@ -36,12 +39,11 @@ When Twinsen needs a ferry ticket, but wont get sold one from the ticket clerk d
 ==Additional Quotes==
 
 {{Quote
- |quote=If you still want to take the ferry I can sell you some tickets for only 5 kashes each. I print them up myself.
- |character=Warehouse Grobo}}
+ |If you still want to take the ferry I can sell you some tickets for only 5 kashes each. I print them up myself.
+ |character=Warehouse Grobo
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=197}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Grobos]]
-[[Category:Male characters]]
-[[Category:Average characters]]
-[[Category:Adult characters]]
 [[Category:Citadel Island inhabitants]] -->
