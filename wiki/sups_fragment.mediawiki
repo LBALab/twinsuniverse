@@ -24,8 +24,9 @@ title: Sups Fragment
 }}
 
 {{Quote
- |quote=This fragment of the Sups' key is one of the elements which will permit you to piece together the key to Dark Monk's temple.
- |character=Official description}}
+ |This fragment of the Sups' key is one of the elements which will permit you to piece together the key to Dark Monk's temple.
+ |Inventory, [[Sups Fragment]]
+ |quoteid=1882}}
 
 ==Description==
 The '''Sups Fragment''' was one of the four fragments which together summoned [[Dark Monk's Statue]] to complete the ceremony. This turned back [[Zeelich]] to its original look after 10,000 ceremonies. The Sups Fragment is the blue "under" piece of [[Dark Monk's Key]].
