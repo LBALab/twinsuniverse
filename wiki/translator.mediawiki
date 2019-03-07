@@ -23,8 +23,9 @@ title: Translator
  |damage=none
 }}
 {{Quote
- |quote=This translator allows you to understand everything said by the visitors from Space. In discreet mode, you can even spy on conversations.
- |character=Official description}}
+ |This translator allows you to understand everything said by the visitors from Space. In discreet mode, you can even spy on conversations.
+ |Inventory, [[Translator]]
+ |quoteid=1879}}
 
 ==Description==
 With the aid of this small, silver, dome-shaped '''translator''', [[Twinsun|Twinsunians]] are able to understand and speak the [[Esmer]]s' language.
@@ -39,14 +40,23 @@ The translator obviously translates the Esmers' language to the Twinsunian one. 
 
 ==Additional quotes==
 {{Quote
- |quote=You have found a translator. Now you'll be able to understand the Esmer language.
- |character=When Twinsen received the translator}}
+ |You have found a translator. Now you'll be able to understand the Esmer language.
+ |Narrator, when [[Twinsen]] received the translator
+ |quoteid=1776}}
+
 {{Quote
- |quote=What's he saying??
- |character=Twinsen}}
+ |What's he saying??
+ |character=Twinsen
+ |island=Emerald Moon base
+ |planet=moon
+ |quoteid=1670}}
+
 {{Quote
- |quote=Hey, Twinsen, take this translator, and you will conveniently understand the language of Zeelich<nowiki>!!</nowiki>
- |character=Jerome Baldino}}
+ |Hey, Twinsen, take this translator, and you will conveniently understand the language of Zeelich!!
+ |character=Jerome Baldino
+ |island=Emerald Moon base
+ |planet=moon
+ |quoteid=1678}}
 
 ==Related threads==
 ===General===
