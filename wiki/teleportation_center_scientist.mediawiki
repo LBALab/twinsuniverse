@@ -24,8 +24,12 @@ title: Teleportation Center scientist
  |recovery=
 }}
 {{Quote
- |quote=Get out of here without breaking anything and we’ll take it into consideration.
- |character=Teleportation Center scientist}}
+ |Get out of here without breaking anything and we’ll take it into consideration.
+ |character=Teleportation Center scientist
+ |building=Teleportation Center
+ |island=Brundle Island
+ |planet=twinsun
+ |quoteid=16}}
 
 == Description ==
 The '''scientist''' in the main room of [[FunFrock]]'s [[Teleportation Center]] was keeping an eye on the central computer that preserved the Teleportation system all over [[Twinsun]]. Though he politely warned [[Twinsen]] first, he did not have any problems with shooting at him using the pistol that he was armed with. He was killed in the explosion that Twinsen caused by hitting the central computer.
