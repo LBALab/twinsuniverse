@@ -22,8 +22,11 @@ title: Wadbull
  |building=
 }}
 {{Quote
- |quote=Welcome dear customer! I don't have any more cherry flavoured syrup, but there is a pharmacy open on Citadel Island.
- |character=Wadbull}}
+ |Welcome dear customer! I don't have any more cherry flavoured syrup, but there is a pharmacy open on Citadel Island.
+ |character=Wadbull
+ |island=Principal Island
+ |planet=twinsun
+ |quoteid=506}}
 
 ==Description==
 '''Wadbull''' is the owner of the [[Old Burg Bazaar]] on [[Principal Island]]. Always referring to his customers as 'dear', He regards them highly. He always tries to be helpful to customers, when item they need is not currently in stock. In his bazaar he stocks [[Gas]] for 30 [[kashes]], [[Meca-Penguins]] for 3 kashes each, and [[life points|life]] and [[magic points]] for 10 kashes each.
@@ -33,15 +36,18 @@ Wadbull runs a bazaar from which [[Twinsen]] could buy items. He also revealed t
 
 ==Quotes==
 {{Quote
- |quote=Haha! You too are looking for his treasure? Well I sure once had a dusty book about LeBorgne, but a customer bought it this morning. It was a rabbibunny. I know that he works over at the library.
- |character=Wadbull}}
+ |Haha! You too are looking for his treasure? Well I sure once had a dusty book about LeBorgne, but a customer bought it this morning. It was a rabbibunny. I know that he works over at the library.
+ |character=Wadbull
+ |island=Principal Island
+ |planet=twinsun
+ |quoteid=598}}
+
 {{Quote
- |quote=I don't know her. But go and see Wadbull over at the bazaar. And be careful... normally it is forbidden to talk about that.
- |character=A grobo in the tavern}}
+ |I don't know her. But go and see Wadbull over at the bazaar. And be careful... normally it is forbidden to talk about that.
+ |character=A grobo in the tavern<!-- who? where? -->
+ |island=Principal Island
+ |planet=twinsun
+ |quoteid=668}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Rabbibunnies]]
-[[Category:Male characters]]
-[[Category:Average characters]]
-[[Category:Adult characters]]
 [[Category:Principal Island inhabitants]] -->
