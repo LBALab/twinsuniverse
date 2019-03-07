@@ -22,8 +22,12 @@ title: The Ferryman
  |building=
 }}
 {{Quote
- |quote=Whoever wants to cross the ocean of fire must pay the price. Four gems is the fare. Where do you want to go?
- |character=The Ferryman}}
+ |Whoever wants to cross the ocean of fire must pay the price.<br>Four gems is the fare. Where do you want to go?
+ |character=The Ferryman
+ |when first encountered
+ |island=Island of the Wannies
+ |planet=undergas
+ |quoteid=2298}}
 
 '''The Ferryman''' is a myth to most of the people of the [[Zeelich's Undergas|Undergas]], but few actually know of his true existance. He takes [[Twinsen]] across the lava to the other islands of the undergas. The Ferryman's price for each trip is four [[gem]]s.
 
@@ -37,11 +41,12 @@ During his adventure around Zeelich, Twinsen arrived at the undergas, where his 
 
 ==Additional quotes==
 {{Quote
- |quote=Ferryman if you please,<br>
-Take me across the raging seas,<br>
-For a few gems, I take your boat,<br>
-I cannot swim, I cannot float!!
- |character=Ferryman's Song}}
+ |Ferryman if you please, take me across the raging seas, for a few gems, I take your boat, I cannot swim, I cannot float!!
+ |character=Twinsen
+ |singing the Ferryman's Song at the Ferryman's Pier
+ |island=Island of the Wannies
+ |planet=undergas
+ |quoteid=2287}}
 
 ==Related threads==
 ===Fan Art===
