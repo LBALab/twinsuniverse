@@ -23,8 +23,9 @@ title: Telepod
  |damage=none
 }}
 {{Quote
- |quote=He has at his disposal two high tech weapons that insure his power: cloning and teleportation. He can clone any of the species at will, and subsequently recruit these clones into his ranks. He can then deploy these clones instantly through a network of telepods that are dispersed over the entire planet.
- |character=Introduction}}
+ |Ever since FunFrock's rise to power, the population has been living under a reign of terror. FunFrock set up a police state where suspicion is omnipresent. He has at his disposal two high tech weapons that insure his power: cloning and teleportation. He can clone any of the species at will, and subsequently recruit these clones into his ranks. He can then deploy these clones instantly through a network of telepods that are dispersed over the entire planet.
+ |Introduction to Relentless: Twinsen's Adventure (FunFrock's Reign)
+ |quoteid=432}}
 
 == Description ==
 '''Telepods''' are devices used for teleportation. They were found all over [[Twinsun]] during [[Dr. FunFrock]]'s regime. All telepods are connected to the [[Teleportation Center]], from where [[clone]]s can be sent to any place of the planet in a matter of seconds. Telepods are also found inside [[Dark Monk's Statue]].
@@ -40,9 +41,17 @@ During his second adventure, in [[Dark Monk's Statue]], Twinsen also had to defe
 
 == Additional Quotes ==
 {{Quote
- |quote=The telepod's activating pedals are fragile. Stop jumping on them!
- |character=A poster in the Teleportation Center}}
+ |The telepod's activating pedals are fragile. Stop jumping on them!
+ |A poster
+ |building=Teleportation Center
+ |island=Brundle Island
+ |planet=twinsun
+ |quoteid=9}}
 
 {{Quote
- |quote=Did you know that the telepods are dangerous for all species? Only the clones can use them!
- |character=A Rabbibunny in Lupin-Burg}}
+ |Did you know that the telepods are dangerous for all species? Only the clones can use them!
+ |A Rabbibunny
+ |building=Lupin-Burg
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=144}}
