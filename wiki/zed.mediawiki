@@ -22,8 +22,11 @@ title: Zed
  |building=
 }}
 {{Quote
- |quote=Ah Twinsen, with this rain, I found plenty of mushrooms!
- |character=Zed}}
+ |Ah Twinsen, with this rain, I found plenty of mushrooms!
+ |character=Zed
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1364}}
 
 ==Description==
 Zed is a grobo living on [[Citadel Island]]. His only hobby seems to be collecting mushrooms, something he likes doing while it rains. He also likes to lay at the beach during sunnier weather.
@@ -33,11 +36,18 @@ Zed had no real role during [[Twinsen]]'s adventures. He only gave Twinsen some 
 
 ==Additional quotes==
 {{Quote
- |quote=Last time I heard him play his guitar, he was probably on the Cliffs. I was looking for mushrooms at that time.
- |character=Zed}}
+ |Last time I heard him play his guitar, he was probably on the Cliffs. I was looking for mushrooms at that time.
+ |character=Zed
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1365}}
+
 {{Quote
- |quote=The Esmers should come here. It feels so good to look for mushrooms. By the way, I wouldn't try to go swimming, it gets deep very rapidly.
- |character=Zed}}
+ |The Esmers should come here. It feels so good to look for mushrooms. By the way, I wouldn't try to go swimming, it gets deep very rapidly.
+ |character=Zed
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1366}}
 
 ==Related threads==
 ===General===
@@ -51,8 +61,4 @@ Zed had no real role during [[Twinsen]]'s adventures. He only gave Twinsen some 
 * {{thread|id=8393|title=LBA was origianlly invented during the Rock Age!}}
 
 <!-- remove these category links when they're all automated by categorizers...
-[[Category:Grobos]]
-[[Category:Male characters]]
-[[Category:Average characters]]
-[[Category:Adult characters]]
 [[Category:Citadel Island inhabitants]] -->
