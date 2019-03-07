@@ -25,8 +25,9 @@ title: Wannies Fragment
 [[Image:Screenshot-lba2-movies-18-wannies_fragment-FRAGMENT060.gif|200px|right|thumb|The Wannies Fragment]]
 
 {{Quote
- |quote=This fragment of the wannies' key is one of the elements which will permit you to piece together the key to Dark Monk's temple.
- |character=Official description}}
+ |This fragment of the wannies' key is one of the elements which will permit you to piece together the key to Dark Monk's temple.
+ |Inventory, [[Wannies Fragment]]
+ |quoteid=1884}}
 
 ==Description==
 The '''Wannies Fragment''' was one of the four fragments which together summoned [[Dark Monk's Statue]] to complete the ceremony. This turned [[Zeelich]] back in its original look after 10,000 ceremonies. The Wannies Fragment is the green "above" piece of [[Dark Monk's Key]].
@@ -39,14 +40,25 @@ After picking up the Wannies Fragment, Twinsen heard a voice speaking to him. It
 
 ==Additional quotes==
 {{Quote
- |quote=But it's you who took our fragment. You don't realize what you have done. Listen carefully.
- |character=Mr. Lemoine}}
+ |But it's you who took our fragment. You don't realize what you have done. Listen carefully.
+ |character=Mr. Lemoine
+ |island=Island of the Wannies
+ |planet=undergas
+ |quoteid=2313}}
+
 {{Quote
- |quote=The time of the ceremony is near. Now that you have taken our fragment, Dark Monk will not chase the monsters of the gas or the cloud which blankets Zeelich!
- |character=Mr. Lemoine}}
+ |The time of the ceremony is near. Now that you have taken our fragment, Dark Monk will not chase the monsters of the gas or the cloud which blankets Zeelich!
+ |character=Mr. Lemoine
+ |island=Island of the Wannies
+ |planet=undergas
+ |quoteid=2315}}
+
 {{Quote
- |quote=Easy, Twinsen, be careful. It's not the time to break this precious fragment!!
- |character=Dark Monk{{!}}a voice}}
+ |Easy, Twinsen, be careful. It's not the time to break this precious fragment!!
+ |[[Dark Monk|an unknown voice]], when [[Twinsen]] drops the fragment
+ |island=Island of the Wannies
+ |planet=undergas
+ |quoteid=2349}}
 
 ==Related threads==
 ===General===
