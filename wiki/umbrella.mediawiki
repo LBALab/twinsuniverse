@@ -23,8 +23,9 @@ title: Umbrella
  |damage=none
 }}
 {{Quote
- |quote=This umbrella belongs to a pharmacy customer.
- |character=Official description}}
+ |This umbrella belongs to a pharmacy customer.
+ |Inventory, [[Umbrella]]
+ |quoteid=1870}}
 
 ==Description==
 This is just a common '''umbrella''', coloured beige. It belongs to [[Leone]], the cleaner of the Healing Wizard, [[Ker'aooc]].
@@ -37,17 +38,30 @@ Twinsen was able to sell the umbrella at the [[Twinsunian Souvenir Shop]], for t
 
 ==Additional quotes==
 {{Quote
- |quote=Here's the deal. I will tell you how to treat your Dino-Fly, if you would bring back my umbrella. Use your smarts but remember that, in life, haste makes waste...
- |character=Leone}}
+ |Here's the deal. I will tell you how to treat your Dino-Fly, if you would bring back my umbrella. Use your smarts but remember that, in life, haste makes waste...
+ |character=Leone
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1306}}
+
 {{Quote
- |quote=The umbrella please.
- |character=Twinsen}}
+ |The umbrella please.
+ |character=Twinsen
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1038}}
+
 {{Quote
- |quote=But that's my umb...Oh<nowiki>!!!</nowiki> excuse me...I thought it was mine. Boohooo, I'm so embarrassed...I keep making mistakes.
- |character=Umbrella thief}}
+ |But that's my umb...Oh<nowiki>!!!</nowiki> excuse me...I thought it was mine. Boohooo, I'm so embarrassed...I keep making mistakes.
+ |character=Umbrella thief
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1316}}
+
 {{Quote
- |quote=You just found the customer's umbrella.
- |character=When Twinsen received the umbrella}}
+ |You just found the customer's umbrella.
+ |Narrator, when [[Twinsen]] received the umbrella
+ |quoteid=1767}}
 
 ==Related threads==
 ===General===
