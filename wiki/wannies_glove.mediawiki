@@ -24,8 +24,9 @@ title: Wannies Glove
 }}
 
 {{Quote
- |quote=With this Wannie's glove, you can now touch the fire. This will allow you to throw back the fireballs that the monsters from the gas hurl at you.
- |character=Official description}}
+ |With this Wannie's glove, you can now touch the fire. This will allow you to throw back the fireballs that the monsters from the gas hurl at you.
+ |Inventory, [[Wannies Glove]]
+ |quoteid=1861}}
 
 ==Description==
 The '''wannie's glove''' isn't actually meant to be a weapon. It gives the person who wears it protection against fire or lava. It is commonly used by the [[wannie]]s inside the [[mines]] on the [[Island of the Wannies]]. It allows them to pick up [[gem]]s from the lava.
@@ -42,14 +43,25 @@ The Wannie's Glove was found in two different locations: inside the home of one 
 
 ==Additional quotes==
 {{Quote
- |quote=You just found a Wannie's Glove. Use it to repel the fireballs your enemies throw at you.
- |character=When Twinsen found the glove}}
+ |You just found a Wannie's Glove. Use it to repel the fireballs your enemies throw at you.
+ |Narrator, when [[Twinsen]] found the glove
+ |island=Island of the Wannies
+ |planet=undergas
+ |quoteid=1758}}
+
 {{Quote
- |quote=Hmmf! Lost my glove somewhere in the mine. Now I can't reach into the lava to grab up the gems.
- |character=A miner}}
+ |Hmmf! Lost my glove somewhere in the mine. Now I can't reach into the lava to grab up the gems.
+ |character=A miner
+ |island=Island of the Wannies
+ |planet=undergas
+ |quoteid=2328}}
+
 {{Quote
- |quote=I'm in a bind, I've lost my glove somewhere in the mine. With it, I can catch the pieces of lava and the balls of fire, I can even pitch them back. Everybody has one, to extract gems.
- |character=A miner}}
+ |I'm in a bind, I've lost my glove somewhere in the mine. With it, I can catch the pieces of lava and the balls of fire, I can even pitch them back. Everybody has one, to extract gems.
+ |character=A miner
+ |island=Island of the Wannies
+ |planet=undergas
+ |quoteid=2323}}
 
 ==Related threads==
 ===General===
