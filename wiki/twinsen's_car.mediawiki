@@ -8,8 +8,12 @@ title: Twinsen's car
 
 [[Image:Twincar.gif|right|126px|thumb|Twinsen in his car.]]
 {{Quote
- |quote=The car's not working. Zoé said there's still a part she needs. She asked Baldino to make it for her.
- |character=Twinsen}}
+ |The car's not working. Zoé said there's still a part she needs. She asked Baldino to make it for her.
+ |character=Twinsen
+ |building=Twinsen's house
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1125}}
 
 ==Description==
 '''Twinsen's car''' is a yellow buggy owned by [[Twinsen]]. It has a cannon under its hood, which has the power of Twinsen's [[Magic Ball|Magic Level]]. When driving over a ramp, it can jump high and far.
@@ -26,8 +30,11 @@ Eventually, Twinsen lost his car on the mountain of the Garden Balsam Flower. He
 
 ==Additional Quotes==
 {{Quote
- |quote=Twinsen, if you want to try out the car, just go to the racetrack or the desert. As long as I'm here, I'm going to catch up on a little shopping. I'll meet you back at the house.
- |character=Zoé}}
+ |Twinsen, if you want to try out the car, just go to the racetrack or the desert. As long as I'm here, I'm going to catch up on a little shopping. I'll meet you back at the house.
+ |character=Zoé
+ |island=Desert Island
+ |planet=twinsun
+ |quoteid=1438}}
 
 ==Related Threads==
 ===General===
