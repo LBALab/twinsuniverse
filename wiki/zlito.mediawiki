@@ -24,8 +24,9 @@ title: Zlito
 }}
 
 {{Quote
- |quote=It is the exchange currency of planet Zeelich. With it, you can buy the articles you are interested in on planet Zeelich.
- |character=Official description}}
+ |It is the exchange currency of planet Zeelich. With it, you can buy the articles you are interested in on planet Zeelich.
+ |Inventory, [[Zlito]]
+ |quoteid=1893}}
 
 ==Description==
 '''Zlitos''' are the currency of [[Zeelich]], planet of the [[esmer]]s. The esmers use them to buy anything they're interested in.
