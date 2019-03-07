@@ -21,6 +21,14 @@ title: Annie
  |island=
  |building=
 }}
+{{Quote
+ |Ferryman if you please, take me across the raging seas, for a few gems, I take your boat, I cannot swim, I cannot float!!
+ |character=Annie
+ |singing the [[Ferryman's Song]]
+ |building=Village of the Wannies
+ |island=Island of the Wannies
+ |planet=undergas
+ |quoteid=2320}}
 
 '''Annie''' is a [[wannie]] working as [[Mr. Lemoine]]'s housemaid. She lives with her only son in a small house in the [[Village of the Wannies]].
 
