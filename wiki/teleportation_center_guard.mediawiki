@@ -24,8 +24,12 @@ title: Teleportation Center guard
  |recovery=
 }}
 {{Quote
- |quote=Let me see some identification please!
- |character=Teleportation Center guard}}
+ |Let me see some identification please!
+ |character=Teleportation Center guard
+ |building=Teleportation Center
+ |island=Brundle Island
+ |planet=twinsun
+ |quoteid=1}}
 
 == Description ==
 The entrance of the well protected [[Teleportation Center]] was guarded by a nameless, simple [[Quetch]]. His task was to ask visitors for identification and open the Center's gates for them. He was armed with a simple pistol, but when necessary he was helped by the two shooting robots behind the gates.
