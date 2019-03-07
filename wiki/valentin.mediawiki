@@ -22,8 +22,11 @@ title: Valentin
  |building=
 }}
 {{Quote
- |quote=This Roger de la Fontaine, he used to get pretty close to the gas. Could well be where he hid it, our fragment.
- |character=Valentin}}
+ |This Roger de la Fontaine, he used to get pretty close to the gas.<br>Could well be where he hid it, our fragment.
+ |character=Valentin
+ |island=Island of the Francos
+ |planet=zeelich
+ |quoteid=1743}}
 
 ==Description==
 '''Valentin''' is a [[Franco]] Miner, one of the many inhabitants on the [[Island of the Francos]]. Just like all the other Francos on the island, Valentin is searching for their lost [[Francos Fragment|Key Fragment]]. He uses a dowsing pendulum to find it.
