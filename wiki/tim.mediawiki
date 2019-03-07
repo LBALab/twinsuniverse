@@ -22,8 +22,12 @@ title: Tim
  |building=
 }}
 {{Quote
- |quote=Hi, Twinsen. With this storm, I've got lots of customers and I don't have one minute to myself.
- |character=Tim}}
+ |Hi, Twinsen. With this storm, I've got lots of customers and I don't have one minute to myself.
+ |character=Tim
+ |building=Chez Luc
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1208}}
 
 ==Description==
 '''Tim''' is a pretty reckless [[rabbibunny]] working as a waiter in [[Chez Luc]] at [[Citadel Island]]. He seems to be a very dedicated waiter, always willing to happily serve the demanding cutsomers. It seems he would work in any conditions, even in the [[storm]] or in hot days. Additionally, it is recommended not to sneak into the basement of the pub, as an unpleasant experience would be Tim trying to kick you out of there. Tim seems to be the only worker at Chez Luc, except for [[Luc]] himself, of course. Luc, the manager and the bartender of the pub, seems to be pretty fond of Tim.
