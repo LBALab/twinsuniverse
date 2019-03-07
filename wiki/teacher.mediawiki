@@ -22,8 +22,12 @@ title: Teacher
  |building=
 }}
 {{Quote
- |quote=[Sniff]...the children...we were at the "Flowers Circle" [sniff]...suddenly one of those alien ships showed up right overhead. There was this big white flash, and then...nothing. Next thing I remember, I found myself alone, the children nowhere in sight, and the ship was taking off. It's horrible, Mr. Twinsen! You have to find them! You have to!
- |character=Teacher}}
+ |[Sniff]...the children...we were at the "Flowers Circle" [sniff]...suddenly one of those alien ships showed up right overhead. There was this big white flash, and then...nothing. Next thing I remember, I found myself alone, the children nowhere in sight, and the ship was taking off. It's horrible, Mr. Twinsen! You have to find them! You have to!
+ |character=Teacher
+ |building=Schoolhouse
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1339}}
 
 ==Description==
 The school '''Teacher''' on [[Citadel Island]] during [[Twinsen's Odyssey]] plays no vital role except that she recalls to [[Twinsen]] the abduction of the children of [[Twinsun]]. Twinsen must then continue his quest to look for them.
@@ -32,8 +36,12 @@ She is the teacher of the four kids at the Citadel [[Schoolhouse]]. While it's r
 
 ==Additional Quotes==
 {{Quote
- |quote=I'd like to take the kids to the "Flowers Circle", but the weather's just too bad.
- |character=Teacher}}
+ |I'd like to take the kids to the "Flowers Circle", but the weather's just too bad.
+ |character=Teacher
+ |building=Schoolhouse
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1334}}
 
 == Related Threads ==
 === General ===
