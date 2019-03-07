@@ -1,5 +1,71 @@
 ---
-title: Umbrella thief
+title: Umbrella Thief
 ---
 
-#REDIRECT [[Umbrella Thief]]
+{{twinsunica import}}{{Infobox Character
+ |image=Umbrella Thief.png
+ |race=rabbibunny
+ |gender=male
+ |size=average
+ |age=Young
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+{{Quote
+ |Mr Twinsen! Could you tell me why you're following me?
+ |character=Umbrella Thief
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1315}}
+
+==Description==
+
+The '''Umbrella Thief''' is a rabbibunny who steals an [[umbrella]] from the [[pharmacy]] on [[Citadel Island]] during [[Twinsen's Odyssey]]. He has a little sister at the [[Schoolhouse]] and a [[Mrs. Brune|mother]] who works at the [[Inter-Islands Ferry]].
+
+[[Twinsen]] is asked to retrieve the umbrella back from the rabbibunny thief, by the [[Leone|owner of the umbrella]], who was a customer at the pharmacy.
+
+==Role in Twinsen's Adventure==
+
+To get information out of the owner of the umbrella about [[Ker'aooc]], Twinsen had to go after the thief, in discreet mode to make him give the umbrella back. Apparently it was just an 'accident.'
+
+==Additional Quotes==
+{{Quote
+ |Not again! What do you want from me now Mr Twinsen?
+ |character=Umbrella Thief
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1320}}
+
+{{Quote
+ |But Mr Twinsen I assure you I don't have your tunic. Maybe you should look at home.
+ |character=Umbrella Thief
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1317}}
+
+{{Quote
+ |But that's my umb...Oh!!! Excuse me I thought it was mine. Boohooo, I'm so embarrassed... I keep making mistakes...
+ |character=Umbrella Thief
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1316}}
+
+{{Quote
+ |Help!!!
+ |character=Umbrella Thief
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1318}}
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category:Citadel Island inhabitants]] -->
