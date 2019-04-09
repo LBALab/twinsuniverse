@@ -9,8 +9,8 @@ title: Hégésippe
  |size=average
  |age=dead
  |magical=yes
- |lba1=
- |lba2=
+ |lba1=yes
+ |lba2=no
  |alignment=sendell
  |occupation=
  |requires=
