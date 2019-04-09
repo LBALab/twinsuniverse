@@ -16,7 +16,7 @@ title: Meca-Penguin
  |effect=
  |effectamount=
  |purpose=
- |combattype=
+ |combattype=area
  |powerlevel=
  |rate=
  |range=
