@@ -5,7 +5,7 @@ title: Twinsen's ID Card
 {{twinsunica import}}{{Infobox Item
  |image=Twinsen's_ID_card1.png
  |type=key
- |critical=
+ |critical=no
  |magical=no
  |unique=yes
  |lba1=yes
