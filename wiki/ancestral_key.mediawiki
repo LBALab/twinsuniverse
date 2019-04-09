@@ -6,7 +6,7 @@ title: Ancestral Key
  |image=Key to the heirs room1.png
  |type=key
  |critical=yes
- |magical=
+ |magical=no
  |unique=yes
  |lba1=yes
  |lba2=
