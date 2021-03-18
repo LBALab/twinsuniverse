@@ -21,6 +21,6 @@ title: Horse
  |island=
  |building=
 }}
+{{stub}}
 
 The '''horse''' is
-{{stub}}
