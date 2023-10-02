@@ -2,7 +2,8 @@
 title: Sendell
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{twinsunica import}}
+{{Infobox Character
  |image=Sendell.jpg
  |race=god
  |gender=female
@@ -36,6 +37,9 @@ In [[Little Big Adventure 2|LBA2]], she helps Twinsen defeat FunFrock and save T
 {{stub}}
 
 {{spoiler|After Twinsen returns to Twinsun, Sendell comes to his rescue to help him push the Emerald Moon back into its orbit around Twinsun.}}
+
+==Trivia==
+*Sendell is voiced by Julie Bataille in French, along with Trish Kessler-Caffrey (LBA) and Gay Marshall (LBA2) in English.
 
 ==Related threads==
 ===General===
