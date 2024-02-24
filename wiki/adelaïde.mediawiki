@@ -1,0 +1,37 @@
+---
+title: Adelaïde
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=Adelaïde.jpg
+ |race=creature|label=ant
+ |gender=male
+ |size=small
+ |age=adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+
+Adelaïde is an ant-like tourist on [[Zeelich]] from the Red Planet. He likes the planet of Zeelich at first, believing that it has good law and order and clean streets and he highly respects the Esmers, but he soon changes his mind.
+
+Adelaïde just walks around for his vacation on Zeelich. Very soon he realizes that the Zeelichians are worth less than they say, and warns [[Twinsen]] about the [[casino]].
+
+==Related threads==
+===General===
+* {{thread|id=2803|title=Red planet?}}
+
+===Fan Art===
+* {{post|id=112171|title=Lba3}}
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category:Otringal inhabitants]] -->

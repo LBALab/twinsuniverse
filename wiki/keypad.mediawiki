@@ -1,0 +1,33 @@
+---
+title: Keypad
+---
+
+{{twinsunica import}}{{Infobox Item
+ |image=Keypad1.png
+ |type=key
+ |critical=no
+ |magical=no
+ |unique=yes
+ |lba1=yes
+ |lba2=
+ |upgrades=no
+ |rowposition=
+ |columnposition=
+ |effect=
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
+
+The '''keypad controlling a digital locking system''' is a special object that acts as a key to a secret room in the [[Teleportation Center]]. [[Twinsen]] gets it from [[Lanktir]], a [[grobo]] living in [[Proxim-City]], in [[Little Big Adventure 1]]. Lanktir had recieved the keypad by accident.
+
+[[Image:Lba1-brundle_island-teleportation_center_inside_penguins.jpg|right|200px|thumb|The secret room inside the Teleportation Center]]
+The keypard is not an integral part of the game, but Twinsen can use it to open the secret room in the Teleportation Center. This room is full of [[Meca-Penguin]]s, but it is only possible to have one penguin at a time in LBA 1.
+
+==Related Threads==
+===Hints\Spoilers===
+* {{thread|id=1672|title=LBA Keypad?}}

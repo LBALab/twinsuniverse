@@ -1,0 +1,74 @@
+---
+title: Ancestral Tunic
+---
+
+{{twinsunica import}}{{Infobox Item
+ |image=Tunic.gif
+ |type=equipment
+ |critical=yes
+ |magical=yes
+ |unique=yes
+ |lba1=yes
+ |lba2=yes
+ |upgrades=yes
+ |rowposition=2
+ |columnposition=1
+ |effect=stores magic
+ |effectamount=all
+ |purpose=enhance the [[Magic Ball]]
+ |combattype=none
+ |powerlevel=yellow
+ |rate=none
+ |range=none
+ |damage=none
+}}
+
+The '''Ancestral Tunic''', as described in the [[Book of Bu]], was one of the four items required by the Heir to be collected for him to ensure victory against the designated tyrant. This magical tunic was kept for centuries upon centuries in a secret closet at the house of the Heir's acnestors, and kept it safe for the time when the Chosen One will be needing it.
+
+This Ancestral Tunic is a great source of magic. Whoever wears it is able to store an enormous amount of [[magic power]], which is vital for defeating his enemies. The amount of magic available for storage depneds on the owner's level of magic, and can range from Yellow to Fire.
+
+Combined with the [[Magic Ball]], which was also kept in the secret closet at The Heir's house, these two magical items make together an extremely powerful combination, which would almost certainly ensure anyone success in his mission.
+
+The tunic is coloured blue, probably to symbolize the close relationships with the [[Sendell|Sendells]] and [[the legend]], who are also blue.
+
+==During FunFrock's Reign==
+[[Image:LBA1_-_Twinsen_obtains_Tunic.JPG|right|300px|thumb|Twinsen's reaction upon obtaining his Ancestral Tunic in his house in LBA1.]]
+Escaping from the [[Citadel]] at the beginning of the game, [[Twinsen]] makes it to [[Twinsen's house|his and Zoe's house]]. Soon after Zoe is captured, and Twinsen finds the closet at which the Ancestral Tunic, as well as the magic ball, was kept. Putting it on, Twinsen immediately becomes powerful, as he is now able to store magic, thus using his magic ball. This tunic, which Twinsen keeps until the end of the game, proves very powerful.
+
+==During Twinsen's Odyssey==
+Some time between the plot of the two games, Twinsen contributed the tunic to [[Miss Bloop's Private Museum]]. He left a note in his house to his future descendants:
+{{Quote
+ |To my future descendants: I have lent to Miss Bloop's private museum, the Medallion and the Ancestral Tunic which rightfully belong to you. Signed: Twinsen.
+ |character=Twinsen
+ |reading the note
+ |building=Twinsen's House
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1073}}
+
+However, having to free [[Raph]] the [[lighthouse]] keeper, and, later on, the entire planet, Twinsen quickly finds the tunic necessary again. Going to the museum to reclaim the tunic, he finds out that the room at which the button that opens the tunic's safe is locked. To get in, Twinsen has to sneak in through the museum's window, and thus opening the tunic's safe.
+
+Like in LBA 1, the tunic is Twinsen's primary object, along with the magic ball. Apart from a short time, at which he walks around the Twinsun and [[Zeelich]] with a [[Wizard's Parade Tunic]], Twinsen carries the Ancestral Tunic with him until the end of the game.
+
+==Related threads==
+===General===
+* {{thread|id=9859|title=just finished LBA2, again}}
+* {{thread|id=6949|title=Why?}}
+* {{thread|id=6284|title=Twinsens Tunic}}
+* {{thread|id=6124|title=Why?}}
+
+===Fan Art===
+* {{thread|id=11291|title=The Heir}}
+* {{thread|id=11279|title=Old drawing from 2000}}
+* {{thread|id=11007|title=twinsen paint image, old}}
+* {{thread|id=11083|title=Twinsen, my style}}
+* {{thread|id=11023|title=2-minutes twinsen"robot"}}
+* {{thread|id=10891|title=Twinsen :)}}
+* {{thread|id=10819|title=Twinsen want's you!}}
+* {{thread|id=10812|title=Ka-meh-ha-meh.. I mean Magic ball blast}}
+* {{thread|id=10751|title=Another 3D twinsen}}
+
+==External links==
+===Fan art===
+* [http://www.deviantart.com/view/12986693/ LBA 2 Picture]
+* [http://www.deviantart.com/view/1047280/ Twinsen and Zoe]

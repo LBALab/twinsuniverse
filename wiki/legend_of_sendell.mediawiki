@@ -1,0 +1,31 @@
+---
+title: Legend of Sendell
+---
+
+{{twinsunica import}}{{Infobox Story
+ |image=
+ |type=legend
+ |lba1=yes
+ |lba2=
+}}
+[[Image:Legend of Sendell.gif|right|frame|A book mentioning the Legend of Sendell, in the Censored Publications Department of the [[Principal Island]] [[library]].]]
+
+'''The Legend of Sendell''', referred to by many people as '''The Legend''', tells the story of the Heir. He is the descendant of a line of chosen creatures who live on the surface to serve [[Sendell]] in times of danger. The Legend comes to bitter truth in [[Little Big Adventure 1]].
+
+This is the centuries old legend, as described in books:
+{{Quote
+ |In the distant past, when the spheros, rabbibunnies, Quetches and grobos emerged from the original primordial soup, centuries before Dr. FunFrock's coup, a prophecy was pronounced. Its text is hardly remembered today and that is why people now refer to it as the "Legend". It explained how "the Heir," when his time had come, would be called to overthrow a tyrant! The secret of the Legend can still be learned somewhere in the White Leaf Desert.
+ |A book in the [[Library]]
+ |island=Principal Island
+ |planet=twinsun
+ |quoteid=528}}
+
+{{Quote
+ |The day will come when someone from the present or future species will rise up and say, 'This world is mine from now on, and the key to all powers belongs to me!' This day will surely come because avarice and violence harbor in the hearts of all species of the universe. If the peril on this day is too great, the Chosen One will come forth. He will rise up against the tyrant and overthrow him. He will free and reunite the people, because throughout the years, the Chosen One's ancestors will have prepared him for his victory. They will have left information and weapons in his dwelling. The Chosen One, also known as the Heir, will, however, have to gather together four magical symbols if he hopes to be victorious: the Tunic, the Book of Bù, Sendell's Medallion and a Flask of Clear Water. On the day of peril Sendell will visit the Heir in his sleep and announce the coming of the final combat. The Heir will then have to go to the Well of Sendell where the goddess will endow her powers on him!
+ |Inventory, [[Book of Bù]]
+ |subject=the legend according to the book
+ |quoteid=434}}
+
+[[Twinsen]], as far as he knows, is a common quetch living on [[Twinsun]] during the dictatorship of [[Dr. FunFrock]]. He has strange dreams in which Sendell is calling him. When he tells the [[pharmacist (quetch)|pharmacist]] about it, he is imprisoned in the [[Citadel]], a place from which no one had ever escaped. Twinsen manages to flee and goes home to his girlfriend [[Zoé]].
+
+She, too, is imprisoned and taken away by FunFrock's soldiers. In the search for his girlfriend and the truth about the Legend, Twinsen discovers that he in fact is the very Heir, destined to overthrow the evil tyrant FunFrock, as described in the Legend itself.

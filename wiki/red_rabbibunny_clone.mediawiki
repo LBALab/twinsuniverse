@@ -1,0 +1,27 @@
+---
+title: Red Rabbibunny Clone
+---
+
+{{twinsunica import}}{{Infobox Enemy
+ |image=Red_rabbibunny_clone.JPG
+ |race=rabbibunny
+ |gender=male
+ |size=average
+ |lba1=yes
+ |lba2=
+ |alignment=funfrock
+ |occupation=
+ |requires=Red
+ |melee=
+ |ranged=yes
+ |magic=
+ |explosive=
+ |range=Wide
+ |speed=moderate-fast
+ |damage=
+ |rate=
+ |reaction=Top half of body spins around
+ |recovery=2.5 seconds
+}}
+
+'''Red [[Rabbibunny]] [[Clone]]''', is one of the least common clones in [[LBA 1]]. It is quite strong, but not extremely difficult to defeat. A few are found in the [[Okojo Pass]] Fort.

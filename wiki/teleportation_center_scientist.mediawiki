@@ -1,0 +1,41 @@
+---
+title: Teleportation Center scientist
+---
+
+{{twinsunica import}}{{Infobox Enemy
+ |image=
+ |race=Quetch
+ |gender=Male
+ |size=average
+ |lba1=yes
+ |lba2=
+ |alignment=funfrock
+ |occupation=
+ |requires=
+ |melee=
+ |ranged=
+ |magic=
+ |explosive=
+ |range=
+ |speed=
+ |damage=
+ |rate=
+ |reaction=
+ |recovery=
+}}
+{{Quote
+ |Get out of here without breaking anything and we’ll take it into consideration.
+ |character=Teleportation Center scientist
+ |building=Teleportation Center
+ |island=Brundle Island
+ |planet=twinsun
+ |quoteid=16}}
+
+== Description ==
+The '''scientist''' in the main room of [[FunFrock]]'s [[Teleportation Center]] was keeping an eye on the central computer that preserved the Teleportation system all over [[Twinsun]]. Though he politely warned [[Twinsen]] first, he did not have any problems with shooting at him using the pistol that he was armed with. He was killed in the explosion that Twinsen caused by hitting the central computer.
+
+== Role in Twinsen's Adventure ==
+The Teleportation scientist "hinted" Twinsen to destroy the five telepods and especially the computer in the main room of the Teleportation Center. He warned Twinsen not to touch anything when Twinsen infiltrated the Center. Of course this gave Twinsen the idea to actually destroy as much as he could. After disabling the telepods he needed to hit the central computer to make it explode and find a way out.
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category: Brundle Island inhabitants]] -->

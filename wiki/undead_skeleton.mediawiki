@@ -1,0 +1,28 @@
+---
+title: Undead Skeleton
+---
+
+{{Infobox Enemy
+ |image=Skeleton.png
+ |race=rabbibunny
+ |gender=none
+ |size=average
+ |lba1=yes
+ |lba2=yes
+ |alignment=neutral
+ |occupation=
+ |requires=green
+ |melee=yes
+ |ranged=
+ |magic=
+ |explosive=
+ |range=none
+ |speed=
+ |damage=
+ |rate=
+ |reaction=
+ |recovery=
+}}
+
+The '''skeleton''' is
+{{stub}}

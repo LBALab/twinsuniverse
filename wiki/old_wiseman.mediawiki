@@ -1,0 +1,26 @@
+---
+title: Old Wiseman
+---
+
+{{Infobox Character
+ |image=Old Wiseman.png
+ |race=rabbibunny
+ |gender=male
+ |size=average
+ |age=adult
+ |magical=no
+ |lba1=yes
+ |lba2=yes
+ |alignment=sendell
+ |occupation=Snake enchanter
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+
+The '''Old Wiseman''' is an old Rabbibunny who can be found sitting next to a tree and a manhole in the desert during [[FunFrock's Reign]], or on the roof of the Hacienda serenading a snake during [[Twinsen's Oddyssey]]. He offers [[Twinsen]] lots of helpful hints.
+{{stub}}

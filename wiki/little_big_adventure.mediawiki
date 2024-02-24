@@ -1,0 +1,23 @@
+---
+title: Little Big Adventure
+---
+
+{{stub}}
+{{Infobox game
+|title = Little Big Adventure
+|image = Little_Big_Adventure.jpg
+|size = //optional
+|developer = Adeline Software International
+|publisher = Electronic Arts, Activision
+|engine = 
+|version = 
+|platform = MS-DOS, PC-98, FM Towns, PlayStation, Android, iOS
+|releasedate = October 1994
+|genre = Action-Adventure
+|mode = Single Player
+|rating = 
+|media = 
+|requirements = 
+}}
+'''Little Big Adventure''', or ''Relentless: Twinsen's Adventure'', is the first in the series of Little Big Adventure games featuring [[Twinsen]].
+[[Category:Twinsuniverse_Wiki]]

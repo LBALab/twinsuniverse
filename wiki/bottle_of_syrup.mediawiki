@@ -1,0 +1,34 @@
+---
+title: Bottle of Syrup
+---
+
+{{twinsunica import}}{{Infobox Item
+ |image=Bottle of Syrup1.png
+ |type=quest
+ |critical=yes
+ |magical=no
+ |unique=yes
+ |lba1=yes
+ |lba2=
+ |upgrades=yes
+ |rowposition=
+ |columnposition=
+ |effect=
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
+
+The '''Bottle of Syrup''' is a bottle containing 1/2 liter of cherry-flavored syrup, used for either curing purposes, or just for flavour.
+
+Needing to change the water flavour in [[Principal Island]], [[Twinsen]] goes to the [[pharmacy]] of [[Citadel Island]] to take this syrup. He then goes to the [[Water Tower]] of Principal Island, and by pouring the syrup into the water tank, he changes the water's flavour. In return to doing so, the [[librarian]] lets Twinsen into the Restricted Section of the [[library]], where Twinsen reads about [[the legend]].
+
+Later in the game, Twinsen fills the now empty flask with the [[Flask of Clear Water|Clear Water]].
+
+== Related threads ==
+=== Hints\Spoilers ===
+* {{thread|id=2714|title=Somehow, i got Lba working, now i need a little help ^_^}}

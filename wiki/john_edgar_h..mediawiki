@@ -1,0 +1,35 @@
+---
+title: John Edgar H.
+---
+
+{{twinsunica import}}{{Infobox Enemy
+ |image=John Edgar H..jpg
+ |race=Sup
+ |gender=Male
+ |size=average
+ |lba1=
+ |lba2=yes
+ |alignment=emperor
+ |occupation=SBI Agent
+ |requires=yellow
+ |melee=
+ |ranged=yes
+ |magic=
+ |explosive=
+ |range=
+ |speed=
+ |damage=
+ |rate=
+ |reaction=
+ |recovery=
+}}
+
+'''John Edgar H.''' is an agent working for the Sup Bureau of Investigation of [[Zeelich]]. He was a spy on [[Twinsun]] during the [[Esmer]] invasion of the planet, often hiding in trash bins and fake cacti.
+
+John's mission on Twinsun is to kill [[Twinsen]]. Twinsen encounters him some times when travelling around [[Desert Island]], when he is shooting from a rubbish bin or a cactus.
+
+Twinsen eventually sneaks into an [[esmer shuttle]], and notices John receiving orders from the SBI.
+
+==Related Threads==
+===General===
+{{thread|id=7614|title=John Edgar H. ?}}

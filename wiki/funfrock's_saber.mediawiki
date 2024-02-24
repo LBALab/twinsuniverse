@@ -1,0 +1,47 @@
+---
+title: FunFrock's Saber
+---
+
+{{twinsunica import}}{{Infobox Item
+ |image=Funfrock's saber1.png
+ |type=weapon
+ |critical=yes
+ |magical=yes
+ |unique=yes
+ |lba1=yes
+ |lba2=
+ |upgrades=no
+ |rowposition=
+ |columnposition=
+ |effect=
+ |effectamount=
+ |purpose=
+ |combattype=enemies
+ |powerlevel=
+ |rate=varies behavior
+ |range=none
+ |damage=high
+}}
+
+'''FunFrock's Saber''' is a saber (often also known as the '''Magic Saber''') that once belonged to [[Dr. FunFrock]], although he does not actually use it in the game. This saber is considered the most powerful weapon on [[Twinsun]], and is capable of killing most creatures.
+
+In [[Little Big Adventure 1]], the saber is locked in a safe in [[FunFrock's headquarters]] at [[Principal Island]]. This safe is guarded by a few [[clones]], including a clone of FunFrock himself.
+
+[[Twinsen]] finds the sword in the safe when he comes to the hadquarters to search for the plans of the [[Teleportation Center]]. 
+
+The way Twinsen uses the saber may varies, depending on his behaviour:
+* '''Normal''': Twinsen hits the enemy by walking forward and cutting.
+* '''Sporty''': Twinsen jumps back once and then forward to hit the enemy.
+* '''Agressive''': Twinsen acts extremer than in Normal mode, and also jumps and turns a couple of times at the enemy.
+* '''Discreet''': Twinsen uses the sword as silent as possible. He also acts the least aggresive.
+
+Using the sword, Twinsen is able to defeat some enemies he couldn't beforehand, such as [[red clones]]. In the final battle against FunFrock in the [[Well of Sendell]], it's possible to kill him only with the sword.
+
+==Related threads==
+===General===
+* {{thread|id=9869|title=Get the Sword at start of game}}
+* {{thread|id=5932|title=LBA2 Mysteries}}
+
+===Fan Art===
+* {{thread|id=11291|title=The Heir}}
+* {{thread|id=1264|title=My version of twinsens sword:)}}

@@ -1,0 +1,17 @@
+---
+title: Lemuzard
+---
+
+{{twinsunica import}}[[Image:Lemuzard.jpg|right|200px|thumb|A Lemuzard]]
+
+'''Lemuzard''' is a creature used in a betting-game at the [[Casino]] in [[Otringal]].
+
+In this game, the betting person can place his bet of 1 [[zlito]] on any of the four holes at an arena. If the Lemuzard enters this hole, the person receives 10 [[zlitos]].
+
+[[Twinsen]] can use the [[Horn of the Blue Triton]] to cheat in this game; if the Lemuzard touches the [[life candy]] thrown from it, he is more likely to enter the hole Twinsen bets on.
+
+==Related threads==
+===Hints\Spoilers===
+* {{thread|id=2522|title=Otringal Casino}}
+
+[[Category:Species]]

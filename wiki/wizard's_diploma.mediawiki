@@ -1,0 +1,79 @@
+---
+title: Wizard's Diploma
+---
+
+{{twinsunica import}}{{Infobox Item
+ |image=Diploma.gif
+ |type=reward
+ |critical=acquired
+ |magical=no
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=2
+ |columnposition=6
+ |effect=none
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=green
+ |rate=none
+ |range=none
+ |damage=none
+}}
+{{Quote
+ |Your diploma in magic has allowed you to reach the green ball level of magic.
+ |Inventory, [[Wizard's Diploma]]
+ |quoteid=1880}}
+
+==Description==
+The '''Wizard's Diploma''' is the official proof that the owner is a fully licensed wizard. This diplioma is given to anyone who graduates from the [[School of Magic]] by the [[Rector of the School of Magic|rector]].
+
+==Role in Twinsen's adventure==
+In order to heal his [[Dino-Fly]], [[Twinsen]] had to become a fully licensed wizard. For this, he had to pass three tests: the [[Magic Ball]] test, the [[Garden Balsam]] test, and the [[Dome of the Slate]] test.
+
+Upon completion of all three tests, Twinsen became a wizard, and received the desired diploma, making his magic level rise to Green Ball. He was then able to buy a [[wizard's parade tunic]] from the wizard [[Chedil Amiradoo]], which made him look like a wizard. He was then able to go to [[Zeelich]], and find out more details about the disappearance of the wizards.
+
+When arriving on Zeelich for the second time, Twinsen found no more use for the diploma, and, needing the money, sold it to the [[Twinsunian Souvenir Shop]].
+
+==Additional quotes==
+{{Quote
+ |You can bring me the result of each test at your leisure, but I will give you your wizard's diploma and your new level of magic only after you succeed in all 3 tests.
+ |character=Rector of the School of Magic
+ |island=Desert Island
+ |planet=twinsun
+ |quoteid=1515}}
+
+{{Quote
+ |Bravo Twinsen. You now bear the title of wizard. I don't have any spare wizard's parade tunics left. But there is a peddler on the island. I'll contact him and ask him to give you one. Go find him. Also, let your beard grow.
+ |character=Rector of the School of Magic
+ |island=Desert Island
+ |planet=twinsun
+ |quoteid=1522}}
+
+{{Quote
+ |You just received your wizard's diploma. Plus you just earned a new level of magic: Green Ball.
+ |Narrator, when [[Twinsen]] received his diploma
+ |island=Desert Island
+ |planet=twinsun
+ |quoteid=1777}}
+
+{{Quote
+ |My dear sir, my goods are only available for fully licensed wizards.
+ |character=Chedil Amiradoo
+ |island=Desert Island
+ |planet=twinsun
+ |quoteid=1502}}
+
+{{Quote
+ |I hold a wizard's diploma
+ |character=Twinsen
+ |building=Twinsunian Souvenir Shop
+ |island=Otringal
+ |planet=zeelich
+ |quoteid=2035}}
+
+==Related threads==
+===Hints\Spoilers===
+* {{thread|id=10415|title=LBA 2 Goofs}}

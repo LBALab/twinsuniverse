@@ -1,0 +1,62 @@
+---
+title: Scooterbunny
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=Scooter.png
+ |race=rabbibunny
+ |gender=male
+ |size=average
+ |age=young
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=Scooter driver
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+{{Quote
+ |That alien jalopy's easy on the eyes, but it looks difficult to park!
+ |character=Scooterbunny
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1293}}
+
+==Description==
+
+A rabbibunny who taxi's citizens around [[Citadel Island]] for a small fare.
+
+He is found in a garage during the rain complaining about the storm. After the rain stops, he drives around the town square. If [[Twinsen]] stops him, he will offer to give him a ride up to the [[Ridge of the Flowers Circle‏‎|Flower Circle]].
+
+==Role in Twinsen's adventure==
+In LBA2 the scooterbunny can take you for a ride to the furthest points of Citidel Island ([[Weather Wizard tent]] and [[Lighthouse]]) aswell as [[Lupin-Burg]] City for only 8 kashes. He only drives his scooter when it is sunny.
+When it is raining on Citidel Island he provides you with a hint that you can jump while you're running to go further.
+
+==Additional Quotes==
+{{Quote
+ |Hang on!
+ |character=Scooterbunny
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1297}}
+{{Quote
+ |I don't talk to nutcases Mr Twinsen!
+ |character=Scooterbunny
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1300}}
+{{Quote
+ |I don't take anyone in the storm, I hate this weather. And why doesn't the Weather Wizard intervene, heh? By the way, did you notice that you could jump while you are running?
+ |character=Scooterbunny
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1294}}
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category:Citadel Island inhabitants]] -->

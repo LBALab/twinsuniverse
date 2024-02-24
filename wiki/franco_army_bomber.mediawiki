@@ -1,0 +1,29 @@
+---
+title: Franco Army Bomber
+---
+
+{{Infobox Enemy
+ |image=
+ |race=franco
+ |gender=male
+ |size=average
+ |lba1=
+ |lba2=yes
+ |alignment=emperor
+ |occupation=Franco Army
+ |requires=red
+ |melee=yes
+ |ranged=yes
+ |magic=
+ |explosive=yes
+ |range=
+ |speed=
+ |damage=
+ |rate=
+ |reaction=
+ |recovery=
+}}
+
+The '''Franco Army Bomber''' is, like the [[Franco Army Soldier]], a member of the [[:Category:Imperial Legion|Imperial Legion]].
+...
+{{stub}}

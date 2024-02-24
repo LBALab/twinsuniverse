@@ -1,0 +1,50 @@
+---
+title: Emperor's Sword
+---
+
+{{twinsunica import}}{{Infobox Item
+ |image=Sword.gif
+ |type=weapon
+ |critical=yes
+ |magical=no
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=1
+ |columnposition=7
+ |effect=none
+ |effectamount=
+ |purpose=
+ |combattype=enemies
+ |powerlevel=fire
+ |rate=varies behavior
+ |range=none
+ |damage=high
+}}
+
+The '''emperor's sword''' is the sword of the [[Emperor of Zeelich]]. It is one of the strongest weapons available on either [[Zeelich]] or [[Twinsun]].
+
+After killing the emperor, [[Twinsen]] gets his sword by openning the chest in the middle of the room using the [[key]] the emperor left behind him. The sword's behaviour, just like the [[Magic Ball]], changes according to Twinsen's behavior:
+
+* '''Normal''': Twinsen hits the enemy by walking forward and cutting.
+* '''Sporty''': Twinsen jumpes back once and then forwards to hit the enemy.
+* '''Agressive''': Twinsen actes extremer than in Normal mode, and also jumps and turns a couple of times at the enemy.
+* '''Discreet''': Twinsen uses the sword as silent as possible. He also acts the least aggresive.
+
+Twinsen can immediately test the sword, as an [[hussars guard]] comes down the elevator as soon as the sword is in his possession. This is the only weapon which can defeat the guards at the palace, [[Ring of Lightning]] inclusive. Without it, Twinsen is not able to enter the [[Emperor's Palace]] in his search for the [[Sups Fragment]].
+
+==Related threads==
+===General===
+* {{thread|id=9366|title=Sword on twinsun in LBA2}}
+* {{thread|id=8398|title=Sword fighting}}
+* {{thread|id=5693|title=Twinsen's/emperor's sword.}}
+
+===Fan Art===
+* {{thread|id=11287|title=Twinsen}}
+* {{post|id=37768|title=Twinsen's son/daughter}}
+
+==External links==
+===Fan art===
+* [http://www.deviantart.com/view/12986693/ LBA 2 Picture]
+* [http://www.deviantart.com/view/1047280/ Twinsen and Zoe]

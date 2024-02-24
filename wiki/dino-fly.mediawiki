@@ -1,0 +1,59 @@
+---
+title: Dino-Fly
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=Dino-Fly.jpg
+ |race=creature|label=dino
+ |gender=male
+ |size=large
+ |age=adult
+ |magical=no
+ |lba1=yes
+ |lba2=yes
+ |alignment=sendell
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+
+The '''Dino-Fly''' is a mythical creature, with uncertain origins. He is a green dinosaur-like animal, with the ability to fly. When [[Twinsen]] finds him, he is told that he has been waiting for him for a long time. The Dino-Fly is an asset to both of Twinsen's Adventures.
+
+During [[FunFrock's Reign]], Twinsen is advised by a [[sphero]] upon arriving on [[Tippett Island]] that he would need the services of a dino-fly in order to reach some of the planet's islands. Twinsen meets the Dino-Fly at the cliff peak of Tippett Island's surface. At this point, the Dino-Fly is only able to fly around the [[northern hemisphere]] of the planet, due to his soar back. Twinsen uses the Dino-Fly to reach some of the hemisphere's islands unreachable with a [[hydroglider]], such as [[Brundle Island]] and [[Fortress Island]].
+
+During [[Twinsen's Odyssey]], Twinsen has taken the Dino-Fly to his home on [[Citadel Island]]. The adventure starts with a cutscene of Dino-Fly injured in a [[Storm|lightning storm]], and curing him is Twinsen's first main goal. He is eventually able to do so by using the [[Horn of the Blue Triton]], which he receives as part of his studies at the [[School of Magic]]. Dino-Fly's main use in the second game is taking Twinsen to the [[Island of the Dome of the Slate]], which Twinsen can't reach with a [[ferry]].
+
+==Related threads==
+===General===
+* {{thread|id=5932|title=LBA2 Mysteries}}
+* {{thread|id=2865|title=Dino Fly}}
+* {{thread|id=1860|title=LBA1 Vs LBA2}}
+* {{thread|id=1352|title=Another weird savegame}}
+* {{thread|id=125|title=Dinofly}}
+* {{thread|id=10051|title=Dino-fly is a...}}
+
+===Hints\Spoilers===
+* {{thread|id=7360|title=Found a way to make your Dino-Fly fly with the rain}}
+* {{thread|id=6159|title=fly}}
+* {{thread|id=6166|title=ARGH!!!!!!!!! how du u get the bloody dinofly cured?????}}
+* {{thread|id=2543|title=Dinofly Maddness}}
+
+===Fan art===
+* {{thread|id=6222|title=For those interested to see what a cell-shaded LBA would look like}}
+* {{post|id=161370|title=Edited Film Pictures}}
+* {{post|id=74509|title=Metal Gear Twinsen}}
+* {{thread|id=9972|title=Just having a go...}}
+* {{post|id=229377|title=LBA comics??}}
+* {{thread|id=6093|title=Flash fan movie}}
+* {{post|id=55978|title=Lba3}}
+* {{thread|id=4362|title=Returnig to Hamalayi...}}
+* {{thread|id=12254|title=Mech Dinofly !!!}}
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category:Citadel Island inhabitants]]
+[[Category:Tippett Island inhabitants]] -->

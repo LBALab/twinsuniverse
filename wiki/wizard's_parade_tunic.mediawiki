@@ -1,0 +1,80 @@
+---
+title: Wizard's Parade Tunic
+---
+
+{{twinsunica import}}{{Infobox Item
+ |image=Wizard.gif
+ |type=equipment
+ |critical=yes
+ |magical=no
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=final
+ |rowposition=2
+ |columnposition=1
+ |effect=unique
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
+{{Quote
+ |This parade outfit is accessible only to Twinsun's graduated wizards. It makes you a bona fide magician.
+ |Inventory, [[Wizard's Parade Tunic]]
+ |quoteid=1897}}
+
+== Description ==
+This '''parade tunic''' is worn by the wizards from [[Twinsun]]. It makes the owner recognizable as a wizard. These tunics are given to anyone who graduates from the [[School of Magic]]. In case the school has none left in stock, they will be supplied by the local wizard's accessories seller, [[Chedil Amiradoo]].
+
+== Role in Twinsen's adventure ==
+Upon graduating from the School of Magic, [[Twinsen]] was told about the myserious disappearance of all wizards of the planet. Following the request of the [[Rector of the School of Magic|rector]], Twinsen went out to search for them. Once graduating from the school Twinsen was able buy a wizard's parade tunic from Chedil Amiradoo.
+
+The [[Esmer]]s, not recognizing Twinsen, thought he was just a harmless wizard they can kidnap. Twinsen was invited to a tour around [[Zeelich]], which was a cover for the Esmers' plans of kidnapping all the wizards. None of the Esmers recognized Twinsen, until [[Joe the Elf]] accidently betrayed him by revealing his true identity. Twinsen was then captured, and lost his wizard's costume.
+
+If it wasn't for the costume, Twinsen would not have been able to go to Zeelich with the Esmers.
+
+== Additional quotes ==
+{{Quote
+ |I don't have any spare wizard's parade tunics left. But there is a peddler on the island. I'll contact him and ask him to give you one. Go find him. Also, let your beard grow.
+ |character=Rector of the School of Magic
+ |island=Desert Island
+ |planet=twinsun
+ |quoteid=1522}}
+
+{{Quote
+ |You have to find a peddler who lives on the island. I advised him to provide you with a hat and your wizard's parade tunic.
+ |character=Rector of the School of Magic
+ |island=Desert Island
+ |planet=twinsun
+ |quoteid=1524}}
+
+{{Quote
+ |Looking for a costume or magic accessories? Well, Chedil Amiradoo has a deal that'll make your head spin. Low, low prices and after-sales service. Currently doing the rounds on your island.
+ |An advertisement
+ |building=School of Magic
+ |island=Desert Island
+ |planet=twinsun
+ |quoteid=1373}}
+
+{{Quote
+ |Ah, you must be Twinsen. Congratulations for passing your examination. If you want a magician's tunic it'll cost you 50 kashes. We'll throw in a false beard to make you look like an old magician. Interested?
+ |character=Chedil Amiradoo
+ |after [[Twinsen]] showed his diploma
+ |island=Desert Island
+ |planet=twinsun
+ |quoteid=1503}}
+
+{{Quote
+ |You just found a parade outfit for the wizards. It'll make you look like an old wizard.
+ |Narrator, when [[Twinsen]] received the tunic
+ |island=Desert Island
+ |planet=twinsun
+ |quoteid=1790}}
+
+== Related threads ==
+=== Hints\Spoilers ===
+* {{thread|id=3969|title=Hidden, and special videos in LBA2}}

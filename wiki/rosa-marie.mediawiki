@@ -1,0 +1,52 @@
+---
+title: Rosa-Marie
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=Rosa-Marie.jpg
+ |race=creature|label=cow
+ |gender=female
+ |size=large
+ |age=adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+
+'''Rosa-Marie''' is a cow eating grass on the [[cliffs]] of [[Citadel Island]], near the [[Ruins of the Old Citadel]].
+
+[[Twinsen]] can ask Rosa-Marie whether she has seen [[Raph]], the [[lighthouse]] keeper, and she replies she saw him with his guitar, heading to the cliffs. Later, when the [[esmer]]s land on [[Twinsun]], Rosa-Marie warns Twinsen that one armed [[sup]] is hiding behind the trees.
+
+If Twinsen goes behind Rosa-Marie and paces forward for a while, he gets a [[clover leaf]] from her. This can be done an unlimited number of times.
+
+==Related threads==
+===General===
+* {{thread|id=11024|title=some fun stuff and tips}}
+* {{thread|id=9111|title=Just a little weird poll...}}
+* {{thread|id=8374|title=Rosa the Cow}}
+* {{thread|id=833|title=The cheat what went too far!}}
+* {{thread|id=5878|title=Does anyone......?}}
+* {{thread|id=5705|title=The Rosa trick}}
+* {{thread|id=250|title=The funny and rude bits in LBA...}}
+* {{thread|id=11117|title=The cow}}
+
+===Hints\Spoilers===
+* {{thread|id=10385|title=every point of interest i could find (lba2) that isnt on this site, that needs to be!}}
+* {{thread|id=7717|title=Cheat poll}}
+* {{thread|id=4382|title=Wa-hey!}}
+* {{thread|id=4847|title=Cow}}
+
+===Fan Art===
+* {{post|id=112171|title=Lba3}}
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category:Citadel Island inhabitants]] -->

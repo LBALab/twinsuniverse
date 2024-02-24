@@ -1,0 +1,80 @@
+---
+title: Magic Ball
+---
+
+{{twinsunica import}}{{Infobox Item
+ |image=Yellowball.gif
+ |type=weapon
+ |critical=yes
+ |magical=yes
+ |unique=yes
+ |lba1=yes
+ |lba2=yes
+ |upgrades=yes
+ |rowposition=1
+ |columnposition=1
+ |effect=uses magic
+ |effectamount=one
+ |purpose=
+ |combattype=enemies
+ |powerlevel=all
+ |rate=low
+ |range=varies behavior
+ |damage=varies magic
+}}
+
+The '''magic ball''' is a ball that stores a great deal of magic. This ball bounces a couple of times if it doesn't hit any enemy, and then automatically returns to its owner. The magic ball needs the [[Ancestral Tunic]] to function, since it is the primary source of magic. This weapon upgrades along with its owner's magic level.
+
+The color of the magic ball indicates the possessor's current level of magic. The magic levels are, from weakest to strongest: yellow, green, red and fire. To increase the magic level, one needs to recover magical items, one for each level.
+
+Every time Twinsen throws his magic ball, it uses some [[Flask of Magic Powder|magic points]]. If the person is out of magic points, the ball can still be thrown, but it won't bounce any more, which dramatically decreases the ball range and functionality.
+
+The magic ball can be used for some special functions. Firstly, the trajectory of the ball can be altered by changing the [[behaviour mode]]. In discreet mode, for example, the ball is thrown higher instead of far. This is handy for reaching switches or enemies that can't be reached otherwise. Second, the magic ball can retrieve [[key]]s; if there is a key somewhere in the current scene, throwing the magic ball at it will pick it up and return it to the owner.
+
+The magic ball is [[Twinsen]]'s primary ranged weapon in his two adventures. Due to its great functionality and powerful shots, this weapon is most used by Twinsen in both his adventures, not only as a weapon, but also to reach switches and retrieve keys.
+
+The four items Twinsen has to obtain in the two games in order to get a higher level of magic are:
+
+'''[[Little Big Adventure 1]]''':
+* [[Ancestral Tunic]]
+* [[Book of Bù]]
+* [[Sendell's Medallion]]
+* [[Flask of Clear Water]]
+
+'''[[Little Big Adventure 2]]''':
+* [[Ancestral Tunic]] + [[Sendell's Medallion]] (these are now one and the same)
+* [[Wizard's Diploma]]
+* [[Sendell's Ball]]
+* [[Dark Monk's Key]]
+
+<gallery>
+Image:Yellowball.gif|Yellow Magic Ball
+Image:Greenball.gif|Green Magic Ball
+Image:Redball.gif|Red Magic Ball
+Image:Fireball.gif|Fire Magic Ball
+</gallery>
+
+==Related threads==
+===General===
+* {{thread|id=11114|title=Your impression of the magic ball}}
+* {{thread|id=8339|title=I find it funny...}}
+* {{thread|id=7915|title=The magic ball... (LBA2 at least)}}
+* {{thread|id=6354|title=What is a magic ball???}}
+* {{thread|id=6010|title=Magicball soundeffect cameo}}
+* {{thread|id=5645|title=Fire ball}}
+* {{thread|id=11661|title=Microsoft rips off LBA!}}
+
+===Fan Art===
+* {{thread|id=11287|title=Twinsen}}
+* {{thread|id=11291|title=The Heir}}
+* {{thread|id=11279|title=Old drawing from 2000}}
+* {{thread|id=10941|title=Authur takes control of his destiny...A twinsen Fan comic...(rough)}}
+* {{thread|id=11083|title=Twinsen, my style}}
+* {{thread|id=10812|title=Ka-meh-ha-meh.. I mean Magic ball blast}}
+* {{thread|id=1644|title=Twinsen with magic ball pics}}
+* {{post|id=67040|title=Lba3}}
+* {{thread|id=12131|title=Twinsen Magic Balls (skill)}}
+
+==External links==
+===Fan Art===
+* [http://www.deviantart.com/deviation/45989513/ Toss the magic ball please]

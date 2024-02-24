@@ -1,0 +1,40 @@
+---
+title: Felix
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=Felix.png
+ |race=Rabbibunny
+ |gender=Male
+ |size=average
+ |age=Adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=Fisherman
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+
+'''Felix''' is a [[rabbibunny]] spotted in the [[Citadel Island Harbour|harbour]] of [[Citadel Island]]. During the start of [[Twinsen's Odyssey]] he is seen fishing at the harbour, and from time to time catching [[crab]]s.
+
+He lives in great fear of [[The Tralü]], the monster of Citadel Island, that lives in a cave near the cliffs. As soon as [[Twinsen]] mentions the Tralü when Felix is around, he freaks out.
+
+Felix is only able to give Twinsen some clues about the Tralü or about [[Raph]]. Beating the crabs Felix catches grants Twinsen [[life candies]] and [[kashes]].
+
+When Twinsen hits Felix, the rabbibunny drops his fishing pole, runs to the water and dives in. He disappears from the scene, and is only back when Twinsen re-enters the harbour.
+
+==Related threads==
+===General===
+* {{thread|id=5981|title=Felix}}
+* {{thread|id=1957|title=Felix suicide}}
+* {{thread|id=328|title=Secrets}}
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category:Citadel Island inhabitants]] -->

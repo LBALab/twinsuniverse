@@ -1,0 +1,68 @@
+---
+title: Esmer shuttle
+---
+
+{{twinsunica import}}{{Infobox Transport
+ |image=
+}}
+
+[[Image:Screenshot-lba2-movies-07-esmers_shuttle-VOYAGEZ43.gif|right|thumb|200px|Esmer shuttle in-flight through space]]
+
+The '''Esmer shuttle''' is a flying ship used for transportations of persons and goods. It's most remarkable for being able to make inter-planetary flights, but can also be used for flights within the atmosphere of a planet.
+
+This shuttle was developed by and is most frequently used by [[Esmer]]s, particularly the [[Sup]]s. It was first spotted on [[Twinsun]] not long before the [[Esmer#The_Esmer_invasion|Esmer invasion]].
+
+There is just one standardized model of the shuttle, allowing the use of efficient space ports, standard sized landing pads, and it eases maintenance and production. The [[Emperor of Zeelich]] had his [[#The_Emperor\'s_shuttle|personal shuttle]] customized slightly.
+
+The esmer shuttle is the only known means of transportation between [[Zeelich]], [[Twinsun]] and the [[Emerald Moon]] next to [[Baldino's Spaceship]], which is revealed only after the Esmers land on Twinsun.
+
+===Exterior===
+
+[[Image:Screenshot-lba2-movies-07-esmers_shuttle-VOYAGEZ09.gif|right|thumb|200px|Esmer shuttle exteriour as seen from the side]]
+
+The shuttle is shaped much like a saucer. The top of the shuttle's body with the cockpit is yellow while the bottom is coloured red. The shuttle has several flexible feet that allow for comfortable landings, but are contracted during flight. The exhaust pipe for the engine can be seen at the back of the shuttle. Around the body are three stabilatory wings, mostly useful for flying within a planet's atmosphere.
+
+There is one door in the shuttle that is lowered after landing, doubling as stairs to get inside or out. The cargo hold also has a door located at the bottom of the shuttle, but this is hardly used, mostly for dropping large objects in-flight. A pair of mechanical arms can be used to lower and release the specific cargo.
+
+[[Image:Shuttle.jpg|left|thumb|200px|Esmer shuttle interiour, showing the shuttle's controls and cargo bay]]
+
+===Interior===
+
+Getting inside the shuttle, the passenger finds himself in the cargo hold. This is well reachable so loading and unloading is easy. It's mostly empty apart for a storage room for space suits which can be found in all shuttles.
+
+At the top of the shuttle, reachable by a ladder, is the passengers lounge and shuttle controls.
+
+===Controls===
+
+The shuttle is usually not manually controlled, but rather flies on auto-pilot using an [[Itinary Token]]. This token has to be retrieved from the respective control tower before take-off and has the flight pattern programmed in it. The passenger simply has to insert it into the designated slot in the shuttle's cockpit to start the flight, after which he may sit back comfortably.
+
+===The Emperor's shuttle===
+
+[[Image:Screenshot-lba2-ingame-otringal-emperial_shuttle_platform.gif|right|thumb|200px|The Emperor's shuttle seen from the outside, parked right across the [[Emperor's palace]]. The [[emperor's emblem]] is visible here]]
+
+The [[Emperor of Zeelich]] has a customized version of the esmer shuttle. It is basically the same as any other, but it's slightly more luxurious and it carries the [[emperor's emblem]] on the front exterior.
+
+==In the game==
+
+The esmer shuttles have a big role in [[Twinsen]]'s second adventure. Not only does he travel in them himself, but the Esmers also use them for various tasks during significant parts throughout the adventure.
+
+Twinsen first encounters the Esmer shuttle among with many other Twinsunians, when [[Johnny Rocket]]'s shuttle lands on [[Citadel Island]] and others on [[Desert Island]]. During his journeys, Twinsen travels in a shuttle several times:
+
+<ol><li>When traveling to [[Otringal]], [[Zeelich]] while disguised as a Twinsunian wizard;</li>
+<li>When escaping the [[Otringal prison|prison]] there and returning to Twinsun. This time he crashes his shuttle in the [[Ridge of the Flowers Circle]] on the [[Citadel Island cliffs]];</li>
+<li>When traveling to the [[moon base]] on [[Emerald Moon]], departing from the [[secret esmers base]] on [[Desert Island]];</li>
+<li>Using the Emperor's shuttle, to get from [[Island CX]]</li> to [[Upper city|upper-town]] Otringal, right outside the [[Emperor's palace]].</li>
+</ol>
+
+[[Image:Screenshot-lba2-movies-12-children abduction-ENFA362.gif|200px|right|thumb|The shuttle dragging up the children]]
+
+The Emperor's troops use a shuttle to kidnap the children of [[Twinsun]]. The shuttle drags the children onto it using an unknown beaming function.
+
+[[Image:Screenshot-lba2-movies-25-ending_1-END1865.gif|thumb|right|200px|The bomb held by mechanical arms, right before dropping it into the moon base's reactor.]]
+
+A very significant event involving the esmers shuttle is when the Esmers realize their mistake of blindly following their Emperor and the falsified [[Dark Monk]]. They drop a bomb carried by a shuttle into the moon base, stopping it from hurling towards Twinsun in combination with [[Sendell]]'s powers channeled through Twinsen at that time. This was the only time when the shuttles are used for anything different than transporting people and goods.
+
+==Related threads==
+===Fan Art===
+* {{post|id=34217|title=Esmers shuttle}}
+* {{post|id=111337|title=pictures!}}

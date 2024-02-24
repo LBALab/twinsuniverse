@@ -1,0 +1,34 @@
+---
+title: Bunny
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=Bunny.jpg
+ |race=Rabbibunny
+ |gender=Female
+ |size=average
+ |age=Adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+
+'''Bunny''' is a [[rabbibunny]] working as an assistant of the [[Rector of the School of Magic|rector]] of the [[School of Magic]]. Her job is to introduce the grand Rector.
+
+[[Twinsen]] meets Bunny when he comes to the school in order to become a wizard. There, she introduces him the rector of the school.
+
+==Related threads==
+===Fan Art===
+* {{post|id=271795|title=Edited Film Pictures}}
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category:Desert Island inhabitants]] -->

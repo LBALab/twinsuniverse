@@ -1,0 +1,105 @@
+---
+title: Sendell's Medallion
+---
+
+{{twinsunica import}}{{Infobox Item
+ |image=sendells_medallion.png
+ |type=equipment
+ |critical=yes
+ |magical=yes
+ |unique=yes
+ |lba1=yes
+ |lba2=
+ |upgrades=no
+ |rowposition=
+ |columnposition=
+ |effect=
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=
+ |rate=none
+ |range=none
+ |damage=none
+}}
+
+{{Quote
+ |Sendell's Medallion. With this magical symbol, you have just earned the third level of power.
+ |Inventory, Sendell's Medallion
+ |quoteid=406}}
+
+==Description==
+As described in the sacred [[Book of Bù]], '''Sendell's Medallion''' is one of the four important magical symbols that have to be collected by the Heir, along with the [[flask of Clear Water]], the [[Ancestral Tunic]], and the book itself. Upon gathering and uniting those four magical symbols, the Heir's victory would be much more certain. Furthermore, this medallion also enables upgrading the level of magic, depending on the previous level the Chosen One had.
+
+Additionally, this medallion was one of the signs with which [[Dino-Fly]] is supposed to recognize the Heir, at the day the latter will locate his whereabouts.
+
+The medallion itself is made of pure gold, and is coloured as such. A big, brown S is sealed at at the centre of the medallion, to symbolize the close connection to [[Sendell]].
+
+==Role in Twinsen's adventures==
+In his quest of defeating the evil tyrant [[FunFrock]], [[Twinsen]] has discovered a hidden cave just behind [[Twinsen's house|his house]]. Once opening the door, with the aid of the [[Key to the Heir's room|key]] he stole from [[LeBorgne]]'s treasure, Twinsen has reached an enchanted room. There, at the middle, hovered in air two highly desired magical objects: the [[Horn of Gawley]] and Sendell's Medallion. Not wasting time, he quickly grabbed these two items, thus upgrading his level of magic to Red Ball. From then on, regardless of his general outfit, Twinsen almost always had the medallion on. When reaching Dino-Fly at [[Tippett Island]], the dino could recognize Twinsen as the Heir by this medallion.
+
+At the end of his first adventure, Twinsen has contributed the medallion, as well as a few other objects he possesed, to [[Ms. Bloop's museum]]. However, he very quickly found the use of it useful again, and had to use his tricks in order to "steal" it from the museum.
+
+==Unconfirmed theories==
+The origins of the medallion are unknown. It was most likely created in some magical way, perhaps by Sendell, and was stored for generations by Twinsen's ancestors in the Heir's Room behind his house.
+
+==Additional quotes==
+{{Quote
+ |You have just found your ancestral Tunic and Sendell's Medallion. By storing Magic, it will enable you to bounce your ball at your enemies.
+ |Narrator, when [[Twinsen]] grabbed the tunic and medallion
+ |building=Ms. Bloop's museum
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1751}}
+
+{{Quote
+ |The day will come when someone from the present or future species will rise up and say, 'This world is mine from now on, and the key to all powers belongs to me!' This day will surely come because avarice and violence harbor in the hearts of all species of the universe. If the peril on this day is too great, the Chosen One will come forth. He will rise up against the tyrant and overthrow him. He will free and reunite the people, because throughout the years, the Chosen One's ancestors will have prepared him for his victory. They will have left information and weapons in his dwelling. The Chosen One, also known as the Heir, will, however, have to gather together four magical symbols if he hopes to be victorious: the Tunic, the Book of Bù, Sendell's Medallion and a Flask of Clear Water. On the day of peril Sendell will visit the Heir in his sleep and announce the coming of the final combat. The Heir will then have to go to the Well of Sendell where the goddess will endow her powers on him!
+ |Inventory, [[Book of Bù]]
+ |quoteid=434}}
+
+{{Quote
+ |Good day. Let's see, you can talk to me and you're wearing the Medallion of Sendell: you must be the Heir! I've been waiting for you for centuries and I've got a backache so we'll go carefully. The Hamalayi mountains are too high for me but I can lead you through this entire hemisphere, except for Polar island: it is too well guarded by FunFrock. Where do you want to go?
+ |character=Dino-Fly
+ |island=Tippett Island
+ |planet=twinsun
+ |quoteid=914}}
+
+{{Quote
+ |I know that symbol on your medallion. Virgul, our sorcerer, told us about your coming, and we have often prayed in front of the Runic Stone, which carries the same symbol. Unfortunately, Dr. FunFrock found it and built his fortress right over it, although the Rock was supposed to be indestructible! I would dig a tunnel for you so that you could enter the building, but you must first sabotage the Teleportation Center. Go find the plans of this center, I can dig only after all the telepods have been neutralized!
+ |A rabbibunny
+ |island=Fortress Island
+ |planet=twinsun
+ |quoteid=278}}
+
+{{Quote
+ |To my future descendants: I have lent to Miss Bloop's private museum, the Medallion and the Ancestral Tunic which rightfully belong to you. Signed: Twinsen.
+ |character=Twinsen
+ |reading a note
+ |building=Twinsen's house
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1073}}
+
+==Related threads==
+===General===
+* {{thread|id=6382|title=LBA loophole thread}}
+* {{thread|id=6363|title=Sendell's Medallion}}
+
+===Fan Art===
+* {{thread|id=11287|title=Twinsen}}
+* {{thread|id=11291|title=The Heir}}
+* {{thread|id=11279|title=Old drawing from 2000}}
+* {{thread|id=11007|title=twinsen paint image, old}}
+* {{thread|id=11083|title=Twinsen, my style}}
+* {{thread|id=11023|title=2-minutes twinsen"robot"}}
+* {{thread|id=10891|title=Twinsen :)}}
+* {{thread|id=10819|title=Twinsen want's you!}}
+* {{thread|id=10812|title=Ka-meh-ha-meh.. I mean Magic ball blast}}
+* {{thread|id=10751|title=Another 3D twinsen}}
+* {{thread|id=9868|title=Sendell's medallionS!}}
+* {{post|id=112171|title=Lba3}}
+
+==External links==
+===Fan art===
+* [http://www.deviantart.com/view/12986693/ LBA 2 Picture]
+* [http://www.deviantart.com/view/1047280/ Twinsen and Zoe]

@@ -1,0 +1,27 @@
+---
+title: Green Sphero Clone
+---
+
+{{twinsunica import}}{{Infobox Enemy
+ |image=Green_sphero_clone.JPG
+ |race=sphero
+ |gender=male
+ |size=small
+ |lba1=yes
+ |lba2=
+ |alignment=funfrock
+ |occupation=
+ |requires=green
+ |melee=
+ |ranged=
+ |magic=
+ |explosive=
+ |range=Wide
+ |speed=Slow
+ |damage=high, is that correct?
+ |rate=high
+ |reaction=Spins round on spot
+ |recovery=Medium
+}}
+
+'''Green level of [[Sphero]] [[clone]]s''' are not very common. One can be seen in the [[Mutant Factory]] in the [[Hamalayi Mountains]].

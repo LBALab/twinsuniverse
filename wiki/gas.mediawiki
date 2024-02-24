@@ -1,0 +1,31 @@
+---
+title: Gas
+---
+
+{{twinsunica import}}{{Infobox Item
+ |image=Gas_inventory1.png
+ |type=tool
+ |critical=yes
+ |magical=no
+ |unique=no
+ |lba1=yes
+ |lba2=
+ |upgrades=no
+ |rowposition=
+ |columnposition=
+ |effect=
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
+
+:''This article is about the gas used for travels. For the Zeelichian layers, see [[Surface]] and [[Undergas]]''.
+
+'''Gas''' on [[Twinsun]] is used for running vehicles. This substance is made of molasses, a thick and dark syrup produced during the refining of sugar. One can of gas is needed for each trip in a [[buggy]] or in a [[hydroglider]]. Gas cans are available for sale in several shops around the planet, always in packs of 10 cans. There are also a few for free in some places, like the [[water tower]] or the [[rebel camp]].
+
+[[Image:Gas.png|right|65px|thumb|Gas cans]]
+[[Twinsen]] needs the gas cans to reach several places too far to walk, such as the water tower and [[Port Belooga]] in [[Principal Island]], or the rebel camp in [[Rebellion Island]]. The gas is also used to run the hydroglider in the [[Northern Hemisphere]], before finding [[Dino-Fly]].

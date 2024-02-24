@@ -1,0 +1,74 @@
+---
+title: Wannies Fragment
+---
+
+{{twinsunica import}}{{Infobox Item
+ |image=
+ |type=component
+ |critical=yes
+ |magical=no
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=yes
+ |rowposition=5
+ |columnposition=7
+ |effect=none
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
+[[Image:Screenshot-lba2-movies-18-wannies_fragment-FRAGMENT060.gif|200px|right|thumb|The Wannies Fragment]]
+
+{{Quote
+ |This fragment of the wannies' key is one of the elements which will permit you to piece together the key to Dark Monk's temple.
+ |Inventory, [[Wannies Fragment]]
+ |quoteid=1884}}
+
+==Description==
+The '''Wannies Fragment''' was one of the four fragments which together summoned [[Dark Monk's Statue]] to complete the ceremony. This turned [[Zeelich]] back in its original look after 10,000 ceremonies. The Wannies Fragment is the green "above" piece of [[Dark Monk's Key]].
+
+==Role in Twinsen's adventure==
+As a part of his quest of uniting the four key fragments, [[Twinsen]] had to find the Wannies Fragment. It was located in a room in the [[Wannies Mine]]s, protected by the [[Wannie Chapel Guard|a huge guard]]. After killing the guard, Twinsen retrieved the key to the room. In there, it turned out that the room looked like [[Dark Monk's Chapel]], but then with a fragment. After taking the fragment, Twinsen had to fight his way out, as the [[Wannie]]s in the mine wanted their fragment back.
+
+==Unconfirmed theories==
+After picking up the Wannies Fragment, Twinsen heard a voice speaking to him. It might have been the real [[Dark Monk]], who was making sure the whole [[prophecy]] would be fullfilled.
+
+==Additional quotes==
+{{Quote
+ |But it's you who took our fragment. You don't realize what you have done. Listen carefully.
+ |character=Mr. Lemoine
+ |island=Island of the Wannies
+ |planet=undergas
+ |quoteid=2313}}
+
+{{Quote
+ |The time of the ceremony is near. Now that you have taken our fragment, Dark Monk will not chase the monsters of the gas or the cloud which blankets Zeelich!
+ |character=Mr. Lemoine
+ |island=Island of the Wannies
+ |planet=undergas
+ |quoteid=2315}}
+
+{{Quote
+ |Easy, Twinsen, be careful. It's not the time to break this precious fragment!!
+ |[[Dark Monk|an unknown voice]], when [[Twinsen]] drops the fragment
+ |island=Island of the Wannies
+ |planet=undergas
+ |quoteid=2349}}
+
+==Related threads==
+===General===
+* {{thread|id=10899|title=Has anyone emailed our good ol' Fred about...}}
+* {{thread|id=5086|title=The mine on the Wannies island}}
+* {{thread|id=5777|title=Dark Monk}}
+* {{thread|id=3606|title=The wannies fragment}}
+
+===Hints\Spoilers===
+* {{thread|id=11882|title=how do you get the keypart on wannies?}}
+
+===Fan Art===
+* {{thread|id=3190|title=The replaced art}}

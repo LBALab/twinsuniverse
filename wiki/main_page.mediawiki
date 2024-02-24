@@ -1,0 +1,5 @@
+---
+title: Main Page
+---
+
+#REDIRECT [[Twinsuniverse Wiki]]

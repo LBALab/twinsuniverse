@@ -1,0 +1,26 @@
+---
+title: Mosquibee Soldier
+---
+
+{{Infobox Character
+ |image=Mosquibee Soldier.jpg
+ |race=mosquibee
+ |gender=male
+ |size=small
+ |age=adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=Mosquibee Army
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+
+The '''Mosquibee Soldier''' is encountered in [[Mosquibee Village]], after the 
+{{stub}}

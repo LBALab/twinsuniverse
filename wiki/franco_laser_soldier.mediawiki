@@ -1,0 +1,31 @@
+---
+title: Franco Laser Soldier
+---
+
+{{Infobox Enemy
+ |image=
+ |race=franco
+ |gender=male
+ |size=average
+ |lba1=
+ |lba2=yes
+ |alignment=emperor
+ |occupation=Soldier
+ |requires=red
+ |melee=yes
+ |ranged=yes
+ |magic=
+ |explosive=
+ |range=medium
+ |speed=
+ |damage=
+ |rate=
+ |reaction=
+ |recovery=
+}}
+
+The '''Franco Laser Soldier''' is encountered at numerous places, and answers to the [[:category:Imperial Legion|Imperial Legion]] on [[Zeelich]]. They carry a red laser gun, and often guard junctions, entrances and exits, or patroll populated areas.
+
+When he reaches Magic Level Fire, [[Twinsen]] can defeat them more easily, though they are still a threat by their number. For instance, the small streets of the [[Island of the Wannies]] are guarded by at least eight laser soldiers.
+
+{{stub}}

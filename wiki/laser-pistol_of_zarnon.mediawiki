@@ -1,0 +1,42 @@
+---
+title: Laser-Pistol of Zarnon
+---
+
+{{twinsunica import}}{{Infobox Item
+ |image=Laser.gif
+ |type=weapon
+ |critical=yes
+ |magical=no
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=final
+ |rowposition=1
+ |columnposition=6
+ |effect=none
+ |effectamount=
+ |purpose=
+ |combattype=area
+ |powerlevel=red
+ |rate=low
+ |range=infinite
+ |damage=high
+}}
+[[Image:Laser-pistol.png|right|150px|thumb|The Laser-Pistol without [[Piece of Rock Crystal|rock crystal]]]]
+[[Image:Wannie dissident with pistolaser of zarnon by lapichon-d67w9b4.png|right|200px|thumb|Laserpistol fan art by SpaceGuitarist]]
+
+The '''Laser-Pistol of Zarnon''', usually referred to as '''laser-pistol''' or '''pisto-laser''', is a pistol loaded with [[rock crystal]]. This pistol fires short, perfectly horizontal and slow moving laser rays that explode upon impact. It causes lots of damage, and due to the horizontal rays it has a very long range. However, it reloads very slowly.
+
+[[Twinsen]] receives the laser pistol from the [[dissidents]] in the [[Twinsunian Souvenir Shop]] when they help him prepare for the journey to [[Island CX]]. They instruct him to load the pistol with rock crystal mined from the [[Island of the Celebration]]. Twinsen goes there, and with a [[pick-ax]] he buys from the [[Francos bazaar]], he mines the rock crystal and loads the pistol with it.
+
+Without the pistol, Twinsen cannot reach the levers that control the door leading to the [[Francos harbour]], from which he takes a tanker to the [[Elevator to the Undergas]].
+
+The laser pistol also serves as an effective weapon, especially against far away enemies.
+
+== Related Threads ==
+=== Hints\Spoilers ===
+* {{thread|id=10088|title=rapid blaster}}
+* {{thread|id=10125|title=Controband laser gun?}}
+
+=== Fan Art ===
+* {{thread|id=11287|title=Twinsen}}

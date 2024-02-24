@@ -1,0 +1,37 @@
+---
+title: Tank
+---
+
+{{twinsunica import}}{{Infobox Enemy
+ |image=Tank.gif
+ |race=artillery
+ |gender=none
+ |size=large
+ |lba1=yes
+ |lba2=
+ |alignment=funfrock
+ |occupation=
+ |requires=green
+ |melee=
+ |ranged=yes
+ |magic=
+ |explosive=
+ |range=Medium
+ |speed=Fast
+ |damage=High
+ |rate=low
+ |reaction=Doesn't move
+ |recovery=Medium
+}}
+
+'''Tanks''' are heavy battle tanks in the army of [[FunFrock]].
+
+The tanks are used mainly for defending actions and attacking actions as well. There can be found one in the middle of [[Lupin-Burg]], enforcing surveillance. It was also used to destroy [[Twinsen's house]]. There are also tanks guarding FunFrock's fortresses, or the [[Okojo Pass]] in the [[Hamalayi Mountains]]. They could also be seen on [[Desert Island]].
+
+During the rebel assault on the [[Okojo Pass]], [[Twinsen]] and a rebel rabbibunny steal a tank in order to get access to the small fort guarding the pass. However, the tank is not controlled by Twinsen, but by the rebel rabbibunny instead.
+
+Twinsen also has to destroy a tank guarding [[FunFrock's secret fortress]], in order to get access to it.
+
+==Related Threads==
+===Hints\Spoilers===
+{{thread|id=6871|title=Tanks Giving!}}

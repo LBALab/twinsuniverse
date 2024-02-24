@@ -1,0 +1,65 @@
+---
+title: Joe the Elf
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=Joe the Elf.jpg
+ |race=creature|label=elf
+ |gender=male
+ |size=small
+ |age=child
+ |magical=yes
+ |lba1=yes
+ |lba2=yes
+ |alignment=sendell
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+
+'''Joe the Elf''' is a green [[Elf]]. He has magical powers to teleport himself, and is able to use [[telepod]]s, which are supposed to work only for [[clone]]s. He is a member of the Elves Club and a friend of [[Twinsen]].
+
+==During FunFrock's Reign==
+Twinsen finds Joe in a grotto in the [[White Leaf Desert]] in [[Little Big Adventure 1]]. Joe is trapped in a labyrinth, allegedly because he wasn't supposed to be in the game. After Twinsen opens the entrance of the cave with the [[Horn of Gawley]], however, he is able to leave it. Joe makes Twinsen an honorary Elf as a reward, by giving him the [[Elves Club Blue Card]]. With this card, Twinsen is able to open a locked door in a small fortress in the [[Hamalayi Mountains]].
+
+Joe later goes out to explore the world. According to the [[horse]] galloping in the desert, he is looking for a captured princess to be rescued.
+
+If Twinsen uses his [[Flask of Clear Water]] in the [[Water Tower]] to clear the water supply of [[Principal Island]], Joe teleports in from the telepod on top of the Water Tower, claiming that teleportation makes him nauseous.
+
+==During Twinsen's Odyssey==
+Twinsen and Joe meet again several times in [[Little Big Adventure 2]]. Firstly, in the [[Tralü's cave]], where Joe shows his magical teleporting power, which are not yet working all right.
+
+They meet again in the [[Cemetery]] in front of the [[School of Magic]]. Joe is transformed into a shell for unknown reasons. However, Twinsen is able to heal him with the [[Horn of the Blue Triton]]. Joe gives him three [[Clover Leaf|Clover leaves]] as a reward.
+
+Later on, Joe goes to [[Zeelich]] along with [[Twinsun]]'s wizards. As the wizards are captured by the forces of the [[Emperor]], he is scared and plans to get back to [[Twinsun]]. On his way, he meets Twinsen, in his [[Wizard's Parade Tunic]], at the [[Otringal]] [[astroport]]. He recognizes Twinsen and calls him by his name. The [[esmer]]s, who don't yet recognize Twinsen, thus put both of them in the [[Otringal prison]].
+
+In prison, Joe teleports himself into Twinsen's cell. He tells Twinsen about the Esmers' plans to abduct the children of Twinsun. He also attracts a [[Franco Police Officer]], who opens the cell's door, making it possible for Twinsen to escape the prison. Joe himself hides in the [[Esmer shuttle]] that Twinsen steals, and appears later in the crashed shuttle on the [[Ridge of the Flowers Circle]]. He claims he would like to get back to Zeelich, as the wizards are left alone there now.
+
+==Related threads==
+===General===
+* {{thread|id=8802|title=Mysterious quote}}
+* {{thread|id=7689|title="the Elf"}}
+* {{thread|id=6418|title=Elves and magic powers}}
+* {{thread|id=6295|title=another weird quote}}
+* {{thread|id=3531|title=Joe on Twinsun after attack??}}
+* {{thread|id=1686|title=Naughty elf!}}
+
+===Hints\Spoilers===
+* {{thread|id=10415|title=LBA 2 Goofs}}
+* {{thread|id=10385|title=every point of interest i could find (lba2) that isnt on this site, that needs to be!}}
+* {{thread|id=5081|title=Joe The Elf}}
+* {{thread|id=1143|title=Joe the elf rulez :)}}
+
+===Fan Art===
+* {{thread|id=10774|title=Smilies}}
+* {{post|id=112171|title=Lba3}}
+* {{thread|id=3150|title=My first Lba image}}
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category:Desert Island inhabitants]]
+[[Category:Citadel Island inhabitants]] -->

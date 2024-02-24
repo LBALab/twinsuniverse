@@ -1,0 +1,38 @@
+---
+title: Flask of Clear Water
+---
+
+{{twinsunica import}}{{Infobox Item
+ |image=Flask of clear water1.png
+ |type=reward
+ |critical=yes
+ |magical=yes
+ |unique=yes
+ |lba1=yes
+ |lba2=
+ |upgrades=no
+ |rowposition=
+ |columnposition=
+ |effect=
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=
+ |rate=none
+ |range=none
+ |damage=none
+}}
+[[Image:11_runestone_clear_warer.gif|right|200px|thumb|Twinsen pouring out the vial of Clear Water]]
+
+The '''Vial of Clear Water''' is one of the four magical items that have to be collected by the Chosen One, if he "hopes to be victorious", according to the [[Book of Bù]]. While the vial itself is of less importance, the water required to posses is of a special kind: water from the [[Clear Water Lake]], which is located at the [[Hamalayi Mountains]]. However, gathering water from this lake during the reign of [[Dr. FunFrock]] is not an easy task. Not only is the access to the lake blocked by soldiers and [[clones]], but also it is frozen throughout the entire year. The Heir, when his time arrives, would need to find ways to overcome the clones, as well as to melt the water.
+
+[[Twinsen]] has to fetch a vial with Clear Water as one of the four magical symbols described in the Book of Bù. When he reaches the Hamalayi Ranges with the [[rebels]], though, he finds out that reaching the lake isn't simple. Not only are the clones patrolling everywhere, but also the access to the lake is blocked by a carrot door, which is sacred to the residents of the [[Rabbibunny Village]]. By destroying the [[Mutants Factory]], thus preventing any [[mutants]] from disturbing the life of the [[rabbibunnies]], Twinsen is able to gain their trust. They then open the the [[Sacred Carrot]] for him, allowing him to reach the Clear Water lake. Twinsen also needs a [[blue card]] in order to open the gate of the fortress near the lake.
+
+Once at the lake, Twinsen was finds out that the water is frozen. Using the advice the old and wise Rabbibunny at the [[White Leaf Desert]] gives him, he is able to melt the water at the lake using the [[magic flute]] he recieves after freeing one of the [[Runic Stones]] at [[Proxima Island]]. Once the lake unfreezes, Twinsen takes out his now-empty flask which once contained [[cherry syrup]], and fills it with Clear Water.
+
+The water doesn't have any use until afterwards. When coming to destroy the [[Teleportation Center]], Twinsen eventually reaches a dead end at the room of the third Runic Stone. Knowing that the stone is indestructible, he pours some Clear Water on it, then quickly makes his way out of the building. A few seconds later, the building explodes completely, leaving behind only ruins, as well as the Runic Stone. This explosion reveals the secret access to the [[Construction Zone]], leading to [[Polar Island]].
+
+
+It is alo possible, although not a compulsory part of the game, to pour some water into the water tank at the [[Water Tower]] of [[Principal Island]]. In reward for doing so, the [[librarian]] gives Twinsen three [[clover leaves]].
+
+During [[Twinsen's Odyssey]], the now-empty vial is at display in [[Miss Bloop's private museum]].

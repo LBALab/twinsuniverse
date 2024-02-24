@@ -1,0 +1,65 @@
+---
+title: Twinsen's car
+---
+
+{{twinsunica import}}{{Infobox Transport
+ |image=
+}}
+
+[[Image:Twincar.gif|right|126px|thumb|Twinsen in his car.]]
+{{Quote
+ |The car's not working. Zoé said there's still a part she needs. She asked Baldino to make it for her.
+ |character=Twinsen
+ |building=Twinsen's house
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1125}}
+
+==Description==
+'''Twinsen's car''' is a yellow buggy owned by [[Twinsen]]. It has a cannon under its hood, which has the power of Twinsen's [[Magic Ball|Magic Level]]. When driving over a ramp, it can jump high and far.
+
+==Role in Twinsen's adventure==
+Twinsen needed the car to get the [[Garden Balsam Flower]]. It was on a tall mountain in the [[White Leaf Desert]], which could only be reached by jumping over a gap from a nearby mountain using the car. 
+
+However, the car first needed repairs. Twinsen fetched a [[car part]] from [[Jerome Baldino]], and his wife [[Zoé]] fixed the car with it for him. She then brought it to [[Desert Island]] with the [[ferry]].
+
+With the car, Twinsen was able to get the Garden Balsam Flower and thus finish the second test of the [[School of Magic]]. Twinsen later used the car for races at [[von Kournil Tour]] and travelling long distances on Desert Island. He also used the car's powerful gun to defeat Esmer robots during the [[Esmer]] invasion.
+
+==Trivia==
+Eventually, Twinsen lost his car on the mountain of the Garden Balsam Flower. He was no longer able to get up to the mountain to get his car. However, the racer at von Kournil Tour found it and sold it Twinsen back for 50 [[Kash]]es.
+
+==Additional Quotes==
+{{Quote
+ |Twinsen, if you want to try out the car, just go to the racetrack or the desert. As long as I'm here, I'm going to catch up on a little shopping. I'll meet you back at the house.
+ |character=Zoé
+ |island=Desert Island
+ |planet=twinsun
+ |quoteid=1438}}
+
+==Related Threads==
+===General===
+* {{thread|id=11884|title=Sceen changing bug.}}
+* {{thread|id=11363|title=Yet another LBA 2 car bug}}
+* {{thread|id=11024|title=some fun stuff and tips}}
+* {{thread|id=7863|title=I just wanna drive :(}}
+* {{thread|id=5936|title=Found the answer to the car bug}}
+* {{thread|id=5184|title=Twinsen & Zoe again}}
+* {{thread|id=4551|title=Stupid Car}}
+* {{thread|id=1353|title=Women mechanics...? HAH!}}
+* {{thread|id=368|title=Little Big Adventure 2}}
+* {{thread|id=134|title=car crazyness}}
+===Hints\Spoilers===
+* {{thread|id=10843|title=My cars stuck!}}
+* {{thread|id=4131|title=Losing the car... (LBA2)}}
+* {{thread|id=7563|title=Destroy your car!}}
+* {{thread|id=7029|title=a car problem}}
+* {{thread|id=6611|title=Cool LBA 2 secret!}}
+* {{thread|id=5643|title=I cannot get out of magic school.....}}
+* {{thread|id=3835|title=Has anybody got into the city, and the graveyard with the car in LBA 2?}}
+* {{thread|id=3557|title=Twinsens Car:LBA2}}
+* {{thread|id=1912|title=Steering Twinsen's car}}
+* {{thread|id=1618|title=Buying a car?}}
+* {{thread|id=1342|title=Car in Cemetary, EDIT --> And Bald Mountain!!!}}
+* {{thread|id=1437|title=If...}}
+===Fan Art===
+* {{post|id=82844|title=Lba3}}

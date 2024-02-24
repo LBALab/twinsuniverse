@@ -1,0 +1,43 @@
+---
+title: Ring of Lightning
+---
+
+{{twinsunica import}}{{Infobox Item
+ |image=Lightning.gif
+ |type=weapon
+ |critical=yes
+ |magical=yes
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=yes
+ |rowposition=2
+ |columnposition=3
+ |effect=uses magic
+ |effectamount=all
+ |purpose=Free [[Sendell's Ball]]
+ |combattype=special
+ |powerlevel=all
+ |rate=low
+ |range=varies magic
+ |damage=high
+}}
+
+The '''Ring of Lightning''' is a magical ring which possesses the ability to kill all enemies visible in sight. The magic level of this ring upgrades together with its owner's magic level. Accordingly, enemies stronger than the magic level at the time of using the ring do not die from this spell.
+
+The lightning ring consumes a great amount of magic. It requires the [[magic points]] to be at maximum, and consumes all of them when used.
+
+When consulting the [[Rector of the School of Magic]] about finding the kidnapped children, [[Twinsen]] learns from him that he needs Sendell's Ball in order to upgrade his powers. For that, he needs the Ring of Lightning to release the ball from the ice cage where it is locked. The rector tells him that to achieve this ring, he needs a [[Pearl of Incandescence]].
+
+After finding such a pearl in a [[cave of the pearl of incandescence|cave]] in [[Desert Island]], Twinsen drops the pearl in a cauldron in [[Bersimon]]'s [[Bersimon's tent]]. By doing that, Twinsen creates the Ring of Lightning, and can then use it to trrieve Sendell's Ball, which upgrades his magic level to Red.
+
+Twinsen can use the Ring of Lightning in the rest of his adventure, especially to cross heavily guarded places which are difficult to pass.
+
+==Related threads==
+===General===
+* {{thread|id=3399|title=the trick I used}}
+* {{thread|id=3407|title=How did you get the lighting spell?}}
+* {{thread|id=2189|title=Lol!}}
+
+===Fan Art===
+* {{thread|id=11287|title=Twinsen}}

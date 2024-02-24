@@ -1,0 +1,38 @@
+---
+title: Itinary Token
+---
+
+{{twinsunica import}}{{Infobox Item
+ |image=Itinary_token.png
+ |type=key
+ |critical=yes
+ |magical=no
+ |unique=no
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=4
+ |columnposition=5
+ |effect=grants access
+ |effectamount=some
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
+
+'''Itinary tokens''' are used by [[Zeelich]]ians for operating [[Esmer shuttle]]s. Without these tokens, the shuttles can't take off. These disc-shaped tokens have to be placed inside a device placed on any common Esmers shuttle in order to launch them.
+
+[[Twinsen]] first notices the [[Esmer]]s using an itinary token when going with them to [[Zeelich]]. When escaping the planet later, Twinsen needs to find an itinary token for a shuttle. After escaping the [[Otringal prison|prison]], Twinsen runs to the control tower in the [[Astroport]], where he steals a token after defeating the [[Franco Pike Guard]]s and [[Franco Technician]]s. After obtaining the token, Twinsen makes his way back to a shuttle that stands at the port, and places the travel token inside the appropriate device. Once doing that, the shuttle takes off.
+
+The second time Twinsen needs a token is when heading for [[Emerald Moon]]. Twinsen has to steal a shuttle from the [[Esmer base|secret base]] the Esmers had built inside the [[Temple of Bù]], and travel to the moon in order to free [[Jerome Baldino]]. To get himself a token, Twinsen has to defeat the [[Franco Skater Green]] guarding the shuttle in order to get the key to the elevator nearby. He then needs the [[Proto-Pack]] to fly over an electric bridge and defeat one more Franco guard to open a spheric safe which holds the token. On his way back Twinsen encounters one more guard, which he can easily defeat by turning the electric bridge off and then on again. Twinsen then takes the elevator down and enters the shuttle to head for the moon.
+
+The third time Twinsen needs an itinary token is when leaving [[Island CX]] and going back to [[Otringal]]. He obtains this token from a tower very similar to the Astroport in [[Otringal]]. Once doing that, he has to make his way through the dangerous island, until reaching the Emsers shuttle that stands in the corner. He can then make his way back to Otringal, landing just next to the [[Emperor's Palace]].
+
+==Related threads==
+===Hints\Spoilers===
+* {{thread|id=11110|title=LBA2 Bug - Itinerary Token}}
+* {{thread|id=11011|title=Disc in Zeelich}}
+* {{thread|id=10415|title=LBA 2 Goofs}}

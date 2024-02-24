@@ -1,0 +1,38 @@
+---
+title: Pharmacist (Quetch)
+---
+
+{{twinsunica import}}{{Infobox Enemy
+ |image=pharmacistquetch.JPG
+ |race=Quetch
+ |gender=Male
+ |size=average
+ |lba1=yes
+ |lba2=
+ |alignment=funfrock
+ |occupation=
+ |requires=
+ |melee=
+ |ranged=
+ |magic=
+ |explosive=
+ |range=
+ |speed=
+ |damage=
+ |rate=
+ |reaction=
+ |recovery=
+}}
+
+The '''pharmacist''' is a [[quetch]] running the [[Citadel Island]] [[pharmacy]] during the reign of [[FunFrock]].
+
+It has been suspected by fans that he is the "informant" the [[nurse]] in the [[Citadel]] is talking about, and thus is maybe responsible for [[Twinsen]]'s arrest.
+
+When Twinsen comes to the pharmacy to get a bottle of [[cherry syrup]], it is obvious that the pharmacist fears Twinsen, as he is very scared when he sees that Twinsen had managed to escape the Citadel. The pharmacist manages to call a [[grobo clone]] using his alarm button, but is eventually killed by Twinsen.
+
+== Related Threads ==
+=== General ===
+* {{thread|id=4111|title=Pharmacist's relation in the telling of the dream.}}
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category: Citadel Island inhabitants]] -->

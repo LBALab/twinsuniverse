@@ -1,0 +1,45 @@
+---
+title: Subway Technician
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=‎Subway_Technician.JPG
+ |race=grobo
+ |gender=Male
+ |size=average
+ |age=Adult
+ |magical=
+ |lba1=yes
+ |lba2=
+ |alignment=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+{{Quote
+ |Yes, I know, you also want me to start the transporter. Ok, stand in front of it, I'll start it up.
+ |character=Subway technician
+ |island=Hamalayi Mountains
+ |planet=twinsun
+ |quoteid=337}}
+
+==Description==
+A rather grumpy character who plays no major role in LBA1. He is seen in two places: at the [[Subway Station]] where he starts up the subway to the [[Mutant Factory]] for Twinsen. 
+He is also from then on seen in the Mutant Factor repairing a spare subway shuttle.
+
+==Additional Quotes==
+
+{{Quote
+ |Leave me alone! I've got work to do, and no time to play!
+ |character=Subway technician
+ |island=Hamalayi Mountains
+ |planet=twinsun
+ |quoteid=325}}
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category:Hamalayi Mountains inhabitants]] -->

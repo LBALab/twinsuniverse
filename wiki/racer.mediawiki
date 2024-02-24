@@ -1,0 +1,32 @@
+---
+title: Racer
+---
+
+{{Infobox Character
+ |image=Racer.png
+ |race=sphero
+ |gender=male
+ |size=small
+ |age=adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=Racer
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+{{stub}}
+
+The '''racer''' spends all day driving his car around the race track on Desert Island. He tells [[Twinsen]] to come back once he gets a car so they can race.
+
+{{spoiler|
+*Once Twinsen has access to a car on Desert Island, in case he happened to misplace it in an unreachable area and went to the Racer, he could have it waiting for him.
+
+*The Racer would ask to follow him when Twinsen got his car. He gave an extra [[Clover Leaf]] at the finish if Twinsen managed to follow right behind him, and went all the way around the track.
+}}

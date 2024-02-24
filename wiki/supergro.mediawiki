@@ -1,0 +1,41 @@
+---
+title: Supergro
+---
+
+{{twinsunica import}}{{Infobox Enemy
+ |image=Whiteclone.gif
+ |race=grobo
+ |gender=male
+ |size=average
+ |lba1=yes
+ |lba2=
+ |alignment=funfrock
+ |occupation=
+ |requires=Fire
+ |melee=
+ |ranged=yes
+ |magic=
+ |explosive=
+ |range=Infinite
+ |speed=Fast
+ |damage=huge
+ |rate=High
+ |reaction=Moves backwards
+ |recovery=Fast
+}}
+
+'''Supergros''' are white [[grobo]] [[clones]]. They are armed with tablet launchers with which they can put anyone they hit to sleep. These people can then be brought to the nearest [[prison]]. They can be found in every prison and would teleport out of a [[telepod]] when alarmed by a [[nurse]]. Some can also be seen guarding the upper areas of [[Old Burg]], or [[FunFrock's Headquarters]].
+
+[[Twinsen]] is not able to face the supergros for a long time, and each time he meets one of them, he is instantly carried to the nearest prison. However, after he gets the last level of magic with the [[flask of clear water]], he is able to fight them. Then, they no longer shoot sleeping tablets, but deadly red projectiles, which can kill Twinsen in three hits.
+
+Twinsen has to fight a supergro in the entrance of [[FunFrock's Headquarters]], to get the [[key]] to enter it.
+
+==Related threads==
+===General===
+* {{thread|id=4366|title=Have you ever: Supergroboclones}}
+===Hints\Spoilers===
+* {{thread|id=10757|title=Taking care of supergros}}
+* {{thread|id=6797|title=supergros..... :P}}
+* {{thread|id=1421|title=Super 4th level magic ball protects you too?}}
+===Fan Art===
+* {{thread|id=10774|title=Smilies}}

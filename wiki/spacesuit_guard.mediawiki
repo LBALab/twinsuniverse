@@ -1,0 +1,29 @@
+---
+title: Spacesuit Guard
+---
+
+{{Infobox Enemy
+ |image=Spacesuit Guard.png
+ |race=sup
+ |gender=male
+ |size=average
+ |lba1=
+ |lba2=yes
+ |alignment=emperor
+ |occupation=Guards the Main Building
+ |requires=red
+ |melee=
+ |ranged=yes
+ |magic=
+ |explosive=
+ |range=medium
+ |speed=slow
+ |damage=
+ |rate=
+ |reaction=
+ |recovery=
+}}
+
+The '''spacesuit guards''' can be found on [[Emerald Moon]], they each guard an airlock entrance. When [[Twinsen]] arrives on the Emerald Moon he needs to give the guards an operation code.
+The guards are equipped with double lasers (like the [[Laser-Pistol of Zarnon]]), while Twinsen is equipped with double lasers of a different kind.
+{{stub}}

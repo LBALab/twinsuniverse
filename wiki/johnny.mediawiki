@@ -1,0 +1,26 @@
+---
+title: Johnny
+---
+
+{{Infobox Character
+ |image=Johnny.png
+ |race=wannie
+ |gender=male
+ |size=small
+ |age=child
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=Alfred the Miner
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+
+'''Johnny''' is a [[wannie]] kid, who lives with a small family in [[Wannie Village]] at the [[Island of the Wannies]].
+{{stub}}

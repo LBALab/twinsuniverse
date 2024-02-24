@@ -1,0 +1,27 @@
+---
+title: Red Grobo Clone
+---
+
+{{twinsunica import}}{{Infobox Enemy
+ |image=Red_grobo_clone.JPG‎
+ |race=grobo
+ |gender=male
+ |size=average
+ |lba1=yes
+ |lba2=
+ |alignment=funfrock
+ |occupation=
+ |requires=Red
+ |melee=yes
+ |ranged=
+ |magic=
+ |explosive=
+ |range=
+ |speed=
+ |damage=Medium
+ |rate=2 seconds
+ |reaction=Moves sideways
+ |recovery=0.7 seconds
+}}
+
+'''Red [[Grobo]] [[Clone]]''' is the strongest Grobo-clone in [[LBA 1]], apart from the [[supergro]]. It can shoot out sparks from its baton that inflict damage. They are usually found in more protected areas.

@@ -1,0 +1,47 @@
+---
+title: Luc
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=Luc.jpg
+ |race=grobo
+ |gender=Male
+ |size=average
+ |age=Adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=Bartender
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+
+'''Luc''' is a [[grobo]] and owner of the pub [[Chez Luc]] on [[Citadel Island]].
+
+He works behind the counter and tells [[Twinsen]] that he can purchase Life and Magic Points from the bar.
+Twinsen doesn't have to talk with Luc, thus he has no vital role.
+
+{{spoiler
+  |If Twinsen turns on the second music song on the jukebox, called "LBA Theme", Luc will remove the chain from the bar, and starts dancing on the music. This enables Twinsen to get behind the bar to retrieve the key to the cellar. This is how he gets in the center of the sewers, where he can find the magically protected [[Sendell's Ball]].
+}}
+
+==Related threads==
+===General===
+* {{thread|id=7972|title=Families}}
+* {{thread|id=155|title=Twinsun - a happy jolly place? I THINK NOT}}
+
+===Fan Art===
+* {{post|id=76367|title=Edited Film Pictures}}
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category:Grobos]]
+[[Category:Male characters]]
+[[Category:Average characters]]
+[[Category:Adult characters]]
+[[Category:Citadel Island inhabitants]] -->

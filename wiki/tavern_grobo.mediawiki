@@ -1,0 +1,64 @@
+---
+title: Tavern Grobo
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=
+ |race=grobo
+ |gender=Male
+ |size=average
+ |age=Adult
+ |magical=no
+ |lba1=yes
+ |lba2=
+ |alignment=
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+{{Quote
+ |Hey buddy!
+ |character=Tavern grobo
+ |building=Chez Luc
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=126}}
+
+==Description==
+The '''tavern grobo''' is a [[grobo]] who often visited [[Chez Luc]] in [[Lupin-Burg]] during [[FunFrock's Reign]]. He could usually be found on the first floor.
+
+==Role in Twinsen's adventures==
+After [[Zoé]] had been captured by [[Clone|grobo clones]], [[Twinsen]] was looking for clues about what happened to her. When asking around in Chez Luc, he eventually encountered the grobo, who was willing to give Twinsen a hint when he ordered a drink for him. After Twinsen did so, he was told that Zoé has been to the [[Citadel Island harbour|harbour]] in order to get taken to another island. So Twinsen got up to get to the harbour himself.
+
+==Additional Quotes==
+{{Quote
+ |I know where they went and I'll help you if you buy me a drink. Ask the waiter about it.
+ |character=Tavern grobo
+ |building=Chez Luc
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=35}}
+
+{{Quote
+ |I saw them at the port a little while ago. They were leaving for another island. It's strange, because prisoners usually stay at the Citadel.
+ |character=Tavern grobo
+ |building=Chez Luc
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=53}}
+
+{{Quote
+ |I would like to buy a drink for the grobo upstairs.
+ |character=Twinsen
+ |building=Chez Luc
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=69}}
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category:Citadel Island inhabitants]] -->

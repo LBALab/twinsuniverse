@@ -1,0 +1,34 @@
+---
+title: Mr. Kurtz
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=Kurtz.png
+ |race=franco
+ |gender=male
+ |size=average
+ |age=adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+
+'''Kurtz''' is a [[franco]] living in [[Franco Village]] on the [[Island of the Francos]], in [[Mr. Kurtz's house|a house]] where he made sure no sunlight can come in. His flowers are the proof of that. According to the sign outside his house, Mr. Kurtz is a retired colonel. He currently works as a scientist.
+
+Kurtz is one of the many Francos searching for their [[Francos Fragment|fragment]] which is lost on the island. He spends his time in his house concocting a potion which he believes will lead him directly to the fragments location. Unfortunately, he lost the vial which contained the potion.
+
+==Related threads==
+===Hints\Spoilers===
+* {{thread|id=1413|title=Unsolved mysteries}}
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category:Francos Island inhabitants]] -->

@@ -1,0 +1,34 @@
+---
+title: Arno
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=Arno.jpg
+ |race=wannie
+ |gender=male
+ |size=small
+ |age=child
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=undergas
+ |island=Island of the Wannies
+ |building=Village of the Wannies
+}}
+
+'''Arno''' is the son of the [[wannie]] family living in the [[Village of the Wannies]].
+
+Arno is seen playing with his toys when [[Twinsen]] reaches the family's cave. After Twinsen passes out from eating a slice of [[Fire-Fly tart]], Arno stands near his bed.
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category:Wannies]]
+[[Category:Male characters]]
+[[Category:Small characters]]
+[[Category:Infant characters]]
+[[Category:Wannies Island inhabitants]] -->

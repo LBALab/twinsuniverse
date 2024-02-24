@@ -1,0 +1,47 @@
+---
+title: Mies van der Rooh
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=Mies1.png
+ |race=rabbibunny
+ |gender=Male
+ |size=average
+ |age=young
+ |magical=no
+ |lba1=yes
+ |lba2=
+ |alignment=neutral
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+
+'''Mies van der Rooh''' is [[Twinsen]]'s neighbour during [[FunFrock]]'s reign. He lives with his [[Mies van der Rooh's father|father]] in a [[Van der Rooh's residence|house]] in [[Bug Street]]. Mies is an architect, and works on maintaining some of FunFrock's buildings, including the [[Teleportation Center]]. He is very loyal to FunFrock, and can't see the tyranny that FunFrock causes, because he is one of the citizens who are better off during FunFrock's reign.
+
+Mies van der Rooh was probably named after [http://en.wikipedia.org/wiki/Mies_van_der_rohe Ludwig Mies van der Rohe], a famous architect himself.
+
+Twinsen goes to meet Mies van der Rooh after he finds a note from him in a safe in [[FunFrock's headquarters]]. Twinsen tells him that he is searching for the plans of the Teleportation Center, and Mies gives him his [[architect's pass]], which Twinsen uses to enter the building.
+
+Some time between the events of the two games, Mies van der Rooh died under unknown circumstances. Before his death, he rebuilt the [[Citadel Island sewers|sewers system]] of [[Citadel Island]].
+
+==Related threads==
+===General===
+* {{thread|id=10195|title=Interesting LBA facts <nowiki>[Discuss]</nowiki>}}
+* {{thread|id=2886|title=Dad! Do you have a key with you?}}
+* {{thread|id=2481|title=Another odd quote}}
+
+===Hints\Spoilers===
+* {{thread|id=7260|title=Bit of Help, please??}}
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category:Rabbibunnies]]
+[[Category:Average characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Citadel Island inhabitants]] -->

@@ -1,0 +1,37 @@
+---
+title: Mosquibee
+---
+
+{{twinsunica import}}[[Image:MosqAnim.gif|right|73px|frame|Mosquibee]]
+
+'''Mosquibee''' is one of the four main species of the planet [[Zeelich]]. Their name is derived from a combination of ''mosquito'' and ''bee''. With their wings, they are the only race in Zeelich capable of flying.
+
+The mosquibees usually keep to themselves, and outside the [[Island of the Mosquibees]] in the [[Under-Gas]] of Zeelich, they are hardly seen around the planet. A plaque in [[Dark Monk's temple]] describes them as such:
+
+{{Quote
+ |Mosquibee representative. The race of the Mosquibees lives in the under-gas. Their village is a magnificent cocoon anchored on the rocky tor which supports the island CX.
+ |A plaque
+ |building=Dark Monk's temple
+ |island=Island of the Celebration
+ |planet=zeelich
+ |quoteid=982}}
+
+When the [[Emperor]] assisted [[FunFrock]] in imposing as [[Dark Monk]], the mosquibees are the only ones in the planet who resist the Emperor's actions. Instead, they have their own queen, [[Astrid]].
+
+[[Twinsen]] comes to the Island of the Mosquibees knowing it provides access to [[Island CX]]. Just after he proves his trustworthiness to the queen, the Emperor's soldiers attack the village, and a battle commences between them and the mosquibees. Several mosquibees take hide then in [[mosquibees hideout|a cave]] in [[Volcano Island]].
+
+==Related threads==
+===General===
+* {{thread|id=4677|title=Sups vs. Mosquibee's!}}
+
+===Hints\Spoilers===
+* {{thread|id=10415|title=LBA 2 Goofs}}
+
+===Fan Art===
+* {{post|id=84457|title=Lba3}}
+* {{thread|id=12119|title=Think of the mosquibees please!}}
+
+[[Category:Mosquibees| ]]
+[[Category:Mosquibee characters| ]]
+[[Category:Mosquibee enemies| ]]
+[[Category:Species]]

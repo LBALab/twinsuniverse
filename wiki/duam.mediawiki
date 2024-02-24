@@ -1,0 +1,21 @@
+---
+title: Duam
+---
+
+{{twinsunica import}}[[Image:Duam.jpg|right|143px|thumb|A Duam]]
+
+'''Duam''' are a dog-like race used for gambling races in the [[casino]] on [[Otringal]].
+
+The Duams race is one of the games available at the casino. [[Twinsen]] can place a bet of 1 [[Zlito]] on any of the Duams, and if the Duam he bets on wins the race, Twinsen is awarded 10 Zlitos.
+
+It's possible to cheat in this race, by dispensing a [[life candy]] from the [[Horn of the Blue Triton]] on any of the courses. The duam who touches this heart becomes faster, and is more likely to win this race.
+
+==Related threads==
+===General===
+* {{thread|id=1969|title="A Duam" ???? WTF is that?}}
+
+===Hints\Spoilers===
+* {{thread|id=2522|title=Otringal Casino}}
+* {{thread|id=2534|title=Dog races.}}
+
+[[Category:Species]]

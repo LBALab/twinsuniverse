@@ -1,0 +1,36 @@
+---
+title: Chuette
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=Chuette.jpg
+ |race=creature|label=owl
+ |gender=none
+ |size=small
+ |age=
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+
+'''Chuette''' is a little yellow mechanical owl that wanders around [[Franco Village]] on the [[Island of the Francos]]. It has a small den next to [[Roger de la Fontaine's house]]. The only thing it says is "Biddy Biddy". The [[dog]] that lives on the island also dislikes the owl, because it hides in one of it's niches.
+
+This owl seems to be of a thieving nature, as a [[franco child]] in the local franco [[kindergarten]] tells [[Twinsen]] it took the key to his house. Following the owl, Twinsen arrives to his nest, where he finds the [[Burgermaster's Key]]. Twinsen uses this key to open he cupboard holding the [[Burgermaster's Notes]].
+
+If Twinsen sets off a [[Nitro-Meca-Penguin]] near the owl, little hearts float up from it.
+
+==Related threads==
+* {{thread|id=6851|title=Clock owl}}
+* {{thread|id=5857|title=Poor owl...}}
+* {{thread|id=2410|title=That bloody Francos mech}}
+* {{thread|id=1807|title=Annoying windup bird on Isle of Francos}}
+* {{thread|id=1335|title=Owl}}

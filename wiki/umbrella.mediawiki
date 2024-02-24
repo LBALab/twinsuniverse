@@ -1,0 +1,73 @@
+---
+title: Umbrella
+---
+
+{{twinsunica import}}{{Infobox Item
+ |image=Umbrella.png
+ |type=quest
+ |critical=no
+ |magical=no
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=5
+ |columnposition=3
+ |effect=none
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
+{{Quote
+ |This umbrella belongs to a pharmacy customer.
+ |Inventory, [[Umbrella]]
+ |quoteid=1870}}
+
+==Description==
+This is just a common '''umbrella''', coloured beige. It belongs to [[Leone]], the cleaner of the Healing Wizard, [[Ker'aooc]].
+
+==Role in Twinsen's adventure==
+Looking for a way to treat his [[Dino-Fly]], [[Twinsen]] went to the [[pharmacy]], where he witnessed the stealing of this umbrella. Leone, the rightful owner of the umbrella, was willing to help Twinsen find a cure for Dino-Fly, if the [[quetch]] would bring her the umbrella back. To retrieve the umbrella, Twinsen had to sneak to the rabbibunny thief, thus being able to scare him and get the umbrella from him. Once returning the umbrella to Leone, the sphero advised Twinsen to go meet the [[Ker'aooc|healing wizard]] at [[Desert Island]].
+
+==Trivia==
+Twinsen was able to sell the umbrella at the [[Twinsunian Souvenir Shop]], for the decent price of 20 [[zlito]]s.
+
+==Additional quotes==
+{{Quote
+ |Here's the deal. I will tell you how to treat your Dino-Fly, if you would bring back my umbrella. Use your smarts but remember that, in life, haste makes waste...
+ |character=Leone
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1306}}
+
+{{Quote
+ |The umbrella please.
+ |character=Twinsen
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1038}}
+
+{{Quote
+ |But that's my umb...Oh<nowiki>!!!</nowiki> excuse me...I thought it was mine. Boohooo, I'm so embarrassed...I keep making mistakes.
+ |character=Umbrella thief
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1316}}
+
+{{Quote
+ |You just found the customer's umbrella.
+ |Narrator, when [[Twinsen]] received the umbrella
+ |quoteid=1767}}
+
+==Related threads==
+===General===
+* {{thread|id=7656|title=An umbrella??}}
+* {{thread|id=5906|title=Another strange quote}}
+* {{thread|id=155|title=Twinsun - a happy jolly place? I THINK NOT}}
+
+===Fan Art===
+* {{post|id=112171|title=Lba3}}

@@ -1,0 +1,36 @@
+---
+title: Mr. Bazoo
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=Mr. Bazoo.png
+ |race=grobo
+ |gender=Male
+ |size=average
+ |age=Adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=Shopkeeper
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+
+'''Mr. Bazoo''' is a [[grobo]] owning the [[Mr. Bazoo's Shop|shop]] in [[Lupin-Burg]] on [[Citadel Island]].
+
+[[Twinsen]] can buy from Mr. Bazoo [[Nitro-Meca-Penguin]]s, [[Dart]]s, [[Life Candy|Life Points]] and [[Flask of Magic Powder|Magic Points]].
+
+There is a way that enables robbing the money box in the shop, as well as gaining unlimited Nitro-Meca-Penguins. If Twinsen launches a penguin in the shop, Mr. Bazoo gets scared and runs away. Twinsen can then steal some [[kashes]] from the cash register, and also take penguins and darts for free.
+
+==Related threads==
+===General===
+* {{thread|id=7972|title=Families}}
+
+<!-- remove these caterogy links when they're all automated by categorizers...
+[[Category:Citadel Island inhabitants]] -->

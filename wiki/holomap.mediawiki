@@ -1,0 +1,47 @@
+---
+title: Holomap
+---
+
+{{twinsunica import}}{{Infobox Item
+ |image=Holomap.gif
+ |type=tool
+ |critical=no
+ |magical=no
+ |unique=yes
+ |lba1=yes
+ |lba2=yes
+ |upgrades=no
+ |rowposition=3
+ |columnposition=1
+ |effect=unique
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
+
+The '''Holomap''' is a 3-Dimensional map that shows [[Twinsen]]'s exact position. While in [[Little Big Adventure 1]] it can only show the entire island, [[Little Big Adventure 2]] also has the option of zooming in to the island Twinsen is currently visiting. The holomap also shows arrows pointing to places Twinsen needs to go to in order to complete tasks in the game.
+
+While the holomap is not a necessarry item needed to complete either of the games, it can come in handy for players in order to know their whereabouts, or remember where they need to go. In LBA 1, Twinsen finds a holomap in a locker in the [[citadel]], together with [[Twinsen's ID card|his ID card]]. If he doesn't take it from there, he can also buy one in the [[Old Burg bazaar|bazaar]] at the [[Old Burg]] in [[Principal Island]]. In LBA 2 he finds the holomap in a locked room in [[Twinsen's house|his house]]. It is available for sale on several shops as well.
+
+==Related threads==
+===General===
+* {{thread|id=6437|title=LBA Holomap}}
+* {{thread|id=11464|title=Another random thing}}
+* {{thread|id=11495|title=holomap on lba 1}}
+* {{thread|id=1073|title=A little strange thingy...}}
+* {{thread|id=441|title=Super Holomap ?!}}
+
+===Hints\Spoilers===
+* {{thread|id=10415|title=LBA 2 Goofs}}
+* {{thread|id=7106|title=How do I use the HOLOMAP in LBA1?}}
+* {{thread|id=11559|title=Bug with the Holomap?}}
+* {{thread|id=6472|title=Holomap & screen scrolling question from an LBA2 player}}
+* {{thread|id=2592|title=Holomap}}
+
+===Fan Art===
+* {{post|id=112171|title=Lba3}}
+* {{post|id=106993|title=Returnig to Hamalayi...}}

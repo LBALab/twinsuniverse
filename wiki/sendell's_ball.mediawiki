@@ -1,0 +1,69 @@
+---
+title: Sendell's Ball
+---
+
+{{twinsunica import}}{{Infobox Item
+ |image=Sendbal.gif
+ |type=tool
+ |critical=yes
+ |magical=yes
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=2
+ |columnposition=2
+ |effect=unique
+ |effectamount=
+ |purpose=Contact [[Sendell]] in case of emergency
+ |combattype=none
+ |powerlevel=red
+ |rate=none
+ |range=none
+ |damage=none
+}}
+
+{{Quote
+ |Thanks to Sendell's Ball, you just reached your third level of magic: red ball. With its help, Sendell can come and talk to you in case of danger.
+ |Inventory, [[Sendell's Ball]]
+ |quoteid=1853}}
+
+==Description==
+'''The Ball of Sendell''' enables the person who possesses it to be contacted by [[Sendell]]. It also promotes the level of magic, presenting the possessor with the [[Magic Ball|red ball]].
+
+==Role in Twinsen's adventure==
+Before he met [[Jerome Baldino]] on [[Emerald Moon]], [[Twinsen]] first had to reach a new level of magic, to be able to defeat the [[esmers]]. In order to get it, Twinsen needed to have a [[Lightning Spell]], which he obtained once adding the [[Pearl of Incandescence]] into the [[Weather Wizard]]'s cauldron. Twinsen then went to the hidden room in the [[Citadel Island sewers]], at [[Green Corulla Street]]. There, he needed a [[Pyramid-Shaped Key]] in order to open the door where the ball was hidden. Once obtained, this magical sphere raised Twinsen's level of magic a step higher.
+
+==Unconfirmed theories==
+It is possible that Sendell's Ball also appeared in Twinsen's first adventure. The last room of the [[Well of Sendell]], where Twinsen battled [[FunFrock]] for the second time, had a ball in which Twinsen could watch some of the milestones of his odyssey. This sphere that was included in the room could have possibly also been Sendell's Ball from his second adventure.
+
+==Additional quotes==
+{{Quote
+ |You just found Sendell's Ball. Now you have reached a new level of magic: Red Ball. It will also enable Sendell to contact you in case of danger.
+ |Narrator
+ |building=Citadel Island sewers{{!}}the sewers
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1750}}
+
+{{Quote
+ |Twinsen...Oh Twinsen, it's me, Sendell!!! Twinsen, a cosmic cataclysm is on its way!!! The moon has started to move! Soon, it is going to hurl itself against Twinsun, destroying our planet!!! You must stop Dark Monk and prevent him from using that infernal machine he built inside the statue. With it, he could attract and steal the energy that we could use to stop the moon!!! You must get the four key fragments, which are used in the ceremony and are protected by the Esmer races. With these fragments the statue of Dark Monk will emerge from the crater!! Once you stop Dark Monk, you will have to come back to Twinsun and, in the Well of the Sendells, I will help you stop the moon!!
+ |character=Sendell
+ |talking to [[Twinsen]] through the ball
+ |island=Island CX
+ |planet=zeelich
+ |quoteid=1958}}
+
+==Related threads==
+===General===
+* {{thread|id=7742|title=Anyone have notice this???}}
+* {{thread|id=7075|title=Just wondered...}}
+
+===Hints\Spoilers===
+* {{thread|id=7443|title=What happens if...}}
+* {{thread|id=7093|title=Ball of Sendell!?!}}
+* {{thread|id=2084|title=Ball of sendall}}
+* {{thread|id=1260|title=Heeeeeeeeeeeeellllllllpppppppppp!}}
+
+===Fan Art===
+* {{post|id=38821|title=another......}}

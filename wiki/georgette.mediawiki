@@ -1,0 +1,29 @@
+---
+title: Georgette
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=Georgette.jpg
+ |race=creature|label=kangaroo
+ |gender=female
+ |size=large
+ |age=adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+
+'''Georgette''' is a tourist on [[Zeelich]], resembling a kangaroo. She is seen outside [[Dark Monk's Temple]] in the [[Island of the Celebration]] with [[Georgette's husband|her husband]] and two children, for witnessing [[Dark Monk's ceremony]].
+
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category:Celebration Island inhabitants]] -->

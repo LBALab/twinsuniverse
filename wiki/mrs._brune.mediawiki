@@ -1,0 +1,37 @@
+---
+title: Mrs. Brune
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=Mrs. Brune.png
+ |race=rabbibunny
+ |gender=female
+ |size=average
+ |age=adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+
+'''Mrs. Brune''' is a [[rabbibunny]] working at the [[Ticket office (Citadel Island)|ticket office]] in the [[Citadel Island harbour]]. She has two kids: a child rabbibunny studying in the school, and an older son known as the [[Umbrella Thief]].
+
+She is upset that it is raining and the kids at the school cannot go out to the [[Ridge of the Flowers Circle|flower circle]].
+
+Mrs. Brune only gives [[Twinsen]] a small hint, regarding [[Raph]] the [[lighthouse]] keeper.
+
+== Related Threads ==
+=== General ===
+* {{thread|id=7972|title=Families}}
+* {{thread|id=3121|title=Another quotes from LBA...}}
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category: Citadel Island inhabitants]] -->

@@ -1,0 +1,23 @@
+---
+title: Little Big Adventure 2
+---
+
+{{stub}}
+{{Infobox game
+|title = Little Big Adventure 2
+|image = Little_Big_Adventure_2.jpg
+|size = //optional
+|developer = Adeline Software International
+|publisher = Electronic Arts, Activision
+|engine = 
+|version = 
+|platform = MS-DOS, Windows
+|releasedate = June 1997
+|genre = Action-Adventure
+|mode = Single Player
+|rating = 
+|media = 
+|requirements = 
+}}
+'''Little Big Adventure 2''', or ''Twinsen's Odysey'', is the second in the series of Little Big Adventure games featuring [[Twinsen]].
+[[Category:Twinsuniverse_Wiki]]

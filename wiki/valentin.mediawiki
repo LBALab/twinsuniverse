@@ -1,0 +1,38 @@
+---
+title: Valentin
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=Valentin.jpg
+ |race=franco
+ |gender=male
+ |size=average
+ |age=adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=Miner
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+{{Quote
+ |This Roger de la Fontaine, he used to get pretty close to the gas.<br>Could well be where he hid it, our fragment.
+ |character=Valentin
+ |island=Island of the Francos
+ |planet=zeelich
+ |quoteid=1743}}
+
+==Description==
+'''Valentin''' is a [[Franco]] Miner, one of the many inhabitants on the [[Island of the Francos]]. Just like all the other Francos on the island, Valentin is searching for their lost [[Francos Fragment|Key Fragment]]. He uses a dowsing pendulum to find it.
+
+==Role in Twinsen's adventure==
+Valentin gave [[Twinsen]] a clue, that the fragment might be buried near the gas.
+
+<!-- remove these category link when they're all automated by categorisers...
+[[Category:Francos Island inhabitants]] -->

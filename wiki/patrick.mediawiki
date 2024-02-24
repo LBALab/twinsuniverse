@@ -1,0 +1,36 @@
+---
+title: Patrick
+---
+
+{{Infobox Enemy
+ |image=Patrick.jpg
+ |race=gloum
+ |gender=male
+ |size=large
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=
+ |requires=
+ |melee=yes
+ |ranged=
+ |magic=
+ |explosive=
+ |range=
+ |speed=
+ |damage=
+ |rate=
+ |reaction=
+ |recovery=
+}}
+
+'''Patrick''' is a [[Gloum]] (an Alligator-like creature) who works at [[Casino Gloum]] on [[Otringal]], who welcomes the winners of the key to the [[Super Jackpot chamber]] next to the Wheel of Fortune. He acts nice, but is actually the same as all other Gloums; an agressive fraud.
+
+When [[Twinsen]] enters the Super Jackpot chamber at the casino, Patrick instructs him about spinning the wheel. Once Twinsen gives the wheel a spin, another Gloum comes down from above, and with Patrick, they start hitting Twinsen and rob him of all his money. Killing Patrick and the other Gloum pays well- 50 [[Zlito]]s from each of them, plus the [[key]] to the door to the outside.
+
+==Related threads==
+===General===
+* {{thread|id=10976|title=How In The Hell!!!!!}}
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category:Otringal inhabitants]] -->

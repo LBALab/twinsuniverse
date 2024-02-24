@@ -1,0 +1,27 @@
+---
+title: Flying Grobo Clone
+---
+
+{{twinsunica import}}{{Infobox Enemy
+ |image=Flying_grobo_clone.JPG‎
+ |race=grobo
+ |gender=male
+ |size=average
+ |lba1=yes
+ |lba2=
+ |alignment=funfrock
+ |occupation=
+ |requires=Red
+ |melee=
+ |ranged=yes
+ |magic=
+ |explosive=
+ |range=Wide
+ |speed=
+ |damage=High
+ |rate=
+ |reaction=Spins around
+ |recovery=fast
+}}
+
+'''Flying [[Grobo]] [[Clone]]s''' are found in one part of [[LBA 1]]. They are very fast, as they fly around with a sort of jet-pack. They cause a lot of damage and are hard to escape. They are found in a room rather like a large empty swimming pool, underground at [[Fortress Island]].

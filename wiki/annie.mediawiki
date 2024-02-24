@@ -1,0 +1,44 @@
+---
+title: Annie
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=Annie.jpg
+ |race=wannie
+ |gender=female
+ |size=average
+ |age=adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=dark monk
+ |occupation=Maid to [[Mr. Lemoine]]
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+{{Quote
+ |Ferryman if you please, take me across the raging seas, for a few gems, I take your boat, I cannot swim, I cannot float!!
+ |character=Annie
+ |singing the [[Ferryman's Song]]
+ |building=Village of the Wannies
+ |island=Island of the Wannies
+ |planet=undergas
+ |quoteid=2320}}
+
+'''Annie''' is a [[wannie]] working as [[Mr. Lemoine]]'s housemaid. She lives with her only son in a small house in the [[Village of the Wannies]].
+
+[[Twinsen]] has to go to other islands in the [[under-gas]]. Not knowing how to contact the [[ferryman]], he goes to the village of the wannies, where the Priest tells him to ask his housemaid about it. Twinsen then goes to Annie, who teaches him the [[Ferryman's Song]], which is required to call the ferryman.
+
+Hitting Annie results in her hitting Twinsen back with her broom.
+
+==Related threads==
+===Hints\Spoilers===
+* {{thread|id=907|title=Monk's housemaid}}
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category:Wannies Island inhabitants]] -->

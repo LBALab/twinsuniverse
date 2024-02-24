@@ -1,0 +1,35 @@
+---
+title: Baggage Claim Owner
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=
+ |race=Grobo
+ |gender=Male
+ |size=average
+ |age=Adult
+ |magical=
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+
+The '''baggage claim owner''' is a nameless [[grobo]] who owns the [[Baggage Claim]] on [[Citadel Island]].
+
+Twinsen can enter the baggage claim in the beginning of the game, but has no business there first, and the owner does not let him into the basement.
+
+When Twinsen comes there to claim his [[proto-pack]], the owner lets him in, and instructs him how to take the proto-pack. When Twinsen or [[Carlo]] bring the proto-pack back to the reception, the owner opens the crate, and Twinsen can then take the proto-pack.
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category: Citadel Island inhabitants]]
+[[Category:Grobos]]
+[[Category:Male characters]]
+[[Category:Adult characters]] -->

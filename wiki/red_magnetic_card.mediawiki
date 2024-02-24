@@ -1,0 +1,43 @@
+---
+title: Red Magnetic Card
+---
+
+{{twinsunica import}}{{Infobox Item
+ |image=Red card1.png
+ |type=key
+ |critical=yes
+ |magical=no
+ |unique=yes
+ |lba1=yes
+ |lba2=
+ |upgrades=no
+ |rowposition=
+ |columnposition=
+ |effect=
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
+
+The '''Red Magnetic Card''' is a magnetic card created by a [[forger]] [[rabbibunny]] living on [[Proxima Island]], whose speciality is faking such cards. Due to the phony red card traffic, this rabbibunny was arrested, and his brother, who stays alone in their house, gives such a card to whoever says the word "Amos" to him.
+
+The card itself enables opening gates on numerous places around [[Twinsun]], as well as operating the lift at the [[ski summit]] at the [[Hamalayi Mountains]].
+
+In [[FunFrock's Headquarters]] on [[Principal Island]], [[Twinsen]] meets the card forger, now imprisoned in the fortress. The forger tells him about his brother, who will give him a red card if Twinsen says the word "Amos" to him.
+
+In the [[forger's house]] on [[Proxim-City]], Twinsen receives a red magnetic card from the [[forger's brother]].
+
+The first place where Twinsen uses the card is the [[Maritime Museum]], which he enters through a side door, since the place is heavily guarded. Twinsen later uses the card on various places around the planet for opening many kinds of gates, especially to enter [[FunFrock's headquarters]], or even for operating the lift at the ski summit.
+
+==Related threads==
+===Hints\Spoilers===
+* {{thread|id=11467|title=red card}}
+* {{thread|id=10005|title=Red Card!}}
+* {{thread|id=8523|title=LBA1: red card}}
+* {{thread|id=7169|title=Red card in LBA1}}
+* {{thread|id=4968|title=haha Red Card Problem this time...}}
+* {{thread|id=12118|title=Help in early LBA1}}

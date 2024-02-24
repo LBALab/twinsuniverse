@@ -1,0 +1,41 @@
+---
+title: Franco Pike Guard
+---
+
+{{twinsunica import}}{{Infobox Enemy
+ |image=Franco Pike Guard.jpg
+ |race=franco
+ |gender=male
+ |size=average
+ |lba1=
+ |lba2=yes
+ |alignment=emperor
+ |occupation=Guard
+ |requires=Green
+ |melee=yes
+ |ranged=
+ |magic=
+ |explosive=
+ |range=Short
+ |speed=Medium
+ |damage=Little
+ |rate=high
+ |reaction=Moves sideways
+ |recovery=Fast
+}}
+
+'''Franco Pike Guards''' are omnipresent guards of the [[Emperor]]'s [[:category:Imperial Legion|army]] on [[Zeelich]]. They wield a long pike. They are seen at any place needing minor guarding, like the [[astroport]], the [[gazogem refinery]], and on many streets throughout the entire planet. Together with [[Franco Technician]]s they build the crew of the [[Emerald Moon base]].
+
+Along with the [[Esmer invasion]] on [[Twinsun]] they can be seen in the streets of [[Lupin-Bourg]], [[Port-Ludo]] and the [[secret esmer base]].<sup>[move to [[Franco Skater Green|skaters]] article]</sup>
+
+They are guarding the little harbour at the [[Island of the Celebration]], and are stationed next to [[Otringal Prison]].
+
+When setting off an alarm in an airlock of the [[Emerald Moon base]], Twinsen is able to lure a guard into it. He quickly takes on his space suit and opens the outer doors. Thus the franco guard, not wearing a space suit, is sucked out of the room into space.
+
+==Related Threads==
+===General===
+* {{thread|id=11244|title=Sucked into space}}
+* {{thread|id=4634|title=Yellow Fraco Guards}}
+* {{thread|id=6222|title=For those interested to see what a cell-shaded LBA would look like}}
+* {{thread|id=4683|title=Franco Guards, hey they are diffrent!}}
+* {{thread|id=4682|title=Do you think that Fraco guards are Clones?}}

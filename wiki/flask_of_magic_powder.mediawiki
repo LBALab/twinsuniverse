@@ -1,0 +1,5 @@
+---
+title: Flask of magic powder
+---
+
+#REDIRECT [[Flask of Magic Powder]]

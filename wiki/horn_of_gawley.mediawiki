@@ -1,0 +1,42 @@
+---
+title: Horn of Gawley
+---
+
+{{twinsunica import}}{{Infobox Item
+ |image=Horn_of_Gawley1.png
+ |type=tool
+ |critical=yes
+ |magical=yes
+ |unique=yes
+ |lba1=yes
+ |lba2=
+ |upgrades=no
+ |rowposition=
+ |columnposition=
+ |effect=
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
+
+'''Gawley's Horn''' is an object left for [[Legend of Sendell|The Heir]] by his ancestors in a secret cave behind his house. It enables breaking open the seals of [[Sendell]], thus leading to new places. To use the horn, the person should blow it towards a Seal of Sendell.
+
+[[Twinsen]] finds the Horn of Gawley, along with [[Sendell's Medallion]], in a locked room in the cave behind [[Twinsen's house|his house]], to which he can enter after retrieving [[Key to the Heir's room|LeBorgne's key]] from the [[Maritime Museum]]. He can use the horn right after finding it, on a Sendell's Seal in the room, which reveals a [[clover leaf]].
+
+Even though behind most seals there are only bonuses like clover leaves, some seals are necessary for Twinsen to go through. For example, he has to use the horn on the Sendell's Seal in the [[White Leaf Desert]], so that he can meet [[Joe the Elf]] and get the [[Elves Club card]] from him. Another example is near one of the [[Runic Stones]] in [[Proxima Island]], where Twinsen has to blow the horn so that he can get to the stone.
+
+Twinsen also needs the horn to break into the [[Teleportation Center]] on [[Brundle Island]] and to find the third runic stone in [[FunFrock's Secret Fortress]]. A Sendell's Seal is also blocking the way down to [[Sendell's Well]].
+
+During [[Twinsen's Odyssey]] the Horn of Gawley is an exhibit in [[Miss Bloop's Private Museum]].
+
+==Related threads==
+===General===
+* {{thread|id=6289|title=Favourite Horn}}
+* {{thread|id=12249|title=Use Magic Flute instead of Horn of Gawley?}}
+
+===Hints\Spoilers===
+* {{thread|id=1372|title=Do you know....}}

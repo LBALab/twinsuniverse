@@ -1,0 +1,78 @@
+---
+title: Rabbibunny Village Chieftain
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=Chieftain.JPG
+ |race=rabbibunny
+ |gender=male
+ |size=average
+ |age=Adult
+ |magical=no
+ |lba1=aye
+ |lba2=
+ |alignment=neutral
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+{{Quote
+ |Noble stranger, we will open the Door of the Sacred Carrot for you if you sabotage the mutant factory, from where the monsters that infest this hemisphere emerge. This door leads to the shore, and from there you can access all of this part of the planet..
+ |character=Rabbibunny Village Chieftain
+ |island=Hamalayi Mountains
+ |planet=twinsun
+ |quoteid=294}}
+
+==Description==
+
+The '''[[Rabbibunny Village Chieftain]]''' is a minor character in [[LBA 1]] who lives in the [[Rabbibunny Village]] in the [[Hamalayi Mountains]].
+
+When [[Twinsen]] first enters the [[Rabbibunny Village]], he can see only one or two villagers, and [[mutants]] running around attacking them. When Twinsen goes to the center of the villlage, near a cooking pot, and the chieftain then emerges from one of the little mud houses.
+
+As the Rabbibunny Village is infested by mutants from the [[mutants factory]], Twinsen goes there on their request to destroy it. After doing so, the chieftain opens the Door of the [[Sacred Carrot]] for him, which enables him access to the [[Northern Hemisphere]] of [[Twinsun]].
+
+==Additional Quotes==
+{{Quote
+ |Hey, you, don't touch our kitchen!
+ |character=Rabbibunny Village Chieftain
+ |island=Hamalayi Mountains
+ |planet=twinsun
+ |quoteid=293}}
+{{Quote
+ |Hey, you! Don't touch our k... oh, it's you! Good work, you have disabled the mutant factory! No more new monsters are being produced. By the way, what is your name, brave stranger?
+ |character=Rabbibunny Village Chieftain
+ |island=Hamalayi Mountains
+ |planet=twinsun
+ |quoteid=296}}
+{{Quote
+ |New monsters are still coming to the village: the factory has not been completely disabled!
+ |character=Rabbibunny Village Chieftain
+ |island=Hamalayi Mountains
+ |planet=twinsun
+ |quoteid=303}}
+{{Quote
+ |And now, brave stranger Twinsen, follow me to the Door of the Sacred Carrot.
+ |character=Rabbibunny Village Chieftain
+ |island=Hamalayi Mountains
+ |planet=twinsun
+ |quoteid=304}}
+{{Quote
+ |Carrot, open up!
+ |character=Rabbibunny Village Chieftain
+ |island=Hamalayi Mountains
+ |planet=twinsun
+ |quoteid=312}}
+{{Quote
+ |Thank you for saving this village, brave stranger Twinsen.
+ |character=Rabbibunny Village Chieftain
+ |island=Hamalayi Mountains
+ |planet=twinsun
+ |quoteid=306}}
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category:Hamalayi Mountains inhabitants]] -->

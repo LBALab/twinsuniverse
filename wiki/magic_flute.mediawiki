@@ -1,0 +1,36 @@
+---
+title: Magic Flute
+---
+
+{{twinsunica import}}{{Infobox Item
+ |image=
+ |type=tool
+ |critical=yes
+ |magical=yes
+ |unique=yes
+ |lba1=yes
+ |lba2=
+ |upgrades=no
+ |rowposition=
+ |columnposition=
+ |effect=
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=
+ |rate=none
+ |range=none
+ |damage=none
+}}
+[[Image:07_clear_water_lake.gif|right|200px|thumb|[[Twinsen]] playing the Magic Flute]]
+[[Image:09_white_leaf_desert.gif|right|200px|thumb|The [[old rabbibunny]] with the Magic Flute]]
+
+'''The Magic Flute''' is a flute with magic powers. Its magic is expressed in two ways: melting frozen water, and growing flowers in the desert.
+
+[[Twinsen]] finds the flute under the [[Eclipse Stone]] in [[Proxima Island]]. When reaching the [[Clear Water Lake]] in the [[Hamalayi Mountains]], Twinsen discovers that the lake is frozen. By playing the flute, Twinsen manages to melt the frozen lake, and thus fill a [[flask of clear water]].
+
+Later on, Twinsen has to bring a [[space guitar]] to a band playing in the [[Twinsun Café]]. Finding no further use for the flute, Twinsen trades it with an old [[rabbibunny]] in the [[White Leaf Desert]] for his guitar. With the flute, the rabbibunny is able to fulfill an old dream of his- grow flowers in the desert.
+
+==Related threads==
+===General===
+* {{thread|id=12249|title=Use Magic Flute instead of Horn of Gawley?}}

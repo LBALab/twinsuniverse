@@ -1,0 +1,116 @@
+---
+title: Zoé
+---
+
+{{twinsunica import}}{{Stub}}
+{{Infobox Character
+ |image=Zoé.jpg
+ |race=Quetch
+ |gender=Female
+ |size=average
+ |age=Adult
+ |magical=no
+ |lba1=yes
+ |lba2=yes
+ |alignment=sendell
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=Twinsen
+ |fam2=
+ |planet=Twinsun
+ |island=Citadel Island
+ |building=Twinsen's House
+}}
+{{Quote
+ |[[Twinsen]], rush to the downtown pharmacy and find a cure for the [[Dino-Fly]]! He has just crashed in the garden and looks injured.
+ |character=Zoé
+ |upon greeting Twinsen, the first scene to start LBA2
+ |building=Twinsen's house
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1176}}
+
+{{Quote
+ |This statue pays tribute to Zoé and me. Without her, I could have never defeated the infamous [[FunFrock]].
+ |character=Twinsen
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1109}}
+
+[[Image:Zoe mike.gif|right|138px|thumb|Zoé talking to her dear [[Twinsen]] over the radio]]
+
+==Description==
+'''Zoé''' is our hero's spouse, and mother to his child. She lives with Twinsen and their [[Arthur|new-born baby]] in the [[Twinsen's house|house]] on [[Citadel Island]].
+
+During [[FunFrock's Reign]], Zoé shows no sign of pregnancy. During [[Twinsen's Odyssey]], Zoé's pregnancy is proven with a bulging baby-bump.
+
+Zoé spends the early part of Twinsen's Odyssey guarding the [[Dino-Fly]] while he is injured. She fixes and delivers the car to Twinsen on Desert Island and later warns Twinsen of the dangerous happenings that have occured on Citadel Island.
+
+==Related threads==
+===General===
+* {{thread|id=10898|title=Does Twinsen REALLY love Zoe`?}}
+* {{thread|id=10677|title=after 10 years I'm clueless}}
+* {{thread|id=10684|title=Zoe's voice}}
+* {{thread|id=10497|title=has anyone noticed this?}}
+* {{thread|id=3408|title=about Zoe}}
+* {{thread|id=9384|title=Zoe has no ass}}
+* {{thread|id=9156|title=Mentioning of Zoé's name}}
+* {{thread|id=8927|title=Zoe clone?}}
+* {{thread|id=8432|title=Are Twinsen and Zoe married?}}
+* {{thread|id=8262|title=It's a girl!}}
+* {{thread|id=7924|title=Jobs for Twinsen & Zoe}}
+* {{thread|id=7402|title=Quote}}
+* {{thread|id=6423|title=Zoe Character Still Doing Voice Acting?}}
+* {{thread|id=6433|title=Mistake in Zoé's diary}}
+* {{thread|id=6361|title=How will Zoè look like?}}
+* {{thread|id=6195|title=have you ever noticed?}}
+* {{thread|id=1364|title=Zoe's last words.}}
+* {{thread|id=5184|title=Twinsen & Zoe again}}
+* {{thread|id=3811|title=Zoe and me}}
+* {{thread|id=3647|title=try this in LBA 2}}
+* {{thread|id=2325|title=Zoé's Diary}}
+* {{thread|id=2109|title=Oh no! Not another...}}
+* {{thread|id=1965|title=thebaby (lba2)}}
+* {{thread|id=155|title=Twinsun - a happy jolly place? I THINK NOT}}
+* {{thread|id=1756|title=bugs}}
+* {{thread|id=1279|title=The A4 poster}}
+* {{thread|id=530|title=I just played LBA2 again....}}
+* {{thread|id=288|title=The Emancipation of Zoé}}
+
+===Hints\Spoilers===
+* {{thread|id=9694|title=Holy Shit I Killed Zoe!}}
+* {{thread|id=7701|title=get to another place with zoe}}
+* {{thread|id=11885|title=2 Zoès???}}
+
+===Fan Art===
+* {{thread|id=11581|title=Dark Zoé !!!!}}
+* {{thread|id=10941|title=Authur takes control of his destiny...A twinsen Fan comic...(rough)}}
+* {{post|id=76367|title=Edited Film Pictures}}
+* {{thread|id=10865|title=Pin up}}
+* {{thread|id=10857|title=A bit more "full" Zoe try.}}
+* {{thread|id=10813|title=Fan Lba 3 zoe design.}}
+* {{thread|id=10774|title=Smilies}}
+* {{thread|id=10763|title=Some picture.}}
+* {{post|id=261759|title=MAD J's Fan Art}}
+* {{thread|id=9829|title=Zoe}}
+* {{post|id=75498|title=Metal Gear Twinsen}}
+* {{post|id=230748|title=3D Twinsen pics (first attempt)}}
+* {{thread|id=8393|title=LBA was origianlly invented during the Rock Age!}}
+* {{post|id=34221|title=Zoe}}
+* {{thread|id=4495|title=Twinsen and Zoe graphite stlye}}
+* {{post|id=87488|title=Amazing! LBA3 planning! Wooo!}}
+* {{thread|id=3229|title=Lba 3 Cover CD}}
+
+==External links==
+===Fan art===
+* [http://www.deviantart.com/view/12986693/ LBA 2 Picture]
+* [http://www.deviantart.com/view/1047280/ Twinsen and Zoe]
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category:Quetches]]
+[[Category:Female characters]]
+[[Category:Average characters]]
+[[Category:Adult characters]]
+[[Category:Citadel Island inhabitants]]
+[[Category:Good]] -->

@@ -1,0 +1,38 @@
+---
+title: Lanktir
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=Sailor Lanktir1.png
+ |race=grobo
+ |gender=Male
+ |size=average
+ |age=Adult
+ |magical=no
+ |lba1=yes
+ |lba2=
+ |alignment=neutral
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+
+'''Lanktir''' is a [[grobo]] living in [[Proxim-City]] at [[Proxima Island]], next to the [[Proxim-City bazaar|bazaar]].
+
+Lanktir gives [[Twinsen]] a [[keypad]] which he received by accident. Twinsen can use this keypad later to open a secret room in the [[Teleportation Center]]. Addtionally, if Twinsen follows the directions in [[LeBorgne]]'s log, a [[sphero]] comes and gives him a [[coffee pot]], asking him to return it to Lanktir. In return to the coffee pot, Lanktir gives Twinsen a [[bonuses list]], detailing the locations of some [[clover boxes]] and clover leaves around [[Twinsun]].
+
+==Related threads==
+===General===
+* {{thread|id=536|title=yet another unknown quote....}}
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category:Grobos]]
+[[Category:Male characters]]
+[[Category:Average characters]]
+[[Category:Adult characters]]
+[[Category:Proxima Island inhabitants]] -->

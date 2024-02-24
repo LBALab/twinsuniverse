@@ -1,0 +1,29 @@
+---
+title: Hégésippe
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=
+ |race=quetch
+ |gender=male
+ |size=average
+ |age=dead
+ |magical=yes
+ |lba1=yes
+ |lba2=no
+ |alignment=sendell
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+'''Hégésippe''' was an ancestor of [[Twinsen]]. He was the last to hold the [[key to the Heir's room]], before he was killed by the pirate [[LeBorgne]]. This story is scribed on runes at a cave near [[Twinsen's House]].
+
+Twinsen finds the lost key in LeBorgne's treasure in the [[Maritime Museum]] on [[Proxima Island]], and uses it to enter the locked room in the cave.
+
+==Related threads==
+* {{thread|id=11428|title=Hegesippe}}

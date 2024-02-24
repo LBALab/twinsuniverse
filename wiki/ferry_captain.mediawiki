@@ -1,0 +1,38 @@
+---
+title: Ferry captain
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=Shipper.gif
+ |race=Rabbibunny
+ |gender=Male
+ |size=average
+ |age=Adult
+ |magical=
+ |lba1=yes
+ |lba2=
+ |alignment=neutral
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+
+The '''ferry captain''' is a [[rabbibunny]] working for the Inter-Island Ferry services as a [[ferry]] captain. Every time a ferry is ready to take off, it is his job to sail the ferry to its desired destination, as well as conducting the passenger's [[Ferry ticket|tickets]].
+
+While in the [[Southern Hemisphere]], [[Twinsen]] travels several times from [[Citadel Island]] to [[Principal Island]] in a ferry. When reaching the ferry, he is encountered by the captain, who makes sure he has a ticket, and then sails the ferry to the desired destination.
+
+Once buying his [[catamaran]], Twinsen finds no further use of the ferry services, resulting in not meeting the captain any more.
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category:Rabbibunnies]]
+[[Category:Male characters]]
+[[Category:Average characters]]
+[[Category:Adult characters]]
+[[Category:Citadel Island inhabitants]]
+[[Category:Principal Island inhabitants]]
+[[Category:Neutral]] -->

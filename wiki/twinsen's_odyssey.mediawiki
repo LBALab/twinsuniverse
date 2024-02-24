@@ -1,0 +1,12 @@
+---
+title: Twinsen's Odyssey
+---
+
+{{Infobox Story
+ |image=
+ |type=adventure
+ |lba1=
+ |lba2=yes
+}}
+...
+{{stub}}

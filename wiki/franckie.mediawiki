@@ -1,0 +1,30 @@
+---
+title: Franckie
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=Franckie.png
+ |race=Franco
+ |gender=Male
+ |size=average
+ |age=adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=Barkeeper
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+
+'''Franckie''' is the owner of the [[Franckie's|bar]] on the [[Island of the Francos]]. During the search for the [[Francos fragment]], Franckie doesn't participate in the treasure hunt, claiming he does not believe in all those stories. However, being the owner of the only pub on the island, he is able to use the search for his own benefit, and during that period his business blossoms.
+
+Franckie gives Twinsen a small hint, to search for clues about the lost fragment in [[Roger de la Fontaine]]'s [[Roger de la Fontaine's house|house]].
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category: Francos Island inhabitants]] -->

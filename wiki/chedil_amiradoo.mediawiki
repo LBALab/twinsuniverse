@@ -1,0 +1,42 @@
+---
+title: Chedil Amiradoo
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=Chedil Amiradoo.png
+ |race=Rabbibunny
+ |gender=Male
+ |size=average
+ |age=Adult
+ |magical=yes
+ |lba1=
+ |lba2=yes
+ |alignment=sendell
+ |occupation=Peddler
+ |requires=Wizard's Diploma
+ |amount=1
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+
+'''Chedil Amiradoo''' is a [[rabbibunny]] peddler on [[Desert Island]] who makes living from selling various magic accessories to fully licensed wizards. Throughout [[Twinsen's Odyssey]], he circles around the [[White Leaf Desert]] on his magical flying carpet. People who wish to buy goods from him are required to show him their [[Wizard's Diploma]], as a proof of them being fully licensed.
+
+Upon qualifying from the [[School of Magic]], [[Twinsen]] is advised by the [[Rector of the School of Magic|rector of the school]] to go meet Chedil Amiradoo, and buy a [[Wizard's Parade Tunic]] from him. Once bumping into him in the desert, Twinsen shows him his newly given wizard's diploma, as a proof of his wizardry. In return to 50 [[kashes]] Twinsen receives a parade tunic and a fake wizard beard.
+
+Twinsen can also buy [[Orange Powder]] from Chedil, and he also gives Twinsen a hint as to where the wizards are going with the [[Esmer]]s.
+
+When Twinsen comes back from [[Zeelich]] for the first time, Chedil is no longer seen around the island.
+
+== Related threads ==
+=== Hints\Spoilers ===
+* {{thread|id=3842|title=The funniest hints ever, & more! (Could anybody tell some more)}}
+
+=== Fan Art ===
+* {{post|id=74935|title=Metal Gear Twinsen}}
+* {{post|id=112171|title=Lba3}}
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category:Desert Island inhabitants]] -->

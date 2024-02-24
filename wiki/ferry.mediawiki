@@ -1,0 +1,26 @@
+---
+title: Ferry
+---
+
+{{twinsunica import}}{{Infobox Transport
+ |image=
+}}
+
+[[Image:02_ferry.gif|right|200px|thumb|The old ferry.]]
+
+'''Ferries''' in the [[Little Big Adventure]] games are used as services between [[Citadel Island]], [[Principal Island]] and later the [[Island of the White Leaf Desert]]. Passengers have to buy a [[ferry ticket]] to board.
+
+In [[Little Big Adventure 2]], the old, white ferry had been replaced with a new yellow one resembling a hovercraft. During the time of the [[Esmer invasion]], the ferry services are not allowed.
+
+[[Image:BOAT_2.preview.JPG|right|200px|thumb|The new ferry.]]
+[[Twinsen]] has to use the ferries several times during his adventures. He first needs it to get to [[Principal Island]]. As the [[rabbibunny]] at the ferry ticket store recognizes him as the wanted refugee, however, he has to buy fake ferry tickets from a [[grobo]]. He first has to help the grobo moving around crates in the nearby [[warehouse]]. He later buys his [[catamaran]], enabling to move around freely on [[Twinsun]]'s [[Southern Hemisphere]] without having to use the ferry service.
+
+In LBA 2, Twinsen uses the ferry to get to the [[Island of the White Leaf Desert]] while his [[Dino-Fly]] is injured. When he heals him with the [[Horn of the Blue Triton]], he is able to freely move around on Twinsun again.
+
+==Related threads==
+===General===
+* {{thread|id=10657|title=Secret ferry movie}}
+* {{thread|id=5682|title=lba ferry?}}
+
+===Fan Art===
+* {{thread|id=9675|title=The ferry}}

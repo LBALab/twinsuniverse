@@ -1,0 +1,40 @@
+---
+title: Tabata
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=Tabata.jpg
+ |race=Quetch
+ |gender=Female
+ |size=average
+ |age=Adult
+ |magical=yes
+ |lba1=
+ |lba2=yes
+ |alignment=sendell
+ |occupation=Wizard
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+
+==Description==
+Tabata is a [[quetch]], and the only female Wizard of [[Twinsun]]. She's extremely friendly and flirtatious, especially with [[Twinsen]]. She is one of the wizards kidnapped by the [[esmer]]s.
+
+==Role in Twinsen's adventure==
+After the wizards were freed, she was the one speaking to [[Twinsen]], and seemed to lead the group of wizards eventhough the [[Rector of the School of Magic]] was with them. She also sat in one of the shuttles which destroyed the lunar reactor.
+
+==Related threads==
+===General===
+* {{thread|id=9040|title=Toss Up FINAL MATCH!}}
+* {{thread|id=8826|title=First Semi of the Toss Up!}}
+
+===Fan Art===
+* {{thread|id=11051|title=My Tabata sketch!}}
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category:Desert Island inhabitants]] -->

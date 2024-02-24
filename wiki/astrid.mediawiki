@@ -1,0 +1,39 @@
+---
+title: Astrid
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=The Queen Astrid.jpg
+ |race=Mosquibee
+ |gender=Female
+ |size=Large
+ |age=Adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=Queen of the Mosquibees
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=undergas
+ |island=Island of the Mosquibees
+ |building=Mosquibee Village
+}}
+
+'''Astrid''' is the queen of the [[mosquibee]]s. Not agreeing with the [[emperor]] of [[Zeelich]], the mosquibees have their own leader. She has a quite high rank and status on Zeelich, just below the emperor. Astrid is much larger than the common mosquibee and is very respected among her fellow mosquibees.
+
+[[Twinsen]] meets Astrid in [[Mosquibee Village]] on the [[Island of the Mosquibees]], where he goes in search for a passage to [[Island CX]]. Astrid was the holder of the [[Key to the Passage to CX|key]] and was guarding the passage which leads there. However, not being trusted immediately, Twinsen first has to show her the [[Ring of the Dissidents]], and then has to get a new weapon in the [[Challenge room]]. After completing the mosquibees challenge, Twinsen is able to prove his trustworthiness.
+
+Soon after Twinsen completes the tet, the emperor's soldiers attack the village. Twinsen gets away, but Astrid is taken by the emperor's soldiers. After asking some survivors of the attack for assistance, Twinsen eventually manages to find her locked in the [[Building Company]] at the [[Island of the Wannies]]. Knowing she has to face the emperor sooner or later, Astrid gives Twinsen the key to the passage and some advice.
+
+At the end of the game, Astrid seem to amuse herself at the victory-party on [[Twinsun]].
+
+{{spoiler|{{list
+ |After completing the [[Test of Truth]], Twinsen will obtain a [[Blowtron]], an upgrade to his [[Blowgun]].
+ |The Queen will hand over the passage key to Twinsen after he's infiltrated the Building Company into it's Prison to free her.
+}}}}
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category:Mosquibees Island inhabitants]] -->

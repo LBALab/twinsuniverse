@@ -1,0 +1,48 @@
+---
+title: Teleportation Center Painter
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=
+ |race=rabbibunny
+ |gender=male
+ |size=average
+ |age=adult
+ |magical=no
+ |lba1=yes
+ |lba2=
+ |alignment=neutral
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+{{Quote
+ |It's weird this sign that appears, I paint over it regularly but it comes back every time.
+ |character=Teleportation Center Painter
+ |building=Teleportation Center
+ |island=Brundle Island
+ |planet=twinsun
+ |quoteid=2}}
+
+== Description ==
+The '''Teleportation Center painter''', whose name is unknown, was in charge of doing some left painting work for [[FunFrock]]'s [[Teleportation Center]]. His main task was to paint over the symbol of [[Sendell]] that kept reappearing on the wall.
+
+== Role in Twinsen's Adventure ==
+After [[Mies van der Rooh]] had hinted on the weak point of the Teleportation Center on the left side of the building, the Teleportation Center painter gave [[Twinsen]] the final hint to his way of entrance to the well protected building. Twinsen had to blow the [[Horn of Gawley]] in front of the Sendell symbol on the wall in order to get inside the building.
+
+== Additional Quotes ==
+{{Quote
+ |Clever, now there is no longer a sign on the wall.
+ |character=Teleportation Center Painter
+ |building=Teleportation Center
+ |island=Brundle Island
+ |planet=twinsun
+ |quoteid=15}}
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category: Brundle Island inhabitants]] -->

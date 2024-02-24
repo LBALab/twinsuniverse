@@ -1,0 +1,71 @@
+---
+title: Wannies Glove
+---
+
+{{twinsunica import}}{{Infobox Item
+ |image=Glove.gif
+ |type=weapon
+ |critical=yes
+ |magical=no
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=1
+ |columnposition=5
+ |effect=unique
+ |effectamount=
+ |purpose=
+ |combattype=special
+ |powerlevel=fire
+ |rate=high
+ |range=none
+ |damage=none
+}}
+
+{{Quote
+ |With this Wannie's glove, you can now touch the fire. This will allow you to throw back the fireballs that the monsters from the gas hurl at you.
+ |Inventory, [[Wannies Glove]]
+ |quoteid=1861}}
+
+==Description==
+The '''wannie's glove''' isn't actually meant to be a weapon. It gives the person who wears it protection against fire or lava. It is commonly used by the [[wannie]]s inside the [[mines]] on the [[Island of the Wannies]]. It allows them to pick up [[gem]]s from the lava.
+
+==Role in Twinsen's adventure==
+[[Twinsen]] could only use the Wannies Glove against enemies throwing fire balls. Therefore, this glove wasn't effective against much enemies. With it, Twinsen could throw the fire balls back at his enemies.
+
+This glove was found by the young [[quetch]] on the Wannies Island.
+
+The glove itself had only one role in Twinsen's adventure. To receive the [[Mosquibees Fragment]], the quetch had to defeat a monster from the gas, who was the keeper of the [[key]] to the chest where the fragment was stored. This walrus-like monster from the gas could only be defeated with the wannie's glove. After a few trials at the arena, Twinsen was able to develop the right tactics against the monster, defeat it, and retrieve the key.
+
+== Trivia ==
+The Wannie's Glove was found in two different locations: inside the home of one wannie family, and somewhere within the mines.
+
+==Additional quotes==
+{{Quote
+ |You just found a Wannie's Glove. Use it to repel the fireballs your enemies throw at you.
+ |Narrator, when [[Twinsen]] found the glove
+ |island=Island of the Wannies
+ |planet=undergas
+ |quoteid=1758}}
+
+{{Quote
+ |Hmmf! Lost my glove somewhere in the mine. Now I can't reach into the lava to grab up the gems.
+ |character=A miner
+ |island=Island of the Wannies
+ |planet=undergas
+ |quoteid=2328}}
+
+{{Quote
+ |I'm in a bind, I've lost my glove somewhere in the mine. With it, I can catch the pieces of lava and the balls of fire, I can even pitch them back. Everybody has one, to extract gems.
+ |character=A miner
+ |island=Island of the Wannies
+ |planet=undergas
+ |quoteid=2323}}
+
+==Related threads==
+===General===
+* {{thread|id=6481|title=Wannie Glove...}}
+
+===Hints\Spoilers===
+* {{thread|id=9292|title=Wannie's glove}}

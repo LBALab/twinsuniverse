@@ -1,0 +1,56 @@
+---
+title: Twinsuniverse Wiki
+---
+
+<!-- This is a responsive front page design that adapts to the available width 
+     of the browser by showing content in 1, 2, or 3 columns.
+
+     This is done by dividing the main content of the page into four numbered sections.
+     When the window is narrow, as on low-res displays, the content is displayed in a
+     single column in order: 1, 2, 3, 4
+
+     When the window is medium, as on medium-res displays, there are two columns.
+     Section 1 and 2 are on top with 1 on the left and 2 on the right. 
+     Sections 3 and 4 are on the bottom with 4 at the left and 3 at the right.
+
+     When the window is wide, as on high-res displays, there are three columns.
+     Sections 1 and 4 take up the left column, with section 1 on top.
+     Section 2 takes up the middle column.
+     Section 3 takes up the right column.
+
+     Or, visually...
+       Narrow        Medium         Wide
+        |1|          |1| |2|        |1| | | | |
+        |2|          |4| |3|        | | |2| |3|
+        |3|                         |4| | | | |
+        |4|
+-->
+<div id="mf-home" class="fpmain">
+
+<div class="fpsection1"><!-- BEGIN SECTION 1 -->
+{{:{{SITENAME}}/Section 1}}
+</div><!--END SECTION 1-->
+
+<div class="fpmidsections"><!--BEGIN LAYOUT WRAPPER FOR SECTIONS 2 and 3-->
+
+<div class="fpsection2"><!-- BEGIN SECTION 2 -->
+{{:{{SITENAME}}/Section 2}}
+</div><!--END SECTION 2-->
+
+<div class="fpsection3"><!-- BEGIN SECTION 3 -->
+{{:{{SITENAME}}/Section 3}}
+</div><!--END SECTION 3-->
+
+</div><!--END LAYOUT WRAPPER FOR SECTIONS 2 and 3 -->
+
+<div class="fpsection4"><!-- BEGIN SECTION 4 -->
+{{:{{SITENAME}}/Section 4}}
+</div><!--END SECTION 4-->
+
+</div>
+
+<div class="nomobile" style="text-align: right;"><small>Main page sections: [[/Section 1|1]] &#183; [[/Section 2|2]] &#183; [[/Section 3|3]] &#183; [[/Section 4|4]]. Changes for the main page can be proposed [[Talk:{{SITENAME}}|here]]. </small></div>
+
+<metadesc>The comprehensive wiki resource for the Little Big Adventure games</metadesc>
+__NOTITLE__
+[[Category:{{SITENAME}}| ]]

@@ -1,0 +1,30 @@
+---
+title: Franco Army Soldier
+---
+
+{{Infobox Enemy
+ |image=Franco Army Soldier.jpg
+ |race=franco
+ |gender=male
+ |size=average
+ |lba1=
+ |lba2=yes
+ |alignment=emperor
+ |occupation=Franco Army
+ |requires=red
+ |melee=yes
+ |ranged=yes
+ |magic=
+ |explosive=
+ |range=long
+ |speed=
+ |damage=
+ |rate=high
+ |reaction=
+ |recovery=
+}}
+
+The '''Franco Army Soldier''' is a flexible soldier of the [[:category:Imperial Legion|Imperial Legion]] who takes up various roles, like paratrooper, gunner, prison guard, etc. They carry an Uzi gun that fires rapid, long distance bullets.
+
+The military troops of the [[Emperor]] attacking [[Mosquibee Village]] was mainly consisting of army soldiers and paratroopers.
+{{stub}}

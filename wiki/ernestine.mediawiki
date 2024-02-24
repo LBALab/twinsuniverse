@@ -1,0 +1,26 @@
+---
+title: Ernestine
+---
+
+{{Infobox Character
+ |image=Ernestine.jpg
+ |race=creature|label=giraffe
+ |gender=female
+ |size=large
+ |age=adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=Tourist
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+
+'''Ernestine''' is a Giraffe-like tourist who was visiting [[Zeelich]]. She was waiting at the [[Astroport]] to catch her flight to another planet called Zirla, to go on a safari excursion.
+{{stub}}

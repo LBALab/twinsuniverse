@@ -1,0 +1,65 @@
+---
+title: Sendell
+---
+
+{{twinsunica import}}
+{{Infobox Character
+ |image=Sendell.jpg
+ |race=god
+ |gender=female
+ |size=large
+ |age=adult
+ |magical=yes
+ |lba1=yes
+ |lba2=yes
+ |alignment=sendell
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=Twinsun
+ |island=Well of Sendell
+ |building=
+}}
+
+[[Image:Sendell.gif|right|145px|thumb|Sendell]]
+
+==Description==
+'''Sendell''' is thought to be the goddess of [[Twinsun]], but actually there is a race of Sendells that lives in the core of Twinsun. She and other Sendells are watching over a [[Stellar Entity]] that is in gestation in the center of Twinsun.
+
+They have been contacting [[Twinsen]]'s ancestors to preserve the [[Legend of Sendell|Legend]] that in the future will save the planet from [[FunFrock]]'s dictatorship. 
+
+In [[Little Big Adventure|LBA]], she calls [[Twinsen]] for help in his dreams, warning him of [[Dr. FunFrock|FunFrock]]'s dictatorship. She too gives [[Twinsen]] magical powers (see [[Legend of Sendell]]). She finally tells Twinsen that Stellar Entity is watched by her and other Sendells.
+
+In [[Little Big Adventure 2|LBA2]], she helps Twinsen defeat FunFrock and save Twinsun again.
+
+{{stub}}
+
+{{spoiler|After Twinsen returns to Twinsun, Sendell comes to his rescue to help him push the Emerald Moon back into its orbit around Twinsun.}}
+
+==Trivia==
+*Sendell is voiced by Julie Bataille in French, along with Trish Kessler-Caffrey (LBA) and Gay Marshall (LBA2) in English.
+
+==Related threads==
+===General===
+* {{thread|id=9558|title=Sendellism}}
+* {{thread|id=7653|title=Is Sendell a Girl?}}
+* {{thread|id=6949|title=Why?}}
+* {{thread|id=5932|title=LBA2 Mysteries}}
+* {{thread|id=4010|title=Sendel vs. FunFrock}}
+* {{thread|id=4007|title=Your preferred "version" of Sendell}}
+* {{thread|id=3867|title=File that Didier sent me....}}
+* {{thread|id=3536|title=Sendel, my pc god!}}
+* {{thread|id=3466|title=Sendell}}
+* {{thread|id=2442|title=Yet another odd quote}}
+
+===Fan Art===
+* {{thread|id=11564|title=Evil Sendell (lol)}}
+* {{thread|id=9830|title=Sendell Wallpaper}}
+* {{post|id=149588|title=Edited Film Pictures}}
+* {{post|id=93688|title=Lba3}}
+* {{thread|id=3911|title=Sendell ^_^}}
+* {{thread|id=3786|title=Sendell's new image}}
+* {{thread|id=3785|title=Sendell takes a turning}}
+* {{post|id=297883|title=mystery picture}}

@@ -1,0 +1,31 @@
+---
+title: Red Sphero Clone
+---
+
+{{twinsunica import}}{{Infobox Enemy
+ |image=Redsphero.gif
+ |race=sphero
+ |gender=
+ |size=small
+ |lba1=aye, all clones are
+ |lba2=
+ |alignment=funfrock
+ |occupation=
+ |requires=red
+ |melee=
+ |ranged=
+ |magic=
+ |explosive=
+ |range=Wide
+ |speed=Slow
+ |damage=High
+ |rate=high
+ |reaction=Spins round on spot
+ |recovery=Medium
+}}
+
+'''Red Sphero Clones''' are [[sphero]] [[clone]]s created by [[Dr. FunFrock]]. They are used as guards for his [[FunFrock's Secret Fortress|secret fortress]] and are also used on the secret [[construction site]] between [[Fortress Island|Fortress]] and [[Polar Island]].
+
+[[Twinsen]] has to defeat a Red Sphero Clone guarding the entrance to the secret fortress in order to access it. He needs the clone's [[key]] to open the locked door.
+
+On the Construction site, Twinsen runs into them on several occasions, but he never has to defeat one of them there. One Red Sphero Clone on the construction site is, however, holding a [[Clover leaf]].

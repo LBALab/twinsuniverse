@@ -1,0 +1,29 @@
+---
+title: Spell Guardian
+---
+
+{{Infobox Enemy
+ |image=Spell Guardian.png
+ |race=creature
+ |gender=none
+ |size=large
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=Guards the area
+ |requires=green
+ |melee=yes
+ |ranged=yes
+ |magic=
+ |explosive=
+ |range=long
+ |speed=
+ |damage=
+ |rate=
+ |reaction=
+ |recovery=
+}}
+
+The '''spell guardian''' is a very big monster guarding a [[Protection Spell|spell]] that might be usefull to [[Twinsen]].
+It's rather fast, it can use its spiked hands to hit and it can spit. It's ranged attack is similar to [[The Tralü]]'s attack.
+{{stub}}

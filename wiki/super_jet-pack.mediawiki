@@ -1,0 +1,73 @@
+---
+title: Super Jet-pack
+---
+
+{{twinsunica import}}{{Infobox Item
+ |image=Jetpack.gif
+ |type=equipment
+ |critical=yes
+ |magical=no
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=final
+ |rowposition=3
+ |columnposition=2
+ |effect=grants access
+ |effectamount=some
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
+{{Quote
+ |It was put together by Jerome Baldino. It now allows you to access new locations and to follow some grades that were impracticable with the proto-pack.
+ |Inventory, [[Super Jet-pack]]
+ |quoteid=1898}}
+
+==Description==
+With the [[gazogem]] as fuel, the [[Proto-Pack]] transforms into a '''Super Jet-pack'''. This enables flying higher and faster than with the proto-pack, as well as boarding from less shallow locations.
+
+==Role in Twinsen's adventure==
+Since the elevators to the [[Upper City]] were temporarily out of order, [[Twinsen]] was not able to meet [[Johnny Rocket]] at the [[Imperial Hotel]]. The only way there was via a small river that was too high for the simple proto-pack. Fortunately enough for Twinsen, [[Jerome Baldino]] said he could improve his proto-pack with the little help of a can of gazogem. The super-jet-pack itself had no vital role thereafter, as in most places the proto-pack would have sufficed. However, Twinsen did find it handy at certain points in his adventure, for example at the [[Island of Celebration]], when making his way to the [[rock crystal]], or in the [[Island below the Celebration]], going to the [[secret mosquibee hideout]].
+
+==Additional quotes==
+{{Quote
+ |Jerome just gave you the super jet-pack. It will allow you to reach places you couldn't get to using the proto-pack.
+ |Narrator, when [[Twinsen]] received the upgraded jet-pack
+ |quoteid=1791}}
+
+{{Quote
+ |Of course, but I will need this gazogem sooner or later. Besides it allows me to transform your proto-pack and increase its performance.
+ |character=Jerome Baldino
+ |island=Otringal
+ |planet=zeelich
+ |quoteid=2118}}
+
+{{Quote
+ |You must go get me some gazogem so that I can finish to repair our vessel and make your protopack more powerful!!
+ |character=Jerome Baldino
+ |island=Otringal
+ |planet=zeelich
+ |quoteid=2119}}
+
+{{Quote
+ |Hey there, don't forget my gazogem. I really need it to repair the vessel. And I think you'll appreciate what it does to your protopack.
+ |character=Jerome Baldino
+ |island=Otringal
+ |planet=zeelich
+ |quoteid=2121}}
+
+{{Quote
+ |Thank you, Twinsen. Now I can make a ship that can race the comets! Anyway, here's something to turn your protopack into a super jetpack. And from now on, you can fly higher.
+ |character=Jerome Baldino
+ |island=Otringal
+ |planet=zeelich
+ |quoteid=2122}}
+
+==Related threads==
+===General===
+* {{thread|id=540|title=I just played LBA2 again.... (C)}}
+* {{thread|id=82|title=Almost completing LBA2 without a jetpack}}

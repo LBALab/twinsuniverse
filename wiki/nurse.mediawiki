@@ -1,0 +1,45 @@
+---
+title: Nurse
+---
+
+{{twinsunica import}}{{Infobox Enemy
+ |image=Nurse2.gif
+ |race=quetch
+ |gender=male
+ |size=average
+ |lba1=yes
+ |lba2=
+ |alignment=funfrock
+ |occupation=
+ |requires=none
+ |melee=yes
+ |ranged=
+ |magic=
+ |explosive=
+ |range=none
+ |speed=Medium
+ |damage=Little
+ |rate=low
+ |reaction=Steps backwards
+ |recovery=Fast
+}}
+
+<center>''This article is about [[Quetch]] nurses. For [[Grobo]] nurses equipped with tablet launchers, see [[Supergro]].''</center>
+
+
+'''Nurses''' are [[quetch]]es working in [[FunFrock]]'s factories and prisons. Their basic job is to keep an eye on prisoners. However, they also do researches in the [[mutant factory]] and the [[Teleportation Center]].
+
+Nurses are always seen in the basic white nurse outfit. It is forbidden to travel in the nurse outfit outside the prisons and factories, although a [[Teleportation Center guard|nurse]] is seen outside in a white clothing guarding the entrance of the [[Teleportation Center]].
+
+Nurses sometimes carry weapons like a truncheon or a gun.
+
+[[Twinsen]] has to fight nurses at several places, as in the [[Citadel]], the [[mutant factory]], the [[Teleportation Center]] or [[FunFrock's secret fortress]]. Whenever a nurse encounters Twinsen, it runs to the nearest alarm button calling a [[Supergro]].
+
+In order to escape from the [[Citadel]], Twinsen has to take on a nurse's clothing as a disguise.
+
+==Related Threads==
+===General===
+* {{thread|id=10423|title=Shocking Images! (E! True Hollywood story)}}
+===Fan Art===
+* {{thread|id=10242|title=Random collection}}
+* {{post|id=67043|title=Lba3}}

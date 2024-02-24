@@ -1,0 +1,5 @@
+---
+title: Flask with Gallic Acid
+---
+
+#REDIRECT [[Gallic Acid]]

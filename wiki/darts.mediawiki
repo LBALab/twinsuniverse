@@ -1,0 +1,42 @@
+---
+title: Darts
+---
+
+{{twinsunica import}}{{Infobox Item
+ |image=Darts.gif
+ |type=weapon
+ |critical=no
+ |magical=no
+ |unique=no
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=1
+ |columnposition=2
+ |effect=none
+ |effectamount=
+ |purpose=
+ |combattype=enemies
+ |powerlevel=yellow
+ |rate=Medium
+ |range=Medium
+ |damage=little
+}}
+
+'''Darts''' are one of the weapons in [[Little Big Adventure 2]]. They do little damage, and only on very weak enemies, such as [[snake]]s and [[crab]]s. Three darts are usually available for the price of 4 [[kashes]], but they can also be found for free at some places. After throwing a dart, it can be retrieved by simply walking over it.
+
+[[Image:LBA2_-_Twinsen_facing_darts_in_his_basement.jpg|right|thumb|250px|Twinsen facing 3 darts in his house]]
+
+[[Twinsen]] uses the darts very little in the game. He first finds three darts in [[Twinsen's house|his house]], where he can throw on either the nearby darts baord or [[FunFrock]]'s bust for [[life candies]] and [[magic flasks]].
+
+The darts come in more use at [[Temple Park]], where Twinsen uses them at the duck shooting game to win balloons that bring him into the Temple of Bù. In this game, Twinsen is given three darts, and has to hit one duck in three shots. If he manages to do so before the final shot, he keeps the darts left for the rest of his adventure.
+
+==Related threads==
+===General===
+* {{thread|id=8282|title=Darts}}
+
+===Hints\Spoilers===
+* {{thread|id=857|title=Twinsen Odyssey-Dart Help}}
+
+===Fan Art===
+* {{thread|id=4645|title=pictures!}}

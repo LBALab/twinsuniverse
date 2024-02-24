@@ -1,0 +1,43 @@
+---
+title: Money-Monkey
+---
+
+{{twinsunica import}}{{Infobox Enemy
+ |image=Money-Monkey.jpg
+ |race=creature|label=Monkey
+ |gender=male
+ |size=large
+ |lba1=
+ |lba2=yes
+ |alignment=mercenary
+ |occupation=Assassin
+ |requires=red
+ |melee=yes
+ |ranged=yes
+ |magic=
+ |explosive=yes
+ |range=
+ |speed=
+ |damage=
+ |rate=
+ |reaction=
+ |recovery=
+}}
+
+'''Money-Monkey''' is an assassin of an unknown race with four arms, who receives orders from [[FunFrock]] to track [[Twinsen]] down and kill him, as revealed by himself{{gamequote|1666}}. He sents his spies after Twinsen. As Twinsen may notice they are eavesdropping at a conversation between him and [[Johnny Rocket]] at the [[Imperial Hotel]], from which he figured out Twinsen would be coming to the [[Elevator Platform]] to the [[Undergas]], where he waited for him{{gamequote|1667}}.
+
+His two attacks both will hit Twinsen very hard (8-10 lifepoints). He throws explosive wooden crates at him from a distance as well, causing extra damage.
+
+When Twinsen has arrived to the elevator platform, he met the Money-Monkey for the first time. Entering the elevator requires a [[key]], so Twinsen had to kill the assassin first in order to retrieve the key and get in.
+
+==Related threads==
+===General===
+* {{thread|id=10446|title=i cant get to the monkey!}}
+* {{thread|id=11905|title=whoever has done this is a genius}}
+
+===Hints\Spoilers===
+* {{thread|id=9495|title=Problem!}}
+
+==External links==
+===Fan art===
+[http://www.deviantart.com/view/14459059/ Money Monkey]

@@ -1,0 +1,32 @@
+---
+title: Meca-Penguin
+---
+
+{{twinsunica import}}{{Infobox Item
+ |image=Meca.gif
+ |type=weapon
+ |critical=no
+ |magical=no
+ |unique=no
+ |lba1=yes
+ |lba2=
+ |upgrades=
+ |rowposition=
+ |columnposition=
+ |effect=
+ |effectamount=
+ |purpose=
+ |combattype=area
+ |powerlevel=
+ |rate=
+ |range=
+ |damage=
+}}
+
+'''Meca-Penguin''' is one of the weapons available in [[Little Big Adventure 1]]. Once winded up, these small penguins move slowly across the floor. Red [[clone]]s are attracted to these penguins, and when they see one, they leave their guard and go beating up the penguin. It can therefore be used as a distraction method against them.
+
+Meca-Penguins are available in some shops around [[Twinsun]]. Additionally, [[rebels]] at [[Rebellion Island]] use them as practice targets. There is also one room in the [[Teleportation Center]] full of Meca-Penguins, which is accessible with a [[keypad]]. However, this room is not really effective, as it is only possible to possess one Meca-Penguin at a time.
+
+Meca-Penguins never play a vital part in completing the game. However, they can come in handy when needing to get past red clones, for example in the entrance to [[FunFrock's headquarters]] in [[Principal Island]].
+
+In [[Little Big Adventure 2]], the Meca-Penguins are replaced with [[Nitro-Meca-Penguin]]s, which explode instead of being beaten up.

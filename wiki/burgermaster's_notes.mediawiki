@@ -1,0 +1,40 @@
+---
+title: Burgermaster's Notes
+---
+
+{{twinsunica import}}{{Infobox Item
+ |image=Note.gif
+ |type=quest
+ |critical=no
+ |magical=no
+ |unique=yes
+ |lba1=
+ |lba2=yes
+ |upgrades=no
+ |rowposition=5
+ |columnposition=6
+ |effect=none
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
+
+'''The Burgermaster's Notes''' are notes providing instructions as to where the [[Francos Fragment]] is found. They were written by [[Roger de la Fontaine]], the keeper of the fragment, who was eaten by a [[gas monster]].
+
+The notes were written in a cryptic way:
+{{Quote
+ |With my eyes focused on the center of the bazaar, my back is glued to a natural parasol where I'd love to take a nap, but I must keep a sportive mood. It seems there are enough light posts and arches in the village to count the correct number of steps. Once there, the fences to my left point in the wrong direction. It's on the other side, down in the basin near the gas that my buried treasure lies.
+ |Inventory, Burgermaster's Notes
+ |quoteid=1944}}
+
+The natural parasol mentioned is the big green palm tree in the island. The person following the notes should stand with his back facing the tree, looking at the middle of the [[Francos Island bazaar|bazaar]]. The person should be in the sporty mode, to get the correct number of steps, measured by the number of lamp-posts and arches in the island. The treasure hunter should not follow the fences to the left, but instead go right near the gas and dig there to retrieve the buried key fragment.
+
+In a search for the Francosk key fragment, Twinsen arrived to the [[Island of the Francos]], where he met [[Roger de la Fontaine's brother]], who told him that Roger left instructions needed for finding the fragment. After finding the key to the cupboard where the instructions are locked, Twinsen took the notes and used the clues in them to find the fragment.
+
+==Related threads==
+===General===
+* {{thread|id=2350|title=Burgmaster's note}}

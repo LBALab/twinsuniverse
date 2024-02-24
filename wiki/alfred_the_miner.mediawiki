@@ -1,0 +1,34 @@
+---
+title: Alfred the Miner
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=Alfred the Miner.jpg
+ |race=wannie
+ |gender=male
+ |size=average
+ |age=adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=Miner
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+
+'''Alfred''' is a [[wannie]] miner in the [[mines]] of the [[Island of the Wannies]].
+
+Trying to find the Mosquibee Village, [[Twinsen]] encountered Alfred in his home with [[Arno]] and the wannie lady, who was just serving Fire-Fly tart dinner.
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category:Wannies]]
+[[Category:Large characters]]
+[[Category:Male characters]]
+[[Category:Adult characters]]
+[[Category:Wannies Island inhabitants]] -->

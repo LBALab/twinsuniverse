@@ -1,0 +1,36 @@
+---
+title: Kash
+---
+
+{{twinsunica import}}{{Infobox Item
+ |image=Kashes.gif
+ |type=bonus
+ |critical=yes
+ |magical=no
+ |unique=no
+ |lba1=yes
+ |lba2=yes
+ |upgrades=no
+ |rowposition=3
+ |columnposition=6
+ |effect=stores money
+ |effectamount=all
+ |purpose=
+ |combattype=none
+ |powerlevel=none
+ |rate=none
+ |range=none
+ |damage=none
+}}
+
+'''Kashes''' are the currency unit on [[Twinsun]]. They are used by the inhabitants of the planet to buy items they want. Kashes can be easily found almost anywhere around the planet, by searching rubbish cans or plants.
+
+[[Twinsen]] uses Kashes in order to buy anything he is interested in. Once arriving on [[Zeelich]], he finds no further use for them, and sells them to the [[Twinsunian Souvenir Shop]], in exchange for [[Zlito]]s.
+
+==Related threads==
+===General===
+* {{thread|id=8493|title=stupid thread}}
+* {{thread|id=6333|title=Senorita}}
+
+===Hints\Spoilers===
+* {{thread|id=7721|title=Found a way to modify the GOLD cheat to give more money...}}

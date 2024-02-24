@@ -1,0 +1,57 @@
+---
+title: Book of Bù
+---
+
+{{twinsunica import}}{{Infobox Item
+ |image=Book of bu1.png
+ |type=reward
+ |critical=yes
+ |magical=yes
+ |unique=yes
+ |lba1=yes
+ |lba2=
+ |upgrades=no
+ |rowposition=
+ |columnposition=
+ |effect=
+ |effectamount=
+ |purpose=
+ |combattype=none
+ |powerlevel=
+ |rate=none
+ |range=none
+ |damage=none
+}}
+[[Image:Screenshot-lba1-movies-04_temple_of_bu-01.jpg|right|200px|thumb|Twinsen holding the Book of Bù]]
+
+The '''Book of Bù''' is one of the four magic items that were needed to be collected by [[Twinsen]] to fullfill the [[prophecy of Sendell]].
+
+After reading a rare book at The [[library]]'s censored publications area, Twinsen goes [[Island of the White Leaf Desert]], where he meets an old [[rabbibunny]]. The rabbibunny tells him that he knows about the so-called legend that [[FunFrock]] fears, and promises to tell him about it if he brings him the Book of Bù from the [[Temple of Bù]].
+
+After getting through all the obstacles of the Temple, Twinsen finally makes it to the last room. There, surrounded by old dead-yet-alive rabbibunnies skeletons, he finds the book spinning in air. Instead of trying to fight the skeletons, Twinsen can run straight to the book, which causes the skeletons to stop fighting him, and bow to him instead.
+
+The book tells the exact [[prophecy of Sendell]], and describes clearly the events that post factum did happen at Twinsen's adventure:
+
+{{Quote
+ |The day will come when someone from the present or future species will rise up and say, 'This world is mine from now on, and the key to all powers belongs to me!' This day will surely come because avarice and violence harbor in the hearts of all species of the universe. If the peril on this day is too great, the Chosen One will come forth. He will rise up against the tyrant and overthrow him. He will free and reunite the people, because throughout the years, the Chosen One's ancestors will have prepared him for his victory. They will have left information and weapons in his dwelling. The Chosen One, also known as the Heir, will, however, have to gather together four magical symbols if he hopes to be victorious: the Tunic, the Book of Bù, Sendell's Medallion and a Flask of Clear Water. On the day of peril Sendell will visit the Heir in his sleep and announce the coming of the final combat. The Heir will then have to go to the Well of Sendell where the goddess will endow her powers on him!
+ |Inventory, Book of Bù
+ |quoteid=434}}
+
+From this book, Twinsen learned his actual destiny: to overthrow the tyrant - Dr. FunFrock.
+
+Once owning the book, Twinsen can speak with the animals of [[Twinsun]], as well as read the ancient language of the planet, Runic. The book also promoted his [[magic ball|magic level]] from yellow to green.
+
+After getting out of the temple, Twinsen gives the book to the old rabbibunny, who thus figures Twinsen must be the heir the prophecy speaks of. The rabbibunny then tells Twinsen about the Legend, and sends him to [[Twinsen's house|his house]] to continue his quest.
+
+During Little Big Adventure 2, the book is held at [[Miss Bloop's Private Museum]]. However, Twinsen is still able to speak with the animals of Twinsen, despite not owning the book any more.
+
+==Related threads==
+===General===
+* {{thread|id=8325|title=Book of Bu}}
+* {{thread|id=7201|title=Eh...}}
+* {{thread|id=6382|title=LBA loophole thread}}
+* {{thread|id=6013|title=Future species?}}
+* {{thread|id=5932|title=LBA2 Mysteries}}
+
+===Hints\Spoilers===
+* {{thread|id=1611|title=LBA 1 Help!!!!!!!}}

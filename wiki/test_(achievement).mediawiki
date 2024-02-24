@@ -1,0 +1,7 @@
+---
+title: Test (achievement)
+---
+
+<!-- This is just a test page -->
+
+[[Category:Notice templates|DisambigMsg]]

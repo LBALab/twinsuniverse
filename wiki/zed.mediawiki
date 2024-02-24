@@ -1,0 +1,64 @@
+---
+title: Zed
+---
+
+{{twinsunica import}}{{Infobox Character
+ |image=Zed.png
+ |race=grobo
+ |gender=Male
+ |size=average
+ |age=Adult
+ |magical=no
+ |lba1=
+ |lba2=yes
+ |alignment=neutral
+ |occupation=
+ |requires=
+ |amount=
+ |fam1=
+ |fam2=
+ |planet=
+ |island=
+ |building=
+}}
+{{Quote
+ |Ah Twinsen, with this rain, I found plenty of mushrooms!
+ |character=Zed
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1364}}
+
+==Description==
+Zed is a grobo living on [[Citadel Island]]. His only hobby seems to be collecting mushrooms, something he likes doing while it rains. He also likes to lay at the beach during sunnier weather.
+
+==Role in Twinsen's adventure==
+Zed had no real role during [[Twinsen]]'s adventures. He only gave Twinsen some hints, like most characters. In his case: Twinsen can drown, where to seek [[Raph]] and that mushrooms could come in handy.
+
+==Additional quotes==
+{{Quote
+ |Last time I heard him play his guitar, he was probably on the Cliffs. I was looking for mushrooms at that time.
+ |character=Zed
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1365}}
+
+{{Quote
+ |The Esmers should come here. It feels so good to look for mushrooms. By the way, I wouldn't try to go swimming, it gets deep very rapidly.
+ |character=Zed
+ |island=Citadel Island
+ |planet=twinsun
+ |quoteid=1366}}
+
+==Related threads==
+===General===
+* {{thread|id=4097|title=The Zed cult.}}
+* {{thread|id=3894|title=Zed & the mushromms!}}
+* {{thread|id=3447|title=Zed is a stalker !!!}}
+* {{thread|id=3464|title=Zed Campaign}}
+* {{thread|id=127|title=Zed}}
+
+===Fan Art===
+* {{thread|id=8393|title=LBA was origianlly invented during the Rock Age!}}
+
+<!-- remove these category links when they're all automated by categorizers...
+[[Category:Citadel Island inhabitants]] -->
