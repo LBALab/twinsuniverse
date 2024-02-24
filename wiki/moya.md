@@ -27,12 +27,12 @@ Incandescence](Cave_of_the_Pearl_of_Incandescence "wikilink").
 
 ### Hints\Spoilers
 
-- 
-
-- 
+- [Have you tried to give Moya the turtle your car on White Leaf
+  Desert?](https://forum.magicball.net/showthread.php?t=3823)
+- [Turtle](https://forum.magicball.net/showthread.php?t=1023)
 
 ### Fan Art
 
-- 
-
-- 
+- [Lba3](http://forum.magicball.net/showthread.php?p=112171#post112171)
+- [\>\>!real Lba3
+  Screenshot!\<\<](https://forum.magicball.net/showthread.php?t=3696)

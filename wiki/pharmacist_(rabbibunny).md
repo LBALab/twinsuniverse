@@ -32,16 +32,18 @@ Pharmacist.
 
 ### General
 
-- 
-
-- 
-
-- 
-
-- 
+- [Quote \#340, from Little Big Adventure 2\Twinsen's
+  Odyssey](https://forum.magicball.net/showthread.php?t=4091)
+- [Twinsen is having an
+  affair?](https://forum.magicball.net/showthread.php?t=3650)
+- [Another quotes from
+  LBA...](https://forum.magicball.net/showthread.php?t=3121)
+- [Twinsun - a happy jolly place? I THINK
+  NOT](https://forum.magicball.net/showthread.php?t=155)
 
 ### Hints\Spoilers
 
-- 
-
-- 
+- [LBA2: quetch and
+  Pharmacist](https://forum.magicball.net/showthread.php?t=3937)
+- [Unsolved
+  mysteries](https://forum.magicball.net/showthread.php?t=1413)

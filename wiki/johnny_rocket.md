@@ -40,10 +40,12 @@ their identification sign.
 
 ### General
 
-- 
+- [I just played LBA2 again....
+  (C)](https://forum.magicball.net/showthread.php?t=540)
 
 ### Fan Art
 
-- 
-
-- 
+- [Edited Film
+  Pictures](http://forum.magicball.net/showthread.php?p=226830#post226830)
+- [Johnny Rocket / Sup
+  Fanart](https://forum.magicball.net/showthread.php?t=3963)

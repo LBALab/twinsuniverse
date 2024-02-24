@@ -25,10 +25,12 @@ sat in one of the shuttles which destroyed the lunar reactor.
 
 ### General
 
-- 
-
-- 
+- [Toss Up FINAL
+  MATCH!](https://forum.magicball.net/showthread.php?t=9040)
+- [First Semi of the Toss
+  Up!](https://forum.magicball.net/showthread.php?t=8826)
 
 ### Fan Art
 
-- 
+- [My Tabata
+  sketch!](https://forum.magicball.net/showthread.php?t=11051)

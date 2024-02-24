@@ -44,4 +44,5 @@ has the key to the box, and is thus able to get the fragment.
 
 ### Hints\Spoilers
 
-- 
+- [where this the fragment of the
+  purlones](https://forum.magicball.net/showthread.php?t=3846)

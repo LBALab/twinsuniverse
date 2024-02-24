@@ -27,15 +27,16 @@ protects them from the monsters.
 
 ### General
 
-- 
+- [didier sent me this a while
+  back](https://forum.magicball.net/showthread.php?t=4798)
 
 ### Fan Art
 
-- 
-
-- 
-
-- 
+- [3D Franco guard and
+  Wannie](http://forum.magicball.net/showthread.php?p=267063#post267063)
+- [Old Fan Art](https://forum.magicball.net/showthread.php?t=2697)
+- [DarkMonk-Art
+  thread](https://forum.magicball.net/showthread.php?t=11780)
 
 ## External links
 

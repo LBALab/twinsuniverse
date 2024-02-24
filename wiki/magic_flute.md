@@ -35,4 +35,5 @@ the desert.
 
 ### General
 
-- 
+- [Use Magic Flute instead of Horn of
+  Gawley?](https://forum.magicball.net/showthread.php?t=12249)

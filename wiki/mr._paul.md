@@ -27,4 +27,4 @@ Ludo](Port_Ludo "wikilink").
 
 ### General
 
-- 
+- [New quote?](https://forum.magicball.net/showthread.php?t=3467)

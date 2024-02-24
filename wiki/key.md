@@ -19,8 +19,8 @@ menu](behavior_menu "wikilink").
 
 ### General
 
-- 
+- [A unknow key](https://forum.magicball.net/showthread.php?t=3797)
 
 ### Fan Art
 
-- 
+- [Lba3](http://forum.magicball.net/showthread.php?p=112171#post112171)

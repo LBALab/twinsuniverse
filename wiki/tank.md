@@ -28,3 +28,5 @@ to it.
 ## Related Threads
 
 ### Hints\Spoilers
+
+[Tanks Giving!](https://forum.magicball.net/showthread.php?t=6871)

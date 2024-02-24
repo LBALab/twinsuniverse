@@ -35,12 +35,13 @@ room into space.
 
 ### General
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
+- [Sucked into
+  space](https://forum.magicball.net/showthread.php?t=11244)
+- [Yellow Fraco
+  Guards](https://forum.magicball.net/showthread.php?t=4634)
+- [For those interested to see what a cell-shaded LBA would look
+  like](https://forum.magicball.net/showthread.php?t=6222)
+- [Franco Guards, hey they are
+  diffrent!](https://forum.magicball.net/showthread.php?t=4683)
+- [Do you think that Fraco guards are
+  Clones?](https://forum.magicball.net/showthread.php?t=4682)

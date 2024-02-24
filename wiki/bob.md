@@ -37,22 +37,22 @@ unexpected arrival.
 
 ### General
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
+- [What Is Bob Doing
+  There?](https://forum.magicball.net/showthread.php?t=10820)
+- [Families](https://forum.magicball.net/showthread.php?t=7972)
+- [guess what?... A strange
+  quote!!!](https://forum.magicball.net/showthread.php?t=6384)
+- [Ever noticed?](https://forum.magicball.net/showthread.php?t=1928)
+- [Twinsun - a happy jolly place? I THINK
+  NOT](https://forum.magicball.net/showthread.php?t=155)
 
 ### Hints\Spoilers
 
-- 
-
-- 
+- [LBA 2 Goofs](https://forum.magicball.net/showthread.php?t=10415)
+- [Something about
+  Bob...](https://forum.magicball.net/showthread.php?t=97)
 
 ### Fan Art
 
-- 
+- [Amazing! LBA3 planning!
+  Wooo!](http://forum.magicball.net/showthread.php?p=87488#post87488)

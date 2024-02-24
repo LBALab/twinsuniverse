@@ -46,10 +46,10 @@ Museum](Miss_Bloop's_Private_Museum "wikilink").
 
 ### General
 
-- 
-
-- 
+- [Favourite Horn](https://forum.magicball.net/showthread.php?t=6289)
+- [Use Magic Flute instead of Horn of
+  Gawley?](https://forum.magicball.net/showthread.php?t=12249)
 
 ### Hints\Spoilers
 
-- 
+- [Do you know....](https://forum.magicball.net/showthread.php?t=1372)

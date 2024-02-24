@@ -28,4 +28,4 @@ it, he is more likely to enter the hole Twinsen bets on.
 
 ### Hints\Spoilers
 
-- 
+- [Otringal Casino](https://forum.magicball.net/showthread.php?t=2522)

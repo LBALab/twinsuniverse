@@ -74,32 +74,28 @@ to get back to Zeelich, as the wizards are left alone there now.
 
 ### General
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
+- [Mysterious quote](https://forum.magicball.net/showthread.php?t=8802)
+- ["the Elf"](https://forum.magicball.net/showthread.php?t=7689)
+- [Elves and magic
+  powers](https://forum.magicball.net/showthread.php?t=6418)
+- [another weird
+  quote](https://forum.magicball.net/showthread.php?t=6295)
+- [Joe on Twinsun after
+  attack??](https://forum.magicball.net/showthread.php?t=3531)
+- [Naughty elf!](https://forum.magicball.net/showthread.php?t=1686)
 
 ### Hints\Spoilers
 
-- 
-
-- 
-
-- 
-
-- 
+- [LBA 2 Goofs](https://forum.magicball.net/showthread.php?t=10415)
+- [every point of interest i could find (lba2) that isnt on this site,
+  that needs to be!](https://forum.magicball.net/showthread.php?t=10385)
+- [Joe The Elf](https://forum.magicball.net/showthread.php?t=5081)
+- [Joe the elf rulez
+  :)](https://forum.magicball.net/showthread.php?t=1143)
 
 ### Fan Art
 
-- 
-
-- 
-
-- 
+- [Smilies](https://forum.magicball.net/showthread.php?t=10774)
+- [Lba3](http://forum.magicball.net/showthread.php?p=112171#post112171)
+- [My first Lba
+  image](https://forum.magicball.net/showthread.php?t=3150)

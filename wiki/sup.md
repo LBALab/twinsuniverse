@@ -39,14 +39,15 @@ Monk](Dark_Monk "wikilink") appear to maintain excellent relations...
 
 ### General
 
-- 
-
-- 
+- [Sups vs.
+  Mosquibee's!](https://forum.magicball.net/showthread.php?t=4677)
+- [Which race do you consider closest to
+  humans?](https://forum.magicball.net/showthread.php?t=4303)
 
 ### Fan art
 
-- 
-
-- 
-
-- 
+- [For those interested to see what a cell-shaded LBA would look
+  like](https://forum.magicball.net/showthread.php?t=6222)
+- [Esmer drawing](https://forum.magicball.net/showthread.php?t=11891)
+- [Zeelich - Sup
+  render](https://forum.magicball.net/showthread.php?t=12533)

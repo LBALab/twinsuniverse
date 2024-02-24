@@ -19,8 +19,8 @@ realizes that the Zeelichians are worth less than they say, and warns
 
 ### General
 
-- 
+- [Red planet?](https://forum.magicball.net/showthread.php?t=2803)
 
 ### Fan Art
 
-- 
+- [Lba3](http://forum.magicball.net/showthread.php?p=112171#post112171)

@@ -108,24 +108,23 @@ television.
 
 ### General
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
+- [Am I the only one seeing
+  this?!](https://forum.magicball.net/showthread.php?t=9154)
+- [Jerome Baldino](https://forum.magicball.net/showthread.php?t=1341)
+- [About Baldino](https://forum.magicball.net/showthread.php?t=4825)
+- [Jerome Baldino - The Lord of
+  Evil?](https://forum.magicball.net/showthread.php?t=3852)
+- [I could've called it an "integrated super dynamo circuitry mechanism"
+  but I decided t](https://forum.magicball.net/showthread.php?t=3367)
+- [Why Baldino?](https://forum.magicball.net/showthread.php?t=3065)
+- [I just played LBA2 again....
+  (C)](https://forum.magicball.net/showthread.php?t=540)
+- [another unknown
+  quote](https://forum.magicball.net/showthread.php?t=741)
+- [I just played LBA2
+  again....](https://forum.magicball.net/showthread.php?t=530)
 
 ### Fan Art
 
-- 
+- [My first Lba
+  image](https://forum.magicball.net/showthread.php?t=3150)

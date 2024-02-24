@@ -35,17 +35,17 @@ Fragment](Sups_Fragment "wikilink").
 
 ### General
 
-- 
-
-- 
-
-- 
+- [Sword on twinsun in
+  LBA2](https://forum.magicball.net/showthread.php?t=9366)
+- [Sword fighting](https://forum.magicball.net/showthread.php?t=8398)
+- [Twinsen's/emperor's
+  sword.](https://forum.magicball.net/showthread.php?t=5693)
 
 ### Fan Art
 
-- 
-
-- 
+- [Twinsen](https://forum.magicball.net/showthread.php?t=11287)
+- [Twinsen's
+  son/daughter](http://forum.magicball.net/showthread.php?p=37768#post37768)
 
 ## External links
 

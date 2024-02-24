@@ -38,12 +38,13 @@ adventure.
 
 ### General
 
-- 
+- [Darts](https://forum.magicball.net/showthread.php?t=8282)
 
 ### Hints\Spoilers
 
-- 
+- [Twinsen Odyssey-Dart
+  Help](https://forum.magicball.net/showthread.php?t=857)
 
 ### Fan Art
 
-- 
+- [pictures!](https://forum.magicball.net/showthread.php?t=4645)

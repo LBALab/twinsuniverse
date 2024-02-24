@@ -41,44 +41,37 @@ reach with a [ferry](ferry "wikilink").
 
 ### General
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
+- [LBA2 Mysteries](https://forum.magicball.net/showthread.php?t=5932)
+- [Dino Fly](https://forum.magicball.net/showthread.php?t=2865)
+- [LBA1 Vs LBA2](https://forum.magicball.net/showthread.php?t=1860)
+- [Another weird
+  savegame](https://forum.magicball.net/showthread.php?t=1352)
+- [Dinofly](https://forum.magicball.net/showthread.php?t=125)
+- [Dino-fly is a...](https://forum.magicball.net/showthread.php?t=10051)
 
 ### Hints\Spoilers
 
-- 
-
-- 
-
-- 
-
-- 
+- [Found a way to make your Dino-Fly fly with the
+  rain](https://forum.magicball.net/showthread.php?t=7360)
+- [fly](https://forum.magicball.net/showthread.php?t=6159)
+- [ARGH!!!!!!!!! how du u get the bloody dinofly
+  cured?????](https://forum.magicball.net/showthread.php?t=6166)
+- [Dinofly Maddness](https://forum.magicball.net/showthread.php?t=2543)
 
 ### Fan art
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
+- [For those interested to see what a cell-shaded LBA would look
+  like](https://forum.magicball.net/showthread.php?t=6222)
+- [Edited Film
+  Pictures](http://forum.magicball.net/showthread.php?p=161370#post161370)
+- [Metal Gear
+  Twinsen](http://forum.magicball.net/showthread.php?p=74509#post74509)
+- [Just having a
+  go...](https://forum.magicball.net/showthread.php?t=9972)
+- [LBA
+  comics??](http://forum.magicball.net/showthread.php?p=229377#post229377)
+- [Flash fan movie](https://forum.magicball.net/showthread.php?t=6093)
+- [Lba3](http://forum.magicball.net/showthread.php?p=55978#post55978)
+- [Returnig to
+  Hamalayi...](https://forum.magicball.net/showthread.php?t=4362)
+- [Mech Dinofly !!!](https://forum.magicball.net/showthread.php?t=12254)

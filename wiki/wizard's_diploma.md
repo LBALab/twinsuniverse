@@ -38,4 +38,4 @@ Souvenir Shop](Twinsunian_Souvenir_Shop "wikilink").
 
 ### Hints\Spoilers
 
-- 
+- [LBA 2 Goofs](https://forum.magicball.net/showthread.php?t=10415)

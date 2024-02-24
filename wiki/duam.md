@@ -29,10 +29,10 @@ this race.
 
 ### General
 
-- 
+- ["A Duam" ???? WTF is
+  that?](https://forum.magicball.net/showthread.php?t=1969)
 
 ### Hints\Spoilers
 
-- 
-
-- 
+- [Otringal Casino](https://forum.magicball.net/showthread.php?t=2522)
+- [Dog races.](https://forum.magicball.net/showthread.php?t=2534)

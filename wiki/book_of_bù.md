@@ -54,16 +54,13 @@ book any more.
 
 ### General
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
+- [Book of Bu](https://forum.magicball.net/showthread.php?t=8325)
+- [Eh...](https://forum.magicball.net/showthread.php?t=7201)
+- [LBA loophole
+  thread](https://forum.magicball.net/showthread.php?t=6382)
+- [Future species?](https://forum.magicball.net/showthread.php?t=6013)
+- [LBA2 Mysteries](https://forum.magicball.net/showthread.php?t=5932)
 
 ### Hints\Spoilers
 
-- 
+- [LBA 1 Help!!!!!!!](https://forum.magicball.net/showthread.php?t=1611)

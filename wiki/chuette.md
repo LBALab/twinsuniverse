@@ -29,12 +29,10 @@ hearts float up from it.
 
 ## Related threads
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
+- [Clock owl](https://forum.magicball.net/showthread.php?t=6851)
+- [Poor owl...](https://forum.magicball.net/showthread.php?t=5857)
+- [That bloody Francos
+  mech](https://forum.magicball.net/showthread.php?t=2410)
+- [Annoying windup bird on Isle of
+  Francos](https://forum.magicball.net/showthread.php?t=1807)
+- [Owl](https://forum.magicball.net/showthread.php?t=1335)

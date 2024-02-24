@@ -25,4 +25,4 @@ Hitting Annie results in her hitting Twinsen back with her broom.
 
 ### Hints\Spoilers
 
-- 
+- [Monk's housemaid](https://forum.magicball.net/showthread.php?t=907)

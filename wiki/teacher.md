@@ -26,4 +26,5 @@ Circle](Ridge_of_the_Flowers_Circle "wikilink").
 
 ### General
 
-- 
+- [Twinsun - a happy jolly place? I THINK
+  NOT](https://forum.magicball.net/showthread.php?t=155)

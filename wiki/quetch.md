@@ -32,10 +32,10 @@ FunFrock](Dr._FunFrock "wikilink").
 
 ### General
 
-- 
+- [Which race do you consider closest to
+  humans?](https://forum.magicball.net/showthread.php?t=4303)
 
 ### Fan Art
 
-- 
-
-- 
+- [Homesen](https://forum.magicball.net/showthread.php?t=11142)
+- [My x-mas art](https://forum.magicball.net/showthread.php?t=4757)

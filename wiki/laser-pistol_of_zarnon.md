@@ -43,10 +43,10 @@ far away enemies.
 
 ### Hints\Spoilers
 
-- 
-
-- 
+- [rapid blaster](https://forum.magicball.net/showthread.php?t=10088)
+- [Controband laser
+  gun?](https://forum.magicball.net/showthread.php?t=10125)
 
 ### Fan Art
 
-- 
+- [Twinsen](https://forum.magicball.net/showthread.php?t=11287)

@@ -49,20 +49,19 @@ the sewers
 
 ### General
 
-- 
-
-- 
+- [Anyone have notice
+  this???](https://forum.magicball.net/showthread.php?t=7742)
+- [Just wondered...](https://forum.magicball.net/showthread.php?t=7075)
 
 ### Hints\Spoilers
 
-- 
-
-- 
-
-- 
-
-- 
+- [What happens
+  if...](https://forum.magicball.net/showthread.php?t=7443)
+- [Ball of
+  Sendell!?!](https://forum.magicball.net/showthread.php?t=7093)
+- [Ball of sendall](https://forum.magicball.net/showthread.php?t=2084)
+- [Heeeeeeeeeeeeellllllllpppppppppp!](https://forum.magicball.net/showthread.php?t=1260)
 
 ### Fan Art
 
-- 
+- [another......](http://forum.magicball.net/showthread.php?p=38821#post38821)

@@ -30,18 +30,17 @@ than the blowgun.
 
 ### General
 
-- 
-
-- 
+- [Blowgun](https://forum.magicball.net/showthread.php?t=6054)
+- [Seen this little thingamijing b4?
+  (LBA2)](https://forum.magicball.net/showthread.php?t=2770)
 
 ### Hints\Spoilers
 
-- 
-
-- 
+- [Invisable Blowgun](https://forum.magicball.net/showthread.php?t=6848)
+- [You know the rain thingie, how about
+  this?](https://forum.magicball.net/showthread.php?t=880)
 
 ### Fan Art
 
-- 
-
-- 
+- [Twinsen](https://forum.magicball.net/showthread.php?t=11287)
+- [pictures!](https://forum.magicball.net/showthread.php?t=4645)

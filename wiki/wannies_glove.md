@@ -42,8 +42,8 @@ of one wannie family, and somewhere within the mines.
 
 ### General
 
-- 
+- [Wannie Glove...](https://forum.magicball.net/showthread.php?t=6481)
 
 ### Hints\Spoilers
 
-- 
+- [Wannie's glove](https://forum.magicball.net/showthread.php?t=9292)

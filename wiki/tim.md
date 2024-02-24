@@ -49,8 +49,8 @@ to reveal the real reason for these mysterious falls.
 
 ### Hints\Spoilers
 
-- 
+- [Hmmmm](https://forum.magicball.net/showthread.php?t=1327)
 
 ### Fan Art
 
-- 
+- [Cartoon Tim](https://forum.magicball.net/showthread.php?t=6090)

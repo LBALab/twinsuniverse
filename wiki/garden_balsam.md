@@ -40,8 +40,8 @@ leaves](clover_leaf "wikilink").
 
 ### Hints\Spoilers
 
-- 
-
-- 
-
-- 
+- [Secend Test !](https://forum.magicball.net/showthread.php?t=8993)
+- [How do I get the balsam
+  plant?](https://forum.magicball.net/showthread.php?t=8892)
+- [ı imagined they are easy but ı
+  can't](https://forum.magicball.net/showthread.php?t=7181)

@@ -21,10 +21,10 @@ Shop](Twinsunian_Souvenir_Shop "wikilink"), in exchange for
 
 ### General
 
-- 
-
-- 
+- [stupid thread](https://forum.magicball.net/showthread.php?t=8493)
+- [Senorita](https://forum.magicball.net/showthread.php?t=6333)
 
 ### Hints\Spoilers
 
-- 
+- [Found a way to modify the GOLD cheat to give more
+  money...](https://forum.magicball.net/showthread.php?t=7721)

@@ -45,8 +45,8 @@ information about the pirate.
 
 ### General
 
-- 
-
-- 
-
-- 
+- [Interesting LBA facts
+  \[Discuss\]](https://forum.magicball.net/showthread.php?t=10195)
+- [Astronomer?](https://forum.magicball.net/showthread.php?t=7543)
+- [LBA makes no
+  sense](https://forum.magicball.net/showthread.php?t=6811)

@@ -44,10 +44,10 @@ is able to find a [clover leaf](clover_leaf "wikilink").
 
 ### General
 
-- 
-
-- 
+- [lba dog toys!!!](https://forum.magicball.net/showthread.php?t=2520)
+- [Little Big Adventure
+  2](https://forum.magicball.net/showthread.php?t=368)
 
 ### Fan Art
 
-- 
+- [Lba3](http://forum.magicball.net/showthread.php?p=112171#post112171)

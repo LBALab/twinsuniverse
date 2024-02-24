@@ -22,4 +22,4 @@ Leopold has no role in the game, and talking with him is not vital.
 
 ### Fan Art
 
-- 
+- [Lba3](http://forum.magicball.net/showthread.php?p=112171#post112171)

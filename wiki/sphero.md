@@ -35,31 +35,27 @@ gardens.
 
 ### General
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
+- [Grandma](https://forum.magicball.net/showthread.php?t=8431)
+- [Sphero where no sphero should
+  be](https://forum.magicball.net/showthread.php?t=7547)
+- [Sphero in LBA 1](https://forum.magicball.net/showthread.php?t=3806)
+- [Spheroes/Bouboules](https://forum.magicball.net/showthread.php?t=2353)
+- [What the hell is
+  that?](https://forum.magicball.net/showthread.php?t=132)
 
 ### Fan Art
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
+- [Another 3D
+  twinsen](http://forum.magicball.net/showthread.php?p=266922#post266922)
+- [Sphero 3D- Can you help me a little
+  bit?](https://forum.magicball.net/showthread.php?t=10348)
+- [Guess
+  who!](http://forum.magicball.net/showthread.php?p=255455#post255455)
+- [LBA Cartoon](https://forum.magicball.net/showthread.php?t=6098)
+- [Lba3](http://forum.magicball.net/showthread.php?p=84457#post84457)
+- [My x-mas art](https://forum.magicball.net/showthread.php?t=4757)
+- [1st character model ever!!!plz
+  look!!!](https://forum.magicball.net/showthread.php?t=4585)
 
 ## External links
 

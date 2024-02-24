@@ -51,6 +51,5 @@ Ancestral Key, as well as the pirate flag.
 
 ## Related Threads
 
-- 
-
-- 
+- [Strange quote](https://forum.magicball.net/showthread.php?t=7783)
+- [LBA has you](https://forum.magicball.net/showthread.php?t=6675)

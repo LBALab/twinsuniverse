@@ -27,11 +27,9 @@ clones](grobo_clones "wikilink") are also very common.
 
 ### Fan Art
 
-- 
-
-- 
-
-- 
+- [Lba3](http://forum.magicball.net/showthread.php?p=84457#post84457)
+- [My x-mas art](https://forum.magicball.net/showthread.php?t=4757)
+- [Ancient Grobos](https://forum.magicball.net/showthread.php?t=4617)
 
 ## External links
 

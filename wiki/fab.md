@@ -18,4 +18,4 @@ usually seen practicing his guitar.
 
 ### General
 
-- 
+- [When We Was Fab](https://forum.magicball.net/showthread.php?t=8829)

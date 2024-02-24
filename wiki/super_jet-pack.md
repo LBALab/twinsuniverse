@@ -34,6 +34,7 @@ Celebration](Island_below_the_Celebration "wikilink"), going to the
 
 ### General
 
-- 
-
-- 
+- [I just played LBA2 again....
+  (C)](https://forum.magicball.net/showthread.php?t=540)
+- [Almost completing LBA2 without a
+  jetpack](https://forum.magicball.net/showthread.php?t=82)

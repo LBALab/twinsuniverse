@@ -41,11 +41,9 @@ Sword](Emperor's_Sword "wikilink") from the chest in the room.
 
 ### Fan Art
 
-- 
-
-- 
-
-- 
+- [Another Emperor](https://forum.magicball.net/showthread.php?t=7692)
+- [Emperor wallpaper](https://forum.magicball.net/showthread.php?t=4336)
+- [Emperor](https://forum.magicball.net/showthread.php?t=4236)
 
 ## External links
 

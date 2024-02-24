@@ -22,4 +22,5 @@ Island](Volcano_Island "wikilink").
 
 ### Fan Creations
 
-- 
+- [Finally the Ferry man
+  song!](https://forum.magicball.net/showthread.php?t=12511)

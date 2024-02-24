@@ -43,18 +43,19 @@ fullfilled.
 
 ### General
 
-- 
-
-- 
-
-- 
-
-- 
+- [Has anyone emailed our good ol' Fred
+  about...](https://forum.magicball.net/showthread.php?t=10899)
+- [The mine on the Wannies
+  island](https://forum.magicball.net/showthread.php?t=5086)
+- [Dark Monk](https://forum.magicball.net/showthread.php?t=5777)
+- [The wannies
+  fragment](https://forum.magicball.net/showthread.php?t=3606)
 
 ### Hints\Spoilers
 
-- 
+- [how do you get the keypart on
+  wannies?](https://forum.magicball.net/showthread.php?t=11882)
 
 ### Fan Art
 
-- 
+- [The replaced art](https://forum.magicball.net/showthread.php?t=3190)

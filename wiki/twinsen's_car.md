@@ -47,52 +47,46 @@ for 50 [Kashes](Kash "wikilink").
 
 ### General
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
+- [Sceen changing
+  bug.](https://forum.magicball.net/showthread.php?t=11884)
+- [Yet another LBA 2 car
+  bug](https://forum.magicball.net/showthread.php?t=11363)
+- [some fun stuff and
+  tips](https://forum.magicball.net/showthread.php?t=11024)
+- [I just wanna drive
+  :(](https://forum.magicball.net/showthread.php?t=7863)
+- [Found the answer to the car
+  bug](https://forum.magicball.net/showthread.php?t=5936)
+- [Twinsen & Zoe
+  again](https://forum.magicball.net/showthread.php?t=5184)
+- [Stupid Car](https://forum.magicball.net/showthread.php?t=4551)
+- [Women mechanics...?
+  HAH!](https://forum.magicball.net/showthread.php?t=1353)
+- [Little Big Adventure
+  2](https://forum.magicball.net/showthread.php?t=368)
+- [car crazyness](https://forum.magicball.net/showthread.php?t=134)
 
 ### Hints\Spoilers
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
+- [My cars stuck!](https://forum.magicball.net/showthread.php?t=10843)
+- [Losing the car...
+  (LBA2)](https://forum.magicball.net/showthread.php?t=4131)
+- [Destroy your car!](https://forum.magicball.net/showthread.php?t=7563)
+- [a car problem](https://forum.magicball.net/showthread.php?t=7029)
+- [Cool LBA 2
+  secret!](https://forum.magicball.net/showthread.php?t=6611)
+- [I cannot get out of magic
+  school.....](https://forum.magicball.net/showthread.php?t=5643)
+- [Has anybody got into the city, and the graveyard with the car in LBA
+  2?](https://forum.magicball.net/showthread.php?t=3835)
+- [Twinsens Car:LBA2](https://forum.magicball.net/showthread.php?t=3557)
+- [Steering Twinsen's
+  car](https://forum.magicball.net/showthread.php?t=1912)
+- [Buying a car?](https://forum.magicball.net/showthread.php?t=1618)
+- [Car in Cemetary, EDIT --\> And Bald
+  Mountain!!!](https://forum.magicball.net/showthread.php?t=1342)
+- [If...](https://forum.magicball.net/showthread.php?t=1437)
 
 ### Fan Art
 
-- 
+- [Lba3](http://forum.magicball.net/showthread.php?p=82844#post82844)

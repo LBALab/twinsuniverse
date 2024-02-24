@@ -36,8 +36,9 @@ be an imposter, and shouts for the
 
 ### General
 
-- 
+- [The dissidents
+  ring](https://forum.magicball.net/showthread.php?t=4632)
 
 ### Fan Art
 
-- 
+- [Lba3](http://forum.magicball.net/showthread.php?p=112171#post112171)

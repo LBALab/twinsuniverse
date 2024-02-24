@@ -29,4 +29,4 @@ the Little Big Adventure 2 website
 
 ### General
 
-- 
+- [Ghazkhul le Grand](https://forum.magicball.net/showthread.php?t=7988)

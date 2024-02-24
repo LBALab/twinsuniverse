@@ -33,4 +33,4 @@ the notes and used the clues in them to find the fragment.
 
 ### General
 
-- 
+- [Burgmaster's note](https://forum.magicball.net/showthread.php?t=2350)

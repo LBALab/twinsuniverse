@@ -23,18 +23,19 @@ Mountains](Hamalayi_Mountains "wikilink") area.
 
 ### General
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
+- [Third member of the elves
+  club...](https://forum.magicball.net/showthread.php?t=10848)
+- [Blue card mystery](https://forum.magicball.net/showthread.php?t=5900)
+- [Three general questions and a "Have you done this yet. . .
+  "](https://forum.magicball.net/showthread.php?t=2821)
+- [about the funny
+  things...](https://forum.magicball.net/showthread.php?t=445)
+- [No blue card on LBA
+  HELP!!!!](https://forum.magicball.net/showthread.php?t=11515)
 
 ### Hints\Spoilers
 
-- 
-
-- 
+- [IMPORTANT! Q ABOUT THE
+  ELVES](https://forum.magicball.net/showthread.php?t=443)
+- [Problem with blue card in
+  LBA....](https://forum.magicball.net/showthread.php?t=4946)

@@ -54,18 +54,18 @@ himself, only trying to save his own planet.
 
 ### General
 
-- 
-
-- 
-
-- 
+- [Noticed something
+  weird??](https://forum.magicball.net/showthread.php?t=8318)
+- [Dark Monk](https://forum.magicball.net/showthread.php?t=2693)
+- [Do you remember when...
+  \[spolier\]](https://forum.magicball.net/showthread.php?t=1867)
 
 ### Hints\Spoilers
 
-- 
-
-- 
+- [wow](https://forum.magicball.net/showthread.php?t=7466)
+- [Miscellaneous
+  question...](https://forum.magicball.net/showthread.php?t=3517)
 
 ### Fan Art
 
-- 
+- [Dark Monk](https://forum.magicball.net/showthread.php?t=5533)

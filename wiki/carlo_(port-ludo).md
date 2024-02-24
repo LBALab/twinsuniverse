@@ -19,6 +19,6 @@ walks in the middle of the pitch, he continuously shouts "cheater!".
 
 ### General
 
-- 
-
-- 
+- [The Desert Island
+  Bowlers](https://forum.magicball.net/showthread.php?t=11096)
+- [Who and Where](https://forum.magicball.net/showthread.php?t=845)

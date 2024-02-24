@@ -39,19 +39,19 @@ lighthouse with his fiancée.
 
 ### General
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
+- [Raph/Ralph](https://forum.magicball.net/showthread.php?t=3433)
+- [Quote \#340, from Little Big Adventure 2\Twinsen's
+  Odyssey](https://forum.magicball.net/showthread.php?t=4091)
+- [Another quotes from
+  LBA...](https://forum.magicball.net/showthread.php?t=3121)
+- [I just finished
+  LBA2](https://forum.magicball.net/showthread.php?t=776)
+- [how much time....](https://forum.magicball.net/showthread.php?t=779)
 
 ### Hints\Spoilers
 
-- 
+- [How do I free
+  Raph?](https://forum.magicball.net/showthread.php?t=8724)
 
 ## External links
 

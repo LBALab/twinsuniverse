@@ -37,12 +37,11 @@ especially to cross heavily guarded places which are difficult to pass.
 
 ### General
 
-- 
-
-- 
-
-- 
+- [the trick I used](https://forum.magicball.net/showthread.php?t=3399)
+- [How did you get the lighting
+  spell?](https://forum.magicball.net/showthread.php?t=3407)
+- [Lol!](https://forum.magicball.net/showthread.php?t=2189)
 
 ### Fan Art
 
-- 
+- [Twinsen](https://forum.magicball.net/showthread.php?t=11287)

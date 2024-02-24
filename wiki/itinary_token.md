@@ -50,8 +50,7 @@ Palace](Emperor's_Palace "wikilink").
 
 ### Hints\Spoilers
 
-- 
-
-- 
-
-- 
+- [LBA2 Bug - Itinerary
+  Token](https://forum.magicball.net/showthread.php?t=11110)
+- [Disc in Zeelich](https://forum.magicball.net/showthread.php?t=11011)
+- [LBA 2 Goofs](https://forum.magicball.net/showthread.php?t=10415)

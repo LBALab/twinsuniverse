@@ -23,6 +23,6 @@ regarding [Raph](Raph "wikilink") the
 
 ### General
 
-- 
-
-- 
+- [Families](https://forum.magicball.net/showthread.php?t=7972)
+- [Another quotes from
+  LBA...](https://forum.magicball.net/showthread.php?t=3121)

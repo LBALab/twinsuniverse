@@ -41,10 +41,11 @@ to take on a nurse's clothing as a disguise.
 
 ### General
 
-- 
+- [Shocking Images! (E! True Hollywood
+  story)](https://forum.magicball.net/showthread.php?t=10423)
 
 ### Fan Art
 
-- 
-
-- 
+- [Random
+  collection](https://forum.magicball.net/showthread.php?t=10242)
+- [Lba3](http://forum.magicball.net/showthread.php?p=67043#post67043)

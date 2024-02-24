@@ -45,14 +45,13 @@ the Duam who touches the candy is more likely to win the race.
 
 ### General
 
-- 
-
-- 
+- [Favourite Horn](https://forum.magicball.net/showthread.php?t=6289)
+- [How many people did you
+  heal?](https://forum.magicball.net/showthread.php?t=6092)
 
 ### Hints\Spoilers
 
-- 
-
-- 
-
-- 
+- [every point of interest i could find (lba2) that isnt on this site,
+  that needs to be!](https://forum.magicball.net/showthread.php?t=10385)
+- [Otringal Casino](https://forum.magicball.net/showthread.php?t=2522)
+- [Dog races.](https://forum.magicball.net/showthread.php?t=2534)

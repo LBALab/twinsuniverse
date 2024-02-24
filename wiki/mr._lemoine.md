@@ -31,8 +31,9 @@ reach the mosquibees.
 
 ### General
 
-- 
+- [The funny and rude bits in
+  LBA...](https://forum.magicball.net/showthread.php?t=250)
 
 ### Fan Art
 
-- 
+- [Wannie monk](https://forum.magicball.net/showthread.php?t=11770)

@@ -19,4 +19,4 @@ in the cave.
 
 ## Related threads
 
-- 
+- [Hegesippe](https://forum.magicball.net/showthread.php?t=11428)

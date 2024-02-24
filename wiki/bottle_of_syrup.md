@@ -26,4 +26,5 @@ Water](Flask_of_Clear_Water "wikilink").
 
 ### Hints\Spoilers
 
-- 
+- [Somehow, i got Lba working, now i need a little help
+  ^\_^](https://forum.magicball.net/showthread.php?t=2714)

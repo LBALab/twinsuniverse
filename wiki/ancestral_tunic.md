@@ -65,33 +65,30 @@ Tunic with him until the end of the game.
 
 ### General
 
-- 
-
-- 
-
-- 
-
-- 
+- [just finished LBA2,
+  again](https://forum.magicball.net/showthread.php?t=9859)
+- [Why?](https://forum.magicball.net/showthread.php?t=6949)
+- [Twinsens Tunic](https://forum.magicball.net/showthread.php?t=6284)
+- [Why?](https://forum.magicball.net/showthread.php?t=6124)
 
 ### Fan Art
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
+- [The Heir](https://forum.magicball.net/showthread.php?t=11291)
+- [Old drawing from
+  2000](https://forum.magicball.net/showthread.php?t=11279)
+- [twinsen paint image,
+  old](https://forum.magicball.net/showthread.php?t=11007)
+- [Twinsen, my
+  style](https://forum.magicball.net/showthread.php?t=11083)
+- [2-minutes
+  twinsen"robot"](https://forum.magicball.net/showthread.php?t=11023)
+- [Twinsen :)](https://forum.magicball.net/showthread.php?t=10891)
+- [Twinsen want's
+  you!](https://forum.magicball.net/showthread.php?t=10819)
+- [Ka-meh-ha-meh.. I mean Magic ball
+  blast](https://forum.magicball.net/showthread.php?t=10812)
+- [Another 3D
+  twinsen](https://forum.magicball.net/showthread.php?t=10751)
 
 ## External links
 

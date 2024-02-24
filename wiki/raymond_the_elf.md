@@ -29,12 +29,13 @@ Twinsen 3 clover leaves every time he shows him the card again.
 
 ### General
 
-- 
-
-- 
-
-- 
+- ["the Elf"](https://forum.magicball.net/showthread.php?t=7689)
+- [Elves and magic
+  powers](https://forum.magicball.net/showthread.php?t=6418)
+- [another weird
+  quote](https://forum.magicball.net/showthread.php?t=6295)
 
 ### Fan Art
 
-- 
+- [My first Lba
+  image](https://forum.magicball.net/showthread.php?t=3150)

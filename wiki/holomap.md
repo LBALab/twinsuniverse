@@ -29,30 +29,27 @@ for sale on several shops as well.
 
 ### General
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
+- [LBA Holomap](https://forum.magicball.net/showthread.php?t=6437)
+- [Another random
+  thing](https://forum.magicball.net/showthread.php?t=11464)
+- [holomap on lba 1](https://forum.magicball.net/showthread.php?t=11495)
+- [A little strange
+  thingy...](https://forum.magicball.net/showthread.php?t=1073)
+- [Super Holomap ?!](https://forum.magicball.net/showthread.php?t=441)
 
 ### Hints\Spoilers
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
+- [LBA 2 Goofs](https://forum.magicball.net/showthread.php?t=10415)
+- [How do I use the HOLOMAP in
+  LBA1?](https://forum.magicball.net/showthread.php?t=7106)
+- [Bug with the
+  Holomap?](https://forum.magicball.net/showthread.php?t=11559)
+- [Holomap & screen scrolling question from an LBA2
+  player](https://forum.magicball.net/showthread.php?t=6472)
+- [Holomap](https://forum.magicball.net/showthread.php?t=2592)
 
 ### Fan Art
 
-- 
-
-- 
+- [Lba3](http://forum.magicball.net/showthread.php?p=112171#post112171)
+- [Returnig to
+  Hamalayi...](http://forum.magicball.net/showthread.php?p=106993#post106993)

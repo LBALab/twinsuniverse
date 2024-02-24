@@ -27,13 +27,14 @@ order to retrieve the key and get in.
 
 ### General
 
-- 
-
-- 
+- [i cant get to the
+  monkey!](https://forum.magicball.net/showthread.php?t=10446)
+- [whoever has done this is a
+  genius](https://forum.magicball.net/showthread.php?t=11905)
 
 ### Hints\Spoilers
 
-- 
+- [Problem!](https://forum.magicball.net/showthread.php?t=9495)
 
 ## External links
 

@@ -35,10 +35,11 @@ time, Chedil is no longer seen around the island.
 
 ### Hints\Spoilers
 
-- 
+- [The funniest hints ever, & more! (Could anybody tell some
+  more)](https://forum.magicball.net/showthread.php?t=3842)
 
 ### Fan Art
 
-- 
-
-- 
+- [Metal Gear
+  Twinsen](http://forum.magicball.net/showthread.php?p=74935#post74935)
+- [Lba3](http://forum.magicball.net/showthread.php?p=112171#post112171)

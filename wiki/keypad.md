@@ -24,4 +24,4 @@ have one penguin at a time in LBA 1.
 
 ### Hints\Spoilers
 
-- 
+- [LBA Keypad?](https://forum.magicball.net/showthread.php?t=1672)

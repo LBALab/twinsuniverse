@@ -28,16 +28,17 @@ Headquarters](FunFrock's_Headquarters "wikilink"), to get the
 
 ### General
 
-- 
+- [Have you ever:
+  Supergroboclones](https://forum.magicball.net/showthread.php?t=4366)
 
 ### Hints\Spoilers
 
-- 
-
-- 
-
-- 
+- [Taking care of
+  supergros](https://forum.magicball.net/showthread.php?t=10757)
+- [supergros..... :P](https://forum.magicball.net/showthread.php?t=6797)
+- [Super 4th level magic ball protects you
+  too?](https://forum.magicball.net/showthread.php?t=1421)
 
 ### Fan Art
 
-- 
+- [Smilies](https://forum.magicball.net/showthread.php?t=10774)

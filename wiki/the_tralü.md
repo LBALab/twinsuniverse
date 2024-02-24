@@ -36,4 +36,4 @@ Wizard](Weather_Wizard "wikilink") can use his
 
 ### General
 
-- 
+- [Poor Tralu...](https://forum.magicball.net/showthread.php?t=903)

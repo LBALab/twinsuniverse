@@ -47,16 +47,16 @@ sausage industry.
 
 ### General
 
-- 
-
-- 
+- [Canabalism](https://forum.magicball.net/showthread.php?t=9844)
+- [Bet you never noticed
+  this!!!](https://forum.magicball.net/showthread.php?t=2421)
 
 ### Fan Art
 
-- 
-
-- 
-
-- 
-
-- 
+- [3D Franco guard and
+  Wannie](http://forum.magicball.net/showthread.php?p=267063#post267063)
+- [My first 3d
+  animation!!!](http://forum.magicball.net/showthread.php?p=228419#post228419)
+- [Lba3](http://forum.magicball.net/showthread.php?p=72452#post72452)
+- [Sausage....nam
+  nam...](https://forum.magicball.net/showthread.php?t=4359)

@@ -25,12 +25,12 @@ interested in on Zeelich.
 
 ### General
 
-- 
-
-- 
-
-- 
+- [Now This is weird
+  !!!](https://forum.magicball.net/showthread.php?t=10667)
+- [Zlito + Zloty = ?](https://forum.magicball.net/showthread.php?t=3013)
+- [unknown quote](https://forum.magicball.net/showthread.php?t=933)
 
 ### Hints\Spoilers
 
-- 
+- [Found a way to modify the GOLD cheat to give more
+  money...](https://forum.magicball.net/showthread.php?t=7721)

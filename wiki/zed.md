@@ -26,16 +26,15 @@ mushrooms could come in handy.
 
 ### General
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
+- [The Zed cult.](https://forum.magicball.net/showthread.php?t=4097)
+- [Zed & the
+  mushromms!](https://forum.magicball.net/showthread.php?t=3894)
+- [Zed is a stalker
+  !!!](https://forum.magicball.net/showthread.php?t=3447)
+- [Zed Campaign](https://forum.magicball.net/showthread.php?t=3464)
+- [Zed](https://forum.magicball.net/showthread.php?t=127)
 
 ### Fan Art
 
-- 
+- [LBA was origianlly invented during the Rock
+  Age!](https://forum.magicball.net/showthread.php?t=8393)

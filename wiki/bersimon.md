@@ -42,12 +42,12 @@ use, for freeing the ball.
 
 ### General
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
+- [Toss Up Compensate
+  Match](https://forum.magicball.net/showthread.php?t=8965)
+- [Second Semi of the Toss
+  Up!](https://forum.magicball.net/showthread.php?t=8895)
+- [Bersimon's note](https://forum.magicball.net/showthread.php?t=6441)
+- [The Weather
+  Wizard~](https://forum.magicball.net/showthread.php?t=3078)
+- [Twinsun - a happy jolly place? I THINK
+  NOT](https://forum.magicball.net/showthread.php?t=155)

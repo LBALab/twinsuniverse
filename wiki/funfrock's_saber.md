@@ -43,12 +43,12 @@ with the sword.
 
 ### General
 
-- 
-
-- 
+- [Get the Sword at start of
+  game](https://forum.magicball.net/showthread.php?t=9869)
+- [LBA2 Mysteries](https://forum.magicball.net/showthread.php?t=5932)
 
 ### Fan Art
 
-- 
-
-- 
+- [The Heir](https://forum.magicball.net/showthread.php?t=11291)
+- [My version of twinsens
+  sword:)](https://forum.magicball.net/showthread.php?t=1264)

@@ -39,16 +39,14 @@ or even any other language.
 
 ### General
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
+- [The communicator in
+  LBA2](https://forum.magicball.net/showthread.php?t=5305)
+- [Spying on
+  Conversations](https://forum.magicball.net/showthread.php?t=6467)
+- [Translator first time
+  playing](https://forum.magicball.net/showthread.php?t=5927)
+- [Omg](https://forum.magicball.net/showthread.php?t=2398)
+- [translator](https://forum.magicball.net/showthread.php?t=1981)
+- [another unknown
+  quote](https://forum.magicball.net/showthread.php?t=741)
+- [spying](https://forum.magicball.net/showthread.php?t=547)

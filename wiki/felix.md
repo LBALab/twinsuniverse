@@ -29,8 +29,6 @@ when Twinsen re-enters the harbour.
 
 ### General
 
-- 
-
-- 
-
-- 
+- [Felix](https://forum.magicball.net/showthread.php?t=5981)
+- [Felix suicide](https://forum.magicball.net/showthread.php?t=1957)
+- [Secrets](https://forum.magicball.net/showthread.php?t=328)

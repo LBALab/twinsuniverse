@@ -37,12 +37,12 @@ Shop](Twinsunian_Souvenir_Shop "wikilink"), for the decent price of 20
 
 ### General
 
-- 
-
-- 
-
-- 
+- [An umbrella??](https://forum.magicball.net/showthread.php?t=7656)
+- [Another strange
+  quote](https://forum.magicball.net/showthread.php?t=5906)
+- [Twinsun - a happy jolly place? I THINK
+  NOT](https://forum.magicball.net/showthread.php?t=155)
 
 ### Fan Art
 
-- 
+- [Lba3](http://forum.magicball.net/showthread.php?p=112171#post112171)

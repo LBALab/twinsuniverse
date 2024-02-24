@@ -33,6 +33,7 @@ dock there.
 
 ## Related threads
 
-- 
-
-- 
+- [buying the boat
+  thing](https://forum.magicball.net/showthread.php?t=12620)
+- [where's my catamaran
+  :(](https://forum.magicball.net/showthread.php?t=12743)

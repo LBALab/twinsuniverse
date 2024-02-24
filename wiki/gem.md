@@ -25,8 +25,8 @@ below the Volcano](Island_below_the_Volcano "wikilink").
 
 ### Hints\Spoilers
 
-- 
-
-- 
-
-- 
+- [help](https://forum.magicball.net/showthread.php?t=11469)
+- [Not enough gems to go back to the Island of the Mosquibees after
+  speaking to queen](https://forum.magicball.net/showthread.php?t=7446)
+- [really really need
+  help](https://forum.magicball.net/showthread.php?t=768)

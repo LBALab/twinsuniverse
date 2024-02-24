@@ -35,10 +35,10 @@ it.
 
 ### General
 
-- 
-
-- 
+- [Grandma](https://forum.magicball.net/showthread.php?t=8431)
+- [Twinsun - a happy jolly place? I THINK
+  NOT](https://forum.magicball.net/showthread.php?t=155)
 
 ### Fan Art
 
-- 
+- [Lba3](http://forum.magicball.net/showthread.php?p=112171#post112171)

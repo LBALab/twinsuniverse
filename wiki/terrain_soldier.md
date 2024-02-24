@@ -50,26 +50,24 @@ are in fact [Quetch](Quetch "wikilink") clones.
 
 ### General
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
+- [Quetch soldiers: the ultimate
+  theory](https://forum.magicball.net/showthread.php?t=6796)
+- [Zzzzoldierz, kill that
+  wife!](https://forum.magicball.net/showthread.php?t=6845)
+- [There are NO
+  quetchclones](https://forum.magicball.net/showthread.php?t=1128)
+- [Eureeka!!](https://forum.magicball.net/showthread.php?t=4474)
+- [hmm...](https://forum.magicball.net/showthread.php?t=587)
+- [The funny and rude bits in
+  LBA...](https://forum.magicball.net/showthread.php?t=250)
 
 ### Fan Art
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
+- [1997 LBA drawings done when I still a
+  schoolboy](https://forum.magicball.net/showthread.php?t=10468)
+- [Random
+  collection](https://forum.magicball.net/showthread.php?t=10242)
+- [First attempt in 2D animation
+  :D](https://forum.magicball.net/showthread.php?t=9129)
+- [Lba3](http://forum.magicball.net/showthread.php?p=112171#post112171)
+- [Hamalayi Soldier](https://forum.magicball.net/showthread.php?t=6816)

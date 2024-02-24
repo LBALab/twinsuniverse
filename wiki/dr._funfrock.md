@@ -92,97 +92,91 @@ Twinsun.
 
 ### General
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
+- [A weird
+  resemblance](https://forum.magicball.net/showthread.php?t=11057)
+- [How did Funfrock get to
+  Zeelich?](https://forum.magicball.net/showthread.php?t=10887)
+- [Twinsun's
+  Destruction](https://forum.magicball.net/showthread.php?t=9405)
+- [LBA2 is over](https://forum.magicball.net/showthread.php?t=9302)
+- [The Comrade, Fuhrer or Fascist is watching
+  you!](https://forum.magicball.net/showthread.php?t=9106)
+- [Toss Up Compensate
+  Match](https://forum.magicball.net/showthread.php?t=8965)
+- [First Semi of the Toss
+  Up!](https://forum.magicball.net/showthread.php?t=8826)
+- [Uncanny FunFrock
+  resemblence...](https://forum.magicball.net/showthread.php?t=8515)
+- [Favourite FunFrock's Factory
+  (FFFF)](https://forum.magicball.net/showthread.php?t=8260)
+- [Funfrock dead?](https://forum.magicball.net/showthread.php?t=7507)
+- [Who should be the villain boss in
+  LBA3?](https://forum.magicball.net/showthread.php?t=5352)
+- [Is Funfrock a
+  Syborg?](https://forum.magicball.net/showthread.php?t=4676)
+- [Fuhrer FunFrock
+  (F.F.F)](https://forum.magicball.net/showthread.php?t=5470)
+- [How 'bout good ol' doctor
+  F?](https://forum.magicball.net/showthread.php?t=4936)
+- [Sendel vs.
+  FunFrock](https://forum.magicball.net/showthread.php?t=4010)
+- [FunFrock
+  teleporting?](https://forum.magicball.net/showthread.php?t=4373)
+- [Twinsen & Funfrock in LBA 1 &
+  2](https://forum.magicball.net/showthread.php?t=4229)
+- [Badguys Special \#1:How did Funfrock take
+  power?](https://forum.magicball.net/showthread.php?t=4074)
+- [Separated at
+  Birth?](https://forum.magicball.net/showthread.php?t=3889)
+- [Voices and other
+  voices](https://forum.magicball.net/showthread.php?t=3792)
+- [A future
+  FunFrock?](https://forum.magicball.net/showthread.php?t=3446)
+- [funfrock\`s alternate
+  names](https://forum.magicball.net/showthread.php?t=2968)
+- [confusing](https://forum.magicball.net/showthread.php?t=2780)
+- [What do you think of FunFrock in
+  LBA?](https://forum.magicball.net/showthread.php?t=2412)
+- ["To the Glory of Doctor
+  FunFrock"](https://forum.magicball.net/showthread.php?t=2323)
+- [Do you remember when...
+  \[spolier\]](https://forum.magicball.net/showthread.php?t=1867)
+- [Twinsun - a happy jolly place? I THINK
+  NOT](https://forum.magicball.net/showthread.php?t=155)
+- [Funfrock's plan](https://forum.magicball.net/showthread.php?t=1267)
+- [I just finished
+  LBA2](https://forum.magicball.net/showthread.php?t=776)
+- [FunFrock's picture in the book in LBA2's
+  intro](https://forum.magicball.net/showthread.php?t=11567)
+- [Random Quote(s)](https://forum.magicball.net/showthread.php?t=11616)
+- ["FunFrock"?](https://forum.magicball.net/showthread.php?t=12133)
 
 ### Hints\Spoilers
 
-- 
-
-- 
-
-- 
+- [every point of interest i could find (lba2) that isnt on this site,
+  that needs to be!](https://forum.magicball.net/showthread.php?t=10385)
+- [lba1 beating
+  funfrock](https://forum.magicball.net/showthread.php?t=5035)
+- [Too Easy To Kill
+  Funfrock...](https://forum.magicball.net/showthread.php?t=4305)
 
 ### Fan art
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
+- [Funfrock 3d](https://forum.magicball.net/showthread.php?t=7125)
+- [For those interested to see what a cell-shaded LBA would look
+  like](https://forum.magicball.net/showthread.php?t=6222)
+- [Edited Film
+  Pictures](http://forum.magicball.net/showthread.php?p=149595#post149595)
+- [1997 LBA drawings done when I still a
+  schoolboy](https://forum.magicball.net/showthread.php?t=10468)
+- [Metal Gear
+  Twinsen](http://forum.magicball.net/showthread.php?p=75079#post75079)
+- [3D Twinsen pics (first
+  attempt)](http://forum.magicball.net/showthread.php?p=230748#post230748)
+- [Lba3](http://forum.magicball.net/showthread.php?p=68933#post68933)
+- [DR. Funfrock](https://forum.magicball.net/showthread.php?t=4596)
+- [Funfrock
+  Wallpaper](https://forum.magicball.net/showthread.php?t=4216)
 
 ## External links
 

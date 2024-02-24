@@ -41,40 +41,35 @@ FunFrock and save Twinsun again.
 
 ### General
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
+- [Sendellism](https://forum.magicball.net/showthread.php?t=9558)
+- [Is Sendell a
+  Girl?](https://forum.magicball.net/showthread.php?t=7653)
+- [Why?](https://forum.magicball.net/showthread.php?t=6949)
+- [LBA2 Mysteries](https://forum.magicball.net/showthread.php?t=5932)
+- [Sendel vs.
+  FunFrock](https://forum.magicball.net/showthread.php?t=4010)
+- [Your preferred "version" of
+  Sendell](https://forum.magicball.net/showthread.php?t=4007)
+- [File that Didier sent
+  me....](https://forum.magicball.net/showthread.php?t=3867)
+- [Sendel, my pc
+  god!](https://forum.magicball.net/showthread.php?t=3536)
+- [Sendell](https://forum.magicball.net/showthread.php?t=3466)
+- [Yet another odd
+  quote](https://forum.magicball.net/showthread.php?t=2442)
 
 ### Fan Art
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
+- [Evil Sendell
+  (lol)](https://forum.magicball.net/showthread.php?t=11564)
+- [Sendell Wallpaper](https://forum.magicball.net/showthread.php?t=9830)
+- [Edited Film
+  Pictures](http://forum.magicball.net/showthread.php?p=149588#post149588)
+- [Lba3](http://forum.magicball.net/showthread.php?p=93688#post93688)
+- [Sendell ^\_^](https://forum.magicball.net/showthread.php?t=3911)
+- [Sendell's new
+  image](https://forum.magicball.net/showthread.php?t=3786)
+- [Sendell takes a
+  turning](https://forum.magicball.net/showthread.php?t=3785)
+- [mystery
+  picture](http://forum.magicball.net/showthread.php?p=297883#post297883)

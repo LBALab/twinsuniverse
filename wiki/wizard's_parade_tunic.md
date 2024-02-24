@@ -39,4 +39,5 @@ Zeelich with the Esmers.
 
 ### Hints\Spoilers
 
-- 
+- [Hidden, and special videos in
+  LBA2](https://forum.magicball.net/showthread.php?t=3969)

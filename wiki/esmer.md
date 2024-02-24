@@ -124,28 +124,28 @@ H.](John_Edgar_H. "wikilink"), agent of the SBI Image:Emperor.jpg\|The
 
 ### General
 
-- 
-
-- 
-
-- 
-
-- 
+- [Your fave esmer
+  charactar](https://forum.magicball.net/showthread.php?t=4990)
+- [The Esmers
+  invasion](https://forum.magicball.net/showthread.php?t=5358)
+- [The Esmers](https://forum.magicball.net/showthread.php?t=5259)
+- [Twinsun - a happy jolly place? I THINK
+  NOT](https://forum.magicball.net/showthread.php?t=155)
 
 ### Hints\Spoilers
 
-- 
+- [The funniest hints ever, & more! (Could anybody tell some
+  more)](https://forum.magicball.net/showthread.php?t=3842)
 
 ### Fan Art
 
-- 
-
-- 
-
-- 
-
-- 
+- [Esmer Shuttle In
+  3D/movie](https://forum.magicball.net/showthread.php?t=650)
+- [Esmer Shuttle](https://forum.magicball.net/showthread.php?t=4788)
+- [Lba3](http://forum.magicball.net/showthread.php?p=112171#post112171)
+- [Esmer drawing](https://forum.magicball.net/showthread.php?t=11891)
 
 ### Fan Fiction
 
-- 
+- [The Esmer Menace (In
+  progress!)](https://forum.magicball.net/showthread.php?t=5441)

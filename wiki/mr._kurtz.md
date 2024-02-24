@@ -24,4 +24,5 @@ vial which contained the potion.
 
 ### Hints\Spoilers
 
-- 
+- [Unsolved
+  mysteries](https://forum.magicball.net/showthread.php?t=1413)

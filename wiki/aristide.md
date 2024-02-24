@@ -19,4 +19,5 @@ shown any sign of posessing magical powers.
 
 ## Related threads
 
-- 
+- [Stupid
+  Aristide...](https://forum.magicball.net/showthread.php?t=5918)

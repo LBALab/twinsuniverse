@@ -25,4 +25,5 @@ Killing Patrick and the other Gloum pays well- 50
 
 ### General
 
-- 
+- [How In The
+  Hell!!!!!](https://forum.magicball.net/showthread.php?t=10976)

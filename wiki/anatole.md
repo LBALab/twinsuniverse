@@ -24,8 +24,10 @@ games against Carlo, which upsets Carlo.
 
 ### General
 
-- 
+- [The Desert Island
+  Bowlers](https://forum.magicball.net/showthread.php?t=11096)
 
 ### Hints\Spoilers
 
-- 
+- [every point of interest i could find (lba2) that isnt on this site,
+  that needs to be!](https://forum.magicball.net/showthread.php?t=10385)

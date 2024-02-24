@@ -34,6 +34,6 @@ Roger de la Fontaine means "Roger of the Fountain" in French.
 
 ### General
 
-- 
-
-- 
+- [The Francos
+  Burgermeister](https://forum.magicball.net/showthread.php?t=4766)
+- [Burgermaster?](https://forum.magicball.net/showthread.php?t=893)

@@ -27,4 +27,5 @@ the sum required to pay Carlo.
 
 ### General
 
-- 
+- [Is it possible to get the box out without paying the
+  guy?](https://forum.magicball.net/showthread.php?t=11086)

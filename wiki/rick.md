@@ -36,11 +36,11 @@ Hotel](Imperial_Hotel "wikilink"), who is the head of the rebelling
 
 ### General
 
-- 
+- [The Godfather](https://forum.magicball.net/showthread.php?t=7112)
 
 ### Hints\Spoilers
 
-- 
+- [Talking to Rick](https://forum.magicball.net/showthread.php?t=12581)
 
 ## External links
 

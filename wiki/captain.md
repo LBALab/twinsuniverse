@@ -34,4 +34,4 @@ charges twice as much for journeys as the other captains in the harbour.
 
 ### General
 
-- 
+- [Another quote..](https://forum.magicball.net/showthread.php?t=674)

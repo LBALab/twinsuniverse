@@ -45,14 +45,15 @@ Island](Volcano_Island "wikilink").
 
 ### General
 
-- 
+- [Sups vs.
+  Mosquibee's!](https://forum.magicball.net/showthread.php?t=4677)
 
 ### Hints\Spoilers
 
-- 
+- [LBA 2 Goofs](https://forum.magicball.net/showthread.php?t=10415)
 
 ### Fan Art
 
-- 
-
-- 
+- [Lba3](http://forum.magicball.net/showthread.php?p=84457#post84457)
+- [Think of the mosquibees
+  please!](https://forum.magicball.net/showthread.php?t=12119)

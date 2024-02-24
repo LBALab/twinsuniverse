@@ -40,4 +40,4 @@ in [Dark Monk's statue](Dark_Monk's_statue "wikilink").
 
 ### General
 
-- 
+- [Ker'Aooc...](https://forum.magicball.net/showthread.php?t=6468)

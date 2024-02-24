@@ -26,4 +26,5 @@ killed by Twinsen.
 
 ### General
 
-- 
+- [Pharmacist's relation in the telling of the
+  dream.](https://forum.magicball.net/showthread.php?t=4111)

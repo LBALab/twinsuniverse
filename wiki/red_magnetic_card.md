@@ -38,14 +38,11 @@ the lift at the ski summit.
 
 ### Hints\Spoilers
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
+- [red card](https://forum.magicball.net/showthread.php?t=11467)
+- [Red Card!](https://forum.magicball.net/showthread.php?t=10005)
+- [LBA1: red card](https://forum.magicball.net/showthread.php?t=8523)
+- [Red card in LBA1](https://forum.magicball.net/showthread.php?t=7169)
+- [haha Red Card Problem this
+  time...](https://forum.magicball.net/showthread.php?t=4968)
+- [Help in early
+  LBA1](https://forum.magicball.net/showthread.php?t=12118)

@@ -40,12 +40,13 @@ Island](Citadel_Island "wikilink").
 
 ### General
 
-- 
-
-- 
-
-- 
+- [Interesting LBA facts
+  \[Discuss\]](https://forum.magicball.net/showthread.php?t=10195)
+- [Dad! Do you have a key with
+  you?](https://forum.magicball.net/showthread.php?t=2886)
+- [Another odd quote](https://forum.magicball.net/showthread.php?t=2481)
 
 ### Hints\Spoilers
 
-- 
+- [Bit of Help,
+  please??](https://forum.magicball.net/showthread.php?t=7260)

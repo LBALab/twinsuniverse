@@ -62,39 +62,37 @@ Ball
 
 ### General
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
+- [Your impression of the magic
+  ball](https://forum.magicball.net/showthread.php?t=11114)
+- [I find it
+  funny...](https://forum.magicball.net/showthread.php?t=8339)
+- [The magic ball... (LBA2 at
+  least)](https://forum.magicball.net/showthread.php?t=7915)
+- [What is a magic
+  ball???](https://forum.magicball.net/showthread.php?t=6354)
+- [Magicball soundeffect
+  cameo](https://forum.magicball.net/showthread.php?t=6010)
+- [Fire ball](https://forum.magicball.net/showthread.php?t=5645)
+- [Microsoft rips off
+  LBA!](https://forum.magicball.net/showthread.php?t=11661)
 
 ### Fan Art
 
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
+- [Twinsen](https://forum.magicball.net/showthread.php?t=11287)
+- [The Heir](https://forum.magicball.net/showthread.php?t=11291)
+- [Old drawing from
+  2000](https://forum.magicball.net/showthread.php?t=11279)
+- [Authur takes control of his destiny...A twinsen Fan
+  comic...(rough)](https://forum.magicball.net/showthread.php?t=10941)
+- [Twinsen, my
+  style](https://forum.magicball.net/showthread.php?t=11083)
+- [Ka-meh-ha-meh.. I mean Magic ball
+  blast](https://forum.magicball.net/showthread.php?t=10812)
+- [Twinsen with magic ball
+  pics](https://forum.magicball.net/showthread.php?t=1644)
+- [Lba3](http://forum.magicball.net/showthread.php?p=67040#post67040)
+- [Twinsen Magic Balls
+  (skill)](https://forum.magicball.net/showthread.php?t=12131)
 
 ## External links
 
