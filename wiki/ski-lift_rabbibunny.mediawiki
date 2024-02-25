@@ -2,7 +2,7 @@
 title: Ski-lift Rabbibunny
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Ski-lift_rabbibunny.JPG
  |race=rabbibunny
  |gender=Male

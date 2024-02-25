@@ -2,7 +2,7 @@
 title: Ferryman's Song
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Song.gif
  |type=tool
  |critical=yes

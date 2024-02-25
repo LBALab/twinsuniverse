@@ -2,7 +2,7 @@
 title: Nurse
 ---
 
-{{twinsunica import}}{{Infobox Enemy
+{{Infobox Enemy
  |image=Nurse2.gif
  |race=quetch
  |gender=male

@@ -2,7 +2,7 @@
 title: Zed
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Zed.png
  |race=grobo
  |gender=Male

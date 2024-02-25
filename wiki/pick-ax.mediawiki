@@ -2,7 +2,7 @@
 title: Pick-ax
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Pickax.gif
  |type=tool
  |critical=yes

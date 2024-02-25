@@ -2,7 +2,7 @@
 title: Scooterbunny
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Scooter.png
  |race=rabbibunny
  |gender=male

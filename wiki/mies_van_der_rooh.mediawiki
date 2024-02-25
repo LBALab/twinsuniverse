@@ -2,7 +2,7 @@
 title: Mies van der Rooh
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Mies1.png
  |race=rabbibunny
  |gender=Male

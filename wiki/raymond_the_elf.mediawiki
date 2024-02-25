@@ -2,7 +2,7 @@
 title: Raymond the Elf
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Raymond1.png
  |race=creature|label=elf
  |gender=male

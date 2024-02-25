@@ -2,7 +2,7 @@
 title: Catamaran
 ---
 
-{{twinsunica import}}{{Infobox Transport
+{{Infobox Transport
  |image=
 }}
 

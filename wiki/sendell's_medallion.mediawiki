@@ -2,7 +2,7 @@
 title: Sendell's Medallion
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=sendells_medallion.png
  |type=equipment
  |critical=yes

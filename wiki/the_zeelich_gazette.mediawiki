@@ -2,7 +2,7 @@
 title: The Zeelich Gazette
 ---
 
-{{twinsunica import}}{{Infobox Story
+{{Infobox Story
  |image=
  |type=newspaper
  |lba1=

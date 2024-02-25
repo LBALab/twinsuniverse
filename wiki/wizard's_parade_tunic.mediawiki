@@ -2,7 +2,7 @@
 title: Wizard's Parade Tunic
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Wizard.gif
  |type=equipment
  |critical=yes

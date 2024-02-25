@@ -2,7 +2,7 @@
 title: Red Rabbibunny Clone
 ---
 
-{{twinsunica import}}{{Infobox Enemy
+{{Infobox Enemy
  |image=Red_rabbibunny_clone.JPG
  |race=rabbibunny
  |gender=male

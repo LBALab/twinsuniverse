@@ -2,7 +2,7 @@
 title: Wannies Glove
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Glove.gif
  |type=weapon
  |critical=yes

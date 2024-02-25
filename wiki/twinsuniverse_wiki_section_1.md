@@ -11,7 +11,7 @@ tags:
 
 <figure>
 <img src="Twinsen.jpg" title="Twinsen.jpg" width="100" />
-<figcaption>Twinsen.jpg</figcaption>
+
 </figure>
 
 </div>
@@ -20,7 +20,7 @@ tags:
 <figure>
 <img src="Book_light_transparent.png" title="Book_light_transparent.png"
 width="100" />
-<figcaption>Book_light_transparent.png</figcaption>
+
 </figure>
 
 </div>

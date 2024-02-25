@@ -2,7 +2,7 @@
 title: Rabbibunny Village Man
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Rabbibunny_villager_1.JPG
  |race=rabbibunny
  |gender=male

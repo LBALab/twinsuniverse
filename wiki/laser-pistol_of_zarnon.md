@@ -7,12 +7,13 @@ redirect_from:
  - wiki/Laser-pistol
 ---
 
-<img src="Laser-pistol.png"
-title="The Laser-Pistol without rock crystal" width="150"
-alt="The Laser-Pistol without rock crystal" /> <img
-src="Wannie_dissident_with_pistolaser_of_zarnon_by_lapichon-d67w9b4.png"
-title="Laserpistol fan art by SpaceGuitarist" width="200"
-alt="Laserpistol fan art by SpaceGuitarist" />
+<img src="assets/lba2/_inventory/laser-pistol.png"
+title="assets/lba2/_inventory/laser-pistol.png" width="150"
+alt="assets/lba2/_inventory/laser-pistol.png" /> <img
+src="assets/archive/wannie_dissident_with_pistolaser_of_zarnon_by_lapichon-d67w9b4.png"
+title="assets/archive/wannie_dissident_with_pistolaser_of_zarnon_by_lapichon-d67w9b4.png"
+width="200"
+alt="assets/archive/wannie_dissident_with_pistolaser_of_zarnon_by_lapichon-d67w9b4.png" />
 
 The **Laser-Pistol of Zarnon**, usually referred to as **laser-pistol**
 or **pisto-laser**, is a pistol loaded with [rock

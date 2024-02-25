@@ -2,7 +2,7 @@
 title: Yellow Rabbibunny Clone
 ---
 
-{{twinsunica import}}{{Infobox Enemy
+{{Infobox Enemy
  |image=
  |race=rabbibunny
  |gender=male

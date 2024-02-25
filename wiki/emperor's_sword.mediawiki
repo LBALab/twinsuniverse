@@ -2,7 +2,7 @@
 title: Emperor's Sword
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Sword.gif
  |type=weapon
  |critical=yes

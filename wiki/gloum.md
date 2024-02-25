@@ -10,9 +10,8 @@ tags:
 ---
 
 <figure>
-<img src="DVPATRIK.JPG" title="Patrick, a gloum" width="143" />
-<figcaption><a href="Patrick" title="wikilink">Patrick</a>, a
-gloum</figcaption>
+<img src="dvpatrik.jpg" title="dvpatrik.jpg" width="143" />
+<figcaption>dvpatrik.jpg</figcaption>
 </figure>
 
 **Gloums** are large Alligator-like creatures on

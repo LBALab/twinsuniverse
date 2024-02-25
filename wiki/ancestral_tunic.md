@@ -28,10 +28,10 @@ legend](the_legend "wikilink"), who are also blue.
 
 ## During FunFrock's Reign
 
-<img src="LBA1_-_Twinsen_obtains_Tunic.JPG"
-title="Twinsen&#39;s reaction upon obtaining his Ancestral Tunic in his house in LBA1."
+<img src="assets/lba1/_screenshots/lba1_-_twinsen_obtains_tunic.jpg"
+title="assets/lba1/_screenshots/lba1_-_twinsen_obtains_tunic.jpg"
 width="300"
-alt="Twinsen&#39;s reaction upon obtaining his Ancestral Tunic in his house in LBA1." />
+alt="assets/lba1/_screenshots/lba1_-_twinsen_obtains_tunic.jpg" />
 Escaping from the [Citadel](Citadel "wikilink") at the beginning of the
 game, [Twinsen](Twinsen "wikilink") makes it to [his and Zoe's
 house](Twinsen's_house "wikilink"). Soon after Zoe is captured, and

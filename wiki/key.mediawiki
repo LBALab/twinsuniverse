@@ -2,7 +2,7 @@
 title: Key
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Key1.gif
  |type=bonus
  |critical=yes

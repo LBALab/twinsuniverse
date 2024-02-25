@@ -2,7 +2,7 @@
 title: Dark Monk's Prophecy
 ---
 
-{{twinsunica import}}{{Infobox Story
+{{Infobox Story
  |image=DARK.JPG
  |type=legend
  |lba1=

@@ -2,7 +2,7 @@
 title: Lanktir
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Sailor Lanktir1.png
  |race=grobo
  |gender=Male

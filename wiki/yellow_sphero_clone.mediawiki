@@ -2,7 +2,7 @@
 title: Yellow Sphero Clone
 ---
 
-{{twinsunica import}}{{Infobox Enemy
+{{Infobox Enemy
  |image=Yellow_sphero_clone.JPG‎
  |race=sphero
  |gender=male

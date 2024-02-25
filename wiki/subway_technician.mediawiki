@@ -2,7 +2,7 @@
 title: Subway Technician
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=‎Subway_Technician.JPG
  |race=grobo
  |gender=Male

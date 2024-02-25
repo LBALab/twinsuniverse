@@ -2,7 +2,7 @@
 title: Translator
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Translat.gif
  |type=tool
  |critical=acquired

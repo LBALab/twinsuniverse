@@ -4,19 +4,22 @@ permalink: wiki/Terrain_Soldier
 layout: wiki
 ---
 
-![Soldier in action](Lba_ingame_terrain_soldier.jpg "Soldier in action")
+![Soldier in
+action](assets/lba1/_characters/lba_ingame_terrain_soldier.jpg "Soldier in action")\]\]
 ![Soldier with a white
-camouflage](Whtsoldier.gif "Soldier with a white camouflage") ![Soldier
-with a cannon](Soldier2.gif "Soldier with a cannon") **Terrain
-soldiers** are the basic soldiers in [FunFrock](FunFrock "wikilink")'s
-army. They can be seen with a yellow suit on the [Island of the White
-Leaf Desert](Island_of_the_White_Leaf_Desert "wikilink"), with a white
-suit in the [Hamalayi Mountains](Hamalayi_Mountains "wikilink"), and
-with a green one everywhere else. They're omnipresent. They are
-patrolling in nearly every public place, like [Lupin
-Burg](Lupin_Burg "wikilink"), the [Old Burg](Old_Burg "wikilink") and
-the rest of [Principal Island](Principal_Island "wikilink"), the
-[Maritime Museum](Maritime_Museum "wikilink") on [Proxima
+camouflage](assets/lba1/_characters/whtsoldier.gif "Soldier with a white camouflage")\]\]
+![Soldier with a
+cannon](assets/lba1/_characters/soldier2.gif "Soldier with a cannon")\]\]
+**Terrain soldiers** are the basic soldiers in
+[FunFrock](FunFrock "wikilink")'s army. They can be seen with a yellow
+suit on the [Island of the White Leaf
+Desert](Island_of_the_White_Leaf_Desert "wikilink"), with a white suit
+in the [Hamalayi Mountains](Hamalayi_Mountains "wikilink"), and with a
+green one everywhere else. They're omnipresent. They are patrolling in
+nearly every public place, like [Lupin Burg](Lupin_Burg "wikilink"), the
+[Old Burg](Old_Burg "wikilink") and the rest of [Principal
+Island](Principal_Island "wikilink"), the [Maritime
+Museum](Maritime_Museum "wikilink") on [Proxima
 Island](Proxima_Island "wikilink"), in the [Hamalayi
 Mountains](Hamalayi_Mountains "wikilink") and at all fortresses and
 factories of FunFrock. There's a [military

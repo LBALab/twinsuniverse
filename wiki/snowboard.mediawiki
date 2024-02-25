@@ -2,7 +2,7 @@
 title: Snowboard
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=06_snowboard.gif
  |type=equipment
  |critical=acquired

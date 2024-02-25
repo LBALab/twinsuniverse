@@ -2,7 +2,7 @@
 title: The Tralü
 ---
 
-{{twinsunica import}}{{Infobox Enemy
+{{Infobox Enemy
  |image=The Tralü.jpg
  |race=creature|label=monster
  |gender=male

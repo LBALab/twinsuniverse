@@ -2,7 +2,7 @@
 title: Roger de la Fontaine
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=
  |race=franco
  |gender=male

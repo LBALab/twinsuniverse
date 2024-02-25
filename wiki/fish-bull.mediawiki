@@ -2,7 +2,7 @@
 title: Fish-Bull
 ---
 
-{{twinsunica import}}{{Infobox Enemy
+{{Infobox Enemy
  |image=Fish-Bull.jpg
  |race=creature|label=dog
  |gender=male

@@ -10,8 +10,9 @@ tags:
 ---
 
 <figure>
-<img src="GroboAnim.gif" title="A Grobo" width="95" />
-<figcaption>A Grobo</figcaption>
+<img src="assets/lba2/_characters/groboanim.gif"
+title="assets/lba2/_characters/groboanim.gif" width="95" />
+<figcaption>assets/lba2/_characters/groboanim.gif</figcaption>
 </figure>
 
 **Grobo** is one of the four main species of

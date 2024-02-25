@@ -2,7 +2,7 @@
 title: Valentin
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Valentin.jpg
  |race=franco
  |gender=male

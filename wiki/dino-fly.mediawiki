@@ -2,7 +2,7 @@
 title: Dino-Fly
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Dino-Fly.jpg
  |race=creature|label=dino
  |gender=male

@@ -2,7 +2,7 @@
 title: Zoé
 ---
 
-{{twinsunica import}}{{Stub}}
+{{Stub}}
 {{Infobox Character
  |image=Zoé.jpg
  |race=Quetch

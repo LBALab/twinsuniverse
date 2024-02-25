@@ -2,7 +2,7 @@
 title: Telepod
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Telepod.gif
  |type=tool
  |critical=no

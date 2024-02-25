@@ -2,7 +2,7 @@
 title: Twinsen's car
 ---
 
-{{twinsunica import}}{{Infobox Transport
+{{Infobox Transport
  |image=
 }}
 

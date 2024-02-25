@@ -2,7 +2,7 @@
 title: Nitro-Meca-Penguin
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Meca.gif
  |type=weapon
  |critical=no

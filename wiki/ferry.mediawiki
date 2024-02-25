@@ -2,7 +2,7 @@
 title: Ferry
 ---
 
-{{twinsunica import}}{{Infobox Transport
+{{Infobox Transport
  |image=
 }}
 

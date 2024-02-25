@@ -2,7 +2,7 @@
 title: Money-Monkey
 ---
 
-{{twinsunica import}}{{Infobox Enemy
+{{Infobox Enemy
  |image=Money-Monkey.jpg
  |race=creature|label=Monkey
  |gender=male

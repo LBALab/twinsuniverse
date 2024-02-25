@@ -2,7 +2,7 @@
 title: Terrain Soldier
 ---
 
-{{twinsunica import}}{{Infobox Enemy
+{{Infobox Enemy
  |image=
  |race=quetch
  |gender=male

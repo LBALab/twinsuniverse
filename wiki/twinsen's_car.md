@@ -4,8 +4,9 @@ permalink: wiki/Twinsen's_car
 layout: wiki
 ---
 
-<img src="Twincar.gif" title="Twinsen in his car." width="126"
-alt="Twinsen in his car." />
+<img src="assets/lba2/_characters/twincar.gif"
+title="assets/lba2/_characters/twincar.gif" width="126"
+alt="assets/lba2/_characters/twincar.gif" />
 
 ## Description
 

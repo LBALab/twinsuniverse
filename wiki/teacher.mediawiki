@@ -2,7 +2,7 @@
 title: Teacher
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Teacher.png
  |race=rabbibunny
  |gender=female

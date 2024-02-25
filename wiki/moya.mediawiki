@@ -2,7 +2,7 @@
 title: Moya
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=
  |race=creature|label=seaturtle
  |gender=female

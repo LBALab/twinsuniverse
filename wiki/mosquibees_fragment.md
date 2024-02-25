@@ -6,11 +6,10 @@ layout: wiki
 
 <figure>
 <img
-src="Screenshot-lba2-ingame-island_of_the_mosquibees-fragment_island_1.gif"
-title="Twinsen battling a gas monster for the key containing the fragment"
+src="assets/lba2/_screenshots/screenshot-lba2-ingame-island_of_the_mosquibees-fragment_island_1.gif"
+title="assets/lba2/_screenshots/screenshot-lba2-ingame-island_of_the_mosquibees-fragment_island_1.gif"
 width="200" />
-<figcaption>Twinsen battling a gas monster for the key containing the
-fragment</figcaption>
+<figcaption>assets/lba2/_screenshots/screenshot-lba2-ingame-island_of_the_mosquibees-fragment_island_1.gif</figcaption>
 </figure>
 
 The **Mosquibees Fragment** is one of the four fragments which together

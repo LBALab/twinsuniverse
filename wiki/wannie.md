@@ -10,8 +10,9 @@ tags:
 ---
 
 <figure>
-<img src="BlafardAnim.gif" title="A Wannie" width="74" />
-<figcaption>A Wannie</figcaption>
+<img src="assets/lba2/_characters/blafardanim.gif"
+title="assets/lba2/_characters/blafardanim.gif" />
+<figcaption>assets/lba2/_characters/blafardanim.gif</figcaption>
 </figure>
 
 Kind of big moles who stand on two feet. They live in families in

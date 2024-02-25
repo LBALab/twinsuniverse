@@ -2,7 +2,7 @@
 title: Mr. Bazoo
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Mr. Bazoo.png
  |race=grobo
  |gender=Male

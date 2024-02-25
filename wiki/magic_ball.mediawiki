@@ -2,7 +2,7 @@
 title: Magic Ball
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Yellowball.gif
  |type=weapon
  |critical=yes

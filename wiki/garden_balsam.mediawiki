@@ -2,7 +2,7 @@
 title: Garden Balsam
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Flower.gif
  |type=quest
  |critical=yes

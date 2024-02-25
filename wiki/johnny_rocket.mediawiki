@@ -2,7 +2,7 @@
 title: Johnny Rocket
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Johnny Rocket.jpg
  |race=sup
  |gender=male

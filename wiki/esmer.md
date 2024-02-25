@@ -20,9 +20,11 @@ redirect_from:
 ---
 
 <figure>
-<img src="Screenshot-lba2-movies-03-esmers_arrival-SORT800.gif"
-title="An Esmer." width="200" />
-<figcaption>An Esmer.</figcaption>
+<img
+src="assets/lba2/_cutscenes/screenshot-lba2-movies-03-esmers_arrival-sort800.gif"
+title="assets/lba2/_cutscenes/screenshot-lba2-movies-03-esmers_arrival-sort800.gif"
+width="200" />
+<figcaption>assets/lba2/_cutscenes/screenshot-lba2-movies-03-esmers_arrival-sort800.gif</figcaption>
 </figure>
 
 **Esmers** is a general name for the inhabitants of

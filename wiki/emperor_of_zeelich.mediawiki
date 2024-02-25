@@ -2,7 +2,7 @@
 title: Emperor of Zeelich
 ---
 
-{{twinsunica import}}{{Infobox Enemy
+{{Infobox Enemy
  |image=Emperor.jpg
  |race=sup
  |gender=male

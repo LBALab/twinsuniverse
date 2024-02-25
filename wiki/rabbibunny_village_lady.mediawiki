@@ -2,7 +2,7 @@
 title: Rabbibunny Village Lady
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Rabbibunny_Village_lady.JPG
  |race=rabbibunny
  |gender=female

@@ -2,7 +2,7 @@
 title: Bonuses List
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=List_with_clover_boxes_locations1.png
  |type=reward
  |critical=no

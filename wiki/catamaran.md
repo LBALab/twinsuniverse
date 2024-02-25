@@ -5,10 +5,9 @@ layout: wiki
 ---
 
 <figure>
-<img src="Catamara.gif"
-title="The catamaran with the pirate flag attached." width="199" />
-<figcaption>The catamaran with the <a href="pirate_flag"
-title="wikilink">pirate flag</a> attached.</figcaption>
+<img src="assets/lba1/_transport_vehicles/catamara.gif"
+title="assets/lba1/_transport_vehicles/catamara.gif" width="199" />
+<figcaption>assets/lba1/_transport_vehicles/catamara.gif</figcaption>
 </figure>
 
 The **catamaran** is a yellow boat owned by

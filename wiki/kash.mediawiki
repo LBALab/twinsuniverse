@@ -2,7 +2,7 @@
 title: Kash
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Kashes.gif
  |type=bonus
  |critical=yes

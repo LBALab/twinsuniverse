@@ -2,7 +2,7 @@
 title: Yellow Grobo Clone
 ---
 
-{{twinsunica import}}{{Infobox Enemy
+{{Infobox Enemy
  |image=
  |race=grobo
  |gender=male

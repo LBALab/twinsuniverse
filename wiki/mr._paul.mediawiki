@@ -2,7 +2,7 @@
 title: Mr. Paul
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Mr. Paul.png
  |race=grobo
  |gender=Male

@@ -2,7 +2,7 @@
 title: Chuette
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Chuette.jpg
  |race=creature|label=owl
  |gender=none

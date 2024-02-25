@@ -2,7 +2,7 @@
 title: Wadbull
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Wadbull.jpg
  |race=rabbibunny
  |gender=male

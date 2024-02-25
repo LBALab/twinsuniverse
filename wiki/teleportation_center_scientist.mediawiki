@@ -2,7 +2,7 @@
 title: Teleportation Center scientist
 ---
 
-{{twinsunica import}}{{Infobox Enemy
+{{Infobox Enemy
  |image=
  |race=Quetch
  |gender=Male

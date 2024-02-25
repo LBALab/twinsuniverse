@@ -7,8 +7,9 @@ tags:
 ---
 
 <figure>
-<img src="Schmoutz.jpg" title="A schmoutz" />
-<figcaption>A schmoutz</figcaption>
+<img src="assets/lba2/_characters/frames/schmoutz.jpg"
+title="assets/lba2/_characters/frames/schmoutz.jpg" />
+<figcaption>assets/lba2/_characters/frames/schmoutz.jpg</figcaption>
 </figure>
 
 A **Schmoutz** is a yellow creature which looks like a fusion of a puppy

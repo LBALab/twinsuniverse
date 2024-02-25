@@ -5,8 +5,9 @@ layout: wiki
 ---
 
 <figure>
-<img src="02_ferry.gif" title="The old ferry." width="200" />
-<figcaption>The old ferry.</figcaption>
+<img src="assets/lba1/_cutscenes/02_ferry.gif"
+title="assets/lba1/_cutscenes/02_ferry.gif" width="200" />
+<figcaption>assets/lba1/_cutscenes/02_ferry.gif</figcaption>
 </figure>
 
 **Ferries** in the [Little Big
@@ -22,10 +23,12 @@ hovercraft. During the time of the [Esmer
 invasion](Esmer_invasion "wikilink"), the ferry services are not
 allowed.
 
-<img src="BOAT_2.preview.JPG" title="The new ferry." width="200"
-alt="The new ferry." /> [Twinsen](Twinsen "wikilink") has to use the
-ferries several times during his adventures. He first needs it to get to
-[Principal Island](Principal_Island "wikilink"). As the
+<img src="assets/lba2/_cutscenes/boat_2.preview.jpg"
+title="assets/lba2/_cutscenes/boat_2.preview.jpg" width="200"
+alt="assets/lba2/_cutscenes/boat_2.preview.jpg" />
+[Twinsen](Twinsen "wikilink") has to use the ferries several times
+during his adventures. He first needs it to get to [Principal
+Island](Principal_Island "wikilink"). As the
 [rabbibunny](rabbibunny "wikilink") at the ferry ticket store recognizes
 him as the wanted refugee, however, he has to buy fake ferry tickets
 from a [grobo](grobo "wikilink"). He first has to help the grobo moving

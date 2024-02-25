@@ -2,7 +2,7 @@
 title: Ring of Lightning
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Lightning.gif
  |type=weapon
  |critical=yes

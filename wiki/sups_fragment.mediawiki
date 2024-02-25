@@ -2,7 +2,7 @@
 title: Sups Fragment
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Sups fragment.png
  |type=component
  |critical=yes

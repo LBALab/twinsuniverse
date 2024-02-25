@@ -2,7 +2,7 @@
 title: Sendell
 ---
 
-{{twinsunica import}}
+
 {{Infobox Character
  |image=Sendell.jpg
  |race=god

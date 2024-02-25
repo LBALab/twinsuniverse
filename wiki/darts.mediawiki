@@ -2,7 +2,7 @@
 title: Darts
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Darts.gif
  |type=weapon
  |critical=no

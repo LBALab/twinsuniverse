@@ -2,7 +2,7 @@
 title: Bottle of Syrup
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Bottle of Syrup1.png
  |type=quest
  |critical=yes

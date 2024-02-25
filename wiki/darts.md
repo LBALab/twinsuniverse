@@ -15,9 +15,10 @@ free at some places. After throwing a dart, it can be retrieved by
 simply walking over it.
 
 <figure>
-<img src="LBA2_-_Twinsen_facing_darts_in_his_basement.jpg"
-title="Twinsen facing 3 darts in his house" width="250" />
-<figcaption>Twinsen facing 3 darts in his house</figcaption>
+<img
+src="assets/lba2/_screenshots/lba2_-_twinsen_facing_darts_in_his_basement.jpg"
+title="assets/lba2/_screenshots/lba2_-_twinsen_facing_darts_in_his_basement.jpg" />
+<figcaption>assets/lba2/_screenshots/lba2_-_twinsen_facing_darts_in_his_basement.jpg</figcaption>
 </figure>
 
 [Twinsen](Twinsen "wikilink") uses the darts very little in the game. He

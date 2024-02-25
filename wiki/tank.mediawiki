@@ -2,7 +2,7 @@
 title: Tank
 ---
 
-{{twinsunica import}}{{Infobox Enemy
+{{Infobox Enemy
  |image=Tank.gif
  |race=artillery
  |gender=none

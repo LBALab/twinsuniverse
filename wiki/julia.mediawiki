@@ -2,7 +2,7 @@
 title: Julia
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Rabbibrunette1.png
  |race=rabbibunny
  |gender=Female

@@ -2,7 +2,7 @@
 title: Keypad
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Keypad1.png
  |type=key
  |critical=no

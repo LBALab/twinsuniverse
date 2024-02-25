@@ -2,7 +2,7 @@
 title: Supergro
 ---
 
-{{twinsunica import}}{{Infobox Enemy
+{{Infobox Enemy
  |image=Whiteclone.gif
  |race=grobo
  |gender=male

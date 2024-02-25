@@ -2,7 +2,7 @@
 title: Dr. FunFrock
 ---
 
-{{twinsunica import}}{{Infobox Enemy
+{{Infobox Enemy
  |image=Dr. FunFrock.png
  |race=Quetch
  |gender=Male

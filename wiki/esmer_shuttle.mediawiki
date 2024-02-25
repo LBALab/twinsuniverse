@@ -2,7 +2,7 @@
 title: Esmer shuttle
 ---
 
-{{twinsunica import}}{{Infobox Transport
+{{Infobox Transport
  |image=
 }}
 

@@ -2,7 +2,7 @@
 title: Holomap
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Holomap.gif
  |type=tool
  |critical=no

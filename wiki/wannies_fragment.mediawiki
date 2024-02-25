@@ -2,7 +2,7 @@
 title: Wannies Fragment
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=
  |type=component
  |critical=yes

@@ -2,7 +2,7 @@
 title: Laser-Pistol of Zarnon
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Laser.gif
  |type=weapon
  |critical=yes

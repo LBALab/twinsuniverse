@@ -2,7 +2,7 @@
 title: Ring of the Dissidents
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Ring.gif
  |type=quest
  |critical=yes

@@ -2,7 +2,7 @@
 title: The Official Rumor
 ---
 
-{{twinsunica import}}{{Infobox Story
+{{Infobox Story
  |image=News.gif
  |type=newspaper
  |lba1=

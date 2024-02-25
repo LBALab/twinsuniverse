@@ -2,7 +2,7 @@
 title: FunFrock's Reign
 ---
 
-{{twinsunica import}}{{Infobox Story
+{{Infobox Story
  |image=
  |type=adventure
  |lba1=yes

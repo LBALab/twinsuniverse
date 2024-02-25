@@ -2,7 +2,7 @@
 title: Gem
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Gem.gif
  |type=currency
  |critical=yes

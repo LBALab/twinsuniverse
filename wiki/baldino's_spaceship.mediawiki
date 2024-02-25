@@ -2,7 +2,7 @@
 title: Baldino's Spaceship
 ---
 
-{{twinsunica import}}{{Infobox Transport
+{{Infobox Transport
  |image=
 }}
 

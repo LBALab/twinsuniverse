@@ -2,7 +2,7 @@
 title: Rosa-Marie
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Rosa-Marie.jpg
  |race=creature|label=cow
  |gender=female

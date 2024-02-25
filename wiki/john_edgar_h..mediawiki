@@ -2,7 +2,7 @@
 title: John Edgar H.
 ---
 
-{{twinsunica import}}{{Infobox Enemy
+{{Infobox Enemy
  |image=John Edgar H..jpg
  |race=Sup
  |gender=Male

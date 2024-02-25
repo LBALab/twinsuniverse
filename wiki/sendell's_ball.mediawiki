@@ -2,7 +2,7 @@
 title: Sendell's Ball
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Sendbal.gif
  |type=tool
  |critical=yes

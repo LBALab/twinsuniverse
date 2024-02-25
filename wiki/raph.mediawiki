@@ -2,7 +2,7 @@
 title: Raph
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Raph.jpg
  |race=rabbibunny
  |gender=male

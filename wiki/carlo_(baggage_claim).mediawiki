@@ -2,7 +2,7 @@
 title: Carlo (Baggage Claim)
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Carlo (Baggage Claim).jpg
  |race=quetch
  |gender=Male

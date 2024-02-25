@@ -2,7 +2,7 @@
 title: Franckie
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Franckie.png
  |race=Franco
  |gender=Male

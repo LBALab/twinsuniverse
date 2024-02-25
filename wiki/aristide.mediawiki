@@ -2,7 +2,7 @@
 title: Aristide
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Aristide.jpg
  |race=Grobo
  |gender=Male

@@ -2,7 +2,7 @@
 title: Joe the Elf
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Joe the Elf.jpg
  |race=creature|label=elf
  |gender=male

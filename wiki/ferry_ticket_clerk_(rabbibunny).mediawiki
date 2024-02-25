@@ -2,7 +2,7 @@
 title: Ferry Ticket Clerk (Rabbibunny)
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Ticket_clerk_rabbibunny.JPG
  |race=Rabbibunny
  |gender=Male

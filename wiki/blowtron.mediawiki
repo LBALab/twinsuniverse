@@ -2,7 +2,7 @@
 title: Blowtron
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Blowtron.gif
  |type=weapon
  |critical=acquired

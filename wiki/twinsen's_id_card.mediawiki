@@ -2,7 +2,7 @@
 title: Twinsen's ID Card
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Twinsen's_ID_card1.png
  |type=key
  |critical=no

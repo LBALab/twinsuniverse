@@ -2,7 +2,7 @@
 title: Georgette
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Georgette.jpg
  |race=creature|label=kangaroo
  |gender=female

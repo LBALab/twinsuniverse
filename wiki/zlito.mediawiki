@@ -2,7 +2,7 @@
 title: Zlito
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Zlito.gif
  |type=bonus
  |critical=yes

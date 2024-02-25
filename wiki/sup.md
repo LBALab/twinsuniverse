@@ -10,8 +10,9 @@ tags:
 ---
 
 <figure>
-<img src="SupAnim.gif" title="Sup" width="52" />
-<figcaption>Sup</figcaption>
+<img src="assets/lba2/_characters/supanim.gif"
+title="assets/lba2/_characters/supanim.gif" width="52" />
+<figcaption>assets/lba2/_characters/supanim.gif</figcaption>
 </figure>
 
 ## Description

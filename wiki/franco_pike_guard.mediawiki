@@ -2,7 +2,7 @@
 title: Franco Pike Guard
 ---
 
-{{twinsunica import}}{{Infobox Enemy
+{{Infobox Enemy
  |image=Franco Pike Guard.jpg
  |race=franco
  |gender=male

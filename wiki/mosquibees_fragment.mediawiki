@@ -2,7 +2,7 @@
 title: Mosquibees Fragment
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Mosquibees_fragment.png
  |type=component
  |critical=yes

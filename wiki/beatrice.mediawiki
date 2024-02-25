@@ -2,7 +2,7 @@
 title: Beatrice
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Rabbibrunette1.png
  |race=Rabbibunny
  |gender=Female

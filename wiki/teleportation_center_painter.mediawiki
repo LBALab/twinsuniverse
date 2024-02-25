@@ -2,7 +2,7 @@
 title: Teleportation Center Painter
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=
  |race=rabbibunny
  |gender=male

@@ -2,7 +2,7 @@
 title: Mr. Kurtz
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Kurtz.png
  |race=franco
  |gender=male

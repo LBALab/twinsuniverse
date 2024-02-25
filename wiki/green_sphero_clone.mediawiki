@@ -2,7 +2,7 @@
 title: Green Sphero Clone
 ---
 
-{{twinsunica import}}{{Infobox Enemy
+{{Infobox Enemy
  |image=Green_sphero_clone.JPG
  |race=sphero
  |gender=male

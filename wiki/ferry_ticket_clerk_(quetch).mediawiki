@@ -2,7 +2,7 @@
 title: Ferry Ticket Clerk (Quetch)
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=
  |race=Quetch
  |gender=Male

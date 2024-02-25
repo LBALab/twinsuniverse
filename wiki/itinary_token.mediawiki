@@ -2,7 +2,7 @@
 title: Itinary Token
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Itinary_token.png
  |type=key
  |critical=yes

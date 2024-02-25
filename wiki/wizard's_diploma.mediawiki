@@ -2,7 +2,7 @@
 title: Wizard's Diploma
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Diploma.gif
  |type=reward
  |critical=acquired

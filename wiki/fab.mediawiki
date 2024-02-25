@@ -2,7 +2,7 @@
 title: Fab
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Fab.jpg
  |race=Sphero
  |gender=Male

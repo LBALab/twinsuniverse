@@ -2,7 +2,7 @@
 title: Carlo (Port-Ludo)
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Carlo (Port-Ludo).png
  |race=Quetch
  |gender=Male

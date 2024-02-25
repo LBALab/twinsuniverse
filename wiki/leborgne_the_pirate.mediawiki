@@ -2,7 +2,7 @@
 title: LeBorgne the Pirate
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=
  |race=
  |gender=male

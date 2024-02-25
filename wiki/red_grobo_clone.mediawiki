@@ -2,7 +2,7 @@
 title: Red Grobo Clone
 ---
 
-{{twinsunica import}}{{Infobox Enemy
+{{Infobox Enemy
  |image=Red_grobo_clone.JPG‎
  |race=grobo
  |gender=male

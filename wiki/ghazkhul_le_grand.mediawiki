@@ -2,7 +2,7 @@
 title: Ghazkhul le Grand
 ---
 
-{{twinsunica import}}{{Infobox Enemy
+{{Infobox Enemy
  |image=Ghazkhul le Grand.jpg
  |race=creature|label=Orc
  |gender=male

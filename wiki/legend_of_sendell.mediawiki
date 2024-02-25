@@ -2,7 +2,7 @@
 title: Legend of Sendell
 ---
 
-{{twinsunica import}}{{Infobox Story
+{{Infobox Story
  |image=
  |type=legend
  |lba1=yes

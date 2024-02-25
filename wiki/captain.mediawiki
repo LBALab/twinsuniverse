@@ -2,7 +2,7 @@
 title: Captain
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Captain.jpg
  |race=Franco
  |gender=Male

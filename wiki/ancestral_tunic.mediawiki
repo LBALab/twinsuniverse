@@ -2,7 +2,7 @@
 title: Ancestral Tunic
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Tunic.gif
  |type=equipment
  |critical=yes

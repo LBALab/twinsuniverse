@@ -2,7 +2,7 @@
 title: Baggage Claim Rabbibunny
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Baggageclaimrabbibunny.JPG
  |race=Rabbibunny
  |gender=Male

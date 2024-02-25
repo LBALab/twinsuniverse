@@ -2,7 +2,7 @@
 title: Luc
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Luc.jpg
  |race=grobo
  |gender=Male

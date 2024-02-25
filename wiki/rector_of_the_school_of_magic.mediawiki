@@ -2,7 +2,7 @@
 title: Rector of the School of Magic
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Rector.png
  |race=rabbibunny
  |gender=Male

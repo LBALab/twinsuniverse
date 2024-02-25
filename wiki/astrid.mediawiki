@@ -2,7 +2,7 @@
 title: Astrid
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=The Queen Astrid.jpg
  |race=Mosquibee
  |gender=Female

@@ -19,8 +19,9 @@ The gate to the harbour, however, is blocked by a yellow grobo clone.
 After defeating it with his [magic ball](magic_ball "wikilink"), Twinsen
 is able to get onto the ferry.
 
-<img src="Grclone.gif" title="The grobo clone without a helmet"
-width="70" alt="The grobo clone without a helmet" /> In [Funky
+<img src="assets/lba1/_characters/grclone.gif"
+title="assets/lba1/_characters/grclone.gif" width="70"
+alt="assets/lba1/_characters/grclone.gif" /> In [Funky
 Town](Funky_Town "wikilink"), [Twinsen](Twinsen "wikilink") encounters a
 yellow grobo clone without a helmet. For a certain amount of
 [money](Kash "wikilink"), Twinsen bought information from the grobo

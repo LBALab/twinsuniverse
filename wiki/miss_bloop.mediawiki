@@ -2,7 +2,7 @@
 title: Miss Bloop
 ---
 
-{{twinsunica import}}{{Infobox Character
+{{Infobox Character
  |image=Miss Bloop.jpg
  |race=grobo
  |gender=female

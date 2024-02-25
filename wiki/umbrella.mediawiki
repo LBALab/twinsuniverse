@@ -2,7 +2,7 @@
 title: Umbrella
 ---
 
-{{twinsunica import}}{{Infobox Item
+{{Infobox Item
  |image=Umbrella.png
  |type=quest
  |critical=no
