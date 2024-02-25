@@ -9,9 +9,8 @@ tags:
 <figure>
 <img
 src="assets/lba1/_cutscenes/screenshot-lba1-movies-05-snowstorm-05.jpg"
-title="assets/lba1/_cutscenes/screenshot-lba1-movies-05-snowstorm-05.jpg"
-width="200" />
-<figcaption>assets/lba1/_cutscenes/screenshot-lba1-movies-05-snowstorm-05.jpg</figcaption>
+title="Kami" width="200" />
+<figcaption>Kami</figcaption>
 </figure>
 
 The **Kami** are a white, weasel-like race living in the [Hamalayi

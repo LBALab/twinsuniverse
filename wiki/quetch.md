@@ -10,9 +10,8 @@ tags:
 ---
 
 <figure>
-<img src="assets/lba1/_characters/quetchanim.gif"
-title="assets/lba1/_characters/quetchanim.gif" />
-<figcaption>assets/lba1/_characters/quetchanim.gif</figcaption>
+<img src="assets/lba1/_characters/quetchanim.gif" title="Quetch" />
+<figcaption>Quetch</figcaption>
 </figure>
 
 **Quetch** is one of the four main species of the planet

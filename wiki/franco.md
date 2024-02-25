@@ -10,9 +10,9 @@ tags:
 ---
 
 <figure>
-<img src="assets/lba2/_characters/knartaanim.gif"
-title="assets/lba2/_characters/knartaanim.gif" width="58" />
-<figcaption>assets/lba2/_characters/knartaanim.gif</figcaption>
+<img src="assets/lba2/_characters/knartaanim.gif" title="A Franco"
+width="58" />
+<figcaption>A Franco</figcaption>
 </figure>
 
 **Franco** is one of the four main species of the planet

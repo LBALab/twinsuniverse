@@ -16,14 +16,14 @@ tags:
 
 <figure>
 <img src="assets/lba2/_cutscenes/twinsen_2.gif"
-title="assets/lba2/_cutscenes/twinsen_2.gif" width="145" />
-<figcaption>assets/lba2/_cutscenes/twinsen_2.gif</figcaption>
+title="Twinsen when meeting Sendell" width="145" />
+<figcaption>Twinsen when meeting Sendell</figcaption>
 </figure>
 
 <figure>
-<img src="twinsenportrait.png" title="twinsenportrait.png"
-width="120" />
-<figcaption>twinsenportrait.png</figcaption>
+<img src="assets/lba2/_characters/fan/twinsenportrait.webp"
+title="Twinsen fan art by Zeelichian" width="120" />
+<figcaption>Twinsen fan art by Zeelichian</figcaption>
 </figure>
 
 **Twinsen** is the hero of both adventures. Twinsen is the player
@@ -190,11 +190,17 @@ And as a passenger:
 
 ## Twinsen's adventures
 
-<figure>
 <img src="assets/lba2/_stills/twinsen_painting.gif"
-title="assets/lba2/_stills/twinsen_painting.gif" width="145" />
-<figcaption>assets/lba2/_stills/twinsen_painting.gif</figcaption>
-</figure>
+title="A painting of Twinsen, hanging on a wall in Miss Bloop&#39;s Private Museum"
+width="145"
+alt="A painting of Twinsen, hanging on a wall in Miss Bloop&#39;s Private Museum" />[Twinsen's
+first adventure](Twinsen's_first_adventure "wikilink") refers to the
+epic event of Twinsen rising up as Heir and overthrowing the evil
+dictator [FunFrock](FunFrock "wikilink"). The adventure starts where
+Twinsen has weird dreams and is thrown in the Citadel Island's
+[citadel](citadel "wikilink"), and ends when he defeats FunFrock, meets
+with [Sendell](Sendell "wikilink"), and finally returns home with
+[Zoé](Zoé "wikilink").
 
 [Twinsen's second adventure](Twinsen's_second_adventure "wikilink")
 refers to the [Zeelichian Invasion](Zeelichian_Invasion "wikilink") on

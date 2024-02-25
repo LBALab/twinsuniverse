@@ -4,7 +4,8 @@ permalink: wiki/Elf
 layout: wiki
 ---
 
-![](assets/lba2/_characters/frames/joe_the_elf.jpg "assets/lba2/_characters/frames/joe_the_elf.jpg")
+![[Joe the
+Elf](Joe_the_Elf "wikilink")](assets/lba2/_characters/frames/joe_the_elf.jpg "Joe the Elf")
 An **Elf** is a magical creature that exists on
 [Twinsun](Twinsun "wikilink").
 

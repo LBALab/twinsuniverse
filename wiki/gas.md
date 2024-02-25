@@ -19,11 +19,10 @@ are also a few for free in some places, like the [water
 tower](water_tower "wikilink") or the [rebel
 camp](rebel_camp "wikilink").
 
-<img src="assets/lba1/_scenery/gas.png"
-title="assets/lba1/_scenery/gas.png" width="65"
-alt="assets/lba1/_scenery/gas.png" /> [Twinsen](Twinsen "wikilink")
-needs the gas cans to reach several places too far to walk, such as the
-water tower and [Port Belooga](Port_Belooga "wikilink") in [Principal
+<img src="assets/lba1/_scenery/gas.png" title="Gas cans" width="65"
+alt="Gas cans" /> [Twinsen](Twinsen "wikilink") needs the gas cans to
+reach several places too far to walk, such as the water tower and [Port
+Belooga](Port_Belooga "wikilink") in [Principal
 Island](Principal_Island "wikilink"), or the rebel camp in [Rebellion
 Island](Rebellion_Island "wikilink"). The gas is also used to run the
 hydroglider in the [Northern

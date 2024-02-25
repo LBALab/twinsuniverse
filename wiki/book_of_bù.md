@@ -7,9 +7,8 @@ layout: wiki
 <figure>
 <img
 src="assets/lba1/_cutscenes/screenshot-lba1-movies-04_temple_of_bu-01.jpg"
-title="assets/lba1/_cutscenes/screenshot-lba1-movies-04_temple_of_bu-01.jpg"
-width="200" />
-<figcaption>assets/lba1/_cutscenes/screenshot-lba1-movies-04_temple_of_bu-01.jpg</figcaption>
+title="Twinsen holding the Book of Bù" width="200" />
+<figcaption>Twinsen holding the Book of Bù</figcaption>
 </figure>
 
 The **Book of Bù** is one of the four magic items that were needed to be

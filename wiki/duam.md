@@ -7,9 +7,9 @@ tags:
 ---
 
 <figure>
-<img src="assets/lba2/_characters/frames/duam.jpg"
-title="assets/lba2/_characters/frames/duam.jpg" width="143" />
-<figcaption>assets/lba2/_characters/frames/duam.jpg</figcaption>
+<img src="assets/lba2/_characters/frames/duam.jpg" title="A Duam"
+width="143" />
+<figcaption>A Duam</figcaption>
 </figure>
 
 **Duam** are a dog-like race used for gambling races in the

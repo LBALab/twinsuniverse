@@ -5,9 +5,9 @@ layout: wiki
 ---
 
 <figure>
-<img src="assets/lba2/_cutscenes/sendell.gif"
-title="assets/lba2/_cutscenes/sendell.gif" width="145" />
-<figcaption>assets/lba2/_cutscenes/sendell.gif</figcaption>
+<img src="assets/lba2/_cutscenes/sendell.gif" title="Sendell"
+width="145" />
+<figcaption>Sendell</figcaption>
 </figure>
 
 ## Description

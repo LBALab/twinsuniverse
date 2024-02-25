@@ -8,8 +8,8 @@ tags:
 
 <figure>
 <img src="assets/lba2/_characters/frames/lemuzard.jpg"
-title="assets/lba2/_characters/frames/lemuzard.jpg" width="200" />
-<figcaption>assets/lba2/_characters/frames/lemuzard.jpg</figcaption>
+title="A Lemuzard" width="200" />
+<figcaption>A Lemuzard</figcaption>
 </figure>
 
 **Lemuzard** is a creature used in a betting-game at the

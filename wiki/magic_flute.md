@@ -5,11 +5,11 @@ layout: wiki
 ---
 
 <img src="assets/lba1/_cutscenes/07_clear_water_lake.gif"
-title="assets/lba1/_cutscenes/07_clear_water_lake.gif" width="200"
-alt="assets/lba1/_cutscenes/07_clear_water_lake.gif" />
+title="Twinsen playing the Magic Flute" width="200"
+alt="Twinsen playing the Magic Flute" />
 <img src="assets/lba1/_cutscenes/09_white_leaf_desert.gif"
-title="assets/lba1/_cutscenes/09_white_leaf_desert.gif" width="200"
-alt="assets/lba1/_cutscenes/09_white_leaf_desert.gif" />
+title="The old rabbibunny with the Magic Flute" width="200"
+alt="The old rabbibunny with the Magic Flute" />
 
 **The Magic Flute** is a flute with magic powers. Its magic is expressed
 in two ways: melting frozen water, and growing flowers in the desert.

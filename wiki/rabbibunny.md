@@ -10,9 +10,9 @@ tags:
 ---
 
 <figure>
-<img src="assets/lba2/_characters/lapichonanim.gif"
-title="assets/lba2/_characters/lapichonanim.gif" width="72" />
-<figcaption>assets/lba2/_characters/lapichonanim.gif</figcaption>
+<img src="assets/lba2/_characters/lapichonanim.gif" title="Rabbibunny"
+width="72" />
+<figcaption>Rabbibunny</figcaption>
 </figure>
 
 **Rabbibunny** is one of the four main species of

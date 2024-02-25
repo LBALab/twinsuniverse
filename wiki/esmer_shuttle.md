@@ -7,8 +7,8 @@ layout: wiki
 <figure>
 <img
 src="assets/lba2/_cutscenes/screenshot-lba2-movies-07-esmers_shuttle-voyagez43.gif"
-title="assets/lba2/_cutscenes/screenshot-lba2-movies-07-esmers_shuttle-voyagez43.gif" />
-<figcaption>assets/lba2/_cutscenes/screenshot-lba2-movies-07-esmers_shuttle-voyagez43.gif</figcaption>
+title="Esmer shuttle in-flight through space" width="200" />
+<figcaption>Esmer shuttle in-flight through space</figcaption>
 </figure>
 
 The **Esmer shuttle** is a flying ship used for transportations of
@@ -38,8 +38,8 @@ the Esmers land on Twinsun.
 <figure>
 <img
 src="assets/lba2/_cutscenes/screenshot-lba2-movies-07-esmers_shuttle-voyagez09.gif"
-title="assets/lba2/_cutscenes/screenshot-lba2-movies-07-esmers_shuttle-voyagez09.gif" />
-<figcaption>assets/lba2/_cutscenes/screenshot-lba2-movies-07-esmers_shuttle-voyagez09.gif</figcaption>
+title="Esmer shuttle exteriour as seen from the side" width="200" />
+<figcaption>Esmer shuttle exteriour as seen from the side</figcaption>
 </figure>
 
 The shuttle is shaped much like a saucer. The top of the shuttle's body
@@ -57,8 +57,10 @@ to lower and release the specific cargo.
 
 <figure>
 <img src="assets/lba2/emerald_moon/shuttle.jpg"
-title="assets/lba2/emerald_moon/shuttle.jpg" />
-<figcaption>assets/lba2/emerald_moon/shuttle.jpg</figcaption>
+title="Esmer shuttle interiour, showing the shuttle&#39;s controls and cargo bay"
+width="200" />
+<figcaption>Esmer shuttle interiour, showing the shuttle's controls and
+cargo bay</figcaption>
 </figure>
 
 ### Interior
@@ -85,8 +87,12 @@ cockpit to start the flight, after which he may sit back comfortably.
 <figure>
 <img
 src="assets/lba2/_screenshots/screenshot-lba2-ingame-otringal-emperial_shuttle_platform.gif"
-title="assets/lba2/_screenshots/screenshot-lba2-ingame-otringal-emperial_shuttle_platform.gif" />
-<figcaption>assets/lba2/_screenshots/screenshot-lba2-ingame-otringal-emperial_shuttle_platform.gif</figcaption>
+title="The Emperor&#39;s shuttle seen from the outside, parked right across the Emperor&#39;s palace. The emperor&#39;s emblem is visible here"
+width="200" />
+<figcaption>The Emperor's shuttle seen from the outside, parked right
+across the <a href="Emperor&#39;s_palace" title="wikilink">Emperor's
+palace</a>. The <a href="emperor&#39;s_emblem"
+title="wikilink">emperor's emblem</a> is visible here</figcaption>
 </figure>
 
 The [Emperor of Zeelich](Emperor_of_Zeelich "wikilink") has a customized
@@ -130,9 +136,8 @@ to [upper-town](Upper_city "wikilink") Otringal, right outside the
 <figure>
 <img
 src="assets/lba2/_cutscenes/screenshot-lba2-movies-12-children_abduction-enfa362.gif"
-title="assets/lba2/_cutscenes/screenshot-lba2-movies-12-children_abduction-enfa362.gif"
-width="200" />
-<figcaption>assets/lba2/_cutscenes/screenshot-lba2-movies-12-children_abduction-enfa362.gif</figcaption>
+title="The shuttle dragging up the children" width="200" />
+<figcaption>The shuttle dragging up the children</figcaption>
 </figure>
 
 The Emperor's troops use a shuttle to kidnap the children of
@@ -142,8 +147,10 @@ using an unknown beaming function.
 <figure>
 <img
 src="assets/lba2/_cutscenes/screenshot-lba2-movies-25-ending_1-end1865.gif"
-title="assets/lba2/_cutscenes/screenshot-lba2-movies-25-ending_1-end1865.gif" />
-<figcaption>assets/lba2/_cutscenes/screenshot-lba2-movies-25-ending_1-end1865.gif</figcaption>
+title="The bomb held by mechanical arms, right before dropping it into the moon base&#39;s reactor."
+width="200" />
+<figcaption>The bomb held by mechanical arms, right before dropping it
+into the moon base's reactor.</figcaption>
 </figure>
 
 A very significant event involving the esmers shuttle is when the Esmers

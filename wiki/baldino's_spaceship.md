@@ -6,8 +6,8 @@ layout: wiki
 
 <figure>
 <img src="assets/lba2/_cutscenes/lba2_decolag1.preview.jpg"
-title="assets/lba2/_cutscenes/lba2_decolag1.preview.jpg" width="200" />
-<figcaption>assets/lba2/_cutscenes/lba2_decolag1.preview.jpg</figcaption>
+title="Baldino and his spaceship" width="200" />
+<figcaption>Baldino and his spaceship</figcaption>
 </figure>
 
 **Baldino's Spaceship** is a spaceship created by [Jerome
@@ -26,9 +26,9 @@ giant tarpaulin next to his
 plans for it on his blackboard.
 
 <img src="assets/lba2/_cutscenes/lba2_asteroi.preview.jpg"
-title="assets/lba2/_cutscenes/lba2_asteroi.preview.jpg" width="200"
-alt="assets/lba2/_cutscenes/lba2_asteroi.preview.jpg" /> Baldino's
-Spaceship serves several times during Little Big Adventure 2.
+title="Baldino&#39;s Spaceship in space" width="200"
+alt="Baldino&#39;s Spaceship in space" /> Baldino's Spaceship serves
+several times during Little Big Adventure 2.
 
 Shortly before the children of Twinsun are kidnapped by the
 [Esmers](Esmers "wikilink") at the [Ridge of the Flowers
@@ -46,11 +46,10 @@ from the Moon using the Spaceship again. They approach
 for the lunar reactors on [Island CX](Island_CX "wikilink").
 
 <img src="assets/lba2/_screenshots/lba2_ingame_crash_site.jpg"
-title="assets/lba2/_screenshots/lba2_ingame_crash_site.jpg" width="200"
-alt="assets/lba2/_screenshots/lba2_ingame_crash_site.jpg" /> However,
-the ship runs out of fuel, so Twinsen and Baldino crash-land on
-[Otringal](Otringal "wikilink"). The ship gets severly damaged and needs
-a long time to get repaired.
+title="The crash site on Otringal" width="200"
+alt="The crash site on Otringal" /> However, the ship runs out of fuel,
+so Twinsen and Baldino crash-land on [Otringal](Otringal "wikilink").
+The ship gets severly damaged and needs a long time to get repaired.
 
 With his technical skills and probably the help of the Twinsunian
 wizards, Baldino finishes the repairs on his ship just in time when
@@ -62,9 +61,7 @@ Spaceship hovering above the lava.
 
 <img
 src="assets/lba2/_cutscenes/screenshot-lba2-movies-25-ending_1-end0450.gif"
-title="assets/lba2/_cutscenes/screenshot-lba2-movies-25-ending_1-end0450.gif"
-width="200"
-alt="assets/lba2/_cutscenes/screenshot-lba2-movies-25-ending_1-end0450.gif" />
-After FunFrock's defeat, Twinsen and Baldino use the spaceship to emerge
-from Zeelich and head back to Twinsun, which is still threatened by the
-Emerald Moon.
+title="The ship inside Dark Monk&#39;s Statue" width="200"
+alt="The ship inside Dark Monk&#39;s Statue" /> After FunFrock's defeat,
+Twinsen and Baldino use the spaceship to emerge from Zeelich and head
+back to Twinsun, which is still threatened by the Emerald Moon.

@@ -6,9 +6,8 @@ layout: wiki
 
 <figure>
 <img src="assets/lba1/_cutscenes/11_runestone_clear_warer.gif"
-title="assets/lba1/_cutscenes/11_runestone_clear_warer.gif"
-width="200" />
-<figcaption>assets/lba1/_cutscenes/11_runestone_clear_warer.gif</figcaption>
+title="Twinsen pouring out the vial of Clear Water" width="200" />
+<figcaption>Twinsen pouring out the vial of Clear Water</figcaption>
 </figure>
 
 The **Vial of Clear Water** is one of the four magical items that have

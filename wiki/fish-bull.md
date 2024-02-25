@@ -5,8 +5,9 @@ layout: wiki
 ---
 
 <figure>
-<img src="dvfishbu.jpg" title="dvfishbu.jpg" width="143" />
-<figcaption>dvfishbu.jpg</figcaption>
+<img src="assets/lba2/_characters/frames/fish-bull.jpg"
+title="A Fish-Bull in action" width="143" />
+<figcaption>A Fish-Bull in action</figcaption>
 </figure>
 
 **Fish-Bulls** are dog-like creatures from

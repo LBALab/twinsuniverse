@@ -10,8 +10,9 @@ redirect_from:
 
 <figure>
 <img src="assets/lba2/_stills/emperor_statue.gif"
-title="assets/lba2/_stills/emperor_statue.gif" width="145" />
-<figcaption>assets/lba2/_stills/emperor_statue.gif</figcaption>
+title="Statue of the Emperor of Zeelich" width="145" />
+<figcaption>Statue of the Emperor of <a href="Zeelich"
+title="wikilink">Zeelich</a></figcaption>
 </figure>
 
 **The Emperor of Zeelich** is [Dr. FunFrock](Dr._FunFrock "wikilink")'s

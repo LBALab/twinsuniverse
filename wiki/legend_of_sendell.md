@@ -6,8 +6,11 @@ layout: wiki
 
 <figure>
 <img src="assets/thumbs/legend_of_sendell.gif"
-title="assets/thumbs/legend_of_sendell.gif" />
-<figcaption>assets/thumbs/legend_of_sendell.gif</figcaption>
+title="A book mentioning the Legend of Sendell, in the Censored Publications Department of the Principal Island library." />
+<figcaption>A book mentioning the Legend of Sendell, in the Censored
+Publications Department of the <a href="Principal_Island"
+title="wikilink">Principal Island</a> <a href="library"
+title="wikilink">library</a>.</figcaption>
 </figure>
 
 **The Legend of Sendell**, referred to by many people as **The Legend**,

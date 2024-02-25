@@ -5,9 +5,9 @@ layout: wiki
 ---
 
 <figure>
-<img src="assets/lba1/_cutscenes/02_ferry.gif"
-title="assets/lba1/_cutscenes/02_ferry.gif" width="200" />
-<figcaption>assets/lba1/_cutscenes/02_ferry.gif</figcaption>
+<img src="assets/lba1/_cutscenes/02_ferry.gif" title="The old ferry."
+width="200" />
+<figcaption>The old ferry.</figcaption>
 </figure>
 
 **Ferries** in the [Little Big
@@ -24,8 +24,7 @@ invasion](Esmer_invasion "wikilink"), the ferry services are not
 allowed.
 
 <img src="assets/lba2/_cutscenes/boat_2.preview.jpg"
-title="assets/lba2/_cutscenes/boat_2.preview.jpg" width="200"
-alt="assets/lba2/_cutscenes/boat_2.preview.jpg" />
+title="The new ferry." width="200" alt="The new ferry." />
 [Twinsen](Twinsen "wikilink") has to use the ferries several times
 during his adventures. He first needs it to get to [Principal
 Island](Principal_Island "wikilink"). As the

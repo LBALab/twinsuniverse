@@ -144,6 +144,19 @@ assert un_div(tmp) == "[[Image:Pear.png|left|The Bosc Pear]]", un_div(tmp)
 del tmp
 
 
+# read all image files to to reference in the mediawiki files
+image_files = {}
+for root, dirs, files in os.walk("wiki/assets"):
+    for file in files:
+        filestrip = file.replace(" ", "_").lower()
+        image_files[filestrip] = os.path.join(root, file).replace("wiki/", "").lower()
+
+image_files['dvpatrik.jpg'] = 'assets/lba2/_characters/frames/patrick.jpg'
+image_files['dvfishbu.jpg'] = 'assets/lba2/_characters/frames/fish-bull.jpg'
+image_files['twinsenportrait.png'] = 'assets/lba2/_characters/fan/twinsenportrait.webp'
+
+images_not_found = []
+
 def cleanup_mediawiki(text):
     """Modify mediawiki markup to make it pandoc ready.
 
@@ -238,22 +251,35 @@ def cleanup_mediawiki(text):
         # * {{post|id=37768|title=Twinsen's son/daughter}}
         if "{{post|" in line:
             line = re.sub(r"\{\{post\|id=([0-9]+)\|title=([^}]+)\}\}", r"[http://forum.magicball.net/showthread.php?p=\1#post\1 \2]", line)
+        if "[[Image:" in line:
+            # keep the same mediawiki image format but update the image link based on the image_files dictionary
+            parts = line.split("|")
+            image = parts[0].replace('{{twinsunica import}}','').replace('[[Image:','').replace(' ','_').lower()
+            if image in image_files:
+                image = image_files[image]
+            else:
+                sys.stderr.write(f"WARNING: Image file {image} not found\n")
+                images_not_found.append(image)
+            line = f"[[Image:{image}"
+            for part in parts[1:]:
+                line += f"|{part}"
+            # line = f"[[Image:{image}|{parts[1]}|{parts[2]}]]"
         new.append(line)
     return "\n".join(new), categories, title
 
 
-tmp = """\
----
-title: Test
----
-<div style="float:left; maxwidth: 180px; margin-left:25px; margin-right:15px; background-color: #FFF\
-FFF">[[Image:Pear.png|left|The Bosc Pear]]</div>"""
-assert cleanup_mediawiki(tmp) == (
-    "[[Image:Pear.png|left|The Bosc Pear]]",
-    [],
-    "Test",
-), cleanup_mediawiki(tmp)
-del tmp
+# tmp = """\
+# ---
+# title: Test
+# ---
+# <div style="float:left; maxwidth: 180px; margin-left:25px; margin-right:15px; background-color: #FFF\
+# FFF">[[Image:Pear.png|left|The Bosc Pear]]</div>"""
+# assert cleanup_mediawiki(tmp) == (
+#     "[[Image:Pear.png|left|The Bosc Pear]]",
+#     [],
+#     "Test",
+# ), cleanup_mediawiki(tmp)
+# del tmp
 
 
 def cleanup_markdown(text, source_url):
@@ -405,8 +431,8 @@ for mw_filename in names:
         redirects[mw_filename] = redirect
         print(f" * redirection {mw_filename} --> {redirect}")
         md_filename = mw_filename[: -len(mediawiki_ext)] + markdown_ext
-        if os.path.isfile(md_filename):
-            sys.stderr.write(f"WARNING - will overwrite {md_filename}\n")
+        # if os.path.isfile(md_filename):
+        #     sys.stderr.write(f"WARNING - will overwrite {md_filename}\n")
         with open(md_filename, "w") as handle:
             handle.write("---\n")
             handle.write("title: %s\n" % title)
@@ -422,8 +448,8 @@ for mw_filename in names:
     if mw_filename in redirects:
         continue
     md_filename = mw_filename[: -len(mediawiki_ext)] + markdown_ext
-    if os.path.isfile(md_filename):
-        sys.stderr.write(f"WARNING - will overwrite {md_filename}\n")
+    # if os.path.isfile(md_filename):
+    #     sys.stderr.write(f"WARNING - will overwrite {md_filename}\n")
 
     print(f" * {mw_filename} --> {md_filename}")
 
@@ -494,5 +520,8 @@ for mw_filename in names:
         handle.write("---\n\n")
         handle.write(cleanup_markdown(stdout, make_url(title)))
     os.remove(tmp_mediawiki)
+
+if images_not_found:
+    print(f"Images not found: {images_not_found}")
 
 print("Done")

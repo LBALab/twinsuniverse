@@ -12,9 +12,9 @@ redirect_from:
 ---
 
 <figure>
-<img src="assets/lba2/_characters/mosqanim.gif"
-title="assets/lba2/_characters/mosqanim.gif" width="73" />
-<figcaption>assets/lba2/_characters/mosqanim.gif</figcaption>
+<img src="assets/lba2/_characters/mosqanim.gif" title="Mosquibee"
+width="73" />
+<figcaption>Mosquibee</figcaption>
 </figure>
 
 **Mosquibee** is one of the four main species of the planet
