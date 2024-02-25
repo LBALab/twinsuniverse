@@ -1,0 +1,16 @@
+{
+  "name": "twinsuniverse",
+  "version": "4.0.0",
+  "description": "Twinsun Universe - an Encyclopedia for Little Big Adventure",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alexandre Fontoura",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}

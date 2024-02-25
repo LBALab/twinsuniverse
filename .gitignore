@@ -2,6 +2,7 @@ logs
 *.log
 npm-debug.log*
 build
+dist
 node_modules/
 .npm
 .eslintcache
