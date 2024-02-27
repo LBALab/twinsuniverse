@@ -1,10 +1,10 @@
 ---
 title: Twinsen's car
 permalink: wiki/Twinsen's_car
-layout: base
+layout: wiki
 ---
 
-<img src="assets/lba2/_characters/twincar.gif"
+<img src="src/assets/lba2/_characters/twincar.gif"
 title="Twinsen in his car." width="126" alt="Twinsen in his car." />
 
 ## Description

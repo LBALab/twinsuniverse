@@ -1,7 +1,7 @@
 ---
 title: Gem
 permalink: wiki/Gem
-layout: base
+layout: wiki
 redirect_from:
  - wiki/Gems
 ---

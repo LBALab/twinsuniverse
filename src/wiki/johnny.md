@@ -1,7 +1,7 @@
 ---
 title: Johnny
 permalink: wiki/Johnny
-layout: base
+layout: wiki
 ---
 
 **Johnny** is a [wannie](wannie "wikilink") kid, who lives with a small

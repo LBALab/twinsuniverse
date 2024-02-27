@@ -1,7 +1,7 @@
 ---
 title: Rabbibunny Village Chieftain
 permalink: wiki/Rabbibunny_Village_Chieftain
-layout: base
+layout: wiki
 tags:
  - Hamalayi Mountains inhabitants
 ---

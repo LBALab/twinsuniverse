@@ -1,7 +1,7 @@
 ---
 title: System requirements
 permalink: wiki/System_requirements
-layout: base
+layout: wiki
 tags:
  - Guides
 ---

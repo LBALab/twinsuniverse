@@ -1,7 +1,7 @@
 ---
 title: Fab
 permalink: wiki/Fab
-layout: base
+layout: wiki
 tags:
  - Citadel Island inhabitants
 ---

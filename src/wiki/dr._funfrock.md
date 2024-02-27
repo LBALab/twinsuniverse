@@ -1,7 +1,7 @@
 ---
 title: Dr. FunFrock
 permalink: wiki/Dr._FunFrock
-layout: base
+layout: wiki
 tags:
  - Polar Island inhabitants
  - Celebration Island inhabitants

@@ -1,7 +1,7 @@
 ---
 title: Carlo (Port-Ludo)
 permalink: wiki/Carlo_(Port-Ludo)
-layout: base
+layout: wiki
 tags:
  - Desert Island inhabitants
 redirect_from:

@@ -1,7 +1,7 @@
 ---
 title: Bruce
 permalink: wiki/Bruce
-layout: base
+layout: wiki
 tags:
  - Desert Island inhabitants
 ---

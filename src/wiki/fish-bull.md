@@ -1,7 +1,7 @@
 ---
 title: Fish-Bull
 permalink: wiki/Fish-Bull
-layout: base
+layout: wiki
 ---
 
 <figure>

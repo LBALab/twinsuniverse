@@ -1,7 +1,7 @@
 ---
 title: Mr. Bazoo
 permalink: wiki/Mr._Bazoo
-layout: base
+layout: wiki
 tags:
  - Citadel Island inhabitants
 ---

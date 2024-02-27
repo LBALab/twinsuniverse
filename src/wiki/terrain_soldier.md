@@ -1,15 +1,15 @@
 ---
 title: Terrain Soldier
 permalink: wiki/Terrain_Soldier
-layout: base
+layout: wiki
 ---
 
 ![Soldier in
-action](assets/lba1/_characters/lba_ingame_terrain_soldier.jpg "Soldier in action")
+action](src/assets/lba1/_characters/lba_ingame_terrain_soldier.jpg "Soldier in action")
 ![Soldier with a white
-camouflage](assets/lba1/_characters/whtsoldier.gif "Soldier with a white camouflage")
+camouflage](src/assets/lba1/_characters/whtsoldier.gif "Soldier with a white camouflage")
 ![Soldier with a
-cannon](assets/lba1/_characters/soldier2.gif "Soldier with a cannon")
+cannon](src/assets/lba1/_characters/soldier2.gif "Soldier with a cannon")
 **Terrain soldiers** are the basic soldiers in
 [FunFrock](FunFrock "wikilink")'s army. They can be seen with a yellow
 suit on the [Island of the White Leaf

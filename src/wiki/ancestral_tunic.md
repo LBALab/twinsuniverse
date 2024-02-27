@@ -1,7 +1,7 @@
 ---
 title: Ancestral Tunic
 permalink: wiki/Ancestral_Tunic
-layout: base
+layout: wiki
 ---
 
 The **Ancestral Tunic**, as described in the [Book of
@@ -28,7 +28,7 @@ legend](the_legend "wikilink"), who are also blue.
 
 ## During FunFrock's Reign
 
-<img src="assets/lba1/_screenshots/lba1_-_twinsen_obtains_tunic.jpg"
+<img src="src/assets/lba1/_screenshots/lba1_-_twinsen_obtains_tunic.jpg"
 title="Twinsen&#39;s reaction upon obtaining his Ancestral Tunic in his house in LBA1."
 width="300"
 alt="Twinsen&#39;s reaction upon obtaining his Ancestral Tunic in his house in LBA1." />

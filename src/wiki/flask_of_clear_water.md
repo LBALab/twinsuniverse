@@ -1,11 +1,11 @@
 ---
 title: Flask of Clear Water
 permalink: wiki/Flask_of_Clear_Water
-layout: base
+layout: wiki
 ---
 
 <figure>
-<img src="assets/lba1/_cutscenes/11_runestone_clear_warer.gif"
+<img src="src/assets/lba1/_cutscenes/11_runestone_clear_warer.gif"
 title="Twinsen pouring out the vial of Clear Water" width="200" />
 <figcaption>Twinsen pouring out the vial of Clear Water</figcaption>
 </figure>

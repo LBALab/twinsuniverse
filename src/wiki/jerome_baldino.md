@@ -1,7 +1,7 @@
 ---
 title: Jerome Baldino
 permalink: wiki/Jerome_Baldino
-layout: base
+layout: wiki
 tags:
  - Grobos
  - Male characters

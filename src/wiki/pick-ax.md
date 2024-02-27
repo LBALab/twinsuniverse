@@ -1,7 +1,7 @@
 ---
 title: Pick-ax
 permalink: wiki/Pick-ax
-layout: base
+layout: wiki
 ---
 
 **Pick-ax** is an object used to dig in grassy areas or to extract a

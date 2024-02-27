@@ -1,7 +1,7 @@
 ---
 title: Kash
 permalink: wiki/Kash
-layout: base
+layout: wiki
 redirect_from:
  - wiki/Kashes
 ---

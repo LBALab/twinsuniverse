@@ -1,7 +1,7 @@
 ---
 title: Wizard's Diploma
 permalink: wiki/Wizard's_Diploma
-layout: base
+layout: wiki
 ---
 
 ## Description

@@ -1,7 +1,7 @@
 ---
 title: Red Rabbibunny Clone
 permalink: wiki/Red_Rabbibunny_Clone
-layout: base
+layout: wiki
 ---
 
 **Red [Rabbibunny](Rabbibunny "wikilink") [Clone](Clone "wikilink")**,

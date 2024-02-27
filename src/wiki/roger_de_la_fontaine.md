@@ -1,7 +1,7 @@
 ---
 title: Roger de la Fontaine
 permalink: wiki/Roger_de_la_Fontaine
-layout: base
+layout: wiki
 tags:
  - Francos
  - Male characters

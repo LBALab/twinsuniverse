@@ -1,7 +1,7 @@
 ---
 title: Moya
 permalink: wiki/Moya
-layout: base
+layout: wiki
 tags:
  - Desert Island inhabitants
  - Animals

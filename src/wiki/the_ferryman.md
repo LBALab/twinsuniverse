@@ -1,7 +1,7 @@
 ---
 title: The Ferryman
 permalink: wiki/The_Ferryman
-layout: base
+layout: wiki
 tags:
  - Wannies Island inhabitants
  - Mosquibees Island inhabitants

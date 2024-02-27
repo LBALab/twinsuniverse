@@ -1,7 +1,7 @@
 ---
 title: Teleportation Center scientist
 permalink: wiki/Teleportation_Center_scientist
-layout: base
+layout: wiki
 tags:
  -  Brundle Island inhabitants
 ---

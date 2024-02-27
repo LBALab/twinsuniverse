@@ -1,7 +1,7 @@
 ---
 title: Leopold
 permalink: wiki/Leopold
-layout: base
+layout: wiki
 tags:
  - Male characters
  - Average characters

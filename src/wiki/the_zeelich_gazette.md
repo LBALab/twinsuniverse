@@ -1,7 +1,7 @@
 ---
 title: The Zeelich Gazette
 permalink: wiki/The_Zeelich_Gazette
-layout: base
+layout: wiki
 ---
 
 ## Description

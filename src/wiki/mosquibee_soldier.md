@@ -1,7 +1,7 @@
 ---
 title: Mosquibee Soldier
 permalink: wiki/Mosquibee_Soldier
-layout: base
+layout: wiki
 ---
 
 The **Mosquibee Soldier** is encountered in [Mosquibee

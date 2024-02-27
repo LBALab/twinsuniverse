@@ -1,7 +1,7 @@
 ---
 title: Dino-Fly
 permalink: wiki/Dino-Fly
-layout: base
+layout: wiki
 tags:
  - Citadel Island inhabitants
  - Tippett Island inhabitants

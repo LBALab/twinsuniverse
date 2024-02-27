@@ -1,7 +1,7 @@
 ---
 title: Teleportation Center guard
 permalink: wiki/Teleportation_Center_guard
-layout: base
+layout: wiki
 tags:
  -  Brundle Island inhabitants
 ---

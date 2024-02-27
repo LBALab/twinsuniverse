@@ -1,7 +1,7 @@
 ---
 title: Island CX Survivor
 permalink: wiki/Island_CX_Survivor
-layout: base
+layout: wiki
 ---
 
 The **Island CX Survivor** is the only person who ever went to [Island

@@ -1,7 +1,7 @@
 ---
 title: Horse
 permalink: wiki/Horse
-layout: base
+layout: wiki
 ---
 
 The **horse** is

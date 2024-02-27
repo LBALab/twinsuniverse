@@ -1,7 +1,7 @@
 ---
 title: Luc
 permalink: wiki/Luc
-layout: base
+layout: wiki
 tags:
  - Grobos
  - Male characters

@@ -1,7 +1,7 @@
 ---
 title: Ring of Lightning
 permalink: wiki/Ring_of_Lightning
-layout: base
+layout: wiki
 ---
 
 The **Ring of Lightning** is a magical ring which possesses the ability

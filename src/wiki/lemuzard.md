@@ -1,13 +1,13 @@
 ---
 title: Lemuzard
 permalink: wiki/Lemuzard
-layout: base
+layout: wiki
 tags:
  - Species
 ---
 
 <figure>
-<img src="assets/lba2/_characters/frames/lemuzard.jpg"
+<img src="src/assets/lba2/_characters/frames/lemuzard.jpg"
 title="A Lemuzard" width="200" />
 <figcaption>A Lemuzard</figcaption>
 </figure>

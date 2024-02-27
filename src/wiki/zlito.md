@@ -1,7 +1,7 @@
 ---
 title: Zlito
 permalink: wiki/Zlito
-layout: base
+layout: wiki
 redirect_from:
  - wiki/Zlitos
 ---

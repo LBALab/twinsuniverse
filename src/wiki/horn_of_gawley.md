@@ -1,7 +1,7 @@
 ---
 title: Horn of Gawley
 permalink: wiki/Horn_of_Gawley
-layout: base
+layout: wiki
 redirect_from:
  - wiki/Gawley's_Horn
 ---

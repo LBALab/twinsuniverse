@@ -1,7 +1,7 @@
 ---
 title: Snake
 permalink: wiki/Snake
-layout: base
+layout: wiki
 ---
 
 **Snakes** live in

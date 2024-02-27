@@ -1,7 +1,7 @@
 ---
 title: Emperor's Sword
 permalink: wiki/Emperor's_Sword
-layout: base
+layout: wiki
 ---
 
 The **emperor's sword** is the sword of the [Emperor of

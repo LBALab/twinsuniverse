@@ -1,7 +1,7 @@
 ---
 title: Elves Club Blue Card
 permalink: wiki/Elves_Club_Blue_Card
-layout: base
+layout: wiki
 ---
 
 The **Elves Club Blue Card** is a blue card coated with star powder. It

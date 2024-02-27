@@ -1,7 +1,7 @@
 ---
 title: Money-Monkey
 permalink: wiki/Money-Monkey
-layout: base
+layout: wiki
 ---
 
 **Money-Monkey** is an assassin of an unknown race with four arms, who

@@ -1,7 +1,7 @@
 ---
 title: Brother
 permalink: wiki/Brother
-layout: base
+layout: wiki
 ---
 
 **Brother** is an un-named character, and he can only be seen by

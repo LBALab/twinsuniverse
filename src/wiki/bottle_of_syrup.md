@@ -1,7 +1,7 @@
 ---
 title: Bottle of Syrup
 permalink: wiki/Bottle_of_Syrup
-layout: base
+layout: wiki
 ---
 
 The **Bottle of Syrup** is a bottle containing 1/2 liter of

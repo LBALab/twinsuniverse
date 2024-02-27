@@ -1,11 +1,11 @@
 ---
 title: Sendell
 permalink: wiki/Sendell
-layout: base
+layout: wiki
 ---
 
 <figure>
-<img src="assets/lba2/_cutscenes/sendell.gif" title="Sendell"
+<img src="src/assets/lba2/_cutscenes/sendell.gif" title="Sendell"
 width="145" />
 <figcaption>Sendell</figcaption>
 </figure>

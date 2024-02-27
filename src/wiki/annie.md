@@ -1,7 +1,7 @@
 ---
 title: Annie
 permalink: wiki/Annie
-layout: base
+layout: wiki
 tags:
  - Wannies Island inhabitants
 ---

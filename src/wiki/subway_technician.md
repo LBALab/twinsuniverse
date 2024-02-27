@@ -1,7 +1,7 @@
 ---
 title: Subway Technician
 permalink: wiki/Subway_Technician
-layout: base
+layout: wiki
 tags:
  - Hamalayi Mountains inhabitants
 ---

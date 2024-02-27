@@ -1,7 +1,7 @@
 ---
 title: Ernestine
 permalink: wiki/Ernestine
-layout: base
+layout: wiki
 ---
 
 **Ernestine** is a Giraffe-like tourist who was visiting

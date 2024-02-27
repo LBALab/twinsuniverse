@@ -1,7 +1,7 @@
 ---
 title: John Edgar H.
 permalink: wiki/John_Edgar_H.
-layout: base
+layout: wiki
 ---
 
 **John Edgar H.** is an agent working for the Sup Bureau of

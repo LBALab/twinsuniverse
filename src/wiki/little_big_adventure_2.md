@@ -1,7 +1,7 @@
 ---
 title: Little Big Adventure 2
 permalink: wiki/Little_Big_Adventure_2
-layout: base
+layout: wiki
 tags:
  - Twinsuniverse_Wiki
 ---

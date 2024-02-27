@@ -1,7 +1,7 @@
 ---
 title: Wizard's Parade Tunic
 permalink: wiki/Wizard's_Parade_Tunic
-layout: base
+layout: wiki
 ---
 
 ## Description

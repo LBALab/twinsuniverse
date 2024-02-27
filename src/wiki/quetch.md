@@ -1,7 +1,7 @@
 ---
 title: Quetch
 permalink: wiki/Quetch
-layout: base
+layout: wiki
 tags:
  - Quetches| 
  - Quetch characters| 
@@ -10,7 +10,7 @@ tags:
 ---
 
 <figure>
-<img src="assets/lba1/_characters/quetchanim.gif" title="Quetch" />
+<img src="src/assets/lba1/_characters/quetchanim.gif" title="Quetch" />
 <figcaption>Quetch</figcaption>
 </figure>
 

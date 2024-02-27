@@ -1,7 +1,7 @@
 ---
 title: Rosa-Marie
 permalink: wiki/Rosa-Marie
-layout: base
+layout: wiki
 tags:
  - Citadel Island inhabitants
 redirect_from:

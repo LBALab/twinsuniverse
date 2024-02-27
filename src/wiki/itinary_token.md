@@ -1,7 +1,7 @@
 ---
 title: Itinary Token
 permalink: wiki/Itinary_Token
-layout: base
+layout: wiki
 ---
 
 **Itinary tokens** are used by [Zeelichians](Zeelich "wikilink") for

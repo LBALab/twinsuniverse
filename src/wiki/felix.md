@@ -1,7 +1,7 @@
 ---
 title: Felix
 permalink: wiki/Felix
-layout: base
+layout: wiki
 tags:
  - Citadel Island inhabitants
 ---

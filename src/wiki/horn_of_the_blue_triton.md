@@ -1,7 +1,7 @@
 ---
 title: Horn of the Blue Triton
 permalink: wiki/Horn_of_the_Blue_Triton
-layout: base
+layout: wiki
 ---
 
 **The Horn of the Blue Triton** is a horn storing [life

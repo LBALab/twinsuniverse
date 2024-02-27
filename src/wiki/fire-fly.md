@@ -1,7 +1,7 @@
 ---
 title: Fire-Fly
 permalink: wiki/Fire-Fly
-layout: base
+layout: wiki
 ---
 
 **Fire-Flies** live close to lava and in warm caves. Like the

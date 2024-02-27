@@ -1,7 +1,7 @@
 ---
 title: Lt. Grap
 permalink: wiki/Lt._Grap
-layout: base
+layout: wiki
 tags:
  - Rebellion Island inhabitants
 redirect_from:

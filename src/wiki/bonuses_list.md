@@ -1,7 +1,7 @@
 ---
 title: Bonuses List
 permalink: wiki/Bonuses_List
-layout: base
+layout: wiki
 ---
 
 The **Bonuses List** is a small note listing some of the locations of

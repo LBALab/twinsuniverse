@@ -1,7 +1,7 @@
 ---
 title: Snowboard
 permalink: wiki/Snowboard
-layout: base
+layout: wiki
 ---
 
 ## Description

@@ -1,7 +1,7 @@
 ---
 title: Chuette
 permalink: wiki/Chuette
-layout: base
+layout: wiki
 redirect_from:
  - wiki/Owl
 ---

@@ -1,7 +1,7 @@
 ---
 title: Beatrice
 permalink: wiki/Beatrice
-layout: base
+layout: wiki
 tags:
  - Principal Island inhabitants
 ---

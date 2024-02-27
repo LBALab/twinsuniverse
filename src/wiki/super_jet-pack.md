@@ -1,7 +1,7 @@
 ---
 title: Super Jet-pack
 permalink: wiki/Super_Jet-pack
-layout: base
+layout: wiki
 ---
 
 ## Description

@@ -1,7 +1,7 @@
 ---
 title: Sendell's Medallion
 permalink: wiki/Sendell's_Medallion
-layout: base
+layout: wiki
 ---
 
 ## Description

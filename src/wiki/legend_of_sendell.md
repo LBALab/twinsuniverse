@@ -1,11 +1,11 @@
 ---
 title: Legend of Sendell
 permalink: wiki/Legend_of_Sendell
-layout: base
+layout: wiki
 ---
 
 <figure>
-<img src="assets/thumbs/legend_of_sendell.gif"
+<img src="src/assets/thumbs/legend_of_sendell.gif"
 title="A book mentioning the Legend of Sendell, in the Censored Publications Department of the Principal Island library." />
 <figcaption>A book mentioning the Legend of Sendell, in the Censored
 Publications Department of the <a href="Principal_Island"

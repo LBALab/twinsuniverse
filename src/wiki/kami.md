@@ -1,14 +1,14 @@
 ---
 title: Kami
 permalink: wiki/Kami
-layout: base
+layout: wiki
 tags:
  - Species
 ---
 
 <figure>
 <img
-src="assets/lba1/_cutscenes/screenshot-lba1-movies-05-snowstorm-05.jpg"
+src="src/assets/lba1/_cutscenes/screenshot-lba1-movies-05-snowstorm-05.jpg"
 title="Kami" width="200" />
 <figcaption>Kami</figcaption>
 </figure>

@@ -1,7 +1,7 @@
 ---
 title: Red Magnetic Card
 permalink: wiki/Red_Magnetic_Card
-layout: base
+layout: wiki
 ---
 
 The **Red Magnetic Card** is a magnetic card created by a

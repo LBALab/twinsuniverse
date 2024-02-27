@@ -1,7 +1,7 @@
 ---
 title: Test (achievement)
 permalink: wiki/Test_(achievement)
-layout: base
+layout: wiki
 tags:
  - Notice templates|DisambigMsg
 ---

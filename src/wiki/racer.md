@@ -1,7 +1,7 @@
 ---
 title: Racer
 permalink: wiki/Racer
-layout: base
+layout: wiki
 ---
 
 The **racer** spends all day driving his car around the race track on

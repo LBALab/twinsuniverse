@@ -1,7 +1,7 @@
 ---
 title: Mies van der Rooh
 permalink: wiki/Mies_van_der_Rooh
-layout: base
+layout: wiki
 tags:
  - Rabbibunnies
  - Average characters

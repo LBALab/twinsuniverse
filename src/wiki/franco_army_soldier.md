@@ -1,7 +1,7 @@
 ---
 title: Franco Army Soldier
 permalink: wiki/Franco_Army_Soldier
-layout: base
+layout: wiki
 ---
 
 The **Franco Army Soldier** is a flexible soldier of the [Imperial

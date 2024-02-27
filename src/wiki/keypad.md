@@ -1,7 +1,7 @@
 ---
 title: Keypad
 permalink: wiki/Keypad
-layout: base
+layout: wiki
 ---
 
 The **keypad controlling a digital locking system** is a special object
@@ -13,7 +13,7 @@ Adventure 1](Little_Big_Adventure_1 "wikilink"). Lanktir had recieved
 the keypad by accident.
 
 <img
-src="assets/lba1/brundle_island/lba1-brundle_island-teleportation_center_inside_penguins.jpg"
+src="src/assets/lba1/brundle_island/lba1-brundle_island-teleportation_center_inside_penguins.jpg"
 title="The secret room inside the Teleportation Center" width="200"
 alt="The secret room inside the Teleportation Center" /> The keypard is
 not an integral part of the game, but Twinsen can use it to open the

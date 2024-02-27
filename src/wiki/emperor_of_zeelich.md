@@ -1,7 +1,7 @@
 ---
 title: Emperor of Zeelich
 permalink: wiki/Emperor_of_Zeelich
-layout: base
+layout: wiki
 tags:
  - Island CX inhabitants
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <figure>
-<img src="assets/lba2/_stills/emperor_statue.gif"
+<img src="src/assets/lba2/_stills/emperor_statue.gif"
 title="Statue of the Emperor of Zeelich" width="145" />
 <figcaption>Statue of the Emperor of <a href="Zeelich"
 title="wikilink">Zeelich</a></figcaption>

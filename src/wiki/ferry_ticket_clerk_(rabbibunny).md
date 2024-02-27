@@ -1,7 +1,7 @@
 ---
 title: Ferry Ticket Clerk (Rabbibunny)
 permalink: wiki/Ferry_Ticket_Clerk_(Rabbibunny)
-layout: base
+layout: wiki
 tags:
  -  Citadel Island inhabitants
 ---

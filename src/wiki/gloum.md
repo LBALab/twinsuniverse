@@ -1,7 +1,7 @@
 ---
 title: Gloum
 permalink: wiki/Gloum
-layout: base
+layout: wiki
 tags:
  - Gloums| 
  - Gloum characters| 

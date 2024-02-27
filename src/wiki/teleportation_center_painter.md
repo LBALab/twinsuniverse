@@ -1,7 +1,7 @@
 ---
 title: Teleportation Center Painter
 permalink: wiki/Teleportation_Center_Painter
-layout: base
+layout: wiki
 tags:
  -  Brundle Island inhabitants
 ---

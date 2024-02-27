@@ -1,7 +1,7 @@
 ---
 title: Meca-Penguin
 permalink: wiki/Meca-Penguin
-layout: base
+layout: wiki
 ---
 
 **Meca-Penguin** is one of the weapons available in [Little Big

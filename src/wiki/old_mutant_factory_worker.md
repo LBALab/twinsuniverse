@@ -1,7 +1,7 @@
 ---
 title: Old Mutant Factory Worker
 permalink: wiki/Old_Mutant_Factory_Worker
-layout: base
+layout: wiki
 tags:
  - Grobos
  - Average characters

@@ -1,7 +1,7 @@
 ---
 title: Francos Fragment
 permalink: wiki/Francos_Fragment
-layout: base
+layout: wiki
 ---
 
 The **Francos Fragment** is one of the four fragments which together

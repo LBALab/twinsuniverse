@@ -1,7 +1,7 @@
 ---
 title: Burgermaster's Notes
 permalink: wiki/Burgermaster's_Notes
-layout: base
+layout: wiki
 ---
 
 **The Burgermaster's Notes** are notes providing instructions as to

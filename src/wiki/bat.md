@@ -1,7 +1,7 @@
 ---
 title: Bat
 permalink: wiki/Bat
-layout: base
+layout: wiki
 ---
 
 **Bats** live in dark caves and abandoned buildings. They fly around

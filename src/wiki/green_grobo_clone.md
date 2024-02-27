@@ -1,7 +1,7 @@
 ---
 title: Green Grobo Clone
 permalink: wiki/Green_Grobo_Clone
-layout: base
+layout: wiki
 ---
 
 **Green [Grobo](Grobo "wikilink") [Clones](Clone "wikilink")**, are

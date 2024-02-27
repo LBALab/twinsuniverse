@@ -1,7 +1,7 @@
 ---
 title: LeBorgne the Pirate
 permalink: wiki/LeBorgne_the_Pirate
-layout: base
+layout: wiki
 redirect_from:
  - wiki/LeBorgne
 ---

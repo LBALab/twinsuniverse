@@ -1,7 +1,7 @@
 ---
 title: Ker'aooc
 permalink: wiki/Ker'aooc
-layout: base
+layout: wiki
 tags:
  - Spheroes
  - Male characters

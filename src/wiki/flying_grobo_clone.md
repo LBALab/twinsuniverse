@@ -1,7 +1,7 @@
 ---
 title: Flying Grobo Clone
 permalink: wiki/Flying_Grobo_Clone
-layout: base
+layout: wiki
 ---
 
 **Flying [Grobo](Grobo "wikilink") [Clones](Clone "wikilink")** are

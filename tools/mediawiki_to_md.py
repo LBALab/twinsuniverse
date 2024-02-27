@@ -146,7 +146,7 @@ del tmp
 
 # read all image files to to reference in the mediawiki files
 image_files = {}
-for root, dirs, files in os.walk("wiki/assets"):
+for root, dirs, files in os.walk("src/wiki/assets"):
     for file in files:
         filestrip = file.replace(" ", "_").lower()
         image_files[filestrip] = os.path.join(root, file).replace("wiki/", "").lower()
@@ -230,6 +230,9 @@ def cleanup_mediawiki(text):
             # Markdown image wrapped in a div does not render on Github Pages,
             # remove the div and any attempt at styling it (e.g. alignment)
             line = undiv
+        if "{{SITENAME}}" in line or "{{SITENAME}}|" in line:
+            line = line.replace("{{SITENAME}}|", "Twinsuniverse Wiki")
+            line = line.replace("{{SITENAME}}", "Twinsuniverse Wiki")
         # Look for any category tag, usually done as a single line:
         while "[[Category:" in line:
             tag = line[line.index("[[Category:") + 11 :]
@@ -446,6 +449,8 @@ for mw_filename in names:
 print("Converting pages...")
 for mw_filename in names:
     if mw_filename in redirects:
+        continue
+    if "twinsuniverse_wiki" in mw_filename:
         continue
     md_filename = mw_filename[: -len(mediawiki_ext)] + markdown_ext
     # if os.path.isfile(md_filename):

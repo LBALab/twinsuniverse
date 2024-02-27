@@ -1,7 +1,7 @@
 ---
 title: Umbrella Thief
 permalink: wiki/Umbrella_Thief
-layout: base
+layout: wiki
 tags:
  - Citadel Island inhabitants
 ---

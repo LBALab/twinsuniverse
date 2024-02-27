@@ -1,7 +1,7 @@
 ---
 title: Spacesuit Guard
 permalink: wiki/Spacesuit_Guard
-layout: base
+layout: wiki
 ---
 
 The **spacesuit guards** can be found on [Emerald

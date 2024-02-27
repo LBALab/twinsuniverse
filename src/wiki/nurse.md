@@ -1,7 +1,7 @@
 ---
 title: Nurse
 permalink: wiki/Nurse
-layout: base
+layout: wiki
 ---
 
 <center>

@@ -1,7 +1,7 @@
 ---
 title: Pharmacist (Quetch)
 permalink: wiki/Pharmacist_(Quetch)
-layout: base
+layout: wiki
 tags:
  -  Citadel Island inhabitants
 ---

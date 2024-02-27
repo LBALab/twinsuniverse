@@ -1,7 +1,7 @@
 ---
 title: Joan Loumin
 permalink: wiki/Joan_Loumin
-layout: base
+layout: wiki
 tags:
  - Mosquibees Island inhabitants
  - Otringal inhabitants

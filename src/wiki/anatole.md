@@ -1,7 +1,7 @@
 ---
 title: Anatole
 permalink: wiki/Anatole
-layout: base
+layout: wiki
 tags:
  - Desert Island inhabitants
 ---

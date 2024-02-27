@@ -1,7 +1,7 @@
 ---
 title: Arno
 permalink: wiki/Arno
-layout: base
+layout: wiki
 tags:
  - Wannies
  - Male characters

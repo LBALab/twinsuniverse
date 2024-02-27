@@ -1,7 +1,7 @@
 ---
 title: Wadbull
 permalink: wiki/Wadbull
-layout: base
+layout: wiki
 tags:
  - Principal Island inhabitants
 ---

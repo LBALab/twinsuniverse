@@ -1,7 +1,7 @@
 ---
 title: Yellow Sphero Clone
 permalink: wiki/Yellow_Sphero_Clone
-layout: base
+layout: wiki
 ---
 
 Weakest level of Sphero clone, still quite strong though. Less common

@@ -1,11 +1,11 @@
 ---
 title: Catamaran
 permalink: wiki/Catamaran
-layout: base
+layout: wiki
 ---
 
 <figure>
-<img src="assets/lba1/_transport_vehicles/catamara.gif"
+<img src="src/assets/lba1/_transport_vehicles/catamara.gif"
 title="The catamaran with the pirate flag attached." width="199" />
 <figcaption>The catamaran with the <a href="pirate_flag"
 title="wikilink">pirate flag</a> attached.</figcaption>

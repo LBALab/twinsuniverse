@@ -1,7 +1,7 @@
 ---
 title: Col. Kroptman
 permalink: wiki/Col._Kroptman
-layout: base
+layout: wiki
 tags:
  - Spheroes
  - Male characters

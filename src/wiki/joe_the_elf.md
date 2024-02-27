@@ -1,7 +1,7 @@
 ---
 title: Joe the Elf
 permalink: wiki/Joe_the_Elf
-layout: base
+layout: wiki
 tags:
  - Desert Island inhabitants
  - Citadel Island inhabitants

@@ -1,7 +1,7 @@
 ---
 title: Franco Dissident
 permalink: wiki/Franco_Dissident
-layout: base
+layout: wiki
 ---
 
 The **Franco Dissident** is

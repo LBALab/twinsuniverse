@@ -1,7 +1,7 @@
 ---
 title: Hégésippe
 permalink: wiki/Hégésippe
-layout: base
+layout: wiki
 redirect_from:
  - wiki/Hegesippe
 ---

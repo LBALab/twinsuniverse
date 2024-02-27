@@ -1,13 +1,13 @@
 ---
 title: Schmoutz
 permalink: wiki/Schmoutz
-layout: base
+layout: wiki
 tags:
  - Species
 ---
 
 <figure>
-<img src="assets/lba2/_characters/frames/schmoutz.jpg"
+<img src="src/assets/lba2/_characters/frames/schmoutz.jpg"
 title="A schmoutz" />
 <figcaption>A schmoutz</figcaption>
 </figure>

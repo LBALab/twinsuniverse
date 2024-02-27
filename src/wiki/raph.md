@@ -1,7 +1,7 @@
 ---
 title: Raph
 permalink: wiki/Raph
-layout: base
+layout: wiki
 tags:
  - Citadel Island inhabitants
 ---

@@ -1,7 +1,7 @@
 ---
 title: Ferry captain
 permalink: wiki/Ferry_captain
-layout: base
+layout: wiki
 tags:
  - Rabbibunnies
  - Male characters

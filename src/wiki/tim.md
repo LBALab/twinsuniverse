@@ -1,7 +1,7 @@
 ---
 title: Tim
 permalink: wiki/Tim
-layout: base
+layout: wiki
 tags:
  - Citadel Island inhabitants
 ---

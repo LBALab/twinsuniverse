@@ -1,7 +1,7 @@
 ---
 title: Franco Technician
 permalink: wiki/Franco_Technician
-layout: base
+layout: wiki
 ---
 
 The **Franco Technician** is

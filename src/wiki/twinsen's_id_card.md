@@ -1,7 +1,7 @@
 ---
 title: Twinsen's ID Card
 permalink: wiki/Twinsen's_ID_Card
-layout: base
+layout: wiki
 ---
 
 ## Description

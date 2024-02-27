@@ -1,7 +1,7 @@
 ---
 title: Holomap
 permalink: wiki/Holomap
-layout: base
+layout: wiki
 ---
 
 The **Holomap** is a 3-Dimensional map that shows

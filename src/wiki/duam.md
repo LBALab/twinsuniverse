@@ -1,13 +1,13 @@
 ---
 title: Duam
 permalink: wiki/Duam
-layout: base
+layout: wiki
 tags:
  - Species
 ---
 
 <figure>
-<img src="assets/lba2/_characters/frames/duam.jpg" title="A Duam"
+<img src="src/assets/lba2/_characters/frames/duam.jpg" title="A Duam"
 width="143" />
 <figcaption>A Duam</figcaption>
 </figure>

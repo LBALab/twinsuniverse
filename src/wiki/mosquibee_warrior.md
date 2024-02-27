@@ -1,7 +1,7 @@
 ---
 title: Mosquibee Warrior
 permalink: wiki/Mosquibee_Warrior
-layout: base
+layout: wiki
 ---
 
 The **Mosquibee Warrior** is

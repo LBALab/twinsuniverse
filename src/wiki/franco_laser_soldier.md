@@ -1,7 +1,7 @@
 ---
 title: Franco Laser Soldier
 permalink: wiki/Franco_Laser_Soldier
-layout: base
+layout: wiki
 ---
 
 The **Franco Laser Soldier** is encountered at numerous places, and

@@ -1,7 +1,7 @@
 ---
 title: Magic Ball
 permalink: wiki/Magic_Ball
-layout: base
+layout: wiki
 ---
 
 The **magic ball** is a ball that stores a great deal of magic. This

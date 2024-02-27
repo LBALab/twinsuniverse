@@ -1,7 +1,7 @@
 ---
 title: Alfred the Miner
 permalink: wiki/Alfred_the_Miner
-layout: base
+layout: wiki
 tags:
  - Wannies
  - Large characters

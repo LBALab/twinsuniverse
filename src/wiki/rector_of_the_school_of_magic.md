@@ -1,7 +1,7 @@
 ---
 title: Rector of the School of Magic
 permalink: wiki/Rector_of_the_School_of_Magic
-layout: base
+layout: wiki
 tags:
  - Desert Island inhabitants
 redirect_from:

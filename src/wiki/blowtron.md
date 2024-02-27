@@ -1,7 +1,7 @@
 ---
 title: Blowtron
 permalink: wiki/Blowtron
-layout: base
+layout: wiki
 ---
 
 The **blowtron** is a weapon firing projectiles. It is quite similar to

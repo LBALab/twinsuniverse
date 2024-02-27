@@ -1,7 +1,7 @@
 ---
 title: Raymond the Elf
 permalink: wiki/Raymond_the_Elf
-layout: base
+layout: wiki
 tags:
  - Hamalayi Mountains inhabitants
 ---

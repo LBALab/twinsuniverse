@@ -1,7 +1,7 @@
 ---
 title: Ring of the Dissidents
 permalink: wiki/Ring_of_the_Dissidents
-layout: base
+layout: wiki
 redirect_from:
  - wiki/Dissident's_Ring
 ---

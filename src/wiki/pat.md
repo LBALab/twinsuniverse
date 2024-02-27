@@ -1,7 +1,7 @@
 ---
 title: Pat
 permalink: wiki/Pat
-layout: base
+layout: wiki
 tags:
  -  Citadel Island inhabitants
 ---

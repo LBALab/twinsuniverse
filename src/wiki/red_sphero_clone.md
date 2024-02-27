@@ -1,7 +1,7 @@
 ---
 title: Red Sphero Clone
 permalink: wiki/Red_Sphero_Clone
-layout: base
+layout: wiki
 ---
 
 **Red Sphero Clones** are [sphero](sphero "wikilink")

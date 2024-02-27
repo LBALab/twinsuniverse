@@ -1,7 +1,7 @@
 ---
 title: Key
 permalink: wiki/Key
-layout: base
+layout: wiki
 ---
 
 **Keys** are used for opening doors and gates.

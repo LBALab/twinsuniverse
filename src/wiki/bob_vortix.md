@@ -1,7 +1,7 @@
 ---
 title: Bob Vortix
 permalink: wiki/Bob_Vortix
-layout: base
+layout: wiki
 tags:
  - Spheroes
  - Male characters

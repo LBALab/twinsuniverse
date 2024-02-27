@@ -1,7 +1,7 @@
 ---
 title: Rebel
 permalink: wiki/Rebel
-layout: base
+layout: wiki
 ---
 
 The **rebels** are inhabitants of [Twinsun](Twinsun "wikilink") who

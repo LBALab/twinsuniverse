@@ -1,7 +1,7 @@
 ---
 title: Tank
 permalink: wiki/Tank
-layout: base
+layout: wiki
 ---
 
 **Tanks** are heavy battle tanks in the army of

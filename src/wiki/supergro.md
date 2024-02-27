@@ -1,7 +1,7 @@
 ---
 title: Supergro
 permalink: wiki/Supergro
-layout: base
+layout: wiki
 ---
 
 **Supergros** are white [grobo](grobo "wikilink")

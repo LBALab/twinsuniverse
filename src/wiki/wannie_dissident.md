@@ -1,7 +1,7 @@
 ---
 title: Wannie Dissident
 permalink: wiki/Wannie_Dissident
-layout: base
+layout: wiki
 ---
 
 The **Wannie Dissident** is one of the four Dissident's of

@@ -1,7 +1,7 @@
 ---
 title: Bersimon
 permalink: wiki/Bersimon
-layout: base
+layout: wiki
 tags:
  - Citadel Island inhabitants
  - Key characters

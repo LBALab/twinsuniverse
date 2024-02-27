@@ -1,7 +1,7 @@
 ---
 title: Teacher
 permalink: wiki/Teacher
-layout: base
+layout: wiki
 tags:
  -  Citadel Island inhabitants
 ---

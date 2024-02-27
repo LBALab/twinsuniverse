@@ -1,7 +1,7 @@
 ---
 title: Yellow Rabbibunny Clone
 permalink: wiki/Yellow_Rabbibunny_Clone
-layout: base
+layout: wiki
 ---
 
 **Yellow Rabbibunny Clones** are weak clones created by [Dr.

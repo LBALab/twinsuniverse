@@ -1,7 +1,7 @@
 ---
 title: Red Grobo Clone
 permalink: wiki/Red_Grobo_Clone
-layout: base
+layout: wiki
 ---
 
 **Red [Grobo](Grobo "wikilink") [Clone](Clone "wikilink")** is the

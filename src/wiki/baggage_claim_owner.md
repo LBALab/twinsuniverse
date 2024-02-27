@@ -1,7 +1,7 @@
 ---
 title: Baggage Claim Owner
 permalink: wiki/Baggage_Claim_Owner
-layout: base
+layout: wiki
 tags:
  -  Citadel Island inhabitants
  - Grobos

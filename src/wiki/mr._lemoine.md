@@ -1,7 +1,7 @@
 ---
 title: Mr. Lemoine
 permalink: wiki/Mr._Lemoine
-layout: base
+layout: wiki
 tags:
  - Wannies
  - Male characters

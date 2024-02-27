@@ -1,7 +1,7 @@
 ---
 title: Franco Pike Guard
 permalink: wiki/Franco_Pike_Guard
-layout: base
+layout: wiki
 ---
 
 **Franco Pike Guards** are omnipresent guards of the

@@ -1,7 +1,7 @@
 ---
 title: Spell Guardian
 permalink: wiki/Spell_Guardian
-layout: base
+layout: wiki
 ---
 
 The **spell guardian** is a very big monster guarding a

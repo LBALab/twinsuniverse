@@ -1,7 +1,7 @@
 ---
 title: How to play guide for Little Big Adventure
 permalink: wiki/How_to_play_guide_for_Little_Big_Adventure
-layout: base
+layout: wiki
 tags:
  - Guides
 ---

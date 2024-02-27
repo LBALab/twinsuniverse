@@ -1,7 +1,7 @@
 ---
 title: Ferryman's Song
 permalink: wiki/Ferryman's_Song
-layout: base
+layout: wiki
 ---
 
 The **Ferryman's Song** is a song used for calling [The

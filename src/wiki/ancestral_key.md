@@ -1,7 +1,7 @@
 ---
 title: Ancestral Key
 permalink: wiki/Ancestral_Key
-layout: base
+layout: wiki
 ---
 
 The **Ancestral Key** is a key that opens the locked room in the cave

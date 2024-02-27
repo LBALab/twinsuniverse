@@ -1,7 +1,7 @@
 ---
 title: FunFrock's Reign
 permalink: wiki/FunFrock's_Reign
-layout: base
+layout: wiki
 redirect_from:
  - wiki/Twinsen's_first_adventure
 ---

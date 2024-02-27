@@ -1,7 +1,7 @@
 ---
 title: Old Wiseman
 permalink: wiki/Old_Wiseman
-layout: base
+layout: wiki
 ---
 
 The **Old Wiseman** is an old Rabbibunny who can be found sitting next

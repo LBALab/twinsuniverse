@@ -1,7 +1,7 @@
 ---
 title: Mr. Paul
 permalink: wiki/Mr._Paul
-layout: base
+layout: wiki
 tags:
  - Citadel Island inhabitants
 ---

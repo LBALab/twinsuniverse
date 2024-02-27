@@ -1,7 +1,7 @@
 ---
 title: Darts
 permalink: wiki/Darts
-layout: base
+layout: wiki
 redirect_from:
  - wiki/Dart
 ---
@@ -16,7 +16,7 @@ simply walking over it.
 
 <figure>
 <img
-src="assets/lba2/_screenshots/lba2_-_twinsen_facing_darts_in_his_basement.jpg"
+src="src/assets/lba2/_screenshots/lba2_-_twinsen_facing_darts_in_his_basement.jpg"
 title="Twinsen facing 3 darts in his house" width="250" />
 <figcaption>Twinsen facing 3 darts in his house</figcaption>
 </figure>

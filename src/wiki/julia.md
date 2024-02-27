@@ -1,7 +1,7 @@
 ---
 title: Julia
 permalink: wiki/Julia
-layout: base
+layout: wiki
 tags:
  - Rabbibunnies
  - Female characters

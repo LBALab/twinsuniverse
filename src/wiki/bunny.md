@@ -1,7 +1,7 @@
 ---
 title: Bunny
 permalink: wiki/Bunny
-layout: base
+layout: wiki
 tags:
  - Desert Island inhabitants
 ---

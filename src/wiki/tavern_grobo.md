@@ -1,7 +1,7 @@
 ---
 title: Tavern Grobo
 permalink: wiki/Tavern_Grobo
-layout: base
+layout: wiki
 tags:
  - Citadel Island inhabitants
 ---

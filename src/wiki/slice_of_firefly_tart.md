@@ -1,7 +1,7 @@
 ---
 title: Slice of FireFly Tart
 permalink: wiki/Slice_of_FireFly_Tart
-layout: base
+layout: wiki
 redirect_from:
  - wiki/Slice_of_Tart
 ---

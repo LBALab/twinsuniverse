@@ -1,7 +1,7 @@
 ---
 title: Sendell's Ball
 permalink: wiki/Sendell's_Ball
-layout: base
+layout: wiki
 ---
 
 ## Description

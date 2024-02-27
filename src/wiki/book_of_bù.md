@@ -1,12 +1,12 @@
 ---
 title: Book of Bù
 permalink: wiki/Book_of_Bù
-layout: base
+layout: wiki
 ---
 
 <figure>
 <img
-src="assets/lba1/_cutscenes/screenshot-lba1-movies-04_temple_of_bu-01.jpg"
+src="src/assets/lba1/_cutscenes/screenshot-lba1-movies-04_temple_of_bu-01.jpg"
 title="Twinsen holding the Book of Bù" width="200" />
 <figcaption>Twinsen holding the Book of Bù</figcaption>
 </figure>

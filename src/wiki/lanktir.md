@@ -1,7 +1,7 @@
 ---
 title: Lanktir
 permalink: wiki/Lanktir
-layout: base
+layout: wiki
 tags:
  - Grobos
  - Male characters

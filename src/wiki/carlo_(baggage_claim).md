@@ -1,7 +1,7 @@
 ---
 title: Carlo (Baggage Claim)
 permalink: wiki/Carlo_(Baggage_Claim)
-layout: base
+layout: wiki
 tags:
  - Citadel Island inhabitants
 redirect_from:

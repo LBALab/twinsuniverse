@@ -1,7 +1,7 @@
 ---
 title: Mosquibee
 permalink: wiki/Mosquibee
-layout: base
+layout: wiki
 tags:
  - Mosquibees| 
  - Mosquibee characters| 
@@ -12,7 +12,7 @@ redirect_from:
 ---
 
 <figure>
-<img src="assets/lba2/_characters/mosqanim.gif" title="Mosquibee"
+<img src="src/assets/lba2/_characters/mosqanim.gif" title="Mosquibee"
 width="73" />
 <figcaption>Mosquibee</figcaption>
 </figure>

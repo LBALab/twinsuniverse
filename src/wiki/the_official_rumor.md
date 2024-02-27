@@ -1,7 +1,7 @@
 ---
 title: The Official Rumor
 permalink: wiki/The_Official_Rumor
-layout: base
+layout: wiki
 ---
 
 ## Description

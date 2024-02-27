@@ -1,7 +1,7 @@
 ---
 title: Yellow Grobo Clone
 permalink: wiki/Yellow_Grobo_Clone
-layout: base
+layout: wiki
 ---
 
 **Yellow Grobo Clones** were observer clones created by [Dr.
@@ -19,7 +19,7 @@ The gate to the harbour, however, is blocked by a yellow grobo clone.
 After defeating it with his [magic ball](magic_ball "wikilink"), Twinsen
 is able to get onto the ferry.
 
-<img src="assets/lba1/_characters/grclone.gif"
+<img src="src/assets/lba1/_characters/grclone.gif"
 title="The grobo clone without a helmet" width="70"
 alt="The grobo clone without a helmet" /> In [Funky
 Town](Funky_Town "wikilink"), [Twinsen](Twinsen "wikilink") encounters a

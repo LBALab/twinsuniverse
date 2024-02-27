@@ -1,7 +1,7 @@
 ---
 title: Telepod
 permalink: wiki/Telepod
-layout: base
+layout: wiki
 ---
 
 ## Description

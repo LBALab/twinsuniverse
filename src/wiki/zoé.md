@@ -1,7 +1,7 @@
 ---
 title: Zoé
 permalink: wiki/Zoé
-layout: base
+layout: wiki
 tags:
  - Quetches
  - Female characters
@@ -14,7 +14,7 @@ redirect_from:
 ---
 
 <figure>
-<img src="assets/lba2/_characters/zoe_mike.gif"
+<img src="src/assets/lba2/_characters/zoe_mike.gif"
 title="Zoé talking to her dear Twinsen over the radio" width="138" />
 <figcaption>Zoé talking to her dear <a href="Twinsen"
 title="wikilink">Twinsen</a> over the radio</figcaption>

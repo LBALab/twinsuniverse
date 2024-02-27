@@ -1,7 +1,7 @@
 ---
 title: Baggage Claim Rabbibunny
 permalink: wiki/Baggage_Claim_Rabbibunny
-layout: base
+layout: wiki
 tags:
  - Citadel Island inhabitants
 ---

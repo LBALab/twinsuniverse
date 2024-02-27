@@ -1,7 +1,7 @@
 ---
 title: Blowgun
 permalink: wiki/Blowgun
-layout: base
+layout: wiki
 ---
 
 The **blowgun** is a small metallic tube used as a weapon. By reloading

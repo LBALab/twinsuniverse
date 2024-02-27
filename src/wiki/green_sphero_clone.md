@@ -1,7 +1,7 @@
 ---
 title: Green Sphero Clone
 permalink: wiki/Green_Sphero_Clone
-layout: base
+layout: wiki
 ---
 
 **Green level of [Sphero](Sphero "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: 2 column responsive main page (alternative)
 permalink: wiki/2_column_responsive_main_page_(alternative)
-layout: base
+layout: wiki
 tags:
  - Front page|*
 ---
@@ -16,10 +16,12 @@ tags:
 </div>
 <div class="nomobile" style="text-align: right; margin-right: 10px;">
 
-<small>Main page sections: [Top]({{SITENAME}}/Top_section "wikilink") ·
-[Flex]({{SITENAME}}/Flex_section "wikilink") ·
-[Bottom]({{SITENAME}}/Bottom_section "wikilink"). Changes for the main
-page can be proposed [here](Talk:{{SITENAME}} "wikilink"). </small>
+<small>Main page sections:
+[Top](Twinsuniverse_Wiki/Top_section "wikilink") ·
+[Flex](Twinsuniverse_Wiki/Flex_section "wikilink") ·
+[Bottom](Twinsuniverse_Wiki/Bottom_section "wikilink"). Changes for the
+main page can be proposed [Talk:Twinsuniverse
+Wikihere](Talk:Twinsuniverse_Wikihere "wikilink"). </small>
 
 </div>
 

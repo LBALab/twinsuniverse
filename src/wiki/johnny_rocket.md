@@ -1,7 +1,7 @@
 ---
 title: Johnny Rocket
 permalink: wiki/Johnny_Rocket
-layout: base
+layout: wiki
 tags:
  - Otringal inhabitants
 ---

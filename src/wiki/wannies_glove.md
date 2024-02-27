@@ -1,7 +1,7 @@
 ---
 title: Wannies Glove
 permalink: wiki/Wannies_Glove
-layout: base
+layout: wiki
 ---
 
 ## Description

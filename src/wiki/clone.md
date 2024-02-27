@@ -1,7 +1,7 @@
 ---
 title: Clone
 permalink: wiki/Clone
-layout: base
+layout: wiki
 tags:
  - FunFrock's Army| 
 ---

@@ -1,7 +1,7 @@
 ---
 title: Rick
 permalink: wiki/Rick
-layout: base
+layout: wiki
 tags:
  - Otringal inhabitants
 ---

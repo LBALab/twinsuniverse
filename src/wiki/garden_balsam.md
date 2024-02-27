@@ -1,7 +1,7 @@
 ---
 title: Garden Balsam
 permalink: wiki/Garden_Balsam
-layout: base
+layout: wiki
 redirect_from:
  - wiki/Garden_Balsam_Flower
 ---

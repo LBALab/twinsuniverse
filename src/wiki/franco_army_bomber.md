@@ -1,7 +1,7 @@
 ---
 title: Franco Army Bomber
 permalink: wiki/Franco_Army_Bomber
-layout: base
+layout: wiki
 ---
 
 The **Franco Army Bomber** is, like the [Franco Army

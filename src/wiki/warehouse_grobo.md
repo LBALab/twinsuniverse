@@ -1,7 +1,7 @@
 ---
 title: Warehouse Grobo
 permalink: wiki/Warehouse_Grobo
-layout: base
+layout: wiki
 tags:
  - Citadel Island inhabitants
 ---

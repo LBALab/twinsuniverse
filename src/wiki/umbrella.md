@@ -1,7 +1,7 @@
 ---
 title: Umbrella
 permalink: wiki/Umbrella
-layout: base
+layout: wiki
 redirect_from:
  - wiki/Customer's_Umbrella
 ---

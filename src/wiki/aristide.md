@@ -1,7 +1,7 @@
 ---
 title: Aristide
 permalink: wiki/Aristide
-layout: base
+layout: wiki
 tags:
  - Desert Island inhabitants
 ---

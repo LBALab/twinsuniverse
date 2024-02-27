@@ -1,12 +1,12 @@
 ---
 title: Ferry
 permalink: wiki/Ferry
-layout: base
+layout: wiki
 ---
 
 <figure>
-<img src="assets/lba1/_cutscenes/02_ferry.gif" title="The old ferry."
-width="200" />
+<img src="src/assets/lba1/_cutscenes/02_ferry.gif"
+title="The old ferry." width="200" />
 <figcaption>The old ferry.</figcaption>
 </figure>
 
@@ -23,7 +23,7 @@ hovercraft. During the time of the [Esmer
 invasion](Esmer_invasion "wikilink"), the ferry services are not
 allowed.
 
-<img src="assets/lba2/_cutscenes/boat_2.preview.jpg"
+<img src="src/assets/lba2/_cutscenes/boat_2.preview.jpg"
 title="The new ferry." width="200" alt="The new ferry." />
 [Twinsen](Twinsen "wikilink") has to use the ferries several times
 during his adventures. He first needs it to get to [Principal

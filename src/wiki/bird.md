@@ -1,7 +1,7 @@
 ---
 title: Bird
 permalink: wiki/Bird
-layout: base
+layout: wiki
 ---
 
 **Birds** are

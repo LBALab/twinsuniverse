@@ -1,7 +1,7 @@
 ---
 title: Astrid
 permalink: wiki/Astrid
-layout: base
+layout: wiki
 tags:
  - Mosquibees Island inhabitants
 ---

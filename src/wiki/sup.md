@@ -1,7 +1,7 @@
 ---
 title: Sup
 permalink: wiki/Sup
-layout: base
+layout: wiki
 tags:
  - Sups| 
  - Sup characters| 
@@ -10,7 +10,8 @@ tags:
 ---
 
 <figure>
-<img src="assets/lba2/_characters/supanim.gif" title="Sup" width="52" />
+<img src="src/assets/lba2/_characters/supanim.gif" title="Sup"
+width="52" />
 <figcaption>Sup</figcaption>
 </figure>
 

@@ -1,7 +1,7 @@
 ---
 title: FunFrock's Saber
 permalink: wiki/FunFrock's_Saber
-layout: base
+layout: wiki
 redirect_from:
  - wiki/FunFrock's_Sabre
  - wiki/Magic_Saber

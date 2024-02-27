@@ -1,7 +1,7 @@
 ---
 title: Translator
 permalink: wiki/Translator
-layout: base
+layout: wiki
 ---
 
 ## Description

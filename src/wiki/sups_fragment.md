@@ -1,7 +1,7 @@
 ---
 title: Sups Fragment
 permalink: wiki/Sups_Fragment
-layout: base
+layout: wiki
 ---
 
 ## Description

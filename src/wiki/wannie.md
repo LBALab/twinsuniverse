@@ -1,7 +1,7 @@
 ---
 title: Wannie
 permalink: wiki/Wannie
-layout: base
+layout: wiki
 tags:
  - Wannies| 
  - Wannie characters| 
@@ -10,7 +10,7 @@ tags:
 ---
 
 <figure>
-<img src="assets/lba2/_characters/blafardanim.gif" title="A Wannie"
+<img src="src/assets/lba2/_characters/blafardanim.gif" title="A Wannie"
 width="74" />
 <figcaption>A Wannie</figcaption>
 </figure>

@@ -1,7 +1,7 @@
 ---
 title: Dark Monk's Prophecy
 permalink: wiki/Dark_Monk's_Prophecy
-layout: base
+layout: wiki
 ---
 
 **Dark Monk's Prophecy** is a [Zeelichian](Zeelich "wikilink") prophecy

@@ -1,7 +1,7 @@
 ---
 title: Twinsen
 permalink: wiki/Twinsen
-layout: base
+layout: wiki
 tags:
  -  Quetches
  -  Male characters
@@ -15,7 +15,7 @@ tags:
 ---
 
 <figure>
-<img src="assets/lba2/_cutscenes/twinsen_2.gif"
+<img src="src/assets/lba2/_cutscenes/twinsen_2.gif"
 title="Twinsen when meeting Sendell" width="145" />
 <figcaption>Twinsen when meeting Sendell</figcaption>
 </figure>
@@ -190,7 +190,7 @@ And as a passenger:
 
 ## Twinsen's adventures
 
-<img src="assets/lba2/_stills/twinsen_painting.gif"
+<img src="src/assets/lba2/_stills/twinsen_painting.gif"
 title="A painting of Twinsen, hanging on a wall in Miss Bloop&#39;s Private Museum"
 width="145"
 alt="A painting of Twinsen, hanging on a wall in Miss Bloop&#39;s Private Museum" />[Twinsen's

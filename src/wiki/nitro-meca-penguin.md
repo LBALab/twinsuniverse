@@ -1,7 +1,7 @@
 ---
 title: Nitro-Meca-Penguin
 permalink: wiki/Nitro-Meca-Penguin
-layout: base
+layout: wiki
 ---
 
 **Nitro-Meca-Penguin** is a weapon available in [Little Big Adventure
