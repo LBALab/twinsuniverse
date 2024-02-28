@@ -2,11 +2,10 @@
   "name": "twinsuniverse",
   "version": "4.0.0",
   "description": "Twinsun Universe - an Encyclopedia for Little Big Adventure",
-  "main": "src/index.js",
+  "main": "src/index.html",
   "scripts": {
     "start": "npx @11ty/eleventy --serve",
-    "web": "parcel src",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npx @11ty/eleventy"
   },
   "keywords": [],
   "author": "Alexandre Fontoura",
