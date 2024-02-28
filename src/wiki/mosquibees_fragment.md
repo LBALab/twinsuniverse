@@ -6,7 +6,7 @@ layout: wiki
 
 <figure>
 <img
-src="src/assets/lba2/_screenshots/screenshot-lba2-ingame-island_of_the_mosquibees-fragment_island_1.gif"
+src="assets/lba2/_screenshots/screenshot-lba2-ingame-island_of_the_mosquibees-fragment_island_1.gif"
 title="Twinsen battling a gas monster for the key containing the fragment"
 width="200" />
 <figcaption>Twinsen battling a gas monster for the key containing the

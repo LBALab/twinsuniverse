@@ -21,7 +21,7 @@ redirect_from:
 
 <figure>
 <img
-src="src/assets/lba2/_cutscenes/screenshot-lba2-movies-03-esmers_arrival-sort800.gif"
+src="assets/lba2/_cutscenes/screenshot-lba2-movies-03-esmers_arrival-sort800.gif"
 title="An Esmer." width="200" />
 <figcaption>An Esmer.</figcaption>
 </figure>

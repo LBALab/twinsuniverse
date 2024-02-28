@@ -10,7 +10,7 @@ tags:
 ---
 
 <figure>
-<img src="src/assets/lba1/_characters/quetchanim.gif" title="Quetch" />
+<img src="assets/lba1/_characters/quetchanim.gif" title="Quetch" />
 <figcaption>Quetch</figcaption>
 </figure>
 

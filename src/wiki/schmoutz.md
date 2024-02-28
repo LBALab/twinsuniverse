@@ -7,7 +7,7 @@ tags:
 ---
 
 <figure>
-<img src="src/assets/lba2/_characters/frames/schmoutz.jpg"
+<img src="assets/lba2/_characters/frames/schmoutz.jpg"
 title="A schmoutz" />
 <figcaption>A schmoutz</figcaption>
 </figure>

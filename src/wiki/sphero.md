@@ -9,7 +9,7 @@ tags:
  - Species
 ---
 
-![A sphero](src/assets/lba2/_characters/bouboulanim.gif "A sphero")
+![A sphero](assets/lba2/_characters/bouboulanim.gif "A sphero")
 **Sphero** is one of the four main species of Twinsun. This race of
 small bio-androids has been living for years on
 [Twinsun](Twinsun "wikilink") as an endangered species. Unfortunately,

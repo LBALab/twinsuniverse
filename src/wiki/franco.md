@@ -10,7 +10,7 @@ tags:
 ---
 
 <figure>
-<img src="src/assets/lba2/_characters/knartaanim.gif" title="A Franco"
+<img src="assets/lba2/_characters/knartaanim.gif" title="A Franco"
 width="58" />
 <figcaption>A Franco</figcaption>
 </figure>

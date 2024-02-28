@@ -10,8 +10,8 @@ tags:
 ---
 
 <figure>
-<img src="src/assets/lba2/_characters/lapichonanim.gif"
-title="Rabbibunny" width="72" />
+<img src="assets/lba2/_characters/lapichonanim.gif" title="Rabbibunny"
+width="72" />
 <figcaption>Rabbibunny</figcaption>
 </figure>
 

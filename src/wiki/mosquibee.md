@@ -12,7 +12,7 @@ redirect_from:
 ---
 
 <figure>
-<img src="src/assets/lba2/_characters/mosqanim.gif" title="Mosquibee"
+<img src="assets/lba2/_characters/mosqanim.gif" title="Mosquibee"
 width="73" />
 <figcaption>Mosquibee</figcaption>
 </figure>

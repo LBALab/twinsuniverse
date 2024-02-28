@@ -10,7 +10,7 @@ tags:
 ---
 
 <figure>
-<img src="src/assets/lba2/_characters/groboanim.gif" title="A Grobo"
+<img src="assets/lba2/_characters/groboanim.gif" title="A Grobo"
 width="95" />
 <figcaption>A Grobo</figcaption>
 </figure>

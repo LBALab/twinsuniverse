@@ -5,7 +5,7 @@ layout: wiki
 ---
 
 <figure>
-<img src="src/assets/lba2/_cutscenes/lba2_decolag1.preview.jpg"
+<img src="assets/lba2/_cutscenes/lba2_decolag1.preview.jpg"
 title="Baldino and his spaceship" width="200" />
 <figcaption>Baldino and his spaceship</figcaption>
 </figure>
@@ -25,7 +25,7 @@ giant tarpaulin next to his
 [house](Jerome_Baldino's_residence "wikilink"). Baldino created the
 plans for it on his blackboard.
 
-<img src="src/assets/lba2/_cutscenes/lba2_asteroi.preview.jpg"
+<img src="assets/lba2/_cutscenes/lba2_asteroi.preview.jpg"
 title="Baldino&#39;s Spaceship in space" width="200"
 alt="Baldino&#39;s Spaceship in space" /> Baldino's Spaceship serves
 several times during Little Big Adventure 2.
@@ -45,7 +45,7 @@ from the Moon using the Spaceship again. They approach
 [Zeelich](Zeelich "wikilink"), in order to destroy the control centre
 for the lunar reactors on [Island CX](Island_CX "wikilink").
 
-<img src="src/assets/lba2/_screenshots/lba2_ingame_crash_site.jpg"
+<img src="assets/lba2/_screenshots/lba2_ingame_crash_site.jpg"
 title="The crash site on Otringal" width="200"
 alt="The crash site on Otringal" /> However, the ship runs out of fuel,
 so Twinsen and Baldino crash-land on [Otringal](Otringal "wikilink").
@@ -60,7 +60,7 @@ inside, attempting to throw it into the lava, it is caught by Baldino's
 Spaceship hovering above the lava.
 
 <img
-src="src/assets/lba2/_cutscenes/screenshot-lba2-movies-25-ending_1-end0450.gif"
+src="assets/lba2/_cutscenes/screenshot-lba2-movies-25-ending_1-end0450.gif"
 title="The ship inside Dark Monk&#39;s Statue" width="200"
 alt="The ship inside Dark Monk&#39;s Statue" /> After FunFrock's defeat,
 Twinsen and Baldino use the spaceship to emerge from Zeelich and head

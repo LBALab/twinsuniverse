@@ -5,7 +5,7 @@ layout: wiki
 ---
 
 <figure>
-<img src="src/assets/lba1/_cutscenes/11_runestone_clear_warer.gif"
+<img src="assets/lba1/_cutscenes/11_runestone_clear_warer.gif"
 title="Twinsen pouring out the vial of Clear Water" width="200" />
 <figcaption>Twinsen pouring out the vial of Clear Water</figcaption>
 </figure>

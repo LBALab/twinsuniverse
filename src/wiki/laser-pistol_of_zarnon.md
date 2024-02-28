@@ -7,10 +7,10 @@ redirect_from:
  - wiki/Laser-pistol
 ---
 
-<img src="src/assets/lba2/_inventory/laser-pistol.png"
+<img src="assets/lba2/_inventory/laser-pistol.png"
 title="The Laser-Pistol without rock crystal" width="150"
 alt="The Laser-Pistol without rock crystal" /> <img
-src="src/assets/archive/wannie_dissident_with_pistolaser_of_zarnon_by_lapichon-d67w9b4.png"
+src="assets/archive/wannie_dissident_with_pistolaser_of_zarnon_by_lapichon-d67w9b4.png"
 title="Laserpistol fan art by SpaceGuitarist" width="200"
 alt="Laserpistol fan art by SpaceGuitarist" />
 

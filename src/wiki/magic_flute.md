@@ -4,10 +4,10 @@ permalink: wiki/Magic_Flute
 layout: wiki
 ---
 
-<img src="src/assets/lba1/_cutscenes/07_clear_water_lake.gif"
+<img src="assets/lba1/_cutscenes/07_clear_water_lake.gif"
 title="Twinsen playing the Magic Flute" width="200"
 alt="Twinsen playing the Magic Flute" />
-<img src="src/assets/lba1/_cutscenes/09_white_leaf_desert.gif"
+<img src="assets/lba1/_cutscenes/09_white_leaf_desert.gif"
 title="The old rabbibunny with the Magic Flute" width="200"
 alt="The old rabbibunny with the Magic Flute" />
 

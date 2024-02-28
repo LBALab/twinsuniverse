@@ -149,7 +149,7 @@ image_files = {}
 for root, dirs, files in os.walk("src/wiki/assets"):
     for file in files:
         filestrip = file.replace(" ", "_").lower()
-        image_files[filestrip] = os.path.join(root, file).replace("wiki/", "").lower()
+        image_files[filestrip] = os.path.join(root, file).replace("src/wiki/", "").lower()
 
 image_files['dvpatrik.jpg'] = 'assets/lba2/_characters/frames/patrick.jpg'
 image_files['dvfishbu.jpg'] = 'assets/lba2/_characters/frames/fish-bull.jpg'

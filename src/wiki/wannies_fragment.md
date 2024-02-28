@@ -6,7 +6,7 @@ layout: wiki
 
 <figure>
 <img
-src="src/assets/lba2/_cutscenes/screenshot-lba2-movies-18-wannies_fragment-fragment060.gif"
+src="assets/lba2/_cutscenes/screenshot-lba2-movies-18-wannies_fragment-fragment060.gif"
 title="The Wannies Fragment" width="200" />
 <figcaption>The Wannies Fragment</figcaption>
 </figure>

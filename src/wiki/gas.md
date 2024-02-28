@@ -19,7 +19,7 @@ are also a few for free in some places, like the [water
 tower](water_tower "wikilink") or the [rebel
 camp](rebel_camp "wikilink").
 
-<img src="src/assets/lba1/_scenery/gas.png" title="Gas cans" width="65"
+<img src="assets/lba1/_scenery/gas.png" title="Gas cans" width="65"
 alt="Gas cans" /> [Twinsen](Twinsen "wikilink") needs the gas cans to
 reach several places too far to walk, such as the water tower and [Port
 Belooga](Port_Belooga "wikilink") in [Principal
