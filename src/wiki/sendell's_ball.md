@@ -1,6 +1,6 @@
 ---
 title: Sendell's Ball
-permalink: wiki/Sendell's_Ball
+permalink: wiki/Sendell's_Ball.html
 layout: wiki
 ---
 

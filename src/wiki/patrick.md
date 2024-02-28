@@ -1,6 +1,6 @@
 ---
 title: Patrick
-permalink: wiki/Patrick
+permalink: wiki/Patrick.html
 layout: wiki
 tags:
  - Otringal inhabitants

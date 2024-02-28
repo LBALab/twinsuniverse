@@ -1,6 +1,6 @@
 ---
 title: Red Magnetic Card
-permalink: wiki/Red_Magnetic_Card
+permalink: wiki/Red_Magnetic_Card.html
 layout: wiki
 ---
 

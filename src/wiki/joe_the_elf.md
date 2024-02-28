@@ -1,6 +1,6 @@
 ---
 title: Joe the Elf
-permalink: wiki/Joe_the_Elf
+permalink: wiki/Joe_the_Elf.html
 layout: wiki
 tags:
  - Desert Island inhabitants

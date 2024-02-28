@@ -1,6 +1,6 @@
 ---
 title: Yellow Grobo Clone
-permalink: wiki/Yellow_Grobo_Clone
+permalink: wiki/Yellow_Grobo_Clone.html
 layout: wiki
 ---
 

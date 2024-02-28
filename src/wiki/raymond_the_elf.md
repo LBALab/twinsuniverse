@@ -1,6 +1,6 @@
 ---
 title: Raymond the Elf
-permalink: wiki/Raymond_the_Elf
+permalink: wiki/Raymond_the_Elf.html
 layout: wiki
 tags:
  - Hamalayi Mountains inhabitants

@@ -1,6 +1,6 @@
 ---
 title: Red Grobo Clone
-permalink: wiki/Red_Grobo_Clone
+permalink: wiki/Red_Grobo_Clone.html
 layout: wiki
 ---
 

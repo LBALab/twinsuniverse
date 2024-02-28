@@ -1,6 +1,6 @@
 ---
 title: Elf
-permalink: wiki/Elf
+permalink: wiki/Elf.html
 layout: wiki
 ---
 

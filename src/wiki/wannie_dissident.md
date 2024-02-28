@@ -1,6 +1,6 @@
 ---
 title: Wannie Dissident
-permalink: wiki/Wannie_Dissident
+permalink: wiki/Wannie_Dissident.html
 layout: wiki
 ---
 

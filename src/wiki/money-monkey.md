@@ -1,6 +1,6 @@
 ---
 title: Money-Monkey
-permalink: wiki/Money-Monkey
+permalink: wiki/Money-Monkey.html
 layout: wiki
 ---
 

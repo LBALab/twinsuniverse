@@ -1,6 +1,6 @@
 ---
 title: Sups Fragment
-permalink: wiki/Sups_Fragment
+permalink: wiki/Sups_Fragment.html
 layout: wiki
 ---
 

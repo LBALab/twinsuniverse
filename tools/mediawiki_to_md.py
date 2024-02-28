@@ -330,7 +330,7 @@ def make_cannonical(title):
 
 def make_url(title):
     """Spaces to underscore; adds prefix; no trailing slash."""
-    return os.path.join(prefix, title.replace(" ", "_").replace(":", "%3A"))
+    return os.path.join(prefix, title.replace(" ", "_").replace(":", "%3A") + ".html")
 
 
 def make_filename(title, ext):

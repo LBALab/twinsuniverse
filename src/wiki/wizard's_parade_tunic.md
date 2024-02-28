@@ -1,6 +1,6 @@
 ---
 title: Wizard's Parade Tunic
-permalink: wiki/Wizard's_Parade_Tunic
+permalink: wiki/Wizard's_Parade_Tunic.html
 layout: wiki
 ---
 

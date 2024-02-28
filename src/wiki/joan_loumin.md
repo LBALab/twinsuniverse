@@ -1,6 +1,6 @@
 ---
 title: Joan Loumin
-permalink: wiki/Joan_Loumin
+permalink: wiki/Joan_Loumin.html
 layout: wiki
 tags:
  - Mosquibees Island inhabitants

@@ -1,6 +1,6 @@
 ---
 title: Drunk Rabbibunny
-permalink: wiki/Drunk_Rabbibunny
+permalink: wiki/Drunk_Rabbibunny.html
 layout: wiki
 tags:
  -  Citadel Island inhabitants

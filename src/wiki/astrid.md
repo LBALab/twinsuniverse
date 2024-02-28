@@ -1,6 +1,6 @@
 ---
 title: Astrid
-permalink: wiki/Astrid
+permalink: wiki/Astrid.html
 layout: wiki
 tags:
  - Mosquibees Island inhabitants

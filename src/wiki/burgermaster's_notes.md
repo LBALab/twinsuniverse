@@ -1,6 +1,6 @@
 ---
 title: Burgermaster's Notes
-permalink: wiki/Burgermaster's_Notes
+permalink: wiki/Burgermaster's_Notes.html
 layout: wiki
 ---
 

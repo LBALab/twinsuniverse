@@ -1,6 +1,6 @@
 ---
 title: Keypad
-permalink: wiki/Keypad
+permalink: wiki/Keypad.html
 layout: wiki
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Wannies Fragment
-permalink: wiki/Wannies_Fragment
+permalink: wiki/Wannies_Fragment.html
 layout: wiki
 ---
 

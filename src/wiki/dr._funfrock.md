@@ -1,12 +1,12 @@
 ---
 title: Dr. FunFrock
-permalink: wiki/Dr._FunFrock
+permalink: wiki/Dr._FunFrock.html
 layout: wiki
 tags:
  - Polar Island inhabitants
  - Celebration Island inhabitants
 redirect_from:
- - wiki/FunFrock
+ - wiki/FunFrock.html
 ---
 
 **Dr. FunFrock** is the main antagonist of [Twinsen](Twinsen "wikilink")

@@ -1,6 +1,6 @@
 ---
 title: Rabbibunny
-permalink: wiki/Rabbibunny
+permalink: wiki/Rabbibunny.html
 layout: wiki
 tags:
  - Rabbibunnies| 

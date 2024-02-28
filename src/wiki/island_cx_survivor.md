@@ -1,6 +1,6 @@
 ---
 title: Island CX Survivor
-permalink: wiki/Island_CX_Survivor
+permalink: wiki/Island_CX_Survivor.html
 layout: wiki
 ---
 

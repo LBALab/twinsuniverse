@@ -1,9 +1,9 @@
 ---
 title: Garden Balsam
-permalink: wiki/Garden_Balsam
+permalink: wiki/Garden_Balsam.html
 layout: wiki
 redirect_from:
- - wiki/Garden_Balsam_Flower
+ - wiki/Garden_Balsam_Flower.html
 ---
 
 The **Garden Balsam** flower is a rare flower that grows in the [White

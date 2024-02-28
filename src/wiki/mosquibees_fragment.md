@@ -1,6 +1,6 @@
 ---
 title: Mosquibees Fragment
-permalink: wiki/Mosquibees_Fragment
+permalink: wiki/Mosquibees_Fragment.html
 layout: wiki
 ---
 

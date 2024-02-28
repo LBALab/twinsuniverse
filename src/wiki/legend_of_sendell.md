@@ -1,6 +1,6 @@
 ---
 title: Legend of Sendell
-permalink: wiki/Legend_of_Sendell
+permalink: wiki/Legend_of_Sendell.html
 layout: wiki
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Lanktir
-permalink: wiki/Lanktir
+permalink: wiki/Lanktir.html
 layout: wiki
 tags:
  - Grobos

@@ -1,6 +1,6 @@
 ---
 title: Franckie
-permalink: wiki/Franckie
+permalink: wiki/Franckie.html
 layout: wiki
 tags:
  -  Francos Island inhabitants

@@ -1,6 +1,6 @@
 ---
 title: Schmoutz
-permalink: wiki/Schmoutz
+permalink: wiki/Schmoutz.html
 layout: wiki
 tags:
  - Species

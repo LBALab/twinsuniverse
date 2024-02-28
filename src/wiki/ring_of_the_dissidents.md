@@ -1,9 +1,9 @@
 ---
 title: Ring of the Dissidents
-permalink: wiki/Ring_of_the_Dissidents
+permalink: wiki/Ring_of_the_Dissidents.html
 layout: wiki
 redirect_from:
- - wiki/Dissident's_Ring
+ - wiki/Dissident's_Ring.html
 ---
 
 The **Ring of the Dissidents** is a ring used as an identification sign

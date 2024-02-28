@@ -1,9 +1,9 @@
 ---
 title: Kash
-permalink: wiki/Kash
+permalink: wiki/Kash.html
 layout: wiki
 redirect_from:
- - wiki/Kashes
+ - wiki/Kashes.html
 ---
 
 **Kashes** are the currency unit on [Twinsun](Twinsun "wikilink"). They

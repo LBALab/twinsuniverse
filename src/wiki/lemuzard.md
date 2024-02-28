@@ -1,6 +1,6 @@
 ---
 title: Lemuzard
-permalink: wiki/Lemuzard
+permalink: wiki/Lemuzard.html
 layout: wiki
 tags:
  - Species

@@ -1,6 +1,6 @@
 ---
 title: Nitro-Meca-Penguin
-permalink: wiki/Nitro-Meca-Penguin
+permalink: wiki/Nitro-Meca-Penguin.html
 layout: wiki
 ---
 

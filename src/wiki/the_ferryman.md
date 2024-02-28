@@ -1,13 +1,13 @@
 ---
 title: The Ferryman
-permalink: wiki/The_Ferryman
+permalink: wiki/The_Ferryman.html
 layout: wiki
 tags:
  - Wannies Island inhabitants
  - Mosquibees Island inhabitants
  - Volcano Island inhabitants
 redirect_from:
- - wiki/Ferryman
+ - wiki/Ferryman.html
 ---
 
 **The Ferryman** is a myth to most of the people of the

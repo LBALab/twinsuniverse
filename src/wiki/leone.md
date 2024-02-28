@@ -1,6 +1,6 @@
 ---
 title: Leone
-permalink: wiki/Leone
+permalink: wiki/Leone.html
 layout: wiki
 tags:
  - Desert Island inhabitants

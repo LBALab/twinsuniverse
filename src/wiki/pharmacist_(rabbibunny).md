@@ -1,6 +1,6 @@
 ---
 title: Pharmacist (Rabbibunny)
-permalink: wiki/Pharmacist_(Rabbibunny)
+permalink: wiki/Pharmacist_(Rabbibunny).html
 layout: wiki
 tags:
  -  Citadel Island inhabitants

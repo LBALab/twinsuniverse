@@ -1,6 +1,6 @@
 ---
 title: Bat
-permalink: wiki/Bat
+permalink: wiki/Bat.html
 layout: wiki
 ---
 

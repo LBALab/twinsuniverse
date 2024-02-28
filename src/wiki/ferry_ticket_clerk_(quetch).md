@@ -1,6 +1,6 @@
 ---
 title: Ferry Ticket Clerk (Quetch)
-permalink: wiki/Ferry_Ticket_Clerk_(Quetch)
+permalink: wiki/Ferry_Ticket_Clerk_(Quetch).html
 layout: wiki
 tags:
  -  Citadel Island inhabitants

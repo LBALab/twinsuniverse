@@ -1,11 +1,11 @@
 ---
 title: The Tralü
-permalink: wiki/The_Tralü
+permalink: wiki/The_Tralü.html
 layout: wiki
 tags:
  - Citadel Island inhabitants
 redirect_from:
- - wiki/Tralü
+ - wiki/Tralü.html
 ---
 
 ## Description

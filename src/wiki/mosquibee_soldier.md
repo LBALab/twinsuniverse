@@ -1,6 +1,6 @@
 ---
 title: Mosquibee Soldier
-permalink: wiki/Mosquibee_Soldier
+permalink: wiki/Mosquibee_Soldier.html
 layout: wiki
 ---
 

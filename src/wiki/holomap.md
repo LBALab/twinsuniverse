@@ -1,6 +1,6 @@
 ---
 title: Holomap
-permalink: wiki/Holomap
+permalink: wiki/Holomap.html
 layout: wiki
 ---
 

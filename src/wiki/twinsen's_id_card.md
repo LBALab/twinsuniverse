@@ -1,6 +1,6 @@
 ---
 title: Twinsen's ID Card
-permalink: wiki/Twinsen's_ID_Card
+permalink: wiki/Twinsen's_ID_Card.html
 layout: wiki
 ---
 

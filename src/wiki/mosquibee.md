@@ -1,6 +1,6 @@
 ---
 title: Mosquibee
-permalink: wiki/Mosquibee
+permalink: wiki/Mosquibee.html
 layout: wiki
 tags:
  - Mosquibees| 
@@ -8,7 +8,7 @@ tags:
  - Mosquibee enemies| 
  - Species
 redirect_from:
- - wiki/Mosquibees
+ - wiki/Mosquibees.html
 ---
 
 <figure>

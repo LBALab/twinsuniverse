@@ -1,6 +1,6 @@
 ---
 title: John Edgar H.
-permalink: wiki/John_Edgar_H.
+permalink: wiki/John_Edgar_H..html
 layout: wiki
 ---
 

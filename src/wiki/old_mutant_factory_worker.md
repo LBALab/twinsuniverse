@@ -1,6 +1,6 @@
 ---
 title: Old Mutant Factory Worker
-permalink: wiki/Old_Mutant_Factory_Worker
+permalink: wiki/Old_Mutant_Factory_Worker.html
 layout: wiki
 tags:
  - Grobos

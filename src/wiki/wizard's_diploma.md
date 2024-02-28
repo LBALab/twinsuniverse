@@ -1,6 +1,6 @@
 ---
 title: Wizard's Diploma
-permalink: wiki/Wizard's_Diploma
+permalink: wiki/Wizard's_Diploma.html
 layout: wiki
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Mr. Lemoine
-permalink: wiki/Mr._Lemoine
+permalink: wiki/Mr._Lemoine.html
 layout: wiki
 tags:
  - Wannies
@@ -9,7 +9,7 @@ tags:
  - Adult characters
  - Wannies Island inhabitants
 redirect_from:
- - wiki/Mr._Monk
+ - wiki/Mr._Monk.html
 ---
 
 **Mr. Lemoine** is a [wannie](wannie "wikilink") working as a priest in

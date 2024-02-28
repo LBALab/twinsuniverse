@@ -1,6 +1,6 @@
 ---
 title: Esmer
-permalink: wiki/Esmer
+permalink: wiki/Esmer.html
 layout: wiki
 tags:
  - Francos| 
@@ -16,7 +16,7 @@ tags:
  - Wannie characters| 
  - Wannie enemies| 
 redirect_from:
- - wiki/Esmers
+ - wiki/Esmers.html
 ---
 
 <figure>

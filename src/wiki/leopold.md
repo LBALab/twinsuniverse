@@ -1,6 +1,6 @@
 ---
 title: Leopold
-permalink: wiki/Leopold
+permalink: wiki/Leopold.html
 layout: wiki
 tags:
  - Male characters

@@ -1,6 +1,6 @@
 ---
 title: Miss Bloop
-permalink: wiki/Miss_Bloop
+permalink: wiki/Miss_Bloop.html
 layout: wiki
 tags:
  - Citadel Island inhabitants

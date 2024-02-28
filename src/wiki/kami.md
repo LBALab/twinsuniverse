@@ -1,6 +1,6 @@
 ---
 title: Kami
-permalink: wiki/Kami
+permalink: wiki/Kami.html
 layout: wiki
 tags:
  - Species

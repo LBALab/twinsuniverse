@@ -1,6 +1,6 @@
 ---
 title: Emperor's Sword
-permalink: wiki/Emperor's_Sword
+permalink: wiki/Emperor's_Sword.html
 layout: wiki
 ---
 

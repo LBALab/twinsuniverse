@@ -1,6 +1,6 @@
 ---
 title: Flying Grobo Clone
-permalink: wiki/Flying_Grobo_Clone
+permalink: wiki/Flying_Grobo_Clone.html
 layout: wiki
 ---
 

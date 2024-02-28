@@ -1,6 +1,6 @@
 ---
 title: Sendell's Medallion
-permalink: wiki/Sendell's_Medallion
+permalink: wiki/Sendell's_Medallion.html
 layout: wiki
 ---
 

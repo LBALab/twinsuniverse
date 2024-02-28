@@ -1,6 +1,6 @@
 ---
 title: Francos Fragment
-permalink: wiki/Francos_Fragment
+permalink: wiki/Francos_Fragment.html
 layout: wiki
 ---
 

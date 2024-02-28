@@ -1,9 +1,9 @@
 ---
 title: Undead Skeleton
-permalink: wiki/Undead_Skeleton
+permalink: wiki/Undead_Skeleton.html
 layout: wiki
 redirect_from:
- - wiki/Skeleton
+ - wiki/Skeleton.html
 ---
 
 The **skeleton** is

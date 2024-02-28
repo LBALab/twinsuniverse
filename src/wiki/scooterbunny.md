@@ -1,6 +1,6 @@
 ---
 title: Scooterbunny
-permalink: wiki/Scooterbunny
+permalink: wiki/Scooterbunny.html
 layout: wiki
 tags:
  - Citadel Island inhabitants

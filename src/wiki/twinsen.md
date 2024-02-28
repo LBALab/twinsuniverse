@@ -1,6 +1,6 @@
 ---
 title: Twinsen
-permalink: wiki/Twinsen
+permalink: wiki/Twinsen.html
 layout: wiki
 tags:
  -  Quetches

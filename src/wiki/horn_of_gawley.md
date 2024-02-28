@@ -1,9 +1,9 @@
 ---
 title: Horn of Gawley
-permalink: wiki/Horn_of_Gawley
+permalink: wiki/Horn_of_Gawley.html
 layout: wiki
 redirect_from:
- - wiki/Gawley's_Horn
+ - wiki/Gawley's_Horn.html
 ---
 
 **Gawley's Horn** is an object left for [The

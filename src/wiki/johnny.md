@@ -1,6 +1,6 @@
 ---
 title: Johnny
-permalink: wiki/Johnny
+permalink: wiki/Johnny.html
 layout: wiki
 ---
 

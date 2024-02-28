@@ -1,6 +1,6 @@
 ---
 title: Franco Technician
-permalink: wiki/Franco_Technician
+permalink: wiki/Franco_Technician.html
 layout: wiki
 ---
 

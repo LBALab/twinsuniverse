@@ -1,6 +1,6 @@
 ---
 title: Blowtron
-permalink: wiki/Blowtron
+permalink: wiki/Blowtron.html
 layout: wiki
 ---
 

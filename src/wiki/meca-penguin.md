@@ -1,6 +1,6 @@
 ---
 title: Meca-Penguin
-permalink: wiki/Meca-Penguin
+permalink: wiki/Meca-Penguin.html
 layout: wiki
 ---
 

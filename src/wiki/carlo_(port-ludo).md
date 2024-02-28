@@ -1,11 +1,11 @@
 ---
 title: Carlo (Port-Ludo)
-permalink: wiki/Carlo_(Port-Ludo)
+permalink: wiki/Carlo_(Port-Ludo).html
 layout: wiki
 tags:
  - Desert Island inhabitants
 redirect_from:
- - wiki/Quetch_Pétanque_player
+ - wiki/Quetch_Pétanque_player.html
 ---
 
 **Carlo** is a [Quetch](Quetch "wikilink") pétanque player together with

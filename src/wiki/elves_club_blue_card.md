@@ -1,6 +1,6 @@
 ---
 title: Elves Club Blue Card
-permalink: wiki/Elves_Club_Blue_Card
+permalink: wiki/Elves_Club_Blue_Card.html
 layout: wiki
 ---
 

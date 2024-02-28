@@ -1,6 +1,6 @@
 ---
 title: Telepod
-permalink: wiki/Telepod
+permalink: wiki/Telepod.html
 layout: wiki
 ---
 

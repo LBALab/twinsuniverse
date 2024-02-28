@@ -1,6 +1,6 @@
 ---
 title: Book of Bù
-permalink: wiki/Book_of_Bù
+permalink: wiki/Book_of_Bù.html
 layout: wiki
 ---
 

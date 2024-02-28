@@ -1,6 +1,6 @@
 ---
 title: Red Rabbibunny Clone
-permalink: wiki/Red_Rabbibunny_Clone
+permalink: wiki/Red_Rabbibunny_Clone.html
 layout: wiki
 ---
 

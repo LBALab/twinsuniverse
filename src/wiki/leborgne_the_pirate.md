@@ -1,9 +1,9 @@
 ---
 title: LeBorgne the Pirate
-permalink: wiki/LeBorgne_the_Pirate
+permalink: wiki/LeBorgne_the_Pirate.html
 layout: wiki
 redirect_from:
- - wiki/LeBorgne
+ - wiki/LeBorgne.html
 ---
 
 **LeBorgne** was a pirate who roamed the entire [southern

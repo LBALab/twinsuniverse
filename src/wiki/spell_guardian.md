@@ -1,6 +1,6 @@
 ---
 title: Spell Guardian
-permalink: wiki/Spell_Guardian
+permalink: wiki/Spell_Guardian.html
 layout: wiki
 ---
 

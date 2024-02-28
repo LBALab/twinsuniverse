@@ -1,6 +1,6 @@
 ---
 title: Green Sphero Clone
-permalink: wiki/Green_Sphero_Clone
+permalink: wiki/Green_Sphero_Clone.html
 layout: wiki
 ---
 

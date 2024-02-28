@@ -1,6 +1,6 @@
 ---
 title: Yellow Rabbibunny Clone
-permalink: wiki/Yellow_Rabbibunny_Clone
+permalink: wiki/Yellow_Rabbibunny_Clone.html
 layout: wiki
 ---
 

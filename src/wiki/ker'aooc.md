@@ -1,6 +1,6 @@
 ---
 title: Ker'aooc
-permalink: wiki/Ker'aooc
+permalink: wiki/Ker'aooc.html
 layout: wiki
 tags:
  - Spheroes
@@ -9,7 +9,7 @@ tags:
  - Adult characters
  - Desert Island inhabitants
 redirect_from:
- - wiki/Healing_Wizard
+ - wiki/Healing_Wizard.html
 ---
 
 **Ker'aooc** is a [sphero](sphero "wikilink") wizard living in

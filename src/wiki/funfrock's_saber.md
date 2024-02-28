@@ -1,11 +1,11 @@
 ---
 title: FunFrock's Saber
-permalink: wiki/FunFrock's_Saber
+permalink: wiki/FunFrock's_Saber.html
 layout: wiki
 redirect_from:
- - wiki/FunFrock's_Sabre
- - wiki/Magic_Saber
- - wiki/Magic_Sabre
+ - wiki/FunFrock's_Sabre.html
+ - wiki/Magic_Saber.html
+ - wiki/Magic_Sabre.html
 ---
 
 **FunFrock's Saber** is a saber (often also known as the **Magic

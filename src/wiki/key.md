@@ -1,6 +1,6 @@
 ---
 title: Key
-permalink: wiki/Key
+permalink: wiki/Key.html
 layout: wiki
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Horn of the Blue Triton
-permalink: wiki/Horn_of_the_Blue_Triton
+permalink: wiki/Horn_of_the_Blue_Triton.html
 layout: wiki
 ---
 

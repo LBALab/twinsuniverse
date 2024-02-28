@@ -1,6 +1,6 @@
 ---
 title: Luc
-permalink: wiki/Luc
+permalink: wiki/Luc.html
 layout: wiki
 tags:
  - Grobos

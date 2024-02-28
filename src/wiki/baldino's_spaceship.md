@@ -1,6 +1,6 @@
 ---
 title: Baldino's Spaceship
-permalink: wiki/Baldino's_Spaceship
+permalink: wiki/Baldino's_Spaceship.html
 layout: wiki
 ---
 

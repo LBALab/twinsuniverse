@@ -1,6 +1,6 @@
 ---
 title: Magic Ball
-permalink: wiki/Magic_Ball
+permalink: wiki/Magic_Ball.html
 layout: wiki
 ---
 

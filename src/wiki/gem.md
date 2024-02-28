@@ -1,9 +1,9 @@
 ---
 title: Gem
-permalink: wiki/Gem
+permalink: wiki/Gem.html
 layout: wiki
 redirect_from:
- - wiki/Gems
+ - wiki/Gems.html
 ---
 
 **Gems** are found in the [Gem Mines](Gem_Mine "wikilink") in the

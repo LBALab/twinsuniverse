@@ -1,6 +1,6 @@
 ---
 title: Brother
-permalink: wiki/Brother
+permalink: wiki/Brother.html
 layout: wiki
 ---
 

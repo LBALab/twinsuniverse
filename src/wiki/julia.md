@@ -1,6 +1,6 @@
 ---
 title: Julia
-permalink: wiki/Julia
+permalink: wiki/Julia.html
 layout: wiki
 tags:
  - Rabbibunnies

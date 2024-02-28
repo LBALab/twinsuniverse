@@ -1,6 +1,6 @@
 ---
 title: Racer
-permalink: wiki/Racer
+permalink: wiki/Racer.html
 layout: wiki
 ---
 

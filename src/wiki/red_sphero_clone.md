@@ -1,6 +1,6 @@
 ---
 title: Red Sphero Clone
-permalink: wiki/Red_Sphero_Clone
+permalink: wiki/Red_Sphero_Clone.html
 layout: wiki
 ---
 

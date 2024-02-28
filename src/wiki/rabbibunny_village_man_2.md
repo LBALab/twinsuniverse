@@ -1,6 +1,6 @@
 ---
 title: Rabbibunny Village Man 2
-permalink: wiki/Rabbibunny_Village_Man_2
+permalink: wiki/Rabbibunny_Village_Man_2.html
 layout: wiki
 tags:
  - Hamalayi Mountains inhabitants

@@ -1,6 +1,6 @@
 ---
 title: Adelaïde
-permalink: wiki/Adelaïde
+permalink: wiki/Adelaïde.html
 layout: wiki
 tags:
  - Otringal inhabitants

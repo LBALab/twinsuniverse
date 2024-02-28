@@ -1,12 +1,12 @@
 ---
 title: Bersimon
-permalink: wiki/Bersimon
+permalink: wiki/Bersimon.html
 layout: wiki
 tags:
  - Citadel Island inhabitants
  - Key characters
 redirect_from:
- - wiki/Weather_wizard
+ - wiki/Weather_wizard.html
 ---
 
 **Bersimon**, often referred to as **The Weather Wizard** is a weather

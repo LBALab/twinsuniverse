@@ -1,6 +1,6 @@
 ---
 title: Ernestine
-permalink: wiki/Ernestine
+permalink: wiki/Ernestine.html
 layout: wiki
 ---
 

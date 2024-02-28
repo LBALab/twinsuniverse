@@ -1,6 +1,6 @@
 ---
 title: Old Wiseman
-permalink: wiki/Old_Wiseman
+permalink: wiki/Old_Wiseman.html
 layout: wiki
 ---
 

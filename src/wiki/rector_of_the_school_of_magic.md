@@ -1,12 +1,12 @@
 ---
 title: Rector of the School of Magic
-permalink: wiki/Rector_of_the_School_of_Magic
+permalink: wiki/Rector_of_the_School_of_Magic.html
 layout: wiki
 tags:
  - Desert Island inhabitants
 redirect_from:
- - wiki/Mentor_of_the_School_of_Magic
- - wiki/Rector
+ - wiki/Mentor_of_the_School_of_Magic.html
+ - wiki/Rector.html
 ---
 
 The **rector of the school of magic** is a nameless

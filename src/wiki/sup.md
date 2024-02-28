@@ -1,6 +1,6 @@
 ---
 title: Sup
-permalink: wiki/Sup
+permalink: wiki/Sup.html
 layout: wiki
 tags:
  - Sups| 

@@ -1,6 +1,6 @@
 ---
 title: Fab
-permalink: wiki/Fab
+permalink: wiki/Fab.html
 layout: wiki
 tags:
  - Citadel Island inhabitants

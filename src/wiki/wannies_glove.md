@@ -1,6 +1,6 @@
 ---
 title: Wannies Glove
-permalink: wiki/Wannies_Glove
+permalink: wiki/Wannies_Glove.html
 layout: wiki
 ---
 

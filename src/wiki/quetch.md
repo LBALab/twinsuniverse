@@ -1,6 +1,6 @@
 ---
 title: Quetch
-permalink: wiki/Quetch
+permalink: wiki/Quetch.html
 layout: wiki
 tags:
  - Quetches| 

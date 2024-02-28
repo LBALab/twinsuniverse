@@ -1,9 +1,9 @@
 ---
 title: Hégésippe
-permalink: wiki/Hégésippe
+permalink: wiki/Hégésippe.html
 layout: wiki
 redirect_from:
- - wiki/Hegesippe
+ - wiki/Hegesippe.html
 ---
 
 **Hégésippe** was an ancestor of [Twinsen](Twinsen "wikilink"). He was

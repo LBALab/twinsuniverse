@@ -1,6 +1,6 @@
 ---
 title: Tank
-permalink: wiki/Tank
+permalink: wiki/Tank.html
 layout: wiki
 ---
 

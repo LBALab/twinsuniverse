@@ -1,6 +1,6 @@
 ---
 title: Supergro
-permalink: wiki/Supergro
+permalink: wiki/Supergro.html
 layout: wiki
 ---
 

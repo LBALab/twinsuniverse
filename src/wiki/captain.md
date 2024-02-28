@@ -1,6 +1,6 @@
 ---
 title: Captain
-permalink: wiki/Captain
+permalink: wiki/Captain.html
 layout: wiki
 tags:
  - Otringal inhabitants

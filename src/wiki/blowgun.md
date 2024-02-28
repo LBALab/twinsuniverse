@@ -1,6 +1,6 @@
 ---
 title: Blowgun
-permalink: wiki/Blowgun
+permalink: wiki/Blowgun.html
 layout: wiki
 ---
 

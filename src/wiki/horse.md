@@ -1,6 +1,6 @@
 ---
 title: Horse
-permalink: wiki/Horse
+permalink: wiki/Horse.html
 layout: wiki
 ---
 

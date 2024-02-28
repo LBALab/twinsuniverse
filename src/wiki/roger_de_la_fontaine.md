@@ -1,6 +1,6 @@
 ---
 title: Roger de la Fontaine
-permalink: wiki/Roger_de_la_Fontaine
+permalink: wiki/Roger_de_la_Fontaine.html
 layout: wiki
 tags:
  - Francos

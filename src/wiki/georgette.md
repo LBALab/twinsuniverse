@@ -1,6 +1,6 @@
 ---
 title: Georgette
-permalink: wiki/Georgette
+permalink: wiki/Georgette.html
 layout: wiki
 tags:
  - Celebration Island inhabitants

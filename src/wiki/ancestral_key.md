@@ -1,6 +1,6 @@
 ---
 title: Ancestral Key
-permalink: wiki/Ancestral_Key
+permalink: wiki/Ancestral_Key.html
 layout: wiki
 ---
 

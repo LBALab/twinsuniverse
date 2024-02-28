@@ -1,6 +1,6 @@
 ---
 title: Dino-Fly
-permalink: wiki/Dino-Fly
+permalink: wiki/Dino-Fly.html
 layout: wiki
 tags:
  - Citadel Island inhabitants

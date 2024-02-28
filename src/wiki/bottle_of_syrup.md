@@ -1,6 +1,6 @@
 ---
 title: Bottle of Syrup
-permalink: wiki/Bottle_of_Syrup
+permalink: wiki/Bottle_of_Syrup.html
 layout: wiki
 ---
 

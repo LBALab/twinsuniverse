@@ -1,6 +1,6 @@
 ---
 title: Nurse
-permalink: wiki/Nurse
+permalink: wiki/Nurse.html
 layout: wiki
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 2 column responsive main page (alternative)
-permalink: wiki/2_column_responsive_main_page_(alternative)
+permalink: wiki/2_column_responsive_main_page_(alternative).html
 layout: wiki
 tags:
  - Front page|*

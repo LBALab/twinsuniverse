@@ -1,6 +1,6 @@
 ---
 title: Chedil Amiradoo
-permalink: wiki/Chedil_Amiradoo
+permalink: wiki/Chedil_Amiradoo.html
 layout: wiki
 tags:
  - Desert Island inhabitants

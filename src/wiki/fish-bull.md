@@ -1,6 +1,6 @@
 ---
 title: Fish-Bull
-permalink: wiki/Fish-Bull
+permalink: wiki/Fish-Bull.html
 layout: wiki
 ---
 

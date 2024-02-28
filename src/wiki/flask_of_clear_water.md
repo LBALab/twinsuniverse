@@ -1,6 +1,6 @@
 ---
 title: Flask of Clear Water
-permalink: wiki/Flask_of_Clear_Water
+permalink: wiki/Flask_of_Clear_Water.html
 layout: wiki
 ---
 

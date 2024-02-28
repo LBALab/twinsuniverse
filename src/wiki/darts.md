@@ -1,9 +1,9 @@
 ---
 title: Darts
-permalink: wiki/Darts
+permalink: wiki/Darts.html
 layout: wiki
 redirect_from:
- - wiki/Dart
+ - wiki/Dart.html
 ---
 
 **Darts** are one of the weapons in [Little Big Adventure

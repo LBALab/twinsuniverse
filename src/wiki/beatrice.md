@@ -1,6 +1,6 @@
 ---
 title: Beatrice
-permalink: wiki/Beatrice
+permalink: wiki/Beatrice.html
 layout: wiki
 tags:
  - Principal Island inhabitants

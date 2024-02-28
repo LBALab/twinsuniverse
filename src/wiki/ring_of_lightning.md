@@ -1,6 +1,6 @@
 ---
 title: Ring of Lightning
-permalink: wiki/Ring_of_Lightning
+permalink: wiki/Ring_of_Lightning.html
 layout: wiki
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Super Jet-pack
-permalink: wiki/Super_Jet-pack
+permalink: wiki/Super_Jet-pack.html
 layout: wiki
 ---
 

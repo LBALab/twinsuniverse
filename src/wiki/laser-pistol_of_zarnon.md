@@ -1,10 +1,10 @@
 ---
 title: Laser-Pistol of Zarnon
-permalink: wiki/Laser-Pistol_of_Zarnon
+permalink: wiki/Laser-Pistol_of_Zarnon.html
 layout: wiki
 redirect_from:
- - wiki/Laser_Pistol_of_Zarnon
- - wiki/Laser-pistol
+ - wiki/Laser_Pistol_of_Zarnon.html
+ - wiki/Laser-pistol.html
 ---
 
 <img src="assets/lba2/_inventory/laser-pistol.png"

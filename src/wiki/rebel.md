@@ -1,6 +1,6 @@
 ---
 title: Rebel
-permalink: wiki/Rebel
+permalink: wiki/Rebel.html
 layout: wiki
 ---
 

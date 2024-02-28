@@ -1,6 +1,6 @@
 ---
 title: Pick-ax
-permalink: wiki/Pick-ax
+permalink: wiki/Pick-ax.html
 layout: wiki
 ---
 

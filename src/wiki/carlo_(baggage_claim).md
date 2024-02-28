@@ -1,11 +1,11 @@
 ---
 title: Carlo (Baggage Claim)
-permalink: wiki/Carlo_(Baggage_Claim)
+permalink: wiki/Carlo_(Baggage_Claim).html
 layout: wiki
 tags:
  - Citadel Island inhabitants
 redirect_from:
- - wiki/Carlo
+ - wiki/Carlo.html
 ---
 
 **Carlo** is a [Quetch](Quetch "wikilink") working as a porter in the

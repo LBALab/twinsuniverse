@@ -1,6 +1,6 @@
 ---
 title: Franco Army Soldier
-permalink: wiki/Franco_Army_Soldier
+permalink: wiki/Franco_Army_Soldier.html
 layout: wiki
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Grobo
-permalink: wiki/Grobo
+permalink: wiki/Grobo.html
 layout: wiki
 tags:
  - Grobos| 

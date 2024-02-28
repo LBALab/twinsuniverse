@@ -1,6 +1,6 @@
 ---
 title: Mr. Kurtz
-permalink: wiki/Mr._Kurtz
+permalink: wiki/Mr._Kurtz.html
 layout: wiki
 tags:
  - Francos Island inhabitants

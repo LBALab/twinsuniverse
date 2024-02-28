@@ -1,6 +1,6 @@
 ---
 title: Sphero
-permalink: wiki/Sphero
+permalink: wiki/Sphero.html
 layout: wiki
 tags:
  - Spheros| 

@@ -1,6 +1,6 @@
 ---
 title: Yellow Sphero Clone
-permalink: wiki/Yellow_Sphero_Clone
+permalink: wiki/Yellow_Sphero_Clone.html
 layout: wiki
 ---
 

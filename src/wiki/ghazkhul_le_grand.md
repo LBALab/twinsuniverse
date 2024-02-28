@@ -1,6 +1,6 @@
 ---
 title: Ghazkhul le Grand
-permalink: wiki/Ghazkhul_le_Grand
+permalink: wiki/Ghazkhul_le_Grand.html
 layout: wiki
 tags:
  - Mosquibees Island inhabitants

@@ -1,6 +1,6 @@
 ---
 title: Ski-lift Rabbibunny
-permalink: wiki/Ski-lift_Rabbibunny
+permalink: wiki/Ski-lift_Rabbibunny.html
 layout: wiki
 tags:
  - Rabbibunnies

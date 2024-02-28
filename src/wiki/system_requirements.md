@@ -1,6 +1,6 @@
 ---
 title: System requirements
-permalink: wiki/System_requirements
+permalink: wiki/System_requirements.html
 layout: wiki
 tags:
  - Guides

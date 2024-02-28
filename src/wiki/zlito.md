@@ -1,9 +1,9 @@
 ---
 title: Zlito
-permalink: wiki/Zlito
+permalink: wiki/Zlito.html
 layout: wiki
 redirect_from:
- - wiki/Zlitos
+ - wiki/Zlitos.html
 ---
 
 ## Description

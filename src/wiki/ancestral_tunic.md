@@ -1,6 +1,6 @@
 ---
 title: Ancestral Tunic
-permalink: wiki/Ancestral_Tunic
+permalink: wiki/Ancestral_Tunic.html
 layout: wiki
 ---
 

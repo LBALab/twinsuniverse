@@ -1,6 +1,6 @@
 ---
 title: Bob
-permalink: wiki/Bob
+permalink: wiki/Bob.html
 layout: wiki
 tags:
  - Citadel Island inhabitants

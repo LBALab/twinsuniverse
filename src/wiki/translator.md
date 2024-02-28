@@ -1,6 +1,6 @@
 ---
 title: Translator
-permalink: wiki/Translator
+permalink: wiki/Translator.html
 layout: wiki
 ---
 

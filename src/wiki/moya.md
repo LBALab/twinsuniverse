@@ -1,6 +1,6 @@
 ---
 title: Moya
-permalink: wiki/Moya
+permalink: wiki/Moya.html
 layout: wiki
 tags:
  - Desert Island inhabitants

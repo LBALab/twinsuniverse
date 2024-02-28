@@ -1,6 +1,6 @@
 ---
 title: Rick
-permalink: wiki/Rick
+permalink: wiki/Rick.html
 layout: wiki
 tags:
  - Otringal inhabitants

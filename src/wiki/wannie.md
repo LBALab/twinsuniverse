@@ -1,6 +1,6 @@
 ---
 title: Wannie
-permalink: wiki/Wannie
+permalink: wiki/Wannie.html
 layout: wiki
 tags:
  - Wannies| 

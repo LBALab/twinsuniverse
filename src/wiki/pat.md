@@ -1,6 +1,6 @@
 ---
 title: Pat
-permalink: wiki/Pat
+permalink: wiki/Pat.html
 layout: wiki
 tags:
  -  Citadel Island inhabitants

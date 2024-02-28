@@ -1,6 +1,6 @@
 ---
 title: The Zeelich Gazette
-permalink: wiki/The_Zeelich_Gazette
+permalink: wiki/The_Zeelich_Gazette.html
 layout: wiki
 ---
 

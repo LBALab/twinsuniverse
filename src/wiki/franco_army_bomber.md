@@ -1,6 +1,6 @@
 ---
 title: Franco Army Bomber
-permalink: wiki/Franco_Army_Bomber
+permalink: wiki/Franco_Army_Bomber.html
 layout: wiki
 ---
 

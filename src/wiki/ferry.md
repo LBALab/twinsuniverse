@@ -1,6 +1,6 @@
 ---
 title: Ferry
-permalink: wiki/Ferry
+permalink: wiki/Ferry.html
 layout: wiki
 ---
 

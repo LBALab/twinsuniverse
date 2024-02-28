@@ -1,6 +1,6 @@
 ---
 title: Tabata
-permalink: wiki/Tabata
+permalink: wiki/Tabata.html
 layout: wiki
 tags:
  - Desert Island inhabitants

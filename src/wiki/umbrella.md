@@ -1,9 +1,9 @@
 ---
 title: Umbrella
-permalink: wiki/Umbrella
+permalink: wiki/Umbrella.html
 layout: wiki
 redirect_from:
- - wiki/Customer's_Umbrella
+ - wiki/Customer's_Umbrella.html
 ---
 
 ## Description

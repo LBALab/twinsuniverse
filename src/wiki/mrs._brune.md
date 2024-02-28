@@ -1,6 +1,6 @@
 ---
 title: Mrs. Brune
-permalink: wiki/Mrs._Brune
+permalink: wiki/Mrs._Brune.html
 layout: wiki
 tags:
  -  Citadel Island inhabitants

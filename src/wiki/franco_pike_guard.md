@@ -1,6 +1,6 @@
 ---
 title: Franco Pike Guard
-permalink: wiki/Franco_Pike_Guard
+permalink: wiki/Franco_Pike_Guard.html
 layout: wiki
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Teacher
-permalink: wiki/Teacher
+permalink: wiki/Teacher.html
 layout: wiki
 tags:
  -  Citadel Island inhabitants

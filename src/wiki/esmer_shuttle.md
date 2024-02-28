@@ -1,6 +1,6 @@
 ---
 title: Esmer shuttle
-permalink: wiki/Esmer_shuttle
+permalink: wiki/Esmer_shuttle.html
 layout: wiki
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Snowboard
-permalink: wiki/Snowboard
+permalink: wiki/Snowboard.html
 layout: wiki
 ---
 

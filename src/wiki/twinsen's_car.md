@@ -1,6 +1,6 @@
 ---
 title: Twinsen's car
-permalink: wiki/Twinsen's_car
+permalink: wiki/Twinsen's_car.html
 layout: wiki
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Spacesuit Guard
-permalink: wiki/Spacesuit_Guard
+permalink: wiki/Spacesuit_Guard.html
 layout: wiki
 ---
 

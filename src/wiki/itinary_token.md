@@ -1,6 +1,6 @@
 ---
 title: Itinary Token
-permalink: wiki/Itinary_Token
+permalink: wiki/Itinary_Token.html
 layout: wiki
 ---
 

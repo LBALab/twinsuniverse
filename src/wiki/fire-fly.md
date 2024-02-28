@@ -1,6 +1,6 @@
 ---
 title: Fire-Fly
-permalink: wiki/Fire-Fly
+permalink: wiki/Fire-Fly.html
 layout: wiki
 ---
 

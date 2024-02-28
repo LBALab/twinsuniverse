@@ -1,6 +1,6 @@
 ---
 title: Catamaran
-permalink: wiki/Catamaran
+permalink: wiki/Catamaran.html
 layout: wiki
 ---
 

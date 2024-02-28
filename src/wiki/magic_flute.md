@@ -1,6 +1,6 @@
 ---
 title: Magic Flute
-permalink: wiki/Magic_Flute
+permalink: wiki/Magic_Flute.html
 layout: wiki
 ---
 

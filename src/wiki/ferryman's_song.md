@@ -1,6 +1,6 @@
 ---
 title: Ferryman's Song
-permalink: wiki/Ferryman's_Song
+permalink: wiki/Ferryman's_Song.html
 layout: wiki
 ---
 

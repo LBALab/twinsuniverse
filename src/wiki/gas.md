@@ -1,6 +1,6 @@
 ---
 title: Gas
-permalink: wiki/Gas
+permalink: wiki/Gas.html
 layout: wiki
 ---
 

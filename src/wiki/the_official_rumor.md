@@ -1,6 +1,6 @@
 ---
 title: The Official Rumor
-permalink: wiki/The_Official_Rumor
+permalink: wiki/The_Official_Rumor.html
 layout: wiki
 ---
 

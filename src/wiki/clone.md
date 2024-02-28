@@ -1,6 +1,6 @@
 ---
 title: Clone
-permalink: wiki/Clone
+permalink: wiki/Clone.html
 layout: wiki
 tags:
  - FunFrock's Army| 

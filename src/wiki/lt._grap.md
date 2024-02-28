@@ -1,11 +1,11 @@
 ---
 title: Lt. Grap
-permalink: wiki/Lt._Grap
+permalink: wiki/Lt._Grap.html
 layout: wiki
 tags:
  - Rebellion Island inhabitants
 redirect_from:
- - wiki/Grap
+ - wiki/Grap.html
 ---
 
 **Grap** is a [rabbibunny](rabbibunny "wikilink") serving as the

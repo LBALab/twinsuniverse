@@ -1,6 +1,6 @@
 ---
 title: Dark Monk's Prophecy
-permalink: wiki/Dark_Monk's_Prophecy
+permalink: wiki/Dark_Monk's_Prophecy.html
 layout: wiki
 ---
 

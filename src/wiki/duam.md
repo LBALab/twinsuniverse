@@ -1,6 +1,6 @@
 ---
 title: Duam
-permalink: wiki/Duam
+permalink: wiki/Duam.html
 layout: wiki
 tags:
  - Species

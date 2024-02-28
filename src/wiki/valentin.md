@@ -1,6 +1,6 @@
 ---
 title: Valentin
-permalink: wiki/Valentin
+permalink: wiki/Valentin.html
 layout: wiki
 tags:
  - Francos Island inhabitants

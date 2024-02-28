@@ -1,6 +1,6 @@
 ---
 title: Bob Vortix
-permalink: wiki/Bob_Vortix
+permalink: wiki/Bob_Vortix.html
 layout: wiki
 tags:
  - Spheroes

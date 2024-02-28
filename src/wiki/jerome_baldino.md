@@ -1,6 +1,6 @@
 ---
 title: Jerome Baldino
-permalink: wiki/Jerome_Baldino
+permalink: wiki/Jerome_Baldino.html
 layout: wiki
 tags:
  - Grobos

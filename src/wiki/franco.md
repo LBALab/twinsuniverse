@@ -1,6 +1,6 @@
 ---
 title: Franco
-permalink: wiki/Franco
+permalink: wiki/Franco.html
 layout: wiki
 tags:
  - Francos| 

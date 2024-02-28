@@ -1,11 +1,11 @@
 ---
 title: Rosa-Marie
-permalink: wiki/Rosa-Marie
+permalink: wiki/Rosa-Marie.html
 layout: wiki
 tags:
  - Citadel Island inhabitants
 redirect_from:
- - wiki/Rose-Marie
+ - wiki/Rose-Marie.html
 ---
 
 **Rosa-Marie** is a cow eating grass on the [cliffs](cliffs "wikilink")

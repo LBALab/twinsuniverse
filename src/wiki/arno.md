@@ -1,6 +1,6 @@
 ---
 title: Arno
-permalink: wiki/Arno
+permalink: wiki/Arno.html
 layout: wiki
 tags:
  - Wannies

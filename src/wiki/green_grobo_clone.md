@@ -1,6 +1,6 @@
 ---
 title: Green Grobo Clone
-permalink: wiki/Green_Grobo_Clone
+permalink: wiki/Green_Grobo_Clone.html
 layout: wiki
 ---
 

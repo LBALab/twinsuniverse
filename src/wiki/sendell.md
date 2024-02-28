@@ -1,6 +1,6 @@
 ---
 title: Sendell
-permalink: wiki/Sendell
+permalink: wiki/Sendell.html
 layout: wiki
 ---
 

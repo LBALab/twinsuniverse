@@ -1,9 +1,9 @@
 ---
 title: FunFrock's Reign
-permalink: wiki/FunFrock's_Reign
+permalink: wiki/FunFrock's_Reign.html
 layout: wiki
 redirect_from:
- - wiki/Twinsen's_first_adventure
+ - wiki/Twinsen's_first_adventure.html
 ---
 
 ## Background

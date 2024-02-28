@@ -1,6 +1,6 @@
 ---
 title: Bonuses List
-permalink: wiki/Bonuses_List
+permalink: wiki/Bonuses_List.html
 layout: wiki
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Col. Kroptman
-permalink: wiki/Col._Kroptman
+permalink: wiki/Col._Kroptman.html
 layout: wiki
 tags:
  - Spheroes
@@ -10,7 +10,7 @@ tags:
  - Rebellion Island inhabitants
  - Rebels
 redirect_from:
- - wiki/Kroptman
+ - wiki/Kroptman.html
 ---
 
 **Kroptman** is a firm [sphero](sphero "wikilink") rebelling against

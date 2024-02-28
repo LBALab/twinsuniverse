@@ -1,6 +1,6 @@
 ---
 title: Zed
-permalink: wiki/Zed
+permalink: wiki/Zed.html
 layout: wiki
 tags:
  - Citadel Island inhabitants

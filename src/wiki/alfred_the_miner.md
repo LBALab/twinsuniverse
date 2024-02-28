@@ -1,6 +1,6 @@
 ---
 title: Alfred the Miner
-permalink: wiki/Alfred_the_Miner
+permalink: wiki/Alfred_the_Miner.html
 layout: wiki
 tags:
  - Wannies
@@ -9,7 +9,7 @@ tags:
  - Adult characters
  - Wannies Island inhabitants
 redirect_from:
- - wiki/Alfred
+ - wiki/Alfred.html
 ---
 
 **Alfred** is a [wannie](wannie "wikilink") miner in the

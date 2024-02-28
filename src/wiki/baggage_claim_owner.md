@@ -1,6 +1,6 @@
 ---
 title: Baggage Claim Owner
-permalink: wiki/Baggage_Claim_Owner
+permalink: wiki/Baggage_Claim_Owner.html
 layout: wiki
 tags:
  -  Citadel Island inhabitants

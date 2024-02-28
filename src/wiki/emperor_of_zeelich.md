@@ -1,11 +1,11 @@
 ---
 title: Emperor of Zeelich
-permalink: wiki/Emperor_of_Zeelich
+permalink: wiki/Emperor_of_Zeelich.html
 layout: wiki
 tags:
  - Island CX inhabitants
 redirect_from:
- - wiki/Emperor
+ - wiki/Emperor.html
 ---
 
 <figure>

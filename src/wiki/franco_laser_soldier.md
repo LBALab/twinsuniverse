@@ -1,6 +1,6 @@
 ---
 title: Franco Laser Soldier
-permalink: wiki/Franco_Laser_Soldier
+permalink: wiki/Franco_Laser_Soldier.html
 layout: wiki
 ---
 

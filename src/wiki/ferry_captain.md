@@ -1,6 +1,6 @@
 ---
 title: Ferry captain
-permalink: wiki/Ferry_captain
+permalink: wiki/Ferry_captain.html
 layout: wiki
 tags:
  - Rabbibunnies

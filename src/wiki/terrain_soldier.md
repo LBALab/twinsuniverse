@@ -1,6 +1,6 @@
 ---
 title: Terrain Soldier
-permalink: wiki/Terrain_Soldier
+permalink: wiki/Terrain_Soldier.html
 layout: wiki
 ---
 

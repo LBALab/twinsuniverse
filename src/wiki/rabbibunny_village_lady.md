@@ -1,6 +1,6 @@
 ---
 title: Rabbibunny Village Lady
-permalink: wiki/Rabbibunny_Village_Lady
+permalink: wiki/Rabbibunny_Village_Lady.html
 layout: wiki
 tags:
  - Hamalayi Mountains inhabitants

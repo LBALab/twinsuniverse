@@ -1,6 +1,6 @@
 ---
 title: Zoé
-permalink: wiki/Zoé
+permalink: wiki/Zoé.html
 layout: wiki
 tags:
  - Quetches
@@ -10,7 +10,7 @@ tags:
  - Citadel Island inhabitants
  - Good
 redirect_from:
- - wiki/Zoe
+ - wiki/Zoe.html
 ---
 
 <figure>

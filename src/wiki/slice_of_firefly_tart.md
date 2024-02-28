@@ -1,9 +1,9 @@
 ---
 title: Slice of FireFly Tart
-permalink: wiki/Slice_of_FireFly_Tart
+permalink: wiki/Slice_of_FireFly_Tart.html
 layout: wiki
 redirect_from:
- - wiki/Slice_of_Tart
+ - wiki/Slice_of_Tart.html
 ---
 
 ## Description

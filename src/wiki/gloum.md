@@ -1,6 +1,6 @@
 ---
 title: Gloum
-permalink: wiki/Gloum
+permalink: wiki/Gloum.html
 layout: wiki
 tags:
  - Gloums| 

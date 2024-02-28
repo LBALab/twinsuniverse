@@ -1,9 +1,9 @@
 ---
 title: Chuette
-permalink: wiki/Chuette
+permalink: wiki/Chuette.html
 layout: wiki
 redirect_from:
- - wiki/Owl
+ - wiki/Owl.html
 ---
 
 **Chuette** is a little yellow mechanical owl that wanders around

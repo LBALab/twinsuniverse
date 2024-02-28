@@ -1,6 +1,6 @@
 ---
 title: Tim
-permalink: wiki/Tim
+permalink: wiki/Tim.html
 layout: wiki
 tags:
  - Citadel Island inhabitants
