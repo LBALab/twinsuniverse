@@ -1,58 +1,37 @@
 <!doctype html>
 <html lang="en" data-bs-theme="dark" class="min-vh-100">
-	<head>
-		<meta charset="utf-8" />
-		<title>Twinuniverse</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<link
-			rel="stylesheet"
-			href="https://magicball.net/assets/css/bundle.css"
-		/>
-		<script async src="https://magicball.net/assets/js/bundle.js"></script>
-		<style>
-			.quote .message {
-				/* Ensure newlines result in new lines */
-				white-space: pre-line;
-			}
-		</style>
-	</head>
 
-	<body class="d-flex flex-column min-vh-100">
-		<header
-			class="navbar navbar-expand-lg sticky-top bg-body-secondary"
-			_style="--bs-bg-opacity: .9;"
-		>
-            <nav class="container">
-                <a class="navbar-brand" href="https://magicball.net">
-                    <picture>
-                        <source
-                            type="image/webp"
-                            srcset="https://magicball.net/assets/logo.webp"
-                        />
-                        <img
-                            src="https://magicball.net/assets/logo.png"
-                            alt="Magicball Network"
-                            height="50"
-                        />
-                    </picture>
-                </a>
-                <button
-                    class="navbar-toggler"
-                    type="button"
-                    data-bs-toggle="collapse"
-                    data-bs-target="#navbarSupportedContent"
-                    aria-controls="navbarSupportedContent"
-                    aria-expanded="false"
-                    aria-label="Toggle navigation"
-                >
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div
-                    class="collapse navbar-collapse"
-                    id="navbarSupportedContent"
-                >
-                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                        <!-- <li class="nav-item text-nowrap">
+<head>
+    <meta charset="utf-8" />
+    <title>Twinuniverse</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="https://magicball.net/assets/css/bundle.css" />
+    <script async src="https://magicball.net/assets/js/bundle.js"></script>
+    <style>
+        .quote .message {
+            /* Ensure newlines result in new lines */
+            white-space: pre-line;
+        }
+    </style>
+</head>
+
+<body class="d-flex flex-column min-vh-100">
+    <header class="navbar navbar-expand-lg sticky-top bg-body-secondary" _style="--bs-bg-opacity: .9;">
+        <nav class="container">
+            <a class="navbar-brand" href="https://magicball.net">
+                <picture>
+                    <source type="image/webp" srcset="https://magicball.net/assets/logo.webp" />
+                    <img src="https://magicball.net/assets/logo.png" alt="Magicball Network" height="50" />
+                </picture>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <!-- <li class="nav-item text-nowrap">
                             <a
                                 class="nav-link icon-link"
                                 href="/"
@@ -68,348 +47,389 @@
                                 Home
                             </a>
                         </li> -->
-                        <li class="nav-item text-nowrap">
-                            <a
-                                class="nav-link icon-link"
-                                href="https://forums.magicball.net"
-                            >
-                                <img
-                                    src="https://magicball.net/assets/talk.png"
-                                    class="nav-icon"
-                                    height="24"
-                                    width="24"
-                                    alt=""
-                                    aria-hidden="true"
-                                />
-                                Forum
+                    <li class="nav-item text-nowrap">
+                        <a class="nav-link icon-link" href="https://forums.magicball.net">
+                            <img src="https://magicball.net/assets/talk.png" class="nav-icon" height="24" width="24"
+                                alt="" aria-hidden="true" />
+                            Forum
+                        </a>
+                    </li>
+                    <li class="nav-item text-nowrap">
+                        <a class="nav-link icon-link" href="https://quotes.magicball.net">
+                            <img src="https://quotes.magicball.net/quotes.9749d889.png" class="nav-icon" height="24"
+                                width="24" alt="" aria-hidden="true" />
+                            Quotes
+                        </a>
+                    </li>
+                    <li class="nav-item text-nowrap">
+                        <a class="nav-link icon-link" href="/">
+                            <img src="wiki/assets/archive/twinsuniverse_logo_2.png" class="nav-icon" height="24"
+                                width="24" alt="" aria-hidden="true" />
+                            Twinsuniverse
+                        </a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link icon-link dropdown-toggle" href="/lba1/" role="button"
+                            data-bs-toggle="dropdown" aria-expanded="false">
+                            <img src="wiki/assets/lba2/_scenery/sign2.gif" class="nav-icon" height="24"
+                                width="24" alt="" aria-hidden="true"> Islands
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a class="dropdown-item" href="">Twinsun</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="">- Citadel Island</a>
+                                <a class="dropdown-item" href="">- Desert Island</a>
+                                <a class="dropdown-item" href="">- Dome of the Slate</a>
+                                <a class="dropdown-item" href="">- Principal Island</a>
+                                <a class="dropdown-item" href="">- Proxima Island</a>
+                                <a class="dropdown-item" href="">- Rebellion Island</a>
+                                <a class="dropdown-item" href="">- Hamalayi Mountains</a>
+                                <a class="dropdown-item" href="">- Brundle Island</a>
+                                <a class="dropdown-item" href="">- Tippett Island</a>
+                                <a class="dropdown-item" href="">- Fortress Island</a>
+                                <a class="dropdown-item" href="">- Polar Island</a>
+                            </li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="">Emerald Moon</a>
+                            </li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="">Zeelich</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="">- Otringal</a>
+                                <a class="dropdown-item" href="">- Island of the Francos</a>
+                                <a class="dropdown-item" href="">- Elevator to the under-gas</a>
+                                <a class="dropdown-item" href="">- Celebration Island</a>
+                                <a class="dropdown-item" href="">- Island CX</a>
+                                <a class="dropdown-item" href="">- Island of the Wannies</a>
+                                <a class="dropdown-item" href="">- Island of the Mosquibees</a>
+                                <a class="dropdown-item" href="">- Volcano Island</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link icon-link dropdown-toggle" href="/lba1/" role="button"
+                            data-bs-toggle="dropdown" aria-expanded="false">
+                            <img src="wiki/assets/archive/twin-cd.gif" class="nav-icon" height="24" width="24" alt=""
+                                aria-hidden="true"> Characters
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a class="dropdown-item" href="">Twinsen</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="">Zoé</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="">Jerome Baldino</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="">Dino-Fly</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="">Joe the Elf</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="">Mies van der Rooh's father</a>
+                            </li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            <li style="padding: 0.25rem 1rem">
+                                Twinsunians
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="">- Quetches</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="">- Rabbibunnies</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="">- Grobos</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="">- Spheros</a>
+                            </li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            <li style="padding: 0.25rem 1rem">
+                                Zeelichians
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="">- Sups</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="">- Francos</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="">- Wannies</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="">- Mosquibees</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link icon-link dropdown-toggle" href="/lba1/" role="button"
+                            data-bs-toggle="dropdown" aria-expanded="false">
+                            <img src="wiki/assets/archive/sendells_medallion.png" class="nav-icon" height="24"
+                                width="24" alt="" aria-hidden="true"> Items
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a class="dropdown-item" href="wiki/Ancestral_Tunic">Ancestral Tunic</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="wiki/Holomap">Holomap</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="wiki/Magic_Ball">Magic Ball</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="wiki/Meca-Penguin">Nitro-Meca-Penguin</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="wiki/Super_Jet-pack">Proto-Pack</a>
+                            </li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            <li style="padding: 0.25rem 1rem">
+                                FunFrock's Reign
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="wiki/Book_of_Bù">- Book of Bù</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="wiki/Flask_of_Clear_Water">- Flask of Clear Water</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="wiki/FunFrock's_Saber">- FunFrock's Saber</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="wiki/Horn_of_Gawley">- Horn of Gawley</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="wiki/Sendell's_Medallion">- Sendell's Medallion</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="wiki/Snowboard">- Snowboard</a>
+                            </li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            <li style="padding: 0.25rem 1rem">
+                                Twinsen's Odyssey
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="wiki/Blowgun">- Blowgun</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="wiki/Empero's_Sword">- Emperor's Sword</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="wiki/Laser-Pistol_of_Zarnon">- Laser-Pistol of Zarnon</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="wiki/Sendell's_Ball">- Sendell's Ball</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="wiki/Wizard's_Diploma">- Wizard's Diploma</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item text-nowrap">
+                        <a class="nav-link icon-link" href="/links/" role="button" data-bs-toggle="dropdown"
+                            aria-expanded="false">
+                            <img src="https://magicball.net/assets/holomap.png" class="nav-icon" height="24" width="24"
+                                alt="" aria-hidden="true"> Links
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <main class="flex-column">
+
+    <div class="container bg-body-tertiary py-4">
+        <div class="row">
+            <div class="col-sm-2 mx-auto d-none d-lg-block" data-pagefind-ignore="">
+                <div style="position:sticky;top:100px">
+                    <ul class="list-group">
+                        <li class="list-group-item list-group-item-action">
+                            <a class="nav-link stretched-link" aria-current="page" href="/">
+                                Bugs
                             </a>
                         </li>
-                        <li class="nav-item text-nowrap">
-                            <a
-                                class="nav-link icon-link"
-                                href="https://quotes.magicball.net"
-                            >
-                                <img
-                                    src="https://quotes.magicball.net/quotes.9749d889.png"
-                                    class="nav-icon"
-                                    height="24"
-                                    width="24"
-                                    alt=""
-                                    aria-hidden="true"
-                                />
-                                Quotes
+                        <li class="list-group-item list-group-item-action">
+                            <a class="nav-link stretched-link" aria-current="page" href="/">
+                                Challenges
                             </a>
                         </li>
-                        <li class="nav-item text-nowrap">
-                            <a
-                                class="nav-link icon-link"
-                                href="/"
-                            >
-                                <img
-                                    src="wiki/assets/archive/twinsuniverse_logo_2.png"
-                                    class="nav-icon"
-                                    height="24"
-                                    width="24"
-                                    alt=""
-                                    aria-hidden="true"
-                                />
-                                Twinsuniverse
+                        <li class="list-group-item list-group-item-action">
+                            <a class="nav-link stretched-link" aria-current="page" href="/">
+                                Characters
                             </a>
                         </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link icon-link dropdown-toggle" href="/lba1/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                <img src="wiki/assets/archive/twinsuniverse_logo_2.png" class="nav-icon" height="24" width="24" alt="" aria-hidden="true"> Islands
+                        <li class="list-group-item list-group-item-action">
+                            <a class="nav-link stretched-link" aria-current="page" href="/">
+                                Enemies
                             </a>
-                            <ul class="dropdown-menu">
-                                <li>
-                                    <a class="dropdown-item" href="">Twinsun</a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="">- Citadel Island</a>
-                                    <a class="dropdown-item" href="">- Desert Island</a>
-                                    <a class="dropdown-item" href="">- Dome of the Slate</a>
-                                    <a class="dropdown-item" href="">- Principal Island</a>
-                                    <a class="dropdown-item" href="">- Proxima Island</a>
-                                    <a class="dropdown-item" href="">- Rebellion Island</a>
-                                    <a class="dropdown-item" href="">- Hamalayi Mountains</a>
-                                    <a class="dropdown-item" href="">- Brundle Island</a>
-                                    <a class="dropdown-item" href="">- Tippett Island</a>
-                                    <a class="dropdown-item" href="">- Fortress Island</a>
-                                    <a class="dropdown-item" href="">- Polar Island</a>
-                                </li>
-                                <li>
-                                    <hr class="dropdown-divider">
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="">Emerald Moon</a>
-                                </li>
-                                <li>
-                                    <hr class="dropdown-divider">
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="">Zeelich</a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="">- Otringal</a>
-                                    <a class="dropdown-item" href="">- Island of the Francos</a>
-                                    <a class="dropdown-item" href="">- Elevator to the under-gas</a>
-                                    <a class="dropdown-item" href="">- Celebration Island</a>
-                                    <a class="dropdown-item" href="">- Island CX</a>
-                                    <a class="dropdown-item" href="">- Island of the Wannies</a>
-                                    <a class="dropdown-item" href="">- Island of the Mosquibees</a>
-                                    <a class="dropdown-item" href="">- Volcano Island</a>
-                                </li>
-                            </ul>
                         </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link icon-link dropdown-toggle" href="/lba1/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                <img src="wiki/assets/archive/twin-cd.gif" class="nav-icon" height="24" width="24" alt="" aria-hidden="true"> Characters
+                        <li class="list-group-item list-group-item-action">
+                            <a class="nav-link stretched-link" aria-current="page" href="/">
+                                Items
                             </a>
-                            <ul class="dropdown-menu">
-                                <li>
-                                    <a class="dropdown-item" href="">Twinsen</a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="">Zoé</a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="">Jerome Baldino</a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="">Dino-Fly</a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="">Joe the Elf</a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="">Mies van der Rooh's father</a>
-                                </li>
-                                <li>
-                                    <hr class="dropdown-divider">
-                                </li>
-                                <li style="padding: 0.25rem 1rem">
-                                    Twinsunians
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="">- Quetches</a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="">- Rabbibunnies</a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="">- Grobos</a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="">- Spheros</a>
-                                </li>
-                                <li>
-                                    <hr class="dropdown-divider">
-                                </li>
-                                <li style="padding: 0.25rem 1rem">
-                                    Zeelichians
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="">- Sups</a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="">- Francos</a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="">- Wannies</a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="">- Mosquibees</a>
-                                </li>
-                            </ul>
                         </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link icon-link dropdown-toggle" href="/lba1/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                <img src="wiki/assets/archive/sendells_medallion.png" class="nav-icon" height="24" width="24" alt="" aria-hidden="true"> Items
+                        <li class="list-group-item list-group-item-action">
+                            <a class="nav-link stretched-link" aria-current="page" href="/">
+                                Locations
                             </a>
-                            <ul class="dropdown-menu">
-                                <li>
-                                    <a class="dropdown-item" href="wiki/Ancestral_Tunic">Ancestral Tunic</a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="wiki/Holomap">Holomap</a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="wiki/Magic_Ball">Magic Ball</a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="wiki/Meca-Penguin">Nitro-Meca-Penguin</a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="wiki/Super_Jet-pack">Proto-Pack</a>
-                                </li>
-                                <li>
-                                    <hr class="dropdown-divider">
-                                </li>
-                                <li style="padding: 0.25rem 1rem">
-                                    FunFrock's Reign
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="wiki/Book_of_Bù">- Book of Bù</a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="wiki/Flask_of_Clear_Water">- Flask of Clear Water</a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="wiki/FunFrock's_Saber">- FunFrock's Saber</a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="wiki/Horn_of_Gawley">- Horn of Gawley</a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="wiki/Sendell's_Medallion">- Sendell's Medallion</a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="wiki/Snowboard">- Snowboard</a>
-                                </li>
-                                <li>
-                                    <hr class="dropdown-divider">
-                                </li>
-                                <li style="padding: 0.25rem 1rem">
-                                    Twinsen's Odyssey
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="wiki/Blowgun">- Blowgun</a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="wiki/Empero's_Sword">- Emperor's Sword</a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="wiki/Laser-Pistol_of_Zarnon">- Laser-Pistol of Zarnon</a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="wiki/Sendell's_Ball">- Sendell's Ball</a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item" href="wiki/Wizard's_Diploma">- Wizard's Diploma</a>
-                                </li>
-                            </ul>
                         </li>
-                        <li class="nav-item text-nowrap">
-                            <a class="nav-link icon-link" href="/links/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                <img src="https://magicball.net/assets/holomap.png" class="nav-icon" height="24" width="24" alt="" aria-hidden="true"> Links
+                        <li class="list-group-item list-group-item-action">
+                            <a class="nav-link stretched-link" aria-current="page" href="/">
+                                Services
+                            </a>
+                        </li>
+                        <li class="list-group-item list-group-item-action">
+                            <a class="nav-link stretched-link" aria-current="page" href="/">
+                                Species
+                            </a>
+                        </li>
+                        <li class="list-group-item list-group-item-action">
+                            <a class="nav-link stretched-link" aria-current="page" href="/">
+                                Stories
+                            </a>
+                        </li>
+                        <li class="list-group-item list-group-item-action">
+                            <a class="nav-link stretched-link" aria-current="page" href="/">
+                                Transports
                             </a>
                         </li>
                     </ul>
                 </div>
-            </nav>
-		</header>
-
-		<main class="flex-column">
-			<div
-				class="container bg-body-secondary p-4 header-bg"
-				style="background-image: url(headerbg.jpg)"
-			>
-				<div class="col-12 mx-auto text-center">
-					<h1 class="no-anchor" data-toc-skip>
-						Welcome to the Twinsuniverse
-					</h1>
-				</div>
-				<div class="row">
-                    <div class="col-lg-5">
-                        <img src="wiki/assets/archive/big_twinsun_with_blurred_atmosphere-cropped.png" class="img-fluid" alt="Twinsuniverse" width="350" style="float:right" />
+            </div>
+            <div class="col-lg-9 mx-auto">
+                <div class="container bg-body-tertiary">
+                    <div class="col-12 mx-auto text-center">
+                        <h1 class="no-anchor" data-toc-skip>
+                            Welcome to the Twinsuniverse
+                        </h1>
                     </div>
-					<div class="col-lg-6 mx-auto my-auto">
-						This is the product of what once started as the LBA compendium project in December 2000, and various other projects developed separately.
-                        <br />
-                        <br />
-                        The goal of this project is to make a complete documentation of the universe around the games and alternate versions of:
-<br />
-- Little Big Adventure 1 (Relentless)
-<br />
-- Little Big Adventure 2 (Twinsen's Oddysey)
-<br />
-- Little Big Adventure 3 (Stellar Entity Genesis)
-<br />
-<br />
-<p>
-    The Twinsuniverse currently contains 246 articles and 990 files. More numbers
-</p>
-					</div>
-				</div>
-			</div>
-
-			<div class="container bg-body-tertiary py-2">
-				<div
-					class="row"
-					style="position: sticky; top: 76px; z-index: 10"
-				>
-                    <h4>Latest News Update</h4>
-				</div>
-				<div class="row" style="z-index: 0">
-					<section>
-                        <div class="card mb-2">
-                            <div class="card-body">
-                                <h5>27th February 2024</h5>
-                                <p>
-                                    As part of an effort to involve all the community to easily update the content of this site, we are releasing a new version with markdown static pages easily editable via git repository.
-                                </p>
-                                <p>
-                                    This is a copy of the latest version of the Twinsuniverse, a work done by Jack McKalling to preserve Encyclopedia Twinsunica which was no longer active.
-                                </p>
-                                <p>
-                                    The indent of this site is to keep all known information about the Little Big Adventure series Universe in one single place.
-                                </p>
-                            </div>
+                    <div class="row">
+                        <div class="col-lg-5">
+                            <img src="wiki/assets/archive/logo.png"
+                                alt="Twinsuniverse" width="350" style="float:right" />
                         </div>
-                        <div class="card mb-2">
-                            <div class="card-body">
-                                <h5>22th October 2012</h5>
-                                <p>
-                                    The Twinsunica now continues as the Twinsuniverse! Thanks to xesf, this new MediaWiki was installed on his server, which thanks to Jack McKalling was setup as the new Twinsunica and completely revamped with modern day standards.
-                                </p>
-                                <p>
-                                    Many content from the Twinsunica was imported and improved, including the metapages and templates.
-                                </p>
-                            </div>
+                        <div class="col-lg-6 mx-auto my-auto">
+                            This is the product of what once started as the LBA compendium project in December 2000, and various
+                            other projects developed separately.
+                            <br />
+                            <br />
+                            The goal of this project is to make a complete documentation of the universe around the games and
+                            alternate versions of:
+                            <br />
+                            - Little Big Adventure 1 (Relentless)
+                            <br />
+                            - Little Big Adventure 2 (Twinsen's Oddysey)
+                            <br />
+                            - Little Big Adventure 3 (Stellar Entity Genesis)
+                            <br />
+                            <br />
+                            <p>
+                                The Twinsuniverse currently contains 246 articles and 990 files. More numbers
+                            </p>
                         </div>
-                        <div class="card mb-2">
-                            <div class="card-body">
-                                <h5>3rd July 2008</h5>
-                                <p>
-                                    A new front page has been designed by Torch, and a post about it has been submitted to the MBN Forums. Thanks to Wacko and Homeless for the image!
-                                </p>
-                                <p>
-                                    Various LBA-related happenings have occoured, including progress on the LBA: Prequel and LBA: The Great Rebellion projects.
-                                </p>
+                    </div>
+                </div>
+
+                <div class="container bg-body-tertiary py-2">
+                    <div class="row" style="position: sticky; top: 76px; z-index: 10">
+                        <h4>Latest News Update</h4>
+                    </div>
+                    <div class="row" style="z-index: 0">
+                        <section>
+                            <div class="card mb-2">
+                                <div class="card-body">
+                                    <h5>27th February 2024</h5>
+                                    <p>
+                                        As part of an effort to involve all the community to easily update the content of this
+                                        site, we are releasing a new version with markdown static pages easily editable via git
+                                        repository.
+                                    </p>
+                                    <p>
+                                        This is a copy of the latest version of the Twinsuniverse, a work done by Jack McKalling
+                                        to preserve Encyclopedia Twinsunica which was no longer active.
+                                    </p>
+                                    <p>
+                                        The indent of this site is to keep all known information about the Little Big Adventure
+                                        series Universe in one single place.
+                                    </p>
+                                </div>
                             </div>
-                        </div>
-                    </section>
-				</div>
-			</div>
-		</main>
+                            <div class="card mb-2">
+                                <div class="card-body">
+                                    <h5>22th October 2012</h5>
+                                    <p>
+                                        The Twinsunica now continues as the Twinsuniverse! Thanks to xesf, this new MediaWiki
+                                        was installed on his server, which thanks to Jack McKalling was setup as the new
+                                        Twinsunica and completely revamped with modern day standards.
+                                    </p>
+                                    <p>
+                                        Many content from the Twinsunica was imported and improved, including the metapages and
+                                        templates.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="card mb-2">
+                                <div class="card-body">
+                                    <h5>3rd July 2008</h5>
+                                    <p>
+                                        A new front page has been designed by Torch, and a post about it has been submitted to
+                                        the MBN Forums. Thanks to Wacko and Homeless for the image!
+                                    </p>
+                                    <p>
+                                        Various LBA-related happenings have occoured, including progress on the LBA: Prequel and
+                                        LBA: The Great Rebellion projects.
+                                    </p>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
 
-		<div class="footer mt-auto bg-body-secondary">
-			<footer
-				class="container d-flex flex-wrap justify-content-between align-items-center pt-3"
-			>
-				<p class="col-md-4">
-					Service provided by
-					<a href="https://magicball.net">Magicball Network</a>
-				</p>
+    <div class="footer mt-auto bg-body-secondary">
+        <footer class="container d-flex flex-wrap justify-content-between align-items-center pt-3">
+            <p class="col-md-4">
+                Service provided by
+                <a href="https://magicball.net">Magicball Network</a>
+            </p>
 
-				<a
-					href="/"
-					class="col-md-4 d-flex align-items-center justify-content-center mb-3 mb-md-0 me-md-auto text-decoration-none"
-				>
-					<img
-						src="https://magicball.net/assets/favicon-32.png"
-						alt="Home"
-					/>
-				</a>
+            <a href="/"
+                class="col-md-4 d-flex align-items-center justify-content-center mb-3 mb-md-0 me-md-auto text-decoration-none">
+                <img src="https://magicball.net/assets/favicon-32.png" alt="Home" />
+            </a>
 
-				<p class="col-md-4 text-end">
-					Project hosted on
-					<a href="https://github.com/lbalab/Twinuniverse"
-						>Github</a
-					>
-				</p>
-			</footer>
-		</div>
+            <p class="col-md-4 text-end">
+                Project hosted on
+                <a href="https://github.com/lbalab/Twinuniverse">Github</a>
+            </p>
+        </footer>
+    </div>
 
-	</body>
+</body>
+
 </html>
